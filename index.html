@@ -1,0 +1,506 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Product Tracker Bot — Monitore preços no Telegram</title>
+<meta name="description" content="Monitore preços de produtos do Mercado Livre e Amazon diretamente pelo Telegram. Receba alertas automáticos quando o preço cair.">
+<style>
+:root {
+  --blue: #0088cc;
+  --blue-dark: #006699;
+  --blue-light: #e8f4fd;
+  --bg: #f8f9fa;
+  --text: #1a1a2e;
+  --text-light: #6c757d;
+  --white: #ffffff;
+  --shadow: 0 4px 24px rgba(0,0,0,0.08);
+  --radius: 12px;
+  --max-width: 1100px;
+}
+* { margin: 0; padding: 0; box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.6;
+}
+a { color: var(--blue); text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+/* Hero */
+.hero {
+  position: relative;
+  min-height: 85vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: var(--white);
+  overflow: hidden;
+}
+.hero-bg {
+  position: absolute;
+  inset: 0;
+  background: url('assets/hero-bg.png') center center / cover no-repeat;
+  filter: brightness(0.35) saturate(0.8);
+  z-index: 0;
+}
+.hero-overlay {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(135deg, rgba(0,30,60,0.6) 0%, rgba(0,60,100,0.3) 100%);
+  z-index: 1;
+}
+.hero-content {
+  position: relative;
+  z-index: 2;
+  padding: 2rem;
+  max-width: 700px;
+}
+.hero-icon {
+  font-size: 3.5rem;
+  margin-bottom: 1rem;
+  display: block;
+}
+.hero h1 {
+  font-size: clamp(2rem, 5vw, 3.2rem);
+  font-weight: 800;
+  margin-bottom: 0.75rem;
+  letter-spacing: -0.02em;
+}
+.hero p {
+  font-size: clamp(1rem, 2vw, 1.25rem);
+  opacity: 0.92;
+  margin-bottom: 2rem;
+  max-width: 550px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.btn {
+  display: inline-block;
+  background: var(--blue);
+  color: var(--white);
+  padding: 1rem 2.5rem;
+  border-radius: 50px;
+  font-size: 1.1rem;
+  font-weight: 700;
+  transition: background 0.2s, transform 0.15s;
+  border: none;
+  cursor: pointer;
+}
+.btn:hover {
+  background: var(--blue-dark);
+  transform: scale(1.04);
+  text-decoration: none;
+  color: var(--white);
+}
+.btn-lg { padding: 1.1rem 3rem; font-size: 1.2rem; }
+
+/* Sections */
+section { padding: 5rem 1.5rem; }
+.section-title {
+  text-align: center;
+  font-size: clamp(1.5rem, 3vw, 2rem);
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+}
+.section-sub {
+  text-align: center;
+  color: var(--text-light);
+  max-width: 600px;
+  margin: 0 auto 3rem;
+  font-size: 1.05rem;
+}
+.container { max-width: var(--max-width); margin: 0 auto; }
+
+/* How it works */
+.steps {
+  display: flex;
+  gap: 2rem;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.step {
+  background: var(--white);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: 2rem 1.5rem;
+  flex: 1 1 200px;
+  max-width: 280px;
+  text-align: center;
+  transition: transform 0.2s;
+}
+.step:hover { transform: translateY(-4px); }
+.step-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 64px;
+  height: 64px;
+  border-radius: 50%;
+  background: var(--blue-light);
+  font-size: 1.8rem;
+  margin-bottom: 1rem;
+}
+.step h3 { font-size: 1.1rem; margin-bottom: 0.5rem; }
+.step p { font-size: 0.95rem; color: var(--text-light); }
+
+/* Features */
+.features-grid {
+  display: flex;
+  gap: 1.25rem;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.feature-card {
+  background: var(--white);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: 1.5rem 1.25rem;
+  flex: 1 1 160px;
+  max-width: 220px;
+  text-align: center;
+  transition: transform 0.2s;
+}
+.feature-card:hover { transform: translateY(-3px); }
+.feature-icon { font-size: 2rem; margin-bottom: 0.5rem; display: block; }
+.feature-card h4 { font-size: 0.95rem; margin-bottom: 0.3rem; }
+.feature-card p { font-size: 0.85rem; color: var(--text-light); }
+
+/* Mockup Telegram */
+.mockup-section { background: var(--white); }
+.mockup-phone {
+  max-width: 400px;
+  margin: 2rem auto 0;
+  background: #f0f0f0;
+  border-radius: 28px;
+  padding: 12px;
+  box-shadow: 0 8px 40px rgba(0,0,0,0.12);
+}
+.mockup-screen {
+  background: var(--white);
+  border-radius: 20px;
+  overflow: hidden;
+}
+
+/* Chat header */
+.chat-header {
+  background: var(--blue);
+  color: var(--white);
+  padding: 12px 16px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-weight: 600;
+  font-size: 0.95rem;
+}
+.chat-avatar {
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  background: rgba(255,255,255,0.2);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.1rem;
+  flex-shrink: 0;
+}
+
+/* Chat messages */
+.chat-body {
+  padding: 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  min-height: 420px;
+  background: #e6e6e6;
+  background-image: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23d4d4d4' fill-opacity='0.4'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+}
+.msg-row { display: flex; }
+.msg-row.user { justify-content: flex-end; }
+.msg-row.bot { justify-content: flex-start; }
+
+.msg {
+  max-width: 82%;
+  padding: 10px 14px;
+  border-radius: 18px;
+  font-size: 0.9rem;
+  line-height: 1.45;
+  word-wrap: break-word;
+  box-shadow: 0 1px 2px rgba(0,0,0,0.08);
+  position: relative;
+}
+.msg.user {
+  background: var(--blue);
+  color: var(--white);
+  border-bottom-right-radius: 4px;
+}
+.msg.bot {
+  background: var(--white);
+  color: var(--text);
+  border-bottom-left-radius: 4px;
+}
+.msg.bot .msg-meta {
+  font-size: 0.7rem;
+  color: var(--text-light);
+  margin-top: 4px;
+  display: block;
+}
+.msg .emoji { font-style: normal; }
+.msg .bold { font-weight: 700; }
+.msg .price-down { color: #e53935; font-weight: 700; }
+.msg .price-up { color: #43a047; font-weight: 700; }
+
+.msg-buttons {
+  display: flex;
+  gap: 6px;
+  margin-top: 8px;
+  flex-wrap: wrap;
+}
+.msg-btn {
+  padding: 5px 14px;
+  border-radius: 20px;
+  font-size: 0.8rem;
+  font-weight: 600;
+  border: 1.5px solid var(--blue);
+  background: transparent;
+  color: var(--blue);
+  cursor: default;
+}
+.msg-btn.primary {
+  background: var(--blue);
+  color: var(--white);
+}
+
+.msg-time {
+  font-size: 0.65rem;
+  color: #999;
+  margin-top: 2px;
+  text-align: right;
+}
+.msg.user .msg-time { color: rgba(255,255,255,0.7); }
+
+/* Steps indicator in mockup */
+.step-dot {
+  display: inline-block;
+  width: 6px; height: 6px;
+  border-radius: 50%;
+  background: var(--blue);
+  margin: 0 2px;
+  vertical-align: middle;
+}
+
+/* CTA final */
+.cta-section {
+  text-align: center;
+  background: linear-gradient(135deg, var(--blue) 0%, #006699 100%);
+  color: var(--white);
+  padding: 5rem 1.5rem;
+}
+.cta-section h2 {
+  font-size: clamp(1.5rem, 3vw, 2rem);
+  margin-bottom: 0.75rem;
+}
+.cta-section p {
+  font-size: 1.05rem;
+  opacity: 0.9;
+  margin-bottom: 2rem;
+  max-width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.cta-section .btn {
+  background: var(--white);
+  color: var(--blue);
+}
+.cta-section .btn:hover { background: #f0f0f0; color: var(--blue-dark); }
+
+/* Footer */
+footer {
+  text-align: center;
+  padding: 2rem 1.5rem;
+  font-size: 0.85rem;
+  color: var(--text-light);
+}
+footer a { color: var(--text-light); text-decoration: underline; }
+
+/* Responsive */
+@media (max-width: 600px) {
+  section { padding: 3rem 1rem; }
+  .step, .feature-card { flex: 1 1 100%; max-width: 100%; }
+  .mockup-phone { max-width: 100%; border-radius: 16px; padding: 8px; }
+  .chat-body { min-height: 360px; padding: 8px; }
+  .msg { max-width: 88%; font-size: 0.85rem; }
+}
+</style>
+</head>
+<body>
+
+<!-- Hero -->
+<section class="hero">
+  <div class="hero-bg"></div>
+  <div class="hero-overlay"></div>
+  <div class="hero-content">
+    <span class="hero-icon">📦</span>
+    <h1>Product Tracker Bot</h1>
+    <p>Monitore preços no Mercado Livre e Amazon diretamente pelo Telegram. Receba alertas automáticos quando o valor mudar.</p>
+    <a href="https://t.me/MyProductTrackerBot" class="btn btn-lg" target="_blank" rel="noopener">👉 Usar no Telegram</a>
+  </div>
+</section>
+
+<!-- How it works -->
+<section>
+  <div class="container">
+    <h2 class="section-title">Como funciona</h2>
+    <p class="section-sub">Em apenas 3 passos você começa a monitorar seus produtos favoritos.</p>
+    <div class="steps">
+      <div class="step">
+        <span class="step-icon">🔗</span>
+        <h3>Envie o link</h3>
+        <p>Cole o link de qualquer produto do Mercado Livre ou Amazon no chat do bot.</p>
+      </div>
+      <div class="step">
+        <span class="step-icon">🤖</span>
+        <h3>Monitoramos</h3>
+        <p>O bot extrai o título e preço, salva e começa a acompanhar diariamente.</p>
+      </div>
+      <div class="step">
+        <span class="step-icon">🔔</span>
+        <h3>Receba alertas</h3>
+        <p>Quando o preço mudar, você recebe uma notificação automática no Telegram.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Features -->
+<section style="background: var(--white);">
+  <div class="container">
+    <h2 class="section-title">Funcionalidades</h2>
+    <p class="section-sub">Tudo que você precisa para economizar nas compras online.</p>
+    <div class="features-grid">
+      <div class="feature-card">
+        <span class="feature-icon">🛒</span>
+        <h4>ML + Amazon</h4>
+        <p>Monitora produtos das duas maiores lojas do Brasil.</p>
+      </div>
+      <div class="feature-card">
+        <span class="feature-icon">🔎</span>
+        <h4>Cross Match</h4>
+        <p>Encontra automaticamente o mesmo produto na outra loja.</p>
+      </div>
+      <div class="feature-card">
+        <span class="feature-icon">📉</span>
+        <h4>Alertas de Preço</h4>
+        <p>Notificação com valor antigo, novo e variação percentual.</p>
+      </div>
+      <div class="feature-card">
+        <span class="feature-icon">📋</span>
+        <h4>Lista Completa</h4>
+        <p>Veja todos os produtos monitorados com <code>/list</code>.</p>
+      </div>
+      <div class="feature-card">
+        <span class="feature-icon">💸</span>
+        <h4>Links de Afiliado</h4>
+        <p>Ajude o projeto sem pagar nada extra — sem custo para você.</p>
+      </div>
+      <div class="feature-card">
+        <span class="feature-icon">✅</span>
+        <h4>100% Grátis</h4>
+        <p>Sem taxas, sem assinatura. Use à vontade.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Mockup -->
+<section class="mockup-section">
+  <div class="container">
+    <h2 class="section-title">Veja como é na prática</h2>
+    <p class="section-sub">O bot é simples e direto. Mande um link e pronto.</p>
+
+    <div class="mockup-phone">
+      <div class="mockup-screen">
+        <div class="chat-header">
+          <span class="chat-avatar">🤖</span>
+          <span>Product Tracker Bot</span>
+        </div>
+        <div class="chat-body">
+
+          <!-- 1. User sends link -->
+          <div class="msg-row user">
+            <div class="msg">
+              https://www.mercadolivre.com.br/...
+              <div class="msg-time">14:32</div>
+            </div>
+          </div>
+
+          <!-- 2. Bot reply: scraping -->
+          <div class="msg-row bot">
+            <div class="msg">
+              🔍 Buscando dados do produto no Mercado Livre...
+              <span class="msg-meta">14:32</span>
+            </div>
+          </div>
+
+          <!-- 3. Bot reply: tracking confirmed -->
+          <div class="msg-row bot">
+            <div class="msg">
+              ✅ Agora monitorando: <span class="bold">Fone Gamer Redragon Zeus</span><br>
+              Preço inicial: <span class="bold">R$ 168,37</span><br><br>
+              Vou te avisar quando o preço mudar.
+              <div class="msg-time">14:33</div>
+            </div>
+          </div>
+
+          <!-- 4. Bot: cross-platform match found -->
+          <div class="msg-row bot">
+            <div class="msg">
+              🔎 Encontrei este produto também na <span class="bold">Amazon</span>:<br><br>
+              <span class="bold">Fone Gamer Redragon Zeus White</span><br>
+              Preço: <span class="bold">R$ 199,90</span><br><br>
+              Quer monitorar também na Amazon?
+              <div class="msg-buttons">
+                <span class="msg-btn primary">✅ Sim</span>
+                <span class="msg-btn">❌ Não</span>
+              </div>
+              <div class="msg-time">14:33</div>
+            </div>
+          </div>
+
+          <!-- 5. Bot: price alert (days later) -->
+          <div class="msg-row bot">
+            <div class="msg">
+              <span class="emoji">📉</span> <span class="price-down">Diminuiu</span> — <span class="bold">Fone Gamer Redragon Zeus</span><br><br>
+              Era: <span class="bold">R$ 168,37</span><br>
+              Agora: <span class="bold price-down">R$ 149,99</span> <span class="price-down">(-10,9%)</span><br><br>
+              <a href="#" style="color:var(--blue);font-size:0.85rem;">🔗 Ver produto</a>
+              <div class="msg-time">08:15</div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- CTA Final -->
+<section class="cta-section">
+  <div class="container">
+    <h2>Pronto para economizar?</h2>
+    <p>Comece a monitorar seus produtos favoritos agora mesmo. É gratuito e leva segundos.</p>
+    <a href="https://t.me/MyProductTrackerBot" class="btn btn-lg" target="_blank" rel="noopener">👉 Usar no Telegram</a>
+  </div>
+</section>
+
+<footer>
+  <p>Product Tracker Bot · <a href="https://t.me/MyProductTrackerBot" target="_blank" rel="noopener">@MyProductTrackerBot</a></p>
+  <p style="margin-top:0.3rem;font-size:0.75rem;">Mercado Livre e Amazon são marcas registradas de seus respectivos proprietários.</p>
+</footer>
+
+</body>
+</html>

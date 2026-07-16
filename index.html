@@ -20,6 +20,24 @@
 <meta name="twitter:title" content="Product Tracker Bot — Monitore preços no Telegram">
 <meta name="twitter:description" content="Monitore preços no Mercado Livre e Amazon pelo Telegram. Receba alertas automáticos quando o valor mudar.">
 <meta name="twitter:image" content="https://lucasbaap.github.io/ProductTrackerLanding/assets/hero-bg.png">
+
+<!-- Schema.org -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Product Tracker Bot",
+  "operatingSystem": "Telegram",
+  "applicationCategory": "UtilitiesApplication",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "BRL"
+  },
+  "description": "Monitore preços no Mercado Livre e Amazon pelo Telegram. Receba alertas automáticos quando o valor mudar."
+}
+</script>
+
 <style>
 :root {
   --blue: #0088cc;
@@ -376,17 +394,47 @@ footer a { color: var(--text-light); text-decoration: underline; }
       <div class="step">
         <span class="step-icon">🔗</span>
         <h3>Envie o link</h3>
-        <p>Cole o link de qualquer produto do Mercado Livre ou Amazon no chat do bot.</p>
+        <p>Cole o link de qualquer produto do Mercado Livre ou Amazon no chat do bot. O bot aceita links de qualquer formato — curtos, longos, com ou sem parâmetros.</p>
       </div>
       <div class="step">
         <span class="step-icon">🤖</span>
         <h3>Monitoramos</h3>
-        <p>O bot extrai o título e preço, salva e começa a acompanhar diariamente.</p>
+        <p>O bot extrai o título e preço, salva no sistema e começa a acompanhar diariamente. Você também pode definir um preço alvo para receber alertas mais específicos.</p>
       </div>
       <div class="step">
         <span class="step-icon">🔔</span>
         <h3>Receba alertas</h3>
-        <p>Quando o preço mudar, você recebe uma notificação automática no Telegram.</p>
+        <p>Quando o preço mudar, você recebe uma notificação automática no Telegram com o valor antigo, novo e a variação percentual.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Why use -->
+<section style="background: var(--white);">
+  <div class="container">
+    <h2 class="section-title">Por que usar o Product Tracker Bot?</h2>
+    <p class="section-sub">Em vez de participar de grupos de promoções que floodam seu Telegram com ofertas que não te interessam, o Product Tracker Bot coloca você no controle.</p>
+    <div class="steps">
+      <div class="step">
+        <span class="step-icon">✅</span>
+        <h3>Você escolhe o produto</h3>
+        <p>Não receba spam de coisas que não quer. Adicione apenas o que realmente te interessa.</p>
+      </div>
+      <div class="step">
+        <span class="step-icon">🎯</span>
+        <h3>Você define o preço</h3>
+        <p>Seja notificado apenas quando o preço baixar para o valor que você definiu.</p>
+      </div>
+      <div class="step">
+        <span class="step-icon">🔒</span>
+        <h3>Sem grupos lotados</h3>
+        <p>Tudo direto no seu chat privado, sem noise e sem distrações.</p>
+      </div>
+      <div class="step">
+        <span class="step-icon">⏰</span>
+        <h3>Sem pressa</h3>
+        <p>Compre quando o preço baixar. É como ter um assistente pessoal que vigia o preço pra você.</p>
       </div>
     </div>
   </div>
@@ -499,6 +547,36 @@ footer a { color: var(--text-light); text-decoration: underline; }
           </div>
 
         </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- FAQ -->
+<section>
+  <div class="container">
+    <h2 class="section-title">Perguntas Frequentes</h2>
+    <p class="section-sub">Tire suas dúvidas sobre o Product Tracker Bot.</p>
+    <div class="features-grid" style="max-width: 800px; margin: 0 auto;">
+      <div class="feature-card" style="max-width: 100%; text-align: left; padding: 2rem;">
+        <h4>É realmente grátis?</h4>
+        <p>Sim! O Product Tracker Bot é 100% gratuito. Não há taxas, assinaturas ou custos ocultos.</p>
+      </div>
+      <div class="feature-card" style="max-width: 100%; text-align: left; padding: 2rem;">
+        <h4>Como o bot monitora os preços?</h4>
+        <p>O bot verifica periodicamente os preços dos produtos que você adicionou. Quando há uma alteração, ele envia uma notificação no Telegram.</p>
+      </div>
+      <div class="feature-card" style="max-width: 100%; text-align: left; padding: 2rem;">
+        <h4>Posso monitorar produtos de outras lojas?</h4>
+        <p>Atualmente o bot suporta Mercado Livre e Amazon. Estamos trabalhando para adicionar mais lojas no futuro.</p>
+      </div>
+      <div class="feature-card" style="max-width: 100%; text-align: left; padding: 2rem;">
+        <h4>Como funcionam os links de afiliado?</h4>
+        <p>Quando você compra usando os links do bot, o vendedor paga uma pequena comissão para o projeto. Isso não aumenta o preço para você.</p>
+      </div>
+      <div class="feature-card" style="max-width: 100%; text-align: left; padding: 2rem;">
+        <h4>Posso monitorar quantos produtos quiser?</h4>
+        <p>Sim! Não há limite de produtos monitorados.</p>
       </div>
     </div>
   </div>

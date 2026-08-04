@@ -40,368 +40,409 @@
 
 <style>
 :root {
-  --blue: #0088cc;
-  --blue-dark: #006699;
-  --blue-light: #e8f4fd;
-  --bg: #f8f9fa;
-  --text: #1a1a2e;
-  --text-light: #6c757d;
-  --white: #ffffff;
-  --shadow: 0 4px 24px rgba(0,0,0,0.08);
-  --radius: 12px;
+  --bg: #0f1729; --card: #172033; --border: #1e2c42; --text: #e2e8f0;
+  --muted: #6b7d95; --accent: #3b82f6; --green: #22c55e; --red: #ef4444;
+  --green-bg: rgba(34, 197, 94, 0.08); --red-bg: rgba(239, 68, 68, 0.08);
+  --accent-bg: rgba(59, 130, 246, 0.12);
+  --bg-alt: #111a2e;
+  --radius: 14px; --radius-sm: 10px;
   --max-width: 1100px;
+  --shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
 }
 * { margin: 0; padding: 0; box-sizing: border-box; }
 html { scroll-behavior: smooth; }
 body {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "Segoe UI", Roboto, sans-serif;
   background: var(--bg);
   color: var(--text);
   line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+  letter-spacing: -0.01em;
 }
-a { color: var(--blue); text-decoration: none; }
+::selection { background: rgba(59, 130, 246, 0.3); }
+a { color: var(--accent); text-decoration: none; }
 a:hover { text-decoration: underline; }
 
-/* Hero */
-.hero {
-  position: relative;
-  min-height: 45vh;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  text-align: center;
-  color: var(--white);
-  overflow: hidden;
+/* ── Header ─────────────────────────────────────────────── */
+.site-header {
+  position: sticky; top: 0; z-index: 60;
+  background: rgba(15, 23, 41, 0.85);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border-bottom: 1px solid var(--border);
 }
-.hero-bg {
-  position: absolute;
-  inset: 0;
-  background: url('assets/hero-bg.png') center center / cover no-repeat;
-  filter: brightness(0.35) saturate(0.8);
-  z-index: 0;
+.header-inner {
+  display: flex; align-items: center; justify-content: space-between; gap: 1rem;
+  max-width: var(--max-width); margin: 0 auto; padding: 0.7rem 1.5rem;
 }
-.hero-overlay {
-  position: absolute;
-  inset: 0;
-  background: linear-gradient(135deg, rgba(0,30,60,0.6) 0%, rgba(0,60,100,0.3) 100%);
-  z-index: 1;
+.logo {
+  display: flex; align-items: center; gap: 0.5rem;
+  font-weight: 700; font-size: 1rem; color: var(--text); letter-spacing: -0.02em;
 }
-.hero-content {
-  position: relative;
-  z-index: 2;
-  padding: 2rem;
-  max-width: 700px;
-}
-.hero-icon {
-  font-size: 3.5rem;
-  margin-bottom: 1rem;
-  display: block;
-}
-.hero h1 {
-  font-size: clamp(2rem, 5vw, 3.2rem);
-  font-weight: 800;
-  margin-bottom: 0.75rem;
-  letter-spacing: -0.02em;
-}
-.hero p {
-  font-size: clamp(1rem, 2vw, 1.25rem);
-  opacity: 0.92;
-  margin-bottom: 2rem;
-  max-width: 550px;
-  margin-left: auto;
-  margin-right: auto;
+.logo:hover { text-decoration: none; color: var(--text); }
+.logo-icon {
+  width: 32px; height: 32px; border-radius: var(--radius-sm);
+  background: var(--accent-bg); border: 1px solid var(--border);
+  display: flex; align-items: center; justify-content: center; font-size: 1rem;
 }
 
+/* ── Buttons / CTA ──────────────────────────────────────── */
 .btn {
-  display: inline-block;
-  background: var(--blue);
-  color: var(--white);
-  padding: 1rem 2.5rem;
-  border-radius: 50px;
-  font-size: 1.1rem;
-  font-weight: 700;
-  transition: background 0.2s, transform 0.15s;
-  border: none;
-  cursor: pointer;
+  display: inline-flex; align-items: center; justify-content: center; gap: 0.5rem;
+  background: var(--accent); color: #fff;
+  padding: 1rem 2.5rem; border-radius: 50px; font-size: 1.05rem; font-weight: 700;
+  border: none; cursor: pointer; transition: all 0.15s;
+  box-shadow: 0 6px 24px rgba(59, 130, 246, 0.35);
 }
 .btn:hover {
-  background: var(--blue-dark);
-  transform: scale(1.04);
-  text-decoration: none;
-  color: var(--white);
+  background: #4f8df8; color: #fff; text-decoration: none;
+  transform: translateY(-2px);
+  box-shadow: 0 10px 28px rgba(59, 130, 246, 0.4);
 }
-.btn-lg { padding: 1.1rem 3rem; font-size: 1.2rem; }
+.btn:active { transform: scale(0.97); opacity: 0.85; }
+.btn-lg { padding: 1.1rem 3rem; font-size: 1.15rem; }
+.btn-sm { padding: 0.55rem 1.15rem; font-size: 0.85rem; box-shadow: none; }
+.btn-light { background: #fff; color: var(--accent); box-shadow: 0 6px 24px rgba(0, 0, 0, 0.25); }
+.btn-light:hover { background: #f1f5f9; color: #2563eb; }
 
-/* Sections */
+/* ── Sections ───────────────────────────────────────────── */
 section { padding: 5rem 1.5rem; }
+.alt { background: var(--bg-alt); }
+.container { max-width: var(--max-width); margin: 0 auto; }
 .section-title {
   text-align: center;
   font-size: clamp(1.5rem, 3vw, 2rem);
-  font-weight: 700;
+  font-weight: 800; letter-spacing: -0.02em;
   margin-bottom: 0.5rem;
 }
 .section-sub {
-  text-align: center;
-  color: var(--text-light);
-  max-width: 600px;
-  margin: 0 auto 3rem;
-  font-size: 1.05rem;
+  text-align: center; color: var(--muted);
+  max-width: 640px; margin: 0 auto 3rem; font-size: 1.05rem;
 }
-.container { max-width: var(--max-width); margin: 0 auto; }
 
-/* How it works */
+/* ── Hero ───────────────────────────────────────────────── */
+.hero {
+  position: relative;
+  min-height: 52vh;
+  display: flex; align-items: center; justify-content: center;
+  text-align: center; overflow: hidden;
+  padding: 4rem 1.5rem;
+}
+.hero-bg {
+  position: absolute; inset: 0;
+  background: url('assets/hero-bg.png') center center / cover no-repeat;
+  opacity: 0.28; filter: saturate(0.9);
+  z-index: 0;
+}
+.hero-overlay {
+  position: absolute; inset: 0;
+  background: linear-gradient(180deg, rgba(15, 23, 41, 0.55) 0%, rgba(15, 23, 41, 0.88) 55%, var(--bg) 100%);
+  z-index: 1;
+}
+.hero-glow {
+  position: absolute; inset: 0;
+  background: radial-gradient(ellipse 60% 45% at 50% 36%, rgba(59, 130, 246, 0.16) 0%, transparent 70%);
+  z-index: 1;
+}
+.hero-content { position: relative; z-index: 2; max-width: 720px; }
+.hero-badge {
+  display: inline-flex; align-items: center; gap: 6px;
+  padding: 6px 14px; border-radius: 20px;
+  background: var(--accent-bg); border: 1px solid rgba(59, 130, 246, 0.35);
+  color: var(--accent); font-size: 0.78rem; font-weight: 700;
+  letter-spacing: 0.04em; text-transform: uppercase;
+  margin-bottom: 1.25rem;
+}
+.hero-badge i {
+  width: 6px; height: 6px; border-radius: 50%; background: var(--green);
+  box-shadow: 0 0 8px rgba(34, 197, 94, 0.8);
+}
+.hero h1 {
+  font-size: clamp(2rem, 5vw, 3.2rem);
+  font-weight: 800; letter-spacing: -0.03em;
+  margin-bottom: 0.75rem;
+}
+.hero p {
+  font-size: clamp(1rem, 2vw, 1.2rem);
+  color: var(--muted);
+  max-width: 600px; margin: 0 auto 1.5rem;
+}
+.store-chips {
+  display: flex; flex-wrap: wrap; gap: 0.5rem;
+  justify-content: center; margin-bottom: 2rem;
+}
+.chip {
+  display: inline-flex; align-items: center; gap: 7px;
+  padding: 6px 13px; border-radius: 20px;
+  background: var(--card); border: 1px solid var(--border);
+  font-size: 0.78rem; font-weight: 600; color: var(--text);
+  transition: all 0.15s;
+}
+.chip:hover { border-color: var(--accent); transform: translateY(-1px); text-decoration: none; }
+.chip i { width: 8px; height: 8px; border-radius: 50%; flex-shrink: 0; }
+.chip-ml i { background: #ffd700; }
+.chip-am i { background: #ff8c00; }
+.chip-sh i { background: #ff4d2d; }
+.chip-ae i { background: #e3312b; }
+.chip-kb i { background: #1a73e8; }
+
+/* ── Steps (Como funciona / Por que usar) ───────────────── */
 .steps {
-  display: flex;
-  gap: 2rem;
-  justify-content: center;
-  flex-wrap: wrap;
+  display: flex; gap: 1.25rem; justify-content: center; flex-wrap: wrap;
 }
 .step {
-  background: var(--white);
-  border-radius: var(--radius);
-  box-shadow: var(--shadow);
-  padding: 2rem 1.5rem;
-  flex: 1 1 200px;
-  max-width: 280px;
-  text-align: center;
-  transition: transform 0.2s;
+  position: relative;
+  background: var(--card); border: 1px solid var(--border);
+  border-radius: var(--radius); padding: 2rem 1.5rem;
+  flex: 1 1 220px; max-width: 280px; text-align: center;
+  box-shadow: var(--shadow); transition: all 0.15s;
 }
-.step:hover { transform: translateY(-4px); }
+.step:hover { transform: translateY(-4px); border-color: rgba(59, 130, 246, 0.4); }
+.step:active { opacity: 0.8; }
+.step-num {
+  position: absolute; top: 14px; right: 16px;
+  font-size: 0.7rem; font-weight: 800; color: var(--muted); opacity: 0.5;
+  letter-spacing: 0.05em;
+}
 .step-icon {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  width: 64px;
-  height: 64px;
-  border-radius: 50%;
-  background: var(--blue-light);
-  font-size: 1.8rem;
-  margin-bottom: 1rem;
+  display: inline-flex; align-items: center; justify-content: center;
+  width: 56px; height: 56px; border-radius: var(--radius-sm);
+  background: var(--accent-bg); border: 1px solid rgba(59, 130, 246, 0.25);
+  font-size: 1.5rem; margin-bottom: 1rem;
 }
-.step h3 { font-size: 1.1rem; margin-bottom: 0.5rem; }
-.step p { font-size: 0.95rem; color: var(--text-light); }
+.step h3 { font-size: 1.05rem; margin-bottom: 0.5rem; letter-spacing: -0.01em; }
+.step p { font-size: 0.92rem; color: var(--muted); }
 
-/* Features */
+/* ── Features ───────────────────────────────────────────── */
 .features-grid {
-  display: flex;
-  gap: 1.25rem;
-  justify-content: center;
-  flex-wrap: wrap;
+  display: flex; gap: 1.25rem; justify-content: center; flex-wrap: wrap;
 }
 .feature-card {
-  background: var(--white);
-  border-radius: var(--radius);
-  box-shadow: var(--shadow);
-  padding: 1.5rem 1.25rem;
-  flex: 1 1 160px;
-  max-width: 220px;
-  text-align: center;
-  transition: transform 0.2s;
+  background: var(--card); border: 1px solid var(--border);
+  border-radius: var(--radius); padding: 1.5rem 1.25rem;
+  flex: 1 1 170px; max-width: 215px; text-align: center;
+  box-shadow: var(--shadow); transition: all 0.15s;
 }
-.feature-card:hover { transform: translateY(-3px); }
-.feature-icon { font-size: 2rem; margin-bottom: 0.5rem; display: block; }
-.feature-card h4 { font-size: 0.95rem; margin-bottom: 0.3rem; }
-.feature-card p { font-size: 0.85rem; color: var(--text-light); }
+.feature-card:hover { transform: translateY(-3px); border-color: rgba(59, 130, 246, 0.4); }
+.feature-card:active { opacity: 0.8; }
+.feature-icon {
+  display: inline-flex; align-items: center; justify-content: center;
+  width: 52px; height: 52px; border-radius: var(--radius-sm);
+  background: var(--accent-bg); font-size: 1.45rem; margin-bottom: 0.75rem;
+}
+.feature-card h4 { font-size: 0.95rem; margin-bottom: 0.35rem; }
+.feature-card p { font-size: 0.85rem; color: var(--muted); }
+.feature-card code {
+  background: var(--bg); border: 1px solid var(--border);
+  border-radius: 6px; padding: 1px 6px; font-size: 0.8rem;
+  color: var(--accent); font-family: inherit;
+}
 
-/* Mockup Telegram */
-.mockup-section { background: var(--white); }
+/* ── Mockup Telegram (dark) ─────────────────────────────── */
 .mockup-phone {
-  max-width: 400px;
-  margin: 2rem auto 0;
-  background: #f0f0f0;
-  border-radius: 28px;
-  padding: 12px;
-  box-shadow: 0 8px 40px rgba(0,0,0,0.12);
+  max-width: 400px; margin: 2rem auto 0;
+  background: #0a0f1e; border: 1px solid var(--border);
+  border-radius: 30px; padding: 10px;
+  box-shadow: 0 24px 60px rgba(0, 0, 0, 0.5);
 }
 .mockup-screen {
-  background: var(--white);
-  border-radius: 20px;
-  overflow: hidden;
+  background: var(--bg); border-radius: 22px; overflow: hidden;
+  border: 1px solid rgba(30, 44, 66, 0.6);
 }
-
-/* Chat header */
 .chat-header {
-  background: var(--blue);
-  color: var(--white);
-  padding: 12px 16px;
-  display: flex;
-  align-items: center;
-  gap: 10px;
-  font-weight: 600;
-  font-size: 0.95rem;
+  background: var(--card); color: var(--text);
+  padding: 12px 16px; display: flex; align-items: center; gap: 10px;
+  font-weight: 600; font-size: 0.95rem;
+  border-bottom: 1px solid var(--border);
 }
+.chat-header .chat-status { font-size: 0.7rem; color: var(--muted); font-weight: 500; }
 .chat-avatar {
-  width: 36px;
-  height: 36px;
-  border-radius: 50%;
-  background: rgba(255,255,255,0.2);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-size: 1.1rem;
-  flex-shrink: 0;
+  width: 36px; height: 36px; border-radius: 50%;
+  background: var(--accent-bg); border: 1px solid rgba(59, 130, 246, 0.35);
+  display: flex; align-items: center; justify-content: center;
+  font-size: 1.05rem; flex-shrink: 0;
 }
-
-/* Chat messages */
 .chat-body {
-  padding: 12px;
-  display: flex;
-  flex-direction: column;
-  gap: 8px;
-  min-height: 420px;
-  background: #e6e6e6;
-  background-image: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23d4d4d4' fill-opacity='0.4'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+  padding: 14px; display: flex; flex-direction: column; gap: 8px;
+  min-height: 430px; background: var(--bg);
+  background-image: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%231e2c42' fill-opacity='0.35'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
 }
 .msg-row { display: flex; }
 .msg-row.user { justify-content: flex-end; }
 .msg-row.bot { justify-content: flex-start; }
-
 .msg {
-  max-width: 82%;
-  padding: 10px 14px;
-  border-radius: 18px;
-  font-size: 0.9rem;
-  line-height: 1.45;
-  word-wrap: break-word;
-  box-shadow: 0 1px 2px rgba(0,0,0,0.08);
+  max-width: 82%; padding: 10px 14px; border-radius: 18px;
+  font-size: 0.9rem; line-height: 1.45; word-wrap: break-word;
   position: relative;
 }
 .msg.user {
-  background: var(--blue);
-  color: var(--white);
+  background: var(--accent); color: #fff;
   border-bottom-right-radius: 4px;
+  box-shadow: 0 2px 8px rgba(59, 130, 246, 0.3);
 }
 .msg.bot {
-  background: var(--white);
-  color: var(--text);
+  background: var(--card); color: var(--text);
+  border: 1px solid var(--border);
   border-bottom-left-radius: 4px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
 }
-.msg.bot .msg-meta {
-  font-size: 0.7rem;
-  color: var(--text-light);
-  margin-top: 4px;
-  display: block;
-}
+.msg .msg-meta { font-size: 0.7rem; color: var(--muted); margin-top: 4px; display: block; }
 .msg .emoji { font-style: normal; }
 .msg .bold { font-weight: 700; }
-.msg .price-down { color: #e53935; font-weight: 700; }
-.msg .price-up { color: #43a047; font-weight: 700; }
+.msg .price-down { color: var(--green); font-weight: 700; }
+.msg .price-up { color: var(--red); font-weight: 700; }
+.msg .msg-link { color: var(--accent); font-size: 0.85rem; }
 
-.msg-buttons {
-  display: flex;
-  gap: 6px;
-  margin-top: 8px;
-  flex-wrap: wrap;
-}
+.msg-buttons { display: flex; gap: 6px; margin-top: 8px; flex-wrap: wrap; }
 .msg-btn {
-  padding: 5px 14px;
-  border-radius: 20px;
-  font-size: 0.8rem;
-  font-weight: 600;
-  border: 1.5px solid var(--blue);
-  background: transparent;
-  color: var(--blue);
-  cursor: default;
+  padding: 5px 14px; border-radius: 20px; font-size: 0.8rem; font-weight: 600;
+  border: 1.5px solid var(--accent); background: transparent; color: var(--accent);
+  cursor: default; transition: all 0.15s;
 }
-.msg-btn.primary {
-  background: var(--blue);
-  color: var(--white);
+.msg-btn.primary { background: var(--accent); color: #fff; }
+
+.msg-time { font-size: 0.65rem; color: var(--muted); margin-top: 2px; text-align: right; }
+.msg.user .msg-time { color: rgba(255, 255, 255, 0.75); }
+
+/* Typing indicator */
+.typing {
+  display: inline-flex; gap: 4px; align-items: center;
+  background: var(--card); border: 1px solid var(--border);
+  border-radius: 18px; border-bottom-left-radius: 4px;
+  padding: 12px 16px; margin-top: 4px;
+}
+.typing i {
+  width: 7px; height: 7px; border-radius: 50%; background: var(--muted);
+  animation: blink 1.2s infinite;
+}
+.typing i:nth-child(2) { animation-delay: 0.2s; }
+.typing i:nth-child(3) { animation-delay: 0.4s; }
+@keyframes blink {
+  0%, 80%, 100% { opacity: 0.25; transform: translateY(0); }
+  40% { opacity: 1; transform: translateY(-3px); }
 }
 
-.msg-time {
-  font-size: 0.65rem;
-  color: #999;
-  margin-top: 2px;
-  text-align: right;
+/* ── FAQ ────────────────────────────────────────────────── */
+.faq-list {
+  max-width: 800px; margin: 0 auto;
+  display: flex; flex-direction: column; gap: 0.75rem;
 }
-.msg.user .msg-time { color: rgba(255,255,255,0.7); }
-
-/* Steps indicator in mockup */
-.step-dot {
-  display: inline-block;
-  width: 6px; height: 6px;
-  border-radius: 50%;
-  background: var(--blue);
-  margin: 0 2px;
-  vertical-align: middle;
+.faq-card {
+  background: var(--card); border: 1px solid var(--border);
+  border-radius: var(--radius); padding: 1.4rem 1.5rem;
+  transition: all 0.15s;
 }
+.faq-card:hover { border-color: rgba(59, 130, 246, 0.35); }
+.faq-card h4 { font-size: 1rem; margin-bottom: 0.4rem; }
+.faq-card p { font-size: 0.92rem; color: var(--muted); }
+.faq-card b { color: var(--text); font-weight: 600; }
 
-/* CTA final */
+/* ── CTA final ──────────────────────────────────────────── */
 .cta-section {
-  text-align: center;
-  background: linear-gradient(135deg, var(--blue) 0%, #006699 100%);
-  color: var(--white);
-  padding: 5rem 1.5rem;
+  position: relative; text-align: center;
+  padding: 5rem 1.5rem; overflow: hidden;
+  background: linear-gradient(135deg, var(--accent) 0%, #1d4ed8 100%);
+  color: #fff;
+}
+.cta-section::before {
+  content: ''; position: absolute; inset: 0;
+  background: radial-gradient(ellipse 50% 60% at 80% 20%, rgba(255, 255, 255, 0.15) 0%, transparent 60%);
 }
 .cta-section h2 {
+  position: relative;
   font-size: clamp(1.5rem, 3vw, 2rem);
-  margin-bottom: 0.75rem;
+  margin-bottom: 0.75rem; letter-spacing: -0.02em;
 }
 .cta-section p {
-  font-size: 1.05rem;
-  opacity: 0.9;
-  margin-bottom: 2rem;
-  max-width: 500px;
-  margin-left: auto;
-  margin-right: auto;
+  position: relative; font-size: 1.05rem; opacity: 0.92;
+  margin-bottom: 2rem; max-width: 520px;
+  margin-left: auto; margin-right: auto;
 }
-.cta-section .btn {
-  background: var(--white);
-  color: var(--blue);
-}
-.cta-section .btn:hover { background: #f0f0f0; color: var(--blue-dark); }
+.cta-section .btn { position: relative; }
 
-/* Footer */
+/* ── Footer ─────────────────────────────────────────────── */
 footer {
-  text-align: center;
-  padding: 2rem 1.5rem;
-  font-size: 0.85rem;
-  color: var(--text-light);
+  text-align: center; padding: 2rem 1.5rem;
+  font-size: 0.85rem; color: var(--muted);
+  border-top: 1px solid var(--border);
+  background: var(--bg);
 }
-footer a { color: var(--text-light); text-decoration: underline; }
+footer a { color: var(--muted); text-decoration: underline; }
+footer a:hover { color: var(--accent); }
 
-/* Responsive */
-@media (max-width: 600px) {
-  .hero { min-height: 40vh; }
+/* ── Responsive ─────────────────────────────────────────── */
+@media (max-width: 640px) {
+  .hero { min-height: auto; padding: 3.5rem 1rem; }
   section { padding: 3rem 1rem; }
   .step, .feature-card { flex: 1 1 100%; max-width: 100%; }
-  .mockup-phone { max-width: 100%; border-radius: 16px; padding: 8px; }
-  .chat-body { min-height: 360px; padding: 8px; }
+  .mockup-phone { max-width: 100%; border-radius: 20px; padding: 8px; }
+  .chat-body { min-height: 380px; padding: 10px; }
   .msg { max-width: 88%; font-size: 0.85rem; }
+  .header-inner { padding: 0.6rem 1rem; }
+  .btn-lg { padding: 1rem 2.2rem; font-size: 1.05rem; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * { animation: none !important; transition: none !important; }
+  html { scroll-behavior: auto; }
 }
 </style>
 </head>
 <body>
 
+<!-- Header -->
+<header class="site-header">
+  <div class="header-inner">
+    <a class="logo" href="#" aria-label="Product Tracker Bot">
+      <span class="logo-icon">📦</span>
+      <span>Product Tracker</span>
+    </a>
+    <a href="https://telegram.me/MyProductTrackerBot" class="btn btn-sm" target="_blank" rel="noopener">Usar no Telegram</a>
+  </div>
+</header>
+
+<main>
+
 <!-- Hero -->
-<section class="hero">
+<section class="hero" aria-label="Apresentação">
   <div class="hero-bg"></div>
   <div class="hero-overlay"></div>
+  <div class="hero-glow"></div>
   <div class="hero-content">
-    <span class="hero-icon">📦</span>
+    <span class="hero-badge"><i></i>Bot no Telegram</span>
     <h1>Product Tracker Bot</h1>
     <p>Monitore preços no Mercado Livre, Amazon, Shopee, AliExpress e KaBuM! diretamente pelo Telegram. Receba alertas automáticos quando o valor mudar.</p>
-    <a href="https://telegram.me/MyProductTrackerBot" class="btn btn-lg" target="_blank" rel="noopener">👉 Usar no Telegram</a>
+    <div class="store-chips" aria-label="Lojas suportadas">
+      <span class="chip chip-ml"><i></i>Mercado Livre</span>
+      <span class="chip chip-am"><i></i>Amazon</span>
+      <span class="chip chip-sh"><i></i>Shopee</span>
+      <span class="chip chip-ae"><i></i>AliExpress</span>
+      <span class="chip chip-kb"><i></i>KaBuM!</span>
+    </div>
+    <a href="https://telegram.me/MyProductTrackerBot" class="btn btn-lg" target="_blank" rel="noopener">Usar no Telegram</a>
   </div>
 </section>
 
 <!-- How it works -->
-<section>
+<section id="como-funciona">
   <div class="container">
     <h2 class="section-title">Como funciona</h2>
     <p class="section-sub">Em apenas 3 passos você começa a monitorar seus produtos favoritos.</p>
     <div class="steps">
       <div class="step">
+        <span class="step-num">01</span>
         <span class="step-icon">🔗</span>
         <h3>Envie o link</h3>
         <p>Cole o link de qualquer produto no chat do bot. O bot aceita links de qualquer formato — curtos, longos, com ou sem parâmetros.</p>
       </div>
       <div class="step">
+        <span class="step-num">02</span>
         <span class="step-icon">🤖</span>
         <h3>Monitoramos</h3>
         <p>O bot extrai o título e preço, salva no sistema e começa a acompanhar diariamente. Você também pode definir um preço alvo para receber alertas mais específicos.</p>
       </div>
       <div class="step">
+        <span class="step-num">03</span>
         <span class="step-icon">🔔</span>
         <h3>Receba alertas</h3>
         <p>Quando o preço mudar, você recebe uma notificação automática no Telegram com o valor antigo, novo e a variação percentual.</p>
@@ -411,7 +452,7 @@ footer a { color: var(--text-light); text-decoration: underline; }
 </section>
 
 <!-- Why use -->
-<section style="background: var(--white);">
+<section id="por-que-usar" class="alt">
   <div class="container">
     <h2 class="section-title">Por que usar o Product Tracker Bot?</h2>
     <p class="section-sub">Em vez de participar de grupos de promoções que floodam seu Telegram com ofertas que não te interessam, o Product Tracker Bot coloca você no controle.</p>
@@ -441,14 +482,14 @@ footer a { color: var(--text-light); text-decoration: underline; }
 </section>
 
 <!-- Features -->
-<section style="background: var(--white);">
+<section id="funcionalidades">
   <div class="container">
     <h2 class="section-title">Funcionalidades</h2>
     <p class="section-sub">Tudo que você precisa para economizar nas compras online.</p>
     <div class="features-grid">
       <div class="feature-card">
         <span class="feature-icon">🛒</span>
-        <h4>Multiplas Lojas</h4>
+        <h4>Múltiplas Lojas</h4>
         <p>Suporta Mercado Livre, Amazon, Shopee, AliExpress e KaBuM! — as maiores lojas do Brasil.</p>
       </div>
       <div class="feature-card">
@@ -476,16 +517,16 @@ footer a { color: var(--text-light); text-decoration: underline; }
 </section>
 
 <!-- Mockup -->
-<section class="mockup-section">
+<section id="mockup" class="alt">
   <div class="container">
     <h2 class="section-title">Veja como é na prática</h2>
     <p class="section-sub">O bot é simples e direto. Mande um link e pronto.</p>
 
-    <div class="mockup-phone">
+    <div class="mockup-phone" aria-label="Simulação de conversa no Telegram">
       <div class="mockup-screen">
         <div class="chat-header">
           <span class="chat-avatar">🤖</span>
-          <span>Product Tracker Bot</span>
+          <span>Product Tracker Bot<br><span class="chat-status">bot · online</span></span>
         </div>
         <div class="chat-body">
 
@@ -536,9 +577,14 @@ footer a { color: var(--text-light); text-decoration: underline; }
               <span class="emoji">📉</span> <span class="price-down">Diminuiu</span> — <span class="bold">Fone Gamer Redragon Zeus</span><br><br>
               Era: <span class="bold">R$ 168,37</span><br>
               Agora: <span class="bold price-down">R$ 149,99</span> <span class="price-down">(-10,9%)</span><br><br>
-              <a href="#" style="color:var(--blue);font-size:0.85rem;">🔗 Ver produto</a>
+              <a href="#" class="msg-link" onclick="return false;">🔗 Ver produto</a>
               <div class="msg-time">08:15</div>
             </div>
+          </div>
+
+          <!-- Typing indicator -->
+          <div class="msg-row bot">
+            <span class="typing" aria-hidden="true"><i></i><i></i><i></i></span>
           </div>
 
         </div>
@@ -548,28 +594,28 @@ footer a { color: var(--text-light); text-decoration: underline; }
 </section>
 
 <!-- FAQ -->
-<section>
+<section id="faq">
   <div class="container">
     <h2 class="section-title">Perguntas Frequentes</h2>
     <p class="section-sub">Tire suas dúvidas sobre o Product Tracker Bot.</p>
-    <div class="features-grid" style="max-width: 800px; margin: 0 auto;">
-      <div class="feature-card" style="max-width: 100%; text-align: left; padding: 2rem;">
+    <div class="faq-list">
+      <div class="faq-card">
         <h4>É realmente grátis?</h4>
         <p>Sim! O Product Tracker Bot é 100% gratuito. Não há taxas, assinaturas ou custos ocultos.</p>
       </div>
-      <div class="feature-card" style="max-width: 100%; text-align: left; padding: 2rem;">
+      <div class="faq-card">
         <h4>Como o bot monitora os preços?</h4>
         <p>O bot verifica periodicamente os preços dos produtos que você adicionou. Quando há uma alteração, ele envia uma notificação no Telegram.</p>
       </div>
-      <div class="feature-card" style="max-width: 100%; text-align: left; padding: 2rem;">
+      <div class="faq-card">
         <h4>Quais lojas são suportadas?</h4>
         <p>O bot suporta <b>Mercado Livre</b>, <b>Amazon</b>, <b>Shopee</b>, <b>AliExpress</b> e <b>KaBuM!</b>. Basta colar o link do produto de qualquer uma delas.</p>
       </div>
-      <div class="feature-card" style="max-width: 100%; text-align: left; padding: 2rem;">
+      <div class="faq-card">
         <h4>Como funcionam os links de afiliado?</h4>
         <p>Quando você compra usando os links do bot, a loja paga uma pequena comissão para o projeto. Isso não aumenta o preço para você.</p>
       </div>
-      <div class="feature-card" style="max-width: 100%; text-align: left; padding: 2rem;">
+      <div class="faq-card">
         <h4>Posso monitorar quantos produtos quiser?</h4>
         <p>Sim! Não há limite de produtos monitorados.</p>
       </div>
@@ -582,9 +628,11 @@ footer a { color: var(--text-light); text-decoration: underline; }
   <div class="container">
     <h2>Pronto para economizar?</h2>
     <p>Comece a monitorar seus produtos favoritos agora mesmo. É gratuito e leva segundos.</p>
-    <a href="https://telegram.me/MyProductTrackerBot" class="btn btn-lg" target="_blank" rel="noopener">👉 Usar no Telegram</a>
+    <a href="https://telegram.me/MyProductTrackerBot" class="btn btn-lg btn-light" target="_blank" rel="noopener">Usar no Telegram</a>
   </div>
 </section>
+
+</main>
 
 <footer>
   <p>Product Tracker Bot · <a href="https://telegram.me/MyProductTrackerBot" target="_blank" rel="noopener">@MyProductTrackerBot</a></p>

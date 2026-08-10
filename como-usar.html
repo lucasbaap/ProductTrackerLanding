@@ -1,0 +1,355 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Como usar o Product Tracker Bot — alerta de preço em 5 lojas | Product Tracker Bot</title>
+<meta name="description" content="Aprenda a criar alerta de preço no Mercado Livre, Amazon, Shopee, AliExpress e KaBuM! com o Product Tracker Bot. Passo a passo rápido e grátis no Telegram.">
+<link rel="canonical" href="https://lucasbaap.github.io/ProductTrackerLanding/como-usar.html">
+
+<!-- Favicon -->
+<link rel="icon" type="image/svg+xml" href="assets/favicon.svg">
+<link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
+
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="article">
+<meta property="og:locale" content="pt_BR">
+<meta property="og:site_name" content="Product Tracker Bot">
+<meta property="og:url" content="https://lucasbaap.github.io/ProductTrackerLanding/como-usar.html">
+<meta property="og:title" content="Como usar o Product Tracker Bot — alerta de preço em 5 lojas | Product Tracker Bot">
+<meta property="og:description" content="Aprenda a criar alerta de preço no Mercado Livre, Amazon, Shopee, AliExpress e KaBuM! com o Product Tracker Bot. Passo a passo rápido e grátis no Telegram.">
+<meta property="og:image" content="https://lucasbaap.github.io/ProductTrackerLanding/assets/og-card.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Product Tracker Bot — monitore preços no Telegram">
+
+<!-- Twitter -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:url" content="https://lucasbaap.github.io/ProductTrackerLanding/como-usar.html">
+<meta name="twitter:title" content="Como usar o Product Tracker Bot — alerta de preço em 5 lojas | Product Tracker Bot">
+<meta name="twitter:description" content="Aprenda a criar alerta de preço no Mercado Livre, Amazon, Shopee, AliExpress e KaBuM! com o Product Tracker Bot. Passo a passo rápido e grátis no Telegram.">
+<meta name="twitter:image" content="https://lucasbaap.github.io/ProductTrackerLanding/assets/og-card.jpg">
+
+<style>
+:root {
+  --bg: #0f1729; --card: #172033; --border: #1e2c42; --text: #e2e8f0;
+  --muted: #6b7d95; --accent: #3b82f6; --green: #22c55e; --red: #ef4444;
+  --green-bg: rgba(34, 197, 94, 0.08); --red-bg: rgba(239, 68, 68, 0.08);
+  --accent-bg: rgba(59, 130, 246, 0.12);
+  --bg-alt: #111a2e;
+  --radius: 14px; --radius-sm: 10px;
+  --max-width: 1100px;
+  --shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+}
+* { margin: 0; padding: 0; box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "Segoe UI", Roboto, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+  letter-spacing: -0.01em;
+}
+::selection { background: rgba(59, 130, 246, 0.3); }
+a { color: var(--accent); text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+/* ── Header ─────────────────────────────────────────────── */
+.site-header {
+  position: sticky; top: 0; z-index: 60;
+  background: rgba(15, 23, 41, 0.85);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border-bottom: 1px solid var(--border);
+}
+.header-inner {
+  display: flex; align-items: center; justify-content: space-between; gap: 1rem;
+  max-width: var(--max-width); margin: 0 auto; padding: 0.7rem 1.5rem;
+}
+.logo {
+  display: flex; align-items: center; gap: 0.5rem;
+  font-weight: 700; font-size: 1rem; color: var(--text); letter-spacing: -0.02em;
+}
+.logo:hover { text-decoration: none; color: var(--text); }
+.logo-icon {
+  width: 32px; height: 32px; border-radius: var(--radius-sm);
+  background: var(--accent-bg); border: 1px solid var(--border);
+  display: flex; align-items: center; justify-content: center; font-size: 1rem;
+}
+.header-right {
+  display: flex; align-items: center; gap: 1.1rem;
+}
+.nav-links {
+  display: flex; align-items: center; gap: 0.25rem;
+  list-style: none;
+}
+.nav-link {
+  color: var(--muted); font-size: 0.9rem; font-weight: 600;
+  padding: 0.4rem 0.75rem; border-radius: 8px;
+  transition: all 0.15s;
+}
+.nav-link:hover { color: var(--text); background: var(--accent-bg); text-decoration: none; }
+.nav-link.active { color: var(--accent); background: var(--accent-bg); }
+
+/* ── Buttons / CTA ──────────────────────────────────────── */
+.btn {
+  display: inline-flex; align-items: center; justify-content: center; gap: 0.5rem;
+  background: var(--accent); color: #fff;
+  padding: 1rem 2.5rem; border-radius: 50px; font-size: 1.05rem; font-weight: 700;
+  border: none; cursor: pointer; transition: all 0.15s;
+  box-shadow: 0 6px 24px rgba(59, 130, 246, 0.35);
+}
+.btn:hover {
+  background: #4f8df8; color: #fff; text-decoration: none;
+  transform: translateY(-2px);
+  box-shadow: 0 10px 28px rgba(59, 130, 246, 0.4);
+}
+.btn:active { transform: scale(0.97); opacity: 0.85; }
+.btn-lg { padding: 1.1rem 3rem; font-size: 1.15rem; }
+.btn-sm { padding: 0.55rem 1.15rem; font-size: 0.85rem; box-shadow: none; }
+
+/* ── Guide article ──────────────────────────────────────── */
+.guide-article {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 3.5rem 1.5rem 4rem;
+}
+.guide-breadcrumb {
+  font-size: 0.8rem; color: var(--muted);
+  margin-bottom: 1.25rem; letter-spacing: 0.01em;
+}
+.guide-breadcrumb a { color: var(--muted); }
+.guide-breadcrumb a:hover { color: var(--accent); }
+.guide-article h1 {
+  font-size: clamp(1.8rem, 4.5vw, 2.6rem);
+  font-weight: 800; letter-spacing: -0.03em; line-height: 1.2;
+  margin-bottom: 1.25rem;
+}
+.guide-intro {
+  font-size: 1.12rem; color: var(--muted);
+  border-left: 3px solid var(--accent);
+  padding-left: 1.1rem;
+  margin-bottom: 1.5rem;
+}
+.guide-article h2 {
+  font-size: 1.4rem; font-weight: 700; letter-spacing: -0.02em;
+  margin: 2.75rem 0 0.9rem;
+  padding-bottom: 0.45rem;
+  border-bottom: 1px solid var(--border);
+  scroll-margin-top: 90px;
+}
+.guide-article h3 {
+  font-size: 1.08rem; font-weight: 700;
+  margin: 1.6rem 0 0.45rem; letter-spacing: -0.01em;
+}
+.guide-article p {
+  font-size: 1.02rem; line-height: 1.75;
+  margin-bottom: 1rem;
+}
+.guide-article ul {
+  margin: 0 0 1.25rem 0; padding-left: 0;
+  list-style: none;
+}
+.guide-article ul li {
+  position: relative;
+  padding-left: 1.5rem;
+  margin-bottom: 0.6rem;
+  font-size: 1.02rem; line-height: 1.7;
+}
+.guide-article ul li::before {
+  content: ''; position: absolute; left: 2px; top: 0.62em;
+  width: 7px; height: 7px; border-radius: 50%;
+  background: var(--accent);
+}
+.guide-article b, .guide-article strong { color: #fff; font-weight: 700; }
+.guide-article code {
+  background: var(--card); border: 1px solid var(--border);
+  border-radius: 6px; padding: 1px 7px; font-size: 0.88em;
+  color: var(--accent); font-family: inherit;
+}
+.guide-article a { font-weight: 600; }
+
+/* ── Honesty note ───────────────────────────────────────── */
+.guide-note {
+  margin: 1.5rem 0 0.5rem;
+  background: var(--accent-bg);
+  border: 1px solid rgba(59, 130, 246, 0.25);
+  border-radius: var(--radius);
+  padding: 1.1rem 1.25rem;
+  font-size: 0.95rem; line-height: 1.7;
+}
+.guide-note p { font-size: 0.95rem; margin-bottom: 0.4rem; }
+.guide-note p:last-child { margin-bottom: 0; }
+
+/* ── CTA box ────────────────────────────────────────────── */
+.cta-box {
+  margin-top: 3rem;
+  background: var(--card);
+  border: 1px solid rgba(59, 130, 246, 0.35);
+  border-radius: var(--radius);
+  padding: 2.25rem 2rem;
+  text-align: center;
+  box-shadow: var(--shadow);
+}
+.cta-box p {
+  font-size: 1.05rem; line-height: 1.7;
+  margin-bottom: 1.75rem;
+  max-width: 520px; margin-left: auto; margin-right: auto;
+}
+.cta-box b, .cta-box strong { color: var(--accent); font-weight: 700; }
+
+/* ── Footer ─────────────────────────────────────────────── */
+footer {
+  text-align: center; padding: 2rem 1.5rem;
+  font-size: 0.85rem; color: var(--muted);
+  border-top: 1px solid var(--border);
+  background: var(--bg);
+}
+footer a { color: var(--muted); text-decoration: underline; }
+footer a:hover { color: var(--accent); }
+
+/* ── Footer socials ─────────────────────────────────────── */
+.footer-socials {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.75rem;
+  margin-top: 0.75rem;
+}
+.footer-socials a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  transition: color 0.15s;
+}
+.footer-socials a:hover { text-decoration: none; }
+.footer-socials svg {
+  width: 19px;
+  height: 19px;
+  fill: var(--muted);
+  display: block;
+  transition: fill 0.15s;
+}
+.footer-socials a:hover svg { fill: var(--accent); }
+
+/* ── Footer guides ──────────────────────────────────────── */
+.footer-guides {
+  display: flex; flex-wrap: wrap; gap: 0.35rem 1.25rem;
+  justify-content: center; align-items: center;
+  margin-top: 0.85rem;
+  font-size: 0.8rem;
+}
+.footer-guides-label {
+  text-transform: uppercase; letter-spacing: 0.08em;
+  font-size: 0.68rem; font-weight: 700; color: var(--muted);
+}
+
+/* ── Responsive ─────────────────────────────────────────── */
+@media (max-width: 640px) {
+  .guide-article { padding: 2.5rem 1.15rem 3rem; }
+  .header-inner { padding: 0.6rem 1rem; }
+  .header-right { gap: 0.6rem; }
+  .cta-box { padding: 1.75rem 1.25rem; }
+  .btn-lg { padding: 1rem 2.2rem; font-size: 1.05rem; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * { animation: none !important; transition: none !important; }
+  html { scroll-behavior: auto; }
+}
+</style>
+</head>
+<body>
+
+<!-- Header -->
+<header class="site-header">
+  <div class="header-inner">
+    <a class="logo" href="index.html" aria-label="Product Tracker Bot">
+      <span class="logo-icon">📦</span>
+      <span>Product Tracker</span>
+    </a>
+    <div class="header-right">
+      <nav aria-label="Navegação principal">
+        <ul class="nav-links">
+          <li><a class="nav-link" href="index.html">Home</a></li>
+          <li><a class="nav-link active" href="como-usar.html" aria-current="page">Como usar</a></li>
+        </ul>
+      </nav>
+      <a href="https://t.me/MyProductTrackerBot" class="btn btn-sm" target="_blank" rel="noopener">Usar no Telegram</a>
+    </div>
+  </div>
+</header>
+
+<main>
+<article class="guide-article">
+
+  <p class="guide-breadcrumb"><a href="index.html">Início</a> · Como usar</p>
+
+  <h1>Como usar o Product Tracker Bot</h1>
+
+  <p class="guide-intro">O Product Tracker Bot monitora preços de produtos do Mercado Livre, Amazon, Shopee, AliExpress e KaBuM! direto no Telegram — de graça. O passo a passo é o mesmo para qualquer loja: você envia o link, define quanto quer pagar (opcional) e o bot avisa quando o preço cair.</p>
+
+  <!-- ── Section 1: Passo a passo ─────────────────────────── -->
+  <h2 id="passo-a-passo">Passo a passo: o mesmo para qualquer loja</h2>
+  <p>O fluxo de uso é idêntico no Mercado Livre, na Amazon, na Shopee, no AliExpress e no KaBuM!. Basta seguir estes 5 passos.</p>
+
+  <h3>1. Escolha o produto na loja</h3>
+  <p>Mercado Livre, Amazon, Shopee, AliExpress ou KaBuM! — qualquer um serve. Abra o site ou o app e acesse a página do produto que você quer acompanhar.</p>
+
+  <h3>2. Copie o link do produto</h3>
+  <p>Copie o endereço da página — o link que aparece na barra de endereços do navegador. No app, use o botão de compartilhar e copie o link.</p>
+
+  <h3>3. Envie o link para o bot</h3>
+  <p>Abra o Telegram, procure por <strong>@MyProductTrackerBot</strong> (ou toque em <a href="https://t.me/MyProductTrackerBot" target="_blank" rel="noopener">https://t.me/MyProductTrackerBot</a>) e envie o link do produto no chat. O bot confirma o nome do produto e o preço atual e começa a monitorar.</p>
+
+  <h3>4. Defina seu preço alvo (opcional, mas recomendado)</h3>
+  <ul>
+    <li>Use o comando <code>/target</code> e escolha o produto na lista.</li>
+    <li>Digite o valor mínimo que você quer pagar — apenas números. Exemplo: <code>1200</code> para R$ 1.200,00.</li>
+    <li>Pronto: o bot avisa quando o preço chegar nesse valor.</li>
+    <li>Se preferir ser avisado sobre <strong>qualquer variação</strong>, dá para escolher essa opção também.</li>
+  </ul>
+
+  <h3>5. Receba o aviso</h3>
+  <p>Quando o preço cair (ou atingir o seu alvo), o bot envia a notificação no chat, com o novo preço e o link para comprar.</p>
+
+  <div class="guide-note">
+    <p><strong>Quedas de preço geram aviso.</strong> Para subidas e valores mantidos, o bot respeita um intervalo entre avisos, para não encher seu chat.</p>
+    <p>Gerenciamento por comandos: <code>/list</code> (ver seus produtos), <code>/target</code> (definir ou ajustar o preço alvo), <code>/remove</code> (parar de monitorar) e <code>/removeall</code> (remover todos).</p>
+  </div>
+
+  <section class="cta-box" aria-label="Chamada para ação">
+    <p>Comece agora: abra o <strong>Product Tracker Bot</strong>, envie o link do produto da sua loja preferida e defina o preço que você quer pagar. É grátis e leva menos de um minuto:</p>
+    <a href="https://t.me/MyProductTrackerBot" class="btn btn-lg" target="_blank" rel="noopener">https://t.me/MyProductTrackerBot</a>
+  </section>
+
+</article>
+</main>
+
+<footer>
+  <p>Product Tracker Bot · <a href="https://t.me/MyProductTrackerBot" target="_blank" rel="noopener">@MyProductTrackerBot</a></p>
+  <div class="footer-socials" aria-label="Redes sociais do Product Tracker">
+    <a href="https://www.tiktok.com/@product_tracker_bot" target="_blank" rel="noopener" aria-label="TikTok do Product Tracker">
+      <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+        <path d="M12.525.02c1.31-.02 2.61-.01 3.91-.02.08 1.53.63 3.09 1.75 4.17 1.12 1.11 2.7 1.62 4.24 1.79v4.03c-1.44-.05-2.89-.35-4.2-.97-.57-.26-1.1-.59-1.62-.93-.01 2.92.01 5.84-.02 8.75-.08 1.4-.54 2.79-1.35 3.94-1.31 1.92-3.58 3.17-5.91 3.21-1.43.08-2.86-.31-4.08-1.03-2.02-1.19-3.44-3.37-3.65-5.71-.02-.5-.03-1-.01-1.49.18-1.9 1.12-3.72 2.58-4.96 1.66-1.44 3.98-2.13 6.15-1.72.02 1.48-.04 2.96-.04 4.44-.99-.32-2.15-.23-3.02.37-.63.41-1.11 1.04-1.36 1.75-.21.51-.15 1.07-.14 1.61.24 1.64 1.82 3.02 3.5 2.87 1.12-.01 2.19-.66 2.77-1.61.19-.33.4-.67.41-1.06.1-1.79.06-3.57.07-5.36.01-4.03-.01-8.05.02-12.07z"/>
+      </svg>
+    </a>
+    <a href="https://k.kwai.com/u/@MyProductTracker/ws0C9W12" target="_blank" rel="noopener" aria-label="Kwai do Product Tracker">
+      <svg viewBox="0 0 170.8 195.9" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+        <path d="M131.08,13.06a39.51,39.51,0,0,0-27,10.59A46.22,46.22,0,1,0,99,76.09a39.68,39.68,0,1,0,32.07-63ZM63.78,73.83A27.63,27.63,0,1,1,91.41,46.21,27.63,27.63,0,0,1,63.78,73.83Zm67.3,0a21.1,21.1,0,1,1,21.1-21.1A21.1,21.1,0,0,1,131.08,73.83Z"/>
+        <path fill-rule="evenodd" d="M136.61,100.45H86.38a34.17,34.17,0,0,0-32.53,23.74L24.06,109.11A16.57,16.57,0,0,0,0,123.9v48.64a16.58,16.58,0,0,0,24,14.82l29.93-15a34.16,34.16,0,0,0,32.45,23.51h50.23a34.15,34.15,0,0,0,34.15-34.15V134.6A34.15,34.15,0,0,0,136.61,100.45ZM24.07,167.7a4.53,4.53,0,0,1-6-2,4.59,4.59,0,0,1-.49-2.06V133.05a4.52,4.52,0,0,1,6.55-4l28.1,14.11v10.13L24.15,167.66Zm129.11-6.48v.28a17.07,17.07,0,0,1-17.07,16.79H86.6a17.07,17.07,0,0,1-16.79-17.07v-26.4A17.08,17.08,0,0,1,86.89,118h49.5a17.07,17.07,0,0,1,16.79,17.07Z"/>
+      </svg>
+    </a>
+  </div>
+  <nav class="footer-guides" aria-label="Navegação do site">
+    <span class="footer-guides-label">Navegue</span>
+    <a href="index.html">Home</a>
+    <a href="como-usar.html">Como usar</a>
+  </nav>
+  <p style="margin-top:0.3rem;font-size:0.75rem;">Mercado Livre, Amazon, Shopee, AliExpress e KaBuM! são marcas registradas de seus respectivos proprietários.</p>
+</footer>
+
+</body>
+</html>

@@ -6,20 +6,30 @@
 <meta name="google-site-verification" content="Y5pyh0xqzwga-Jsi1Jik0nTd_6xmw3yqABaqvuwSf7w" />
 <title>Product Tracker Bot — Monitore preços em 5 lojas pelo Telegram</title>
 <meta name="description" content="Monitore preços no Mercado Livre, Amazon, Shopee, AliExpress e KaBuM! pelo Telegram e receba alertas quando o preço cair. Economize nas suas compras!">
+<link rel="canonical" href="https://lucasbaap.github.io/ProductTrackerLanding/">
+
+<!-- Favicon -->
+<link rel="icon" type="image/svg+xml" href="assets/favicon.svg">
+<link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
 
 <!-- Open Graph / Facebook -->
 <meta property="og:type" content="website">
+<meta property="og:locale" content="pt_BR">
+<meta property="og:site_name" content="Product Tracker Bot">
 <meta property="og:url" content="https://lucasbaap.github.io/ProductTrackerLanding/">
 <meta property="og:title" content="Product Tracker Bot — Monitore preços em 5 lojas pelo Telegram">
 <meta property="og:description" content="Monitore preços no Mercado Livre, Amazon, Shopee, AliExpress e KaBuM! pelo Telegram. Receba alertas automáticos quando o preço cair.">
-<meta property="og:image" content="https://lucasbaap.github.io/ProductTrackerLanding/assets/hero-bg.png">
+<meta property="og:image" content="https://lucasbaap.github.io/ProductTrackerLanding/assets/og-card.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Product Tracker Bot — monitore preços no Telegram">
 
 <!-- Twitter -->
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:url" content="https://lucasbaap.github.io/ProductTrackerLanding/">
 <meta name="twitter:title" content="Product Tracker Bot — Monitore preços em 5 lojas pelo Telegram">
 <meta name="twitter:description" content="Monitore preços no Mercado Livre, Amazon, Shopee, AliExpress e KaBuM! pelo Telegram. Receba alertas automáticos quando o preço cair.">
-<meta name="twitter:image" content="https://lucasbaap.github.io/ProductTrackerLanding/assets/hero-bg.png">
+<meta name="twitter:image" content="https://lucasbaap.github.io/ProductTrackerLanding/assets/og-card.jpg">
 
 <!-- Schema.org -->
 <script type="application/ld+json">
@@ -35,6 +45,54 @@
     "priceCurrency": "BRL"
   },
   "description": "Monitore preços no Mercado Livre, Amazon, Shopee, AliExpress e KaBuM! pelo Telegram."
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "É realmente grátis?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sim! O Product Tracker Bot é 100% gratuito. Não há taxas, assinaturas ou custos ocultos."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Como o bot monitora os preços?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "O bot verifica periodicamente os preços dos produtos que você adicionou. Quando há uma alteração, ele envia uma notificação no Telegram."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quais lojas são suportadas?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "O bot suporta Mercado Livre, Amazon, Shopee, AliExpress e KaBuM!. Basta colar o link do produto de qualquer uma delas."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Como funcionam os links de afiliado?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Quando você compra usando os links do bot, a loja paga uma pequena comissão para o projeto. Isso não aumenta o preço para você."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Posso monitorar quantos produtos quiser?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sim! Não há limite de produtos monitorados."
+      }
+    }
+  ]
 }
 </script>
 
@@ -85,6 +143,20 @@ a:hover { text-decoration: underline; }
   background: var(--accent-bg); border: 1px solid var(--border);
   display: flex; align-items: center; justify-content: center; font-size: 1rem;
 }
+.header-right {
+  display: flex; align-items: center; gap: 1.1rem;
+}
+.nav-links {
+  display: flex; align-items: center; gap: 0.25rem;
+  list-style: none;
+}
+.nav-link {
+  color: var(--muted); font-size: 0.9rem; font-weight: 600;
+  padding: 0.4rem 0.75rem; border-radius: 8px;
+  transition: all 0.15s;
+}
+.nav-link:hover { color: var(--text); background: var(--accent-bg); text-decoration: none; }
+.nav-link.active { color: var(--accent); background: var(--accent-bg); }
 
 /* ── Buttons / CTA ──────────────────────────────────────── */
 .btn {
@@ -130,7 +202,7 @@ section { padding: 5rem 1.5rem; }
 }
 .hero-bg {
   position: absolute; inset: 0;
-  background: url('assets/hero-bg.png') center center / cover no-repeat;
+  background: url('assets/hero-bg.webp') center center / cover no-repeat;
   opacity: 0.28; filter: saturate(0.9);
   z-index: 0;
 }
@@ -395,6 +467,18 @@ footer a:hover { color: var(--accent); }
 }
 .footer-socials a:hover svg { fill: var(--accent); }
 
+/* ── Footer guides ──────────────────────────────────────── */
+.footer-guides {
+  display: flex; flex-wrap: wrap; gap: 0.35rem 1.25rem;
+  justify-content: center; align-items: center;
+  margin-top: 0.85rem;
+  font-size: 0.8rem;
+}
+.footer-guides-label {
+  text-transform: uppercase; letter-spacing: 0.08em;
+  font-size: 0.68rem; font-weight: 700; color: var(--muted);
+}
+
 /* ── Responsive ─────────────────────────────────────────── */
 @media (max-width: 640px) {
   .hero { min-height: auto; padding: 3.5rem 1rem; }
@@ -404,6 +488,7 @@ footer a:hover { color: var(--accent); }
   .chat-body { min-height: 380px; padding: 10px; }
   .msg { max-width: 88%; font-size: 0.85rem; }
   .header-inner { padding: 0.6rem 1rem; }
+  .header-right { gap: 0.6rem; }
   .btn-lg { padding: 1rem 2.2rem; font-size: 1.05rem; }
 }
 
@@ -422,7 +507,15 @@ footer a:hover { color: var(--accent); }
       <span class="logo-icon">📦</span>
       <span>Product Tracker</span>
     </a>
-    <a href="https://telegram.me/MyProductTrackerBot" class="btn btn-sm" target="_blank" rel="noopener">Usar no Telegram</a>
+    <div class="header-right">
+      <nav aria-label="Navegação principal">
+        <ul class="nav-links">
+          <li><a class="nav-link active" href="index.html" aria-current="page">Home</a></li>
+          <li><a class="nav-link" href="como-usar.html">Como usar</a></li>
+        </ul>
+      </nav>
+      <a href="https://telegram.me/MyProductTrackerBot" class="btn btn-sm" target="_blank" rel="noopener">Usar no Telegram</a>
+    </div>
   </div>
 </header>
 
@@ -674,6 +767,11 @@ footer a:hover { color: var(--accent); }
       </svg>
     </a>
   </div>
+  <nav class="footer-guides" aria-label="Navegação do site">
+    <span class="footer-guides-label">Navegue</span>
+    <a href="index.html">Home</a>
+    <a href="como-usar.html">Como usar</a>
+  </nav>
   <p style="margin-top:0.3rem;font-size:0.75rem;">Mercado Livre, Amazon, Shopee, AliExpress e KaBuM! são marcas registradas de seus respectivos proprietários.</p>
 </footer>
 

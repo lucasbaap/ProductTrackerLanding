@@ -302,6 +302,10 @@ section { padding: 5rem 1.5rem; }
   width: 52px; height: 52px; border-radius: var(--radius-sm);
   background: var(--accent-bg); font-size: 1.45rem; margin-bottom: 0.75rem;
 }
+.logo-icon svg, .step-icon svg, .feature-icon svg {
+  display: block;
+  color: var(--accent);
+}
 .feature-card h4 { font-size: 0.95rem; margin-bottom: 0.35rem; }
 .feature-card p { font-size: 0.85rem; color: var(--muted); }
 .feature-card code {
@@ -504,7 +508,7 @@ footer a:hover { color: var(--accent); }
 <header class="site-header">
   <div class="header-inner">
     <a class="logo" href="#" aria-label="Product Tracker Bot">
-      <span class="logo-icon">📦</span>
+      <span class="logo-icon"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.83z"/><line x1="7" y1="7" x2="7.01" y2="7"/><polyline points="9 15 12 12 14 14 17 10"/></svg></span>
       <span>Product Tracker</span>
     </a>
     <div class="header-right">
@@ -549,19 +553,19 @@ footer a:hover { color: var(--accent); }
     <div class="steps">
       <div class="step">
         <span class="step-num">01</span>
-        <span class="step-icon">🔗</span>
+        <span class="step-icon"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></svg></span>
         <h3>Envie o link</h3>
         <p>Cole o link de qualquer produto no chat do bot. O bot aceita links de qualquer formato — curtos, longos, com ou sem parâmetros.</p>
       </div>
       <div class="step">
         <span class="step-num">02</span>
-        <span class="step-icon">🤖</span>
+        <span class="step-icon"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"/><circle cx="12" cy="12" r="3"/></svg></span>
         <h3>Monitoramos</h3>
         <p>O bot extrai o título e preço, salva no sistema e começa a acompanhar diariamente. Você também pode definir um preço alvo para receber alertas mais específicos.</p>
       </div>
       <div class="step">
         <span class="step-num">03</span>
-        <span class="step-icon">🔔</span>
+        <span class="step-icon"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M18 8A6 6 0 0 0 6 8c0 7-3 9-3 9h18s-3-2-3-9"/><path d="M13.73 21a2 2 0 0 1-3.46 0"/></svg></span>
         <h3>Receba alertas</h3>
         <p>Quando o preço mudar, você recebe uma notificação automática no Telegram com o valor antigo, novo e a variação percentual.</p>
       </div>
@@ -576,22 +580,22 @@ footer a:hover { color: var(--accent); }
     <p class="section-sub">Em vez de participar de grupos de promoções que floodam seu Telegram com ofertas que não te interessam, o Product Tracker Bot coloca você no controle.</p>
     <div class="steps">
       <div class="step">
-        <span class="step-icon">✅</span>
+        <span class="step-icon"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg></span>
         <h3>Você escolhe o produto</h3>
         <p>Não receba spam de coisas que não quer. Adicione apenas o que realmente te interessa.</p>
       </div>
       <div class="step">
-        <span class="step-icon">🎯</span>
+        <span class="step-icon"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><circle cx="12" cy="12" r="6"/><circle cx="12" cy="12" r="2"/></svg></span>
         <h3>Você define o preço</h3>
         <p>Seja notificado apenas quando o preço baixar para o valor que você definiu.</p>
       </div>
       <div class="step">
-        <span class="step-icon">🔒</span>
+        <span class="step-icon"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="11" width="18" height="11" rx="2" ry="2"/><path d="M7 11V7a5 5 0 0 1 10 0v4"/></svg></span>
         <h3>Sem grupos lotados</h3>
         <p>Tudo direto no seu chat privado, sem noise e sem distrações.</p>
       </div>
       <div class="step">
-        <span class="step-icon">⏰</span>
+        <span class="step-icon"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg></span>
         <h3>Sem pressa</h3>
         <p>Compre quando o preço baixar. É como ter um assistente pessoal que vigia o preço pra você.</p>
       </div>
@@ -606,27 +610,27 @@ footer a:hover { color: var(--accent); }
     <p class="section-sub">Tudo que você precisa para economizar nas compras online.</p>
     <div class="features-grid">
       <div class="feature-card">
-        <span class="feature-icon">🛒</span>
+        <span class="feature-icon"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 2L3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z"/><line x1="3" y1="6" x2="21" y2="6"/><path d="M16 10a4 4 0 0 1-8 0"/></svg></span>
         <h4>Múltiplas Lojas</h4>
         <p>Suporta Mercado Livre, Amazon, Shopee, AliExpress e KaBuM! — as maiores lojas do Brasil.</p>
       </div>
       <div class="feature-card">
-        <span class="feature-icon">📉</span>
+        <span class="feature-icon"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="23 18 13.5 8.5 8.5 13.5 1 6"/><polyline points="17 18 23 18 23 12"/></svg></span>
         <h4>Alertas de Preço</h4>
         <p>Notificação com valor antigo, novo e variação percentual. Saiba na hora quando o preço cair.</p>
       </div>
       <div class="feature-card">
-        <span class="feature-icon">📋</span>
+        <span class="feature-icon"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="8" y1="6" x2="21" y2="6"/><line x1="8" y1="12" x2="21" y2="12"/><line x1="8" y1="18" x2="21" y2="18"/><line x1="3" y1="6" x2="3.01" y2="6"/><line x1="3" y1="12" x2="3.01" y2="12"/><line x1="3" y1="18" x2="3.01" y2="18"/></svg></span>
         <h4>Lista Completa</h4>
         <p>Veja todos os produtos monitorados com <code>/list</code>. Preços, alertas e variações em um só lugar.</p>
       </div>
       <div class="feature-card">
-        <span class="feature-icon">💸</span>
+        <span class="feature-icon"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="12" y1="1" x2="12" y2="23"/><path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/></svg></span>
         <h4>Links de Afiliado</h4>
         <p>Ajude o projeto sem pagar nada extra — os links gerados não aumentam o preço para você.</p>
       </div>
       <div class="feature-card">
-        <span class="feature-icon">✅</span>
+        <span class="feature-icon"><svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg></span>
         <h4>100% Grátis</h4>
         <p>Sem taxas, sem assinatura. Use à vontade, sem limites de produtos.</p>
       </div>

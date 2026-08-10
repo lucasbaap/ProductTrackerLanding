@@ -77,6 +77,10 @@ a:hover { text-decoration: underline; }
   background: var(--accent-bg); border: 1px solid var(--border);
   display: flex; align-items: center; justify-content: center; font-size: 1rem;
 }
+.logo-icon svg, .step-icon svg, .feature-icon svg {
+  display: block;
+  color: var(--accent);
+}
 .header-right {
   display: flex; align-items: center; gap: 1.1rem;
 }
@@ -267,7 +271,7 @@ footer a:hover { color: var(--accent); }
 <header class="site-header">
   <div class="header-inner">
     <a class="logo" href="index.html" aria-label="Product Tracker Bot">
-      <span class="logo-icon">📦</span>
+      <span class="logo-icon"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.83z"/><line x1="7" y1="7" x2="7.01" y2="7"/><polyline points="9 15 12 12 14 14 17 10"/></svg></span>
       <span>Product Tracker</span>
     </a>
     <div class="header-right">

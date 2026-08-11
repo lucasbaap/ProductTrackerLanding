@@ -3,21 +3,21 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Como usar o Product Tracker Bot — alerta de preço em 5 lojas | Product Tracker Bot</title>
-<meta name="description" content="Aprenda a criar alerta de preço no Mercado Livre, Amazon, Shopee, AliExpress e KaBuM! com o Product Tracker Bot. Passo a passo rápido e grátis no Telegram.">
-<link rel="canonical" href="https://lucasbaap.github.io/ProductTrackerLanding/como-usar.html">
+<title>Artigos — dicas para comprar com inteligência | Product Tracker Bot</title>
+<meta name="description" content="Artigos e dicas para comprar online com inteligência: como saber se uma promoção é real, monitorar preços e economizar de verdade.">
+<link rel="canonical" href="https://lucasbaap.github.io/ProductTrackerLanding/blog/index.html">
 
 <!-- Favicon -->
-<link rel="icon" type="image/svg+xml" href="assets/favicon.svg">
-<link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
+<link rel="icon" type="image/svg+xml" href="../assets/favicon.svg">
+<link rel="apple-touch-icon" href="../assets/apple-touch-icon.png">
 
 <!-- Open Graph / Facebook -->
-<meta property="og:type" content="article">
+<meta property="og:type" content="website">
 <meta property="og:locale" content="pt_BR">
 <meta property="og:site_name" content="Product Tracker Bot">
-<meta property="og:url" content="https://lucasbaap.github.io/ProductTrackerLanding/como-usar.html">
-<meta property="og:title" content="Como usar o Product Tracker Bot — alerta de preço em 5 lojas | Product Tracker Bot">
-<meta property="og:description" content="Aprenda a criar alerta de preço no Mercado Livre, Amazon, Shopee, AliExpress e KaBuM! com o Product Tracker Bot. Passo a passo rápido e grátis no Telegram.">
+<meta property="og:url" content="https://lucasbaap.github.io/ProductTrackerLanding/blog/index.html">
+<meta property="og:title" content="Artigos — dicas para comprar com inteligência | Product Tracker Bot">
+<meta property="og:description" content="Artigos e dicas para comprar online com inteligência: como saber se uma promoção é real, monitorar preços e economizar de verdade.">
 <meta property="og:image" content="https://lucasbaap.github.io/ProductTrackerLanding/assets/og-card.jpg">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
@@ -25,9 +25,9 @@
 
 <!-- Twitter -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:url" content="https://lucasbaap.github.io/ProductTrackerLanding/como-usar.html">
-<meta name="twitter:title" content="Como usar o Product Tracker Bot — alerta de preço em 5 lojas | Product Tracker Bot">
-<meta name="twitter:description" content="Aprenda a criar alerta de preço no Mercado Livre, Amazon, Shopee, AliExpress e KaBuM! com o Product Tracker Bot. Passo a passo rápido e grátis no Telegram.">
+<meta name="twitter:url" content="https://lucasbaap.github.io/ProductTrackerLanding/blog/index.html">
+<meta name="twitter:title" content="Artigos — dicas para comprar com inteligência | Product Tracker Bot">
+<meta name="twitter:description" content="Artigos e dicas para comprar online com inteligência: como saber se uma promoção é real, monitorar preços e economizar de verdade.">
 <meta name="twitter:image" content="https://lucasbaap.github.io/ProductTrackerLanding/assets/og-card.jpg">
 
 <style>
@@ -113,95 +113,75 @@ a:hover { text-decoration: underline; }
 .btn-lg { padding: 1.1rem 3rem; font-size: 1.15rem; }
 .btn-sm { padding: 0.55rem 1.15rem; font-size: 0.85rem; box-shadow: none; }
 
-/* ── Guide article ──────────────────────────────────────── */
-.guide-article {
-  max-width: 720px;
-  margin: 0 auto;
-  padding: 3.5rem 1.5rem 4rem;
-}
-.guide-breadcrumb {
-  font-size: 0.8rem; color: var(--muted);
-  margin-bottom: 1.25rem; letter-spacing: 0.01em;
-}
-.guide-breadcrumb a { color: var(--muted); }
-.guide-breadcrumb a:hover { color: var(--accent); }
-.guide-article h1 {
-  font-size: clamp(1.8rem, 4.5vw, 2.6rem);
-  font-weight: 800; letter-spacing: -0.03em; line-height: 1.2;
-  margin-bottom: 1.25rem;
-}
-.guide-intro {
-  font-size: 1.12rem; color: var(--muted);
-  border-left: 3px solid var(--accent);
-  padding-left: 1.1rem;
-  margin-bottom: 1.5rem;
-}
-.guide-article h2 {
-  font-size: 1.4rem; font-weight: 700; letter-spacing: -0.02em;
-  margin: 2.75rem 0 0.9rem;
-  padding-bottom: 0.45rem;
-  border-bottom: 1px solid var(--border);
-  scroll-margin-top: 90px;
-}
-.guide-article h3 {
-  font-size: 1.08rem; font-weight: 700;
-  margin: 1.6rem 0 0.45rem; letter-spacing: -0.01em;
-}
-.guide-article p {
-  font-size: 1.02rem; line-height: 1.75;
-  margin-bottom: 1rem;
-}
-.guide-article ul {
-  margin: 0 0 1.25rem 0; padding-left: 0;
-  list-style: none;
-}
-.guide-article ul li {
-  position: relative;
-  padding-left: 1.5rem;
-  margin-bottom: 0.6rem;
-  font-size: 1.02rem; line-height: 1.7;
-}
-.guide-article ul li::before {
-  content: ''; position: absolute; left: 2px; top: 0.62em;
-  width: 7px; height: 7px; border-radius: 50%;
-  background: var(--accent);
-}
-.guide-article b, .guide-article strong { color: #fff; font-weight: 700; }
-.guide-article code {
-  background: var(--card); border: 1px solid var(--border);
-  border-radius: 6px; padding: 1px 7px; font-size: 0.88em;
-  color: var(--accent); font-family: inherit;
-}
-.guide-article a { font-weight: 600; }
-
-/* ── Honesty note ───────────────────────────────────────── */
-.guide-note {
-  margin: 1.5rem 0 0.5rem;
-  background: var(--accent-bg);
-  border: 1px solid rgba(59, 130, 246, 0.25);
-  border-radius: var(--radius);
-  padding: 1.1rem 1.25rem;
-  font-size: 0.95rem; line-height: 1.7;
-}
-.guide-note p { font-size: 0.95rem; margin-bottom: 0.4rem; }
-.guide-note p:last-child { margin-bottom: 0; }
-
-/* ── CTA box ────────────────────────────────────────────── */
-.cta-box {
-  margin-top: 3rem;
-  background: var(--card);
-  border: 1px solid rgba(59, 130, 246, 0.35);
-  border-radius: var(--radius);
-  padding: 2.25rem 2rem;
+/* ── Sections ───────────────────────────────────────────── */
+section { padding: 5rem 1.5rem; }
+.container { max-width: var(--max-width); margin: 0 auto; }
+.section-title {
   text-align: center;
-  box-shadow: var(--shadow);
+  font-size: clamp(1.5rem, 3vw, 2rem);
+  font-weight: 800; letter-spacing: -0.02em;
+  margin-bottom: 0.5rem;
 }
-.cta-box p {
-  font-size: 1.05rem; line-height: 1.7;
-  margin-bottom: 1.75rem;
-  max-width: 520px; margin-left: auto; margin-right: auto;
+.section-sub {
+  text-align: center; color: var(--muted);
+  max-width: 640px; margin: 0 auto 3rem; font-size: 1.05rem;
 }
-.cta-box b, .cta-box strong { color: var(--accent); font-weight: 700; }
+
+/* ── Posts grid ─────────────────────────────────────────── */
+.posts-grid {
+  display: flex; gap: 1.25rem; justify-content: center; flex-wrap: wrap;
+}
+.post-card {
+  background: var(--card); border: 1px solid var(--border);
+  border-radius: var(--radius); padding: 1.75rem 1.5rem;
+  flex: 1 1 320px; max-width: 420px;
+  display: flex; flex-direction: column;
+  box-shadow: var(--shadow); transition: all 0.15s;
+}
+.post-card:hover { transform: translateY(-3px); border-color: rgba(59, 130, 246, 0.4); }
+.post-date {
+  font-size: 0.75rem; color: var(--muted);
+  letter-spacing: 0.04em; text-transform: uppercase;
+  margin-bottom: 0.6rem;
+}
+.post-card h3 {
+  font-size: 1.15rem; font-weight: 700; letter-spacing: -0.01em;
+  margin-bottom: 0.6rem; line-height: 1.35;
+}
+.post-card h3 a { color: var(--text); }
+.post-card h3 a:hover { color: var(--accent); text-decoration: none; }
+.post-excerpt {
+  font-size: 0.92rem; color: var(--muted);
+  margin-bottom: 1.25rem; line-height: 1.65;
+  flex-grow: 1;
+}
+.post-link {
+  display: inline-flex; align-items: center; gap: 6px;
+  font-size: 0.9rem; font-weight: 700;
+}
+
+/* ── CTA final ──────────────────────────────────────────── */
+.cta-section {
+  position: relative; text-align: center;
+  padding: 4rem 1.5rem; overflow: hidden;
+  background: linear-gradient(135deg, var(--accent) 0%, #1d4ed8 100%);
+  color: #fff;
+}
+.cta-section::before {
+  content: ''; position: absolute; inset: 0;
+  background: radial-gradient(ellipse 50% 60% at 80% 20%, rgba(255, 255, 255, 0.15) 0%, transparent 60%);
+}
+.cta-section h2 {
+  position: relative;
+  font-size: clamp(1.4rem, 3vw, 1.9rem);
+  margin-bottom: 0.75rem; letter-spacing: -0.02em;
+}
+.cta-section p {
+  position: relative; font-size: 1.05rem; opacity: 0.92;
+  margin-bottom: 1.75rem; max-width: 520px;
+  margin-left: auto; margin-right: auto;
+}
+.cta-section .btn { position: relative; }
 
 /* ── Footer ─────────────────────────────────────────────── */
 footer {
@@ -252,10 +232,10 @@ footer a:hover { color: var(--accent); }
 
 /* ── Responsive ─────────────────────────────────────────── */
 @media (max-width: 640px) {
-  .guide-article { padding: 2.5rem 1.15rem 3rem; }
+  section { padding: 3rem 1rem; }
   .header-inner { padding: 0.6rem 1rem; }
   .header-right { gap: 0.6rem; }
-  .cta-box { padding: 1.75rem 1.25rem; }
+  .post-card { flex: 1 1 100%; max-width: 100%; }
   .btn-lg { padding: 1rem 2.2rem; font-size: 1.05rem; }
 }
 
@@ -270,16 +250,16 @@ footer a:hover { color: var(--accent); }
 <!-- Header -->
 <header class="site-header">
   <div class="header-inner">
-    <a class="logo" href="index.html" aria-label="Product Tracker Bot">
+    <a class="logo" href="../index.html" aria-label="Product Tracker Bot">
       <span class="logo-icon"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.83z"/><line x1="7" y1="7" x2="7.01" y2="7"/><polyline points="9 15 12 12 14 14 17 10"/></svg></span>
       <span>Product Tracker</span>
     </a>
     <div class="header-right">
       <nav aria-label="Navegação principal">
         <ul class="nav-links">
-          <li><a class="nav-link" href="index.html">Home</a></li>
-          <li><a class="nav-link active" href="como-usar.html" aria-current="page">Como usar</a></li>
-          <li><a class="nav-link" href="blog/index.html">Artigos</a></li>
+          <li><a class="nav-link" href="../index.html">Home</a></li>
+          <li><a class="nav-link" href="../como-usar.html">Como usar</a></li>
+          <li><a class="nav-link active" href="index.html" aria-current="page">Artigos</a></li>
         </ul>
       </nav>
       <a href="https://t.me/MyProductTrackerBot" class="btn btn-sm" target="_blank" rel="noopener">Usar no Telegram</a>
@@ -288,49 +268,33 @@ footer a:hover { color: var(--accent); }
 </header>
 
 <main>
-<article class="guide-article">
 
-  <p class="guide-breadcrumb"><a href="index.html">Início</a> · Como usar</p>
+<!-- Blog index -->
+<section aria-label="Artigos">
+  <div class="container">
+    <h1 class="section-title">Artigos</h1>
+    <p class="section-sub">Dicas para comprar online com inteligência: saber se uma promoção é real, monitorar preços e economizar de verdade.</p>
 
-  <h1>Como usar o Product Tracker Bot</h1>
-
-  <p class="guide-intro">O Product Tracker Bot monitora preços de produtos do Mercado Livre, Amazon, Shopee, AliExpress e KaBuM! direto no Telegram — de graça. O passo a passo é o mesmo para qualquer loja: você envia o link, define quanto quer pagar (opcional) e o bot avisa quando o preço cair.</p>
-
-  <!-- ── Section 1: Passo a passo ─────────────────────────── -->
-  <h2 id="passo-a-passo">Passo a passo: o mesmo para qualquer loja</h2>
-  <p>O fluxo de uso é idêntico no Mercado Livre, na Amazon, na Shopee, no AliExpress e no KaBuM!. Basta seguir estes 5 passos.</p>
-
-  <h3>1. Escolha o produto na loja</h3>
-  <p>Mercado Livre, Amazon, Shopee, AliExpress ou KaBuM! — qualquer um serve. Abra o site ou o app e acesse a página do produto que você quer acompanhar.</p>
-
-  <h3>2. Copie o link do produto</h3>
-  <p>Copie o endereço da página — o link que aparece na barra de endereços do navegador. No app, use o botão de compartilhar e copie o link.</p>
-
-  <h3>3. Envie o link para o bot</h3>
-  <p>Abra o Telegram, procure por <strong>@MyProductTrackerBot</strong> (ou toque em <a href="https://t.me/MyProductTrackerBot" target="_blank" rel="noopener">https://t.me/MyProductTrackerBot</a>) e envie o link do produto no chat. O bot confirma o nome do produto e o preço atual e começa a monitorar.</p>
-
-  <h3>4. Defina seu preço alvo (opcional, mas recomendado)</h3>
-  <ul>
-    <li>Use o comando <code>/target</code> e escolha o produto na lista.</li>
-    <li>Digite o valor mínimo que você quer pagar — apenas números. Exemplo: <code>1200</code> para R$ 1.200,00.</li>
-    <li>Pronto: o bot avisa quando o preço chegar nesse valor.</li>
-    <li>Se preferir ser avisado sobre <strong>qualquer variação</strong>, dá para escolher essa opção também.</li>
-  </ul>
-
-  <h3>5. Receba o aviso</h3>
-  <p>Quando o preço cair (ou atingir o seu alvo), o bot envia a notificação no chat, com o novo preço e o link para comprar.</p>
-
-  <div class="guide-note">
-    <p><strong>Quedas de preço geram aviso.</strong> Para subidas e valores mantidos, o bot respeita um intervalo entre avisos, para não encher seu chat.</p>
-    <p>Gerenciamento por comandos: <code>/list</code> (ver seus produtos), <code>/target</code> (definir ou ajustar o preço alvo), <code>/remove</code> (parar de monitorar) e <code>/removeall</code> (remover todos).</p>
+    <div class="posts-grid">
+      <article class="post-card">
+        <p class="post-date">10 ago 2026</p>
+        <h3><a href="como-saber-se-uma-promocao-e-de-verdade.html">Como saber se uma promoção é de verdade</a></h3>
+        <p class="post-excerpt">O desconto exibido é opinião da loja. A faixa de preço que você observou é fato.</p>
+        <a class="post-link" href="como-saber-se-uma-promocao-e-de-verdade.html">Ler artigo →</a>
+      </article>
+    </div>
   </div>
+</section>
 
-  <section class="cta-box" aria-label="Chamada para ação">
-    <p>Comece agora: abra o <strong>Product Tracker Bot</strong>, envie o link do produto da sua loja preferida e defina o preço que você quer pagar. É grátis e leva menos de um minuto:</p>
-    <a href="https://t.me/MyProductTrackerBot" class="btn btn-lg" target="_blank" rel="noopener">https://t.me/MyProductTrackerBot</a>
-  </section>
+<!-- CTA Final -->
+<section class="cta-section">
+  <div class="container">
+    <h2>Quer vigiar o preço do seu produto?</h2>
+    <p>Envie o link para o Product Tracker Bot no Telegram e receba o alerta na queda — ou no seu preço-alvo. É grátis.</p>
+    <a href="https://t.me/MyProductTrackerBot" class="btn btn-lg btn-light" target="_blank" rel="noopener">Usar no Telegram</a>
+  </div>
+</section>
 
-</article>
 </main>
 
 <footer>
@@ -350,9 +314,9 @@ footer a:hover { color: var(--accent); }
   </div>
   <nav class="footer-guides" aria-label="Navegação do site">
     <span class="footer-guides-label">Navegue</span>
-    <a href="index.html">Home</a>
-    <a href="como-usar.html">Como usar</a>
-    <a href="blog/index.html">Artigos</a>
+    <a href="../index.html">Home</a>
+    <a href="../como-usar.html">Como usar</a>
+    <a href="index.html">Artigos</a>
   </nav>
   <p style="margin-top:0.3rem;font-size:0.75rem;">Mercado Livre, Amazon, Shopee, AliExpress e KaBuM! são marcas registradas de seus respectivos proprietários.</p>
 </footer>

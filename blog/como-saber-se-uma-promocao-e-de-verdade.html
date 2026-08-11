@@ -3,21 +3,21 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Como usar o Product Tracker Bot — alerta de preço em 5 lojas | Product Tracker Bot</title>
-<meta name="description" content="Aprenda a criar alerta de preço no Mercado Livre, Amazon, Shopee, AliExpress e KaBuM! com o Product Tracker Bot. Passo a passo rápido e grátis no Telegram.">
-<link rel="canonical" href="https://lucasbaap.github.io/ProductTrackerLanding/como-usar.html">
+<title>Como saber se uma promoção é de verdade | Product Tracker Bot</title>
+<meta name="description" content="Desconto de 50% nem sempre é real. Aprenda a monitorar o preço ao longo do tempo e saber se uma promoção é de verdade.">
+<link rel="canonical" href="https://lucasbaap.github.io/ProductTrackerLanding/blog/como-saber-se-uma-promocao-e-de-verdade.html">
 
 <!-- Favicon -->
-<link rel="icon" type="image/svg+xml" href="assets/favicon.svg">
-<link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
+<link rel="icon" type="image/svg+xml" href="../assets/favicon.svg">
+<link rel="apple-touch-icon" href="../assets/apple-touch-icon.png">
 
 <!-- Open Graph / Facebook -->
 <meta property="og:type" content="article">
 <meta property="og:locale" content="pt_BR">
 <meta property="og:site_name" content="Product Tracker Bot">
-<meta property="og:url" content="https://lucasbaap.github.io/ProductTrackerLanding/como-usar.html">
-<meta property="og:title" content="Como usar o Product Tracker Bot — alerta de preço em 5 lojas | Product Tracker Bot">
-<meta property="og:description" content="Aprenda a criar alerta de preço no Mercado Livre, Amazon, Shopee, AliExpress e KaBuM! com o Product Tracker Bot. Passo a passo rápido e grátis no Telegram.">
+<meta property="og:url" content="https://lucasbaap.github.io/ProductTrackerLanding/blog/como-saber-se-uma-promocao-e-de-verdade.html">
+<meta property="og:title" content="Como saber se uma promoção é de verdade | Product Tracker Bot">
+<meta property="og:description" content="Desconto de 50% nem sempre é real. Aprenda a monitorar o preço ao longo do tempo e saber se uma promoção é de verdade.">
 <meta property="og:image" content="https://lucasbaap.github.io/ProductTrackerLanding/assets/og-card.jpg">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
@@ -25,9 +25,9 @@
 
 <!-- Twitter -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:url" content="https://lucasbaap.github.io/ProductTrackerLanding/como-usar.html">
-<meta name="twitter:title" content="Como usar o Product Tracker Bot — alerta de preço em 5 lojas | Product Tracker Bot">
-<meta name="twitter:description" content="Aprenda a criar alerta de preço no Mercado Livre, Amazon, Shopee, AliExpress e KaBuM! com o Product Tracker Bot. Passo a passo rápido e grátis no Telegram.">
+<meta name="twitter:url" content="https://lucasbaap.github.io/ProductTrackerLanding/blog/como-saber-se-uma-promocao-e-de-verdade.html">
+<meta name="twitter:title" content="Como saber se uma promoção é de verdade | Product Tracker Bot">
+<meta name="twitter:description" content="Desconto de 50% nem sempre é real. Aprenda a monitorar o preço ao longo do tempo e saber se uma promoção é de verdade.">
 <meta name="twitter:image" content="https://lucasbaap.github.io/ProductTrackerLanding/assets/og-card.jpg">
 
 <style>
@@ -166,25 +166,26 @@ a:hover { text-decoration: underline; }
   width: 7px; height: 7px; border-radius: 50%;
   background: var(--accent);
 }
+.guide-article ol {
+  margin: 0 0 1.25rem 0; padding-left: 1.4rem;
+  list-style: decimal;
+}
+.guide-article ol li {
+  padding-left: 0.3rem;
+  margin-bottom: 0.6rem;
+  font-size: 1.02rem; line-height: 1.7;
+}
+.guide-article ol li::marker {
+  color: var(--accent); font-weight: 700;
+}
 .guide-article b, .guide-article strong { color: #fff; font-weight: 700; }
+.guide-article em { color: var(--muted); }
 .guide-article code {
   background: var(--card); border: 1px solid var(--border);
   border-radius: 6px; padding: 1px 7px; font-size: 0.88em;
   color: var(--accent); font-family: inherit;
 }
 .guide-article a { font-weight: 600; }
-
-/* ── Honesty note ───────────────────────────────────────── */
-.guide-note {
-  margin: 1.5rem 0 0.5rem;
-  background: var(--accent-bg);
-  border: 1px solid rgba(59, 130, 246, 0.25);
-  border-radius: var(--radius);
-  padding: 1.1rem 1.25rem;
-  font-size: 0.95rem; line-height: 1.7;
-}
-.guide-note p { font-size: 0.95rem; margin-bottom: 0.4rem; }
-.guide-note p:last-child { margin-bottom: 0; }
 
 /* ── CTA box ────────────────────────────────────────────── */
 .cta-box {
@@ -270,16 +271,16 @@ footer a:hover { color: var(--accent); }
 <!-- Header -->
 <header class="site-header">
   <div class="header-inner">
-    <a class="logo" href="index.html" aria-label="Product Tracker Bot">
+    <a class="logo" href="../index.html" aria-label="Product Tracker Bot">
       <span class="logo-icon"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.83z"/><line x1="7" y1="7" x2="7.01" y2="7"/><polyline points="9 15 12 12 14 14 17 10"/></svg></span>
       <span>Product Tracker</span>
     </a>
     <div class="header-right">
       <nav aria-label="Navegação principal">
         <ul class="nav-links">
-          <li><a class="nav-link" href="index.html">Home</a></li>
-          <li><a class="nav-link active" href="como-usar.html" aria-current="page">Como usar</a></li>
-          <li><a class="nav-link" href="blog/index.html">Artigos</a></li>
+          <li><a class="nav-link" href="../index.html">Home</a></li>
+          <li><a class="nav-link" href="../como-usar.html">Como usar</a></li>
+          <li><a class="nav-link active" href="index.html" aria-current="page">Artigos</a></li>
         </ul>
       </nav>
       <a href="https://t.me/MyProductTrackerBot" class="btn btn-sm" target="_blank" rel="noopener">Usar no Telegram</a>
@@ -290,44 +291,70 @@ footer a:hover { color: var(--accent); }
 <main>
 <article class="guide-article">
 
-  <p class="guide-breadcrumb"><a href="index.html">Início</a> · Como usar</p>
+  <p class="guide-breadcrumb"><a href="../index.html">Início</a> · <a href="index.html">Artigos</a> · Como saber se uma promoção é de verdade</p>
 
-  <h1>Como usar o Product Tracker Bot</h1>
+  <h1>Como saber se uma promoção é de verdade</h1>
 
-  <p class="guide-intro">O Product Tracker Bot monitora preços de produtos do Mercado Livre, Amazon, Shopee, AliExpress e KaBuM! direto no Telegram — de graça. O passo a passo é o mesmo para qualquer loja: você envia o link, define quanto quer pagar (opcional) e o bot avisa quando o preço cair.</p>
+  <p class="guide-intro">Você vê aquele banner "50% OFF", compra na hora, se sente o mestre das compras — e duas semanas depois o mesmo produto aparece mais barato, sem "promoção" nenhuma. A gente já passou por isso, e a culpa não é sua: o desconto que a loja mostra na tela simplesmente não é a verdade. Ele é calculado em cima de um preço de referência que a própria loja escolheu — e esse número, muitas vezes, não tem nada a ver com o valor real do produto.</p>
 
-  <!-- ── Section 1: Passo a passo ─────────────────────────── -->
-  <h2 id="passo-a-passo">Passo a passo: o mesmo para qualquer loja</h2>
-  <p>O fluxo de uso é idêntico no Mercado Livre, na Amazon, na Shopee, no AliExpress e no KaBuM!. Basta seguir estes 5 passos.</p>
+  <p>A boa notícia? Dá pra saber se aquela promoção vale a pena de verdade — e o jeito não tem nada a ver com o percentual gigante que aparece no banner.</p>
 
-  <h3>1. Escolha o produto na loja</h3>
-  <p>Mercado Livre, Amazon, Shopee, AliExpress ou KaBuM! — qualquer um serve. Abra o site ou o app e acesse a página do produto que você quer acompanhar.</p>
+  <h2>O problema do "de X por Y"</h2>
+  <p>O famoso "de R$ 399 por R$ 199" está em toda loja: Mercado Livre, Amazon, Shopee, AliExpress, KaBuM!. O problema é que o preço de referência — aquele "de R$ 399" — quem define é a loja, sem nenhum critério público ou neutro.</p>
 
-  <h3>2. Copie o link do produto</h3>
-  <p>Copie o endereço da página — o link que aparece na barra de endereços do navegador. No app, use o botão de compartilhar e copie o link.</p>
-
-  <h3>3. Envie o link para o bot</h3>
-  <p>Abra o Telegram, procure por <strong>@MyProductTrackerBot</strong> (ou toque em <a href="https://t.me/MyProductTrackerBot" target="_blank" rel="noopener">https://t.me/MyProductTrackerBot</a>) e envie o link do produto no chat. O bot confirma o nome do produto e o preço atual e começa a monitorar.</p>
-
-  <h3>4. Defina seu preço alvo (opcional, mas recomendado)</h3>
+  <p>Olha o que rola na prática:</p>
   <ul>
-    <li>Use o comando <code>/target</code> e escolha o produto na lista.</li>
-    <li>Digite o valor mínimo que você quer pagar — apenas números. Exemplo: <code>1200</code> para R$ 1.200,00.</li>
-    <li>Pronto: o bot avisa quando o preço chegar nesse valor.</li>
-    <li>Se preferir ser avisado sobre <strong>qualquer variação</strong>, dá para escolher essa opção também.</li>
+    <li><strong>Preço de referência inflado:</strong> o produto nunca foi vendido por R$ 399 de forma consistente, mas o desconto de 50% calculado sobre esse valor parece ótimo.</li>
+    <li><strong>Desconto em cima de valor irreal:</strong> o percentual até está matematicamente certo, mas o preço-base é fictício. Resultado: você paga o preço normal achando que está na promoção.</li>
+    <li><strong>"Promoção" que nunca acaba:</strong> tem produto que passa o ano inteiro com o selo de oferta. Se o "preço promocional" nunca muda, aquilo não é promoção — é o preço normal.</li>
   </ul>
 
-  <h3>5. Receba o aviso</h3>
-  <p>Quando o preço cair (ou atingir o seu alvo), o bot envia a notificação no chat, com o novo preço e o link para comprar.</p>
+  <p>O percentual de desconto não te diz se você está pagando barato. Ele só te diz que o preço atual é menor do que um número que a loja escolheu.</p>
 
-  <div class="guide-note">
-    <p><strong>Quedas de preço geram aviso.</strong> Para subidas e valores mantidos, o bot respeita um intervalo entre avisos, para não encher seu chat.</p>
-    <p>Gerenciamento por comandos: <code>/list</code> (ver seus produtos), <code>/target</code> (definir ou ajustar o preço alvo), <code>/remove</code> (parar de monitorar) e <code>/removeall</code> (remover todos).</p>
-  </div>
+  <h2>O método — monitore o preço por um período</h2>
+  <p>Quer saber a verdade? O jeito confiável é observar o comportamento real do preço ao longo do tempo. Alguns dias de monitoramento já mostram o padrão: qual é a faixa que o produto costuma ficar, quanto ele sobe e desce, e se aquele "desconto" é uma exceção ou só a regra do jogo.</p>
+
+  <p>Na prática:</p>
+  <ol>
+    <li><strong>Descubra o preço-base.</strong> Acompanhe o produto por alguns dias e veja qual valor ele mantém na maior parte do tempo. É esse número que importa — não o "de X por Y".</li>
+    <li><strong>Observe as variações.</strong> O preço sobe e desce? Qual é o pico e qual é o vale? Produto que oscila bastante pode ser comprado bem mais barato se você esperar a queda certa.</li>
+    <li><strong>Compare a promoção com a faixa que você viu.</strong> Se o produto costuma ficar entre R$ 280 e R$ 320, uma oferta "de R$ 400 por R$ 300" não é promoção — é o preço normal dele. O bom negócio é quando o preço cai abaixo do vale que você já viu.</li>
+    <li><strong>Compre com dados, não com empolgação.</strong> Quando o preço chega na parte baixa da faixa, você compra sabendo que pagou barato de verdade.</li>
+  </ol>
+
+  <p>O desconto exibido é opinião da loja. A faixa de preço que você observou é fato.</p>
+
+  <h2>Por que sites de cupom e grupos de oferta não resolvem</h2>
+  <p>Sites de cupom, canais de "pechinchas" e grupos de oferta têm um problema de fundo: eles existem pra te mandar ofertas — não pra te dizer se o preço é bom.</p>
+  <ul>
+    <li><strong>Cupom que não vale nada:</strong> muitos cupons são calculados em cima do preço já inflado. Aquele "10% OFF" aplicado sobre uma referência irreal é só um jeito de fazer você achar que economizou.</li>
+    <li><strong>Gancho de venda:</strong> o objetivo ali é te fazer clicar e comprar. O desconto aparece em cima do preço cheio ("de X por Y"), parece incrível — mas ninguém mostra se o preço final está abaixo do que o produto costuma custar.</li>
+    <li><strong>Oferta que você não pediu:</strong> o grupo te empurra o que está em alta, não o que você quer. Pro produto que você está de olho, eles não te dizem nada.</li>
+  </ul>
+
+  <p>No fim, essas plataformas não respondem à pergunta que importa: <em>eu estou pagando barato de verdade nesse produto específico?</em></p>
+
+  <h2>Como o Product Tracker Bot é diferente</h2>
+  <p>O Product Tracker Bot faz o caminho inverso: <strong>você escolhe o produto, e ele vigia só ele.</strong></p>
+  <ul>
+    <li>Você manda o link do produto que quer acompanhar (Mercado Livre, Amazon, Shopee, AliExpress ou KaBuM!) no Telegram;</li>
+    <li>O bot passa a monitorar <strong>aquele produto</strong> — e apenas ele;</li>
+    <li>Quando o preço cai, o alerta chega pra você;</li>
+    <li>Dá pra definir um <strong>preço-alvo</strong>: o bot avisa quando o valor chegar lá, sem você precisar ficar abrindo o site toda hora;</li>
+    <li>Sem cupom empurrado, sem promoção aleatória, sem gancho de venda. Só o que você pediu.</li>
+  </ul>
+
+  <h2>Resumo rápido</h2>
+  <ul>
+    <li>Desconfie do percentual exibido: o "de X por Y" pode ser calculado em cima de um preço inflado.</li>
+    <li>Monitore o preço por alguns dias pra descobrir a faixa real do produto.</li>
+    <li>Só considere promoção de verdade o preço que ficar abaixo da faixa que você observou.</li>
+    <li>Use o Product Tracker Bot pra vigiar o produto que você quer e receber o alerta na queda — ou no seu preço-alvo.</li>
+  </ul>
 
   <section class="cta-box" aria-label="Chamada para ação">
-    <p>Comece agora: abra o <strong>Product Tracker Bot</strong>, envie o link do produto da sua loja preferida e defina o preço que você quer pagar. É grátis e leva menos de um minuto:</p>
-    <a href="https://t.me/MyProductTrackerBot" class="btn btn-lg" target="_blank" rel="noopener">https://t.me/MyProductTrackerBot</a>
+    <p>Comece agora — é grátis.</p>
+    <a href="https://t.me/MyProductTrackerBot" class="btn btn-lg" target="_blank" rel="noopener">Usar no Telegram</a>
   </section>
 
 </article>
@@ -350,9 +377,9 @@ footer a:hover { color: var(--accent); }
   </div>
   <nav class="footer-guides" aria-label="Navegação do site">
     <span class="footer-guides-label">Navegue</span>
-    <a href="index.html">Home</a>
-    <a href="como-usar.html">Como usar</a>
-    <a href="blog/index.html">Artigos</a>
+    <a href="../index.html">Home</a>
+    <a href="../como-usar.html">Como usar</a>
+    <a href="index.html">Artigos</a>
   </nav>
   <p style="margin-top:0.3rem;font-size:0.75rem;">Mercado Livre, Amazon, Shopee, AliExpress e KaBuM! são marcas registradas de seus respectivos proprietários.</p>
 </footer>

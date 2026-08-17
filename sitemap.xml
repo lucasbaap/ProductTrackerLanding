@@ -14,7 +14,13 @@
   </url>
   <url>
     <loc>https://myproducttracker.com/blog/index.html</loc>
-    <lastmod>2026-08-15</lastmod>
+    <lastmod>2026-08-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://myproducttracker.com/blog/vale-a-pena-comprar-agora-ou-esperar-a-black-friday.html</loc>
+    <lastmod>2026-08-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>

@@ -567,8 +567,39 @@ footer a:hover { color: var(--accent); }
   font-size: 0.68rem; font-weight: 700; color: var(--muted);
 }
 
+/* ── Produtos Monitorados (teaser) ──────────────────────── */
+.dq-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 1rem;
+}
+.dq-card {
+  display: flex; flex-direction: column;
+  background: var(--card); border: 1px solid var(--border);
+  border-radius: var(--radius); overflow: hidden;
+  box-shadow: var(--shadow); transition: all 0.15s;
+  color: var(--text);
+}
+.dq-card:hover {
+  transform: translateY(-3px); border-color: rgba(59, 130, 246, 0.4);
+  text-decoration: none; color: var(--text);
+}
+.dq-thumb {
+  width: 100%; aspect-ratio: 4 / 3; background: var(--bg);
+  display: flex; align-items: center; justify-content: center; overflow: hidden;
+}
+.dq-thumb img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.dq-thumb.ph { background: linear-gradient(135deg, #1a2540 0%, #223052 50%, #1a2540 100%); }
+.dq-thumb.ph::after { content: "🖼"; font-size: 1.7rem; opacity: 0.35; }
+.dq-body { padding: 0.9rem 1rem 1rem; display: flex; flex-direction: column; gap: 0.3rem; }
+.dq-title { font-size: 0.95rem; font-weight: 700; letter-spacing: -0.01em; line-height: 1.3; }
+.dq-price { font-size: 0.85rem; color: var(--muted); }
+.dq-price b { color: var(--text); font-weight: 700; }
+.dq-more { text-align: center; margin-top: 2rem; }
+
 /* ── Responsive ─────────────────────────────────────────── */
 @media (max-width: 640px) {
+  .dq-grid { grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 0.75rem; }
   .hero { min-height: auto; padding: 3.5rem 1rem; }
   section { padding: 3rem 1rem; }
   .step, .feature-card { flex: 1 1 100%; max-width: 100%; }
@@ -601,6 +632,7 @@ footer a:hover { color: var(--accent); }
       <nav aria-label="Navegação principal">
         <ul class="nav-links">
           <li><a class="nav-link active" href="index.html" aria-current="page">Home</a></li>
+          <li><a class="nav-link" href="vitrine.html">Produtos Monitorados</a></li>
           <li><a class="nav-link" href="como-usar.html">Como usar</a></li>
           <li><a class="nav-link" href="blog/index.html">Artigos</a></li>
         </ul>
@@ -623,6 +655,7 @@ footer a:hover { color: var(--accent); }
   </div>
   <ul class="drawer-links">
     <li><a class="active" href="index.html" aria-current="page">Home</a></li>
+    <li><a href="vitrine.html">Produtos Monitorados</a></li>
     <li><a href="como-usar.html">Como usar</a></li>
     <li><a href="blog/index.html">Artigos</a></li>
   </ul>
@@ -745,6 +778,18 @@ footer a:hover { color: var(--accent); }
         <h4>100% Grátis</h4>
         <p>Sem taxas, sem assinatura. Use à vontade, sem limites de produtos.</p>
       </div>
+    </div>
+  </div>
+</section>
+
+<!-- Produtos Monitorados (vitrine) -->
+<section id="destaques" class="alt" hidden>
+  <div class="container">
+    <h2 class="section-title">Produtos Monitorados</h2>
+    <p class="section-sub">Acompanhe o histórico de preços de produtos populares em várias lojas — e comece a monitorar com um clique.</p>
+    <div id="destaques-grid" class="dq-grid" aria-live="polite"></div>
+    <div class="dq-more">
+      <a href="vitrine.html" class="btn">Ver todos os produtos</a>
     </div>
   </div>
 </section>
@@ -890,6 +935,7 @@ footer a:hover { color: var(--accent); }
   <nav class="footer-guides" aria-label="Navegação do site">
     <span class="footer-guides-label">Navegue</span>
     <a href="index.html">Home</a>
+    <a href="vitrine.html">Produtos Monitorados</a>
     <a href="como-usar.html">Como usar</a>
     <a href="blog/index.html">Artigos</a>
   </nav>
@@ -897,5 +943,56 @@ footer a:hover { color: var(--accent); }
 </footer>
 
 <script src="assets/menu.js" defer></script>
+<script>
+/* Teaser "Produtos Monitorados": lê o mesmo snapshot da vitrine (showcase/index.json)
+ * e mostra alguns cards de família. Falha silenciosa: se não houver dados, a seção
+ * permanece oculta (hidden). */
+(function () {
+  "use strict";
+  function esc(s) {
+    return String(s == null ? "" : s)
+      .replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;")
+      .replace(/"/g, "&quot;").replace(/'/g, "&#39;");
+  }
+  // Só http(s)/relativo em src — bloqueia javascript:/data: vindos do snapshot.
+  function safeUrl(u) {
+    var s = String(u == null ? "" : u).trim();
+    if (!s) return "";
+    var probe = s.replace(/[\u0000-\u001f\u007f]/g, "").toLowerCase();
+    if (/^[a-z][a-z0-9.+-]*:/.test(probe) && !/^https?:/.test(probe)) return "";
+    return s;
+  }
+  function money(v, cur) {
+    if (v == null || isNaN(v)) return "";
+    try { return new Intl.NumberFormat("pt-BR", { style: "currency", currency: cur || "BRL" }).format(v); }
+    catch (e) { return "R$ " + Number(v).toFixed(2).replace(".", ","); }
+  }
+  function card(fam) {
+    var img = safeUrl(fam.image_url);
+    var thumb = img
+      ? '<span class="dq-thumb"><img src="' + esc(img) + '" alt="' + esc(fam.name) + '" loading="lazy" onerror="this.parentNode.classList.add(\'ph\');this.remove();"></span>'
+      : '<span class="dq-thumb ph" role="img" aria-label="' + esc(fam.name) + '"></span>';
+    var price = fam.price_from != null
+      ? '<span class="dq-price">a partir de <b>' + esc(money(fam.price_from, fam.currency)) + "</b></span>"
+      : "";
+    return '<a class="dq-card" href="vitrine.html#/fam/' + esc(fam.slug) + '">' + thumb +
+      '<span class="dq-body"><span class="dq-title">' + esc(fam.name) + "</span>" + price + "</span></a>";
+  }
+  fetch("showcase/index.json", { cache: "no-cache" })
+    .then(function (r) { if (!r.ok) throw new Error(); return r.json(); })
+    .then(function (d) {
+      var fams = (d.families || []).slice().sort(function (a, b) {
+        return (a.position || 0) - (b.position || 0);
+      }).slice(0, 4);
+      if (!fams.length) return;
+      var grid = document.getElementById("destaques-grid");
+      var sec = document.getElementById("destaques");
+      if (!grid || !sec) return;
+      grid.innerHTML = fams.map(card).join("");
+      sec.hidden = false;
+    })
+    .catch(function () { /* mantém a seção oculta */ });
+})();
+</script>
 </body>
 </html>

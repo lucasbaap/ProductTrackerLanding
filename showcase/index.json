@@ -1,0 +1,208 @@
+{
+  "generated_at": "2026-09-24T18:00:00-03:00",
+  "categories": [
+    {
+      "id": 1,
+      "name": "Hardware",
+      "slug": "hardware",
+      "parent_id": null,
+      "position": 0
+    },
+    {
+      "id": 2,
+      "name": "Placa de vídeo",
+      "slug": "placa-de-video",
+      "parent_id": 1,
+      "position": 0
+    },
+    {
+      "id": 3,
+      "name": "Processadores",
+      "slug": "processadores",
+      "parent_id": 1,
+      "position": 1
+    },
+    {
+      "id": 4,
+      "name": "Periféricos",
+      "slug": "perifericos",
+      "parent_id": null,
+      "position": 1
+    },
+    {
+      "id": 5,
+      "name": "Teclados",
+      "slug": "teclados",
+      "parent_id": 4,
+      "position": 0
+    }
+  ],
+  "families": [
+    {
+      "id": 10,
+      "category_id": 2,
+      "name": "RX 9070",
+      "slug": "rx-9070",
+      "brand": "AMD",
+      "image_url": "assets/showcase/rx9070.webp",
+      "position": 0,
+      "price_from": 3299.99,
+      "currency": "BRL",
+      "model_count": 2
+    },
+    {
+      "id": 11,
+      "category_id": 2,
+      "name": "RTX 5070",
+      "slug": "rtx-5070",
+      "brand": "NVIDIA",
+      "image_url": null,
+      "position": 1,
+      "price_from": 4239.99,
+      "currency": "BRL",
+      "model_count": 2
+    },
+    {
+      "id": 14,
+      "category_id": 2,
+      "name": "RX 9060 XT",
+      "slug": "rx-9060-xt",
+      "brand": "AMD",
+      "image_url": null,
+      "position": 2,
+      "price_from": 2499.99,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 12,
+      "category_id": 3,
+      "name": "Ryzen 7 9800X3D",
+      "slug": "ryzen-7-9800x3d",
+      "brand": "AMD",
+      "image_url": "assets/showcase/ryzen-9800x3d.webp",
+      "position": 0,
+      "price_from": 2999.99,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 13,
+      "category_id": 5,
+      "name": "Teclado Redragon Kumara",
+      "slug": "redragon-kumara",
+      "brand": null,
+      "image_url": null,
+      "position": 0,
+      "price_from": 169.99,
+      "currency": "BRL",
+      "model_count": 1
+    }
+  ],
+  "models": [
+    {
+      "id": 100,
+      "family_id": 10,
+      "name": "RX 9070 XFX Swift 16GB",
+      "slug": "rx-9070-xfx-swift",
+      "image_url": "assets/showcase/rx9070-xfx.webp",
+      "position": 0,
+      "price_from": 3299.99,
+      "currency": "BRL",
+      "stores": [
+        "kabum",
+        "mercadolibre",
+        "amazon"
+      ]
+    },
+    {
+      "id": 101,
+      "family_id": 10,
+      "name": "RX 9070 Sapphire Pulse",
+      "slug": "rx-9070-sapphire",
+      "image_url": null,
+      "position": 1,
+      "price_from": 3459.99,
+      "currency": "BRL",
+      "stores": [
+        "kabum",
+        "pichau"
+      ]
+    },
+    {
+      "id": 140,
+      "family_id": 14,
+      "name": "RX 9060 XT PowerColor Reaper 16GB",
+      "slug": "rx-9060-xt-powercolor",
+      "image_url": null,
+      "position": 0,
+      "price_from": 2499.99,
+      "currency": "BRL",
+      "stores": [
+        "kabum",
+        "terabyte"
+      ]
+    },
+    {
+      "id": 110,
+      "family_id": 11,
+      "name": "RTX 5070 Gigabyte Windforce",
+      "slug": "rtx-5070-gigabyte",
+      "image_url": "assets/showcase/rtx5070-gigabyte.webp",
+      "position": 0,
+      "price_from": 4239.99,
+      "currency": "BRL",
+      "stores": [
+        "kabum",
+        "terabyte",
+        "amazon"
+      ]
+    },
+    {
+      "id": 111,
+      "family_id": 11,
+      "name": "RTX 5070 ASUS Dual OC",
+      "slug": "rtx-5070-asus-dual",
+      "image_url": null,
+      "position": 1,
+      "price_from": 4519.99,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre",
+        "magalu"
+      ]
+    },
+    {
+      "id": 120,
+      "family_id": 12,
+      "name": "Ryzen 7 9800X3D",
+      "slug": "ryzen-7-9800x3d-box",
+      "image_url": "assets/showcase/ryzen-9800x3d.webp",
+      "position": 0,
+      "price_from": 2999.99,
+      "currency": "BRL",
+      "stores": [
+        "kabum",
+        "mercadolibre",
+        "amazon",
+        "pichau"
+      ]
+    },
+    {
+      "id": 130,
+      "family_id": 13,
+      "name": "Redragon Kumara K552 RGB",
+      "slug": "redragon-kumara-k552",
+      "image_url": null,
+      "position": 0,
+      "price_from": 169.99,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre",
+        "amazon",
+        "shopee",
+        "aliexpress"
+      ]
+    }
+  ]
+}

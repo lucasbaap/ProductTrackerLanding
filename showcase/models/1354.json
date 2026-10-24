@@ -1,0 +1,32 @@
+{
+  "id": 1354,
+  "name": "512GB",
+  "family_id": 1143,
+  "image_url": null,
+  "monitored_since": "2026-10-24",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "mercadolibre",
+      "label": "Mercado Livre",
+      "link": "https://www.mercadolivre.com.br/p/MLB65559882?matt_word=balu1353476&matt_tool=29239275",
+      "has_affiliate": true,
+      "current_price": 6665.56,
+      "min_price": 6665.56,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 6665.56
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1354_all",
+    "per_store": {
+      "mercadolibre": "https://t.me/MyProductTrackerBot?start=sc_1354_mercadolibre"
+    }
+  }
+}

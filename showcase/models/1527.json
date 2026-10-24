@@ -1,0 +1,83 @@
+{
+  "id": 1527,
+  "name": "ADATA SU650 1TB (SATA)",
+  "family_id": 1287,
+  "image_url": null,
+  "monitored_since": "2026-10-24",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "mercadolibre",
+      "label": "Mercado Livre",
+      "link": "https://www.mercadolivre.com.br/p/MLB30178790?matt_word=balu1353476&matt_tool=29239275",
+      "has_affiliate": true,
+      "current_price": 1051.0,
+      "min_price": 1051.0,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1051.0
+        }
+      ]
+    },
+    {
+      "marketplace": "amazon",
+      "label": "Amazon",
+      "link": "https://www.amazon.com.br/dp/B0C66DBB1H?tag=producttrac0c-20",
+      "has_affiliate": true,
+      "current_price": 1047.05,
+      "min_price": 1047.05,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1047.05
+        }
+      ]
+    },
+    {
+      "marketplace": "kabum",
+      "label": "KaBuM!",
+      "link": "https://www.kabum.com.br/produto/995092/ssd-adata-ultimate-su650-1tb-sata-iii-6gb-s-2-5-leitura-ate-520mb-s-gravacao-ate-450mb-s-asu650ss-1tt-r",
+      "has_affiliate": true,
+      "current_price": 963.76,
+      "min_price": 963.76,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 963.76
+        }
+      ]
+    },
+    {
+      "marketplace": "terabyte",
+      "label": "Terabyte",
+      "link": "https://www.terabyteshop.com.br/produto/26317/ssd-adata-su650-1tb-sata-iii-leitura-520mbs-e-gravacao-450mbs-asu650ss-1tt-r",
+      "has_affiliate": true,
+      "current_price": 1199.88,
+      "min_price": 1199.88,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1199.88
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1527_all",
+    "per_store": {
+      "mercadolibre": "https://t.me/MyProductTrackerBot?start=sc_1527_mercadolibre",
+      "amazon": "https://t.me/MyProductTrackerBot?start=sc_1527_amazon",
+      "kabum": "https://t.me/MyProductTrackerBot?start=sc_1527_kabum",
+      "terabyte": "https://t.me/MyProductTrackerBot?start=sc_1527_terabyte"
+    }
+  }
+}

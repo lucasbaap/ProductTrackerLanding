@@ -1,0 +1,83 @@
+{
+  "id": 1442,
+  "name": "ASRock B760M Pro RS",
+  "family_id": 1202,
+  "image_url": null,
+  "monitored_since": "2026-10-24",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "mercadolibre",
+      "label": "Mercado Livre",
+      "link": "https://www.mercadolivre.com.br/p/MLB35333268?matt_word=balu1353476&matt_tool=29239275",
+      "has_affiliate": true,
+      "current_price": 991.98,
+      "min_price": 991.98,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 991.98
+        }
+      ]
+    },
+    {
+      "marketplace": "amazon",
+      "label": "Amazon",
+      "link": "https://www.amazon.com.br/ASRock-B760M-Pro-Motherboard-DisplayPort/dp/B0C2C96LDL?tag=producttrac0c-20",
+      "has_affiliate": true,
+      "current_price": 1068.64,
+      "min_price": 1068.64,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1068.64
+        }
+      ]
+    },
+    {
+      "marketplace": "kabum",
+      "label": "KaBuM!",
+      "link": "https://www.kabum.com.br/produto/546541/placa-mae-asrock-b760m-pro-rs-intel-lga-1700-ddr4?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792816818_45687ede5dc2b2f9d50804bb6b55066a&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "has_affiliate": true,
+      "current_price": 859.9,
+      "min_price": 859.9,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 859.9
+        }
+      ]
+    },
+    {
+      "marketplace": "terabyte",
+      "label": "Terabyte",
+      "link": "https://www.terabyteshop.com.br/produto/27304/placa-mae-asrock-b760m-pro-rs-chipset-b760-intel-lga-1700-matx-ddr5-90-mxblh0-a0uayz",
+      "has_affiliate": true,
+      "current_price": 999.99,
+      "min_price": 999.99,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 999.99
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1442_all",
+    "per_store": {
+      "mercadolibre": "https://t.me/MyProductTrackerBot?start=sc_1442_mercadolibre",
+      "amazon": "https://t.me/MyProductTrackerBot?start=sc_1442_amazon",
+      "kabum": "https://t.me/MyProductTrackerBot?start=sc_1442_kabum",
+      "terabyte": "https://t.me/MyProductTrackerBot?start=sc_1442_terabyte"
+    }
+  }
+}

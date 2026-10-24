@@ -1,0 +1,49 @@
+{
+  "id": 1529,
+  "name": "WD Blue SN570 1TB (NVMe Gen3)",
+  "family_id": 1289,
+  "image_url": null,
+  "monitored_since": "2026-10-24",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "amazon",
+      "label": "Amazon",
+      "link": "https://www.amazon.com.br/dp/B09HKDQ1RN?tag=producttrac0c-20",
+      "has_affiliate": true,
+      "current_price": 1342.0,
+      "min_price": 1342.0,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1342.0
+        }
+      ]
+    },
+    {
+      "marketplace": "kabum",
+      "label": "KaBuM!",
+      "link": "https://www.kabum.com.br/produto/1020444/ssd-nvme-wd-blue-sn570-1tb-m-2-2280-pcie-3-0-3500mb-s-wd",
+      "has_affiliate": true,
+      "current_price": 1218.38,
+      "min_price": 1218.38,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1218.38
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1529_all",
+    "per_store": {
+      "amazon": "https://t.me/MyProductTrackerBot?start=sc_1529_amazon",
+      "kabum": "https://t.me/MyProductTrackerBot?start=sc_1529_kabum"
+    }
+  }
+}

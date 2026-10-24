@@ -1,0 +1,61 @@
+{
+  "id": 1503,
+  "name": "Corsair Vengeance RGB RS CMG32GX4M2E3200C16 (32GB 2x16 DDR4-3200)",
+  "family_id": 1263,
+  "image_url": null,
+  "monitored_since": "2026-10-24",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "mercadolibre",
+      "label": "Mercado Livre",
+      "link": "https://www.mercadolivre.com.br/p/MLB22697272?matt_word=balu1353476&matt_tool=29239275",
+      "has_affiliate": true,
+      "current_price": 2199.0,
+      "min_price": 2199.0,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 2199.0
+        }
+      ]
+    },
+    {
+      "marketplace": "amazon",
+      "label": "Amazon",
+      "link": "https://www.amazon.com.br/dp/B09C5X1T7V?tag=producttrac0c-20",
+      "has_affiliate": true,
+      "current_price": 3010.41,
+      "min_price": 3010.41,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 3010.41
+        }
+      ]
+    },
+    {
+      "marketplace": "kabum",
+      "label": "KaBuM!",
+      "link": "https://www.kabum.com.br/produto/382749/memoria-ram-corsair-vengeance-rgb-rs-32gb-2x16gb-3200mhz-ddr4-cl16-preto-cmg32gx4m2e3200c16",
+      "has_affiliate": true,
+      "current_price": 2494.99,
+      "min_price": null,
+      "min_price_at": null,
+      "monitored_since": "2026-10-24",
+      "history": []
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1503_all",
+    "per_store": {
+      "mercadolibre": "https://t.me/MyProductTrackerBot?start=sc_1503_mercadolibre",
+      "amazon": "https://t.me/MyProductTrackerBot?start=sc_1503_amazon",
+      "kabum": "https://t.me/MyProductTrackerBot?start=sc_1503_kabum"
+    }
+  }
+}

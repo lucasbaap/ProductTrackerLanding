@@ -1,0 +1,49 @@
+{
+  "id": 1420,
+  "name": "bundle Mario Kart World",
+  "family_id": 1180,
+  "image_url": null,
+  "monitored_since": "2026-10-24",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "mercadolibre",
+      "label": "Mercado Livre",
+      "link": "https://www.mercadolivre.com.br/p/MLB48935147?matt_word=balu1353476&matt_tool=29239275",
+      "has_affiliate": true,
+      "current_price": 4999.9,
+      "min_price": 4999.9,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 4999.9
+        }
+      ]
+    },
+    {
+      "marketplace": "amazon",
+      "label": "Amazon",
+      "link": "https://www.amazon.com.br/dp/B0GH2FBZ6W?tag=producttrac0c-20",
+      "has_affiliate": true,
+      "current_price": 4390.0,
+      "min_price": 4390.0,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 4390.0
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1420_all",
+    "per_store": {
+      "mercadolibre": "https://t.me/MyProductTrackerBot?start=sc_1420_mercadolibre",
+      "amazon": "https://t.me/MyProductTrackerBot?start=sc_1420_amazon"
+    }
+  }
+}

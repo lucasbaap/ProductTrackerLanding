@@ -1,0 +1,117 @@
+{
+  "id": 1463,
+  "name": "AMD Ryzen 7 7800X3D",
+  "family_id": 1223,
+  "image_url": null,
+  "monitored_since": "2026-10-24",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "kabum",
+      "label": "KaBuM!",
+      "link": "https://www.kabum.com.br/produto/426262/processador-amd-ryzen-7-7800x3d-4-2ghz-5-0ghz-max-turbo-cache-104mb-8-nucleos-16-threads-am5-com-video-integrado-100-100000910wof",
+      "has_affiliate": true,
+      "current_price": 1849.99,
+      "min_price": 1849.99,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1849.99
+        }
+      ]
+    },
+    {
+      "marketplace": "pichau",
+      "label": "Pichau",
+      "link": "https://www.pichau.com.br/processador-amd-ryzen-7-7800x3d-8-core-16-threads-4-2ghz-5-0ghzturbo-cache-104mb-am5-100-100000910wof",
+      "has_affiliate": true,
+      "current_price": 2176.46,
+      "min_price": 2176.46,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 2176.46
+        }
+      ]
+    },
+    {
+      "marketplace": "amazon",
+      "label": "Amazon",
+      "link": "https://www.amazon.com.br/dp/B0BTZB7F88?tag=producttrac0c-20",
+      "has_affiliate": true,
+      "current_price": 2176.46,
+      "min_price": 2176.46,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 2176.46
+        }
+      ]
+    },
+    {
+      "marketplace": "mercadolibre",
+      "label": "Mercado Livre",
+      "link": "https://www.mercadolivre.com.br/p/MLB22826887?matt_word=balu1353476&matt_tool=29239275",
+      "has_affiliate": true,
+      "current_price": 2000.0,
+      "min_price": 2000.0,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 2000.0
+        }
+      ]
+    },
+    {
+      "marketplace": "shopee",
+      "label": "Shopee",
+      "link": "https://s.shopee.com.br/2Vsjre3xP2",
+      "has_affiliate": true,
+      "current_price": 4079.9,
+      "min_price": 4079.9,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 4079.9
+        }
+      ]
+    },
+    {
+      "marketplace": "aliexpress",
+      "label": "AliExpress",
+      "link": "https://s.click.aliexpress.com/s/NdpwztbAIgDMmxGbP8fFks7yUFfsHjzlImSYmA68h7xlMRgzueFsRgokQ9f9hcpVKttxtQE2VzIoqkXJXrpOr6uR3zv7mP4CDO9CddoFf4t0QE5DXPy8Pgjhz4irfQSEjEGUmy5yF3A5gJ9h3NYjLMgqIMqa3zcpq5E2BC3W5EbV40Dm9buQxWpZzw1lbX8Zm2kZtNIa4KyDieNjsH7IU6Yv8StELKVvT9r4eFAaXPGhwHsgaDqdNcmY116r3GC2YvmvR57S69fGyn8Tt4pCtmLccxQz3g0L1ZKu00BPwYOT3BF4QZOqRqMDB0DyoCTucM66g02yHYZ7N56JEzGC6Gkv5yj0Kn2sG2KporeaXggAzFMl7NbZRotHHCgqVkxnaTnJeWeIzKtTpiqiHRgK1clXK0j99UVPwmOZX8vhDnNT0Yn5zztIdpjA2dEnE4Tacs8ih9ws7s3NOrvI6v1hcJBp08LkgNrA3yE2f3gJu1VxlFnhRPYCqaVPNo3PmDBxbEfNz2MshciYaMeEviukGF6HYWe322LCRKxbgkuI1eFSpVEcj8IsVN8hNZBrV8gSQJpsFLMCUsZ1l1CvuuzxlR9Ar1D42PJd7BR0xCReBpJm0jmQrXzM7okC7kBP8P99s2G14ECGzHQtDqFwxLEMriHfDHfugucquuJ5ynIrMYtM9gffP3m0KKMAcllbsF8GkRsqti7OFJ01KXW0FjqhfhDQCA8Ge74PL5vSIreaE0TAi7pQzcYQfzBvoRTiOETEYkz68TAwIk71ilYLIpiNs56KacDQehpQRyPhmtphEm3uwkdFnxCIhwajkTcm3SLpUXF93spHLwijtDgNlTJMjaKpSBVx53MMCgbHKxZFpZedOWF2U92UhnYcz8PmJ57t3jAUquFTjk2F8lK8YfaE5l7nVmzOadKoU91Y53Z0g0EOuFPFIqBRxCvAIcSPihYhpd0aZbPRASHm1crMB5OL49XyKiqayanvCB7rEY47NcmJv",
+      "has_affiliate": true,
+      "current_price": 1637.1,
+      "min_price": 1637.1,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1637.1
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1463_all",
+    "per_store": {
+      "kabum": "https://t.me/MyProductTrackerBot?start=sc_1463_kabum",
+      "pichau": "https://t.me/MyProductTrackerBot?start=sc_1463_pichau",
+      "amazon": "https://t.me/MyProductTrackerBot?start=sc_1463_amazon",
+      "mercadolibre": "https://t.me/MyProductTrackerBot?start=sc_1463_mercadolibre",
+      "shopee": "https://t.me/MyProductTrackerBot?start=sc_1463_shopee",
+      "aliexpress": "https://t.me/MyProductTrackerBot?start=sc_1463_aliexpress"
+    }
+  }
+}

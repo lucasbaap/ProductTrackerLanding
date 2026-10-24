@@ -1,0 +1,100 @@
+{
+  "id": 1496,
+  "name": "Intel Core i5-14400F",
+  "family_id": 1256,
+  "image_url": null,
+  "monitored_since": "2026-10-24",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "mercadolibre",
+      "label": "Mercado Livre",
+      "link": "https://www.mercadolivre.com.br/p/MLB29937677?matt_word=balu1353476&matt_tool=29239275",
+      "has_affiliate": true,
+      "current_price": 1180.0,
+      "min_price": 1180.0,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1180.0
+        }
+      ]
+    },
+    {
+      "marketplace": "amazon",
+      "label": "Amazon",
+      "link": "https://www.amazon.com.br/dp/B0CQ3142LB?tag=producttrac0c-20",
+      "has_affiliate": true,
+      "current_price": 1152.93,
+      "min_price": 1152.93,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1152.93
+        }
+      ]
+    },
+    {
+      "marketplace": "kabum",
+      "label": "KaBuM!",
+      "link": "https://www.kabum.com.br/produto/904658/processador-intel-core-i5-14400f-2-5ghz-4-70-ghz-max-turbo-cache-20mb-10-nucleos-16-threads-lga-1700-sem-video-integrado-bx8071514400f",
+      "has_affiliate": true,
+      "current_price": 1199.99,
+      "min_price": 1199.99,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1199.99
+        }
+      ]
+    },
+    {
+      "marketplace": "pichau",
+      "label": "Pichau",
+      "link": "https://www.pichau.com.br/processador-intel-core-i5-14400f-10-core-16-threads-3-5ghz-4-7ghz-turbo-cache-20mb-lga1700-bx8071514400f",
+      "has_affiliate": true,
+      "current_price": 1152.93,
+      "min_price": 1152.93,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1152.93
+        }
+      ]
+    },
+    {
+      "marketplace": "magalu",
+      "label": "Magalu",
+      "link": "https://m.magazineluiza.com.br/processador-intel-core-i5-14400f-ate-470-ghz-cache-20mb-nucleos-10-threads-16-bx8071514400f/p/accg73a175/in/prsd/?partner_id=3440&promoter_id=5820501&utm_source=divulgador&utm_medium=magalu&utm_campaign=5820501",
+      "has_affiliate": true,
+      "current_price": 1411.75,
+      "min_price": 1411.75,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1411.75
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1496_all",
+    "per_store": {
+      "mercadolibre": "https://t.me/MyProductTrackerBot?start=sc_1496_mercadolibre",
+      "amazon": "https://t.me/MyProductTrackerBot?start=sc_1496_amazon",
+      "kabum": "https://t.me/MyProductTrackerBot?start=sc_1496_kabum",
+      "pichau": "https://t.me/MyProductTrackerBot?start=sc_1496_pichau",
+      "magalu": "https://t.me/MyProductTrackerBot?start=sc_1496_magalu"
+    }
+  }
+}

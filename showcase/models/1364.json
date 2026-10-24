@@ -1,0 +1,32 @@
+{
+  "id": 1364,
+  "name": "Samsung Galaxy Z Fold8 Ultra",
+  "family_id": 1146,
+  "image_url": null,
+  "monitored_since": "2026-10-24",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "shopee",
+      "label": "Shopee",
+      "link": "https://s.shopee.com.br/2gCA1vf9u7",
+      "has_affiliate": true,
+      "current_price": 17999.0,
+      "min_price": 17999.0,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 17999.0
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1364_all",
+    "per_store": {
+      "shopee": "https://t.me/MyProductTrackerBot?start=sc_1364_shopee"
+    }
+  }
+}

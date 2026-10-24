@@ -1,0 +1,443 @@
+{
+  "id": 1477,
+  "name": "Intel Core Ultra 5 245KF",
+  "family_id": 1237,
+  "image_url": null,
+  "monitored_since": "2026-09-01",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "mercadolibre",
+      "label": "Mercado Livre",
+      "link": "https://www.mercadolivre.com.br/p/MLB44726983?matt_word=balu1353476&matt_tool=29239275",
+      "has_affiliate": true,
+      "current_price": 2399.98,
+      "min_price": 2399.98,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 2399.98
+        }
+      ]
+    },
+    {
+      "marketplace": "kabum",
+      "label": "KaBuM!",
+      "link": "https://www.kabum.com.br/produto/645181/processador-intel-core-ultra-5-245kf-4-2ghz-5-2ghz-turbo-cache-24mb-14-nucleos-14-threads-lga-1851-sem-video-integrado-bx80768245kf?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792829597_6c9930cf2ab4c380f8dc5f8ebe8998c1&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "has_affiliate": true,
+      "current_price": 799.99,
+      "min_price": 749.0,
+      "min_price_at": "2026-09-09",
+      "monitored_since": "2026-09-01",
+      "history": [
+        {
+          "date": "2026-09-01",
+          "price": 799.99
+        },
+        {
+          "date": "2026-09-02",
+          "price": 799.99
+        },
+        {
+          "date": "2026-09-03",
+          "price": 799.99
+        },
+        {
+          "date": "2026-09-04",
+          "price": 799.99
+        },
+        {
+          "date": "2026-09-05",
+          "price": 799.99
+        },
+        {
+          "date": "2026-09-06",
+          "price": 799.99
+        },
+        {
+          "date": "2026-09-07",
+          "price": 799.99
+        },
+        {
+          "date": "2026-09-08",
+          "price": 799.99
+        },
+        {
+          "date": "2026-09-09",
+          "price": 749.0
+        },
+        {
+          "date": "2026-09-10",
+          "price": 749.0
+        },
+        {
+          "date": "2026-09-11",
+          "price": 749.0
+        },
+        {
+          "date": "2026-09-12",
+          "price": 749.0
+        },
+        {
+          "date": "2026-09-13",
+          "price": 1599.99
+        },
+        {
+          "date": "2026-09-14",
+          "price": 999.99
+        },
+        {
+          "date": "2026-09-15",
+          "price": 999.99
+        },
+        {
+          "date": "2026-09-16",
+          "price": 999.99
+        },
+        {
+          "date": "2026-09-17",
+          "price": 999.99
+        },
+        {
+          "date": "2026-09-18",
+          "price": 799.99
+        },
+        {
+          "date": "2026-09-19",
+          "price": 799.99
+        },
+        {
+          "date": "2026-09-20",
+          "price": 799.99
+        },
+        {
+          "date": "2026-09-21",
+          "price": 799.99
+        },
+        {
+          "date": "2026-09-22",
+          "price": 799.99
+        },
+        {
+          "date": "2026-09-23",
+          "price": 799.99
+        },
+        {
+          "date": "2026-09-24",
+          "price": 799.99
+        },
+        {
+          "date": "2026-09-25",
+          "price": 799.99
+        },
+        {
+          "date": "2026-09-26",
+          "price": 799.99
+        },
+        {
+          "date": "2026-09-27",
+          "price": 799.99
+        },
+        {
+          "date": "2026-09-28",
+          "price": 799.99
+        },
+        {
+          "date": "2026-09-29",
+          "price": 799.99
+        },
+        {
+          "date": "2026-09-30",
+          "price": 799.99
+        },
+        {
+          "date": "2026-10-01",
+          "price": 799.99
+        },
+        {
+          "date": "2026-10-02",
+          "price": 799.99
+        },
+        {
+          "date": "2026-10-03",
+          "price": 799.99
+        },
+        {
+          "date": "2026-10-04",
+          "price": 799.99
+        },
+        {
+          "date": "2026-10-05",
+          "price": 799.99
+        },
+        {
+          "date": "2026-10-06",
+          "price": 799.99
+        },
+        {
+          "date": "2026-10-07",
+          "price": 799.99
+        },
+        {
+          "date": "2026-10-08",
+          "price": 799.99
+        },
+        {
+          "date": "2026-10-09",
+          "price": 799.99
+        },
+        {
+          "date": "2026-10-10",
+          "price": 799.99
+        },
+        {
+          "date": "2026-10-11",
+          "price": 799.99
+        },
+        {
+          "date": "2026-10-12",
+          "price": 799.99
+        },
+        {
+          "date": "2026-10-13",
+          "price": 799.99
+        },
+        {
+          "date": "2026-10-14",
+          "price": 799.99
+        },
+        {
+          "date": "2026-10-15",
+          "price": 799.99
+        },
+        {
+          "date": "2026-10-16",
+          "price": 799.99
+        },
+        {
+          "date": "2026-10-17",
+          "price": 799.99
+        },
+        {
+          "date": "2026-10-18",
+          "price": 799.99
+        },
+        {
+          "date": "2026-10-19",
+          "price": 799.99
+        },
+        {
+          "date": "2026-10-20",
+          "price": 799.99
+        },
+        {
+          "date": "2026-10-21",
+          "price": 799.99
+        },
+        {
+          "date": "2026-10-22",
+          "price": 799.99
+        },
+        {
+          "date": "2026-10-23",
+          "price": 799.99
+        },
+        {
+          "date": "2026-10-24",
+          "price": 799.99
+        }
+      ]
+    },
+    {
+      "marketplace": "pichau",
+      "label": "Pichau",
+      "link": "https://www.pichau.com.br/processador-intel-core-ultra-5-245kf-14-core-14-threads-4-2ghz-5-2ghz-turbo-cache-24mb-lga1851-bx80768245kf",
+      "has_affiliate": true,
+      "current_price": 941.16,
+      "min_price": 941.16,
+      "min_price_at": "2026-09-21",
+      "monitored_since": "2026-09-17",
+      "history": [
+        {
+          "date": "2026-09-17",
+          "price": 1176.46
+        },
+        {
+          "date": "2026-09-18",
+          "price": 1176.46
+        },
+        {
+          "date": "2026-09-19",
+          "price": 1176.46
+        },
+        {
+          "date": "2026-09-20",
+          "price": 1176.46
+        },
+        {
+          "date": "2026-09-21",
+          "price": 941.16
+        },
+        {
+          "date": "2026-09-22",
+          "price": 941.16
+        },
+        {
+          "date": "2026-09-23",
+          "price": 941.16
+        },
+        {
+          "date": "2026-09-24",
+          "price": 941.16
+        },
+        {
+          "date": "2026-09-25",
+          "price": 941.16
+        },
+        {
+          "date": "2026-09-26",
+          "price": 941.16
+        },
+        {
+          "date": "2026-09-27",
+          "price": 941.16
+        },
+        {
+          "date": "2026-09-28",
+          "price": 941.16
+        },
+        {
+          "date": "2026-09-29",
+          "price": 941.16
+        },
+        {
+          "date": "2026-09-30",
+          "price": 941.16
+        },
+        {
+          "date": "2026-10-01",
+          "price": 941.16
+        },
+        {
+          "date": "2026-10-02",
+          "price": 941.16
+        },
+        {
+          "date": "2026-10-03",
+          "price": 941.16
+        },
+        {
+          "date": "2026-10-04",
+          "price": 941.16
+        },
+        {
+          "date": "2026-10-05",
+          "price": 941.16
+        },
+        {
+          "date": "2026-10-06",
+          "price": 941.16
+        },
+        {
+          "date": "2026-10-07",
+          "price": 941.16
+        },
+        {
+          "date": "2026-10-08",
+          "price": 941.16
+        },
+        {
+          "date": "2026-10-09",
+          "price": 941.16
+        },
+        {
+          "date": "2026-10-10",
+          "price": 941.16
+        },
+        {
+          "date": "2026-10-11",
+          "price": 941.16
+        },
+        {
+          "date": "2026-10-12",
+          "price": 941.16
+        },
+        {
+          "date": "2026-10-13",
+          "price": 941.16
+        },
+        {
+          "date": "2026-10-14",
+          "price": 941.16
+        },
+        {
+          "date": "2026-10-15",
+          "price": 941.16
+        },
+        {
+          "date": "2026-10-16",
+          "price": 941.16
+        },
+        {
+          "date": "2026-10-17",
+          "price": 941.16
+        },
+        {
+          "date": "2026-10-18",
+          "price": 941.16
+        },
+        {
+          "date": "2026-10-19",
+          "price": 941.16
+        },
+        {
+          "date": "2026-10-20",
+          "price": 941.16
+        },
+        {
+          "date": "2026-10-21",
+          "price": 941.16
+        },
+        {
+          "date": "2026-10-22",
+          "price": 941.16
+        },
+        {
+          "date": "2026-10-23",
+          "price": 941.16
+        },
+        {
+          "date": "2026-10-24",
+          "price": 941.16
+        }
+      ]
+    },
+    {
+      "marketplace": "terabyte",
+      "label": "Terabyte",
+      "link": "https://www.terabyteshop.com.br/produto/32054/processador-intel-core-ultra-5-245kf-36-ghz-52ghz-turbo-serie-2-14-cores-14-threads-lga-1851-bx80768245kf",
+      "has_affiliate": true,
+      "current_price": 1411.75,
+      "min_price": 1411.75,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1411.75
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1477_all",
+    "per_store": {
+      "mercadolibre": "https://t.me/MyProductTrackerBot?start=sc_1477_mercadolibre",
+      "kabum": "https://t.me/MyProductTrackerBot?start=sc_1477_kabum",
+      "pichau": "https://t.me/MyProductTrackerBot?start=sc_1477_pichau",
+      "terabyte": "https://t.me/MyProductTrackerBot?start=sc_1477_terabyte"
+    }
+  }
+}

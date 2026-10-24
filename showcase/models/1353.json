@@ -1,0 +1,185 @@
+{
+  "id": 1353,
+  "name": "12GB/256GB",
+  "family_id": 1142,
+  "image_url": null,
+  "monitored_since": "2026-09-20",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "amazon",
+      "label": "Amazon",
+      "link": "https://www.amazon.com.br/dp/B0GKQTTCMM?th=1&tag=producttrac0c-20",
+      "has_affiliate": true,
+      "current_price": 6999.0,
+      "min_price": 6649.05,
+      "min_price_at": "2026-10-22",
+      "monitored_since": "2026-09-20",
+      "history": [
+        {
+          "date": "2026-09-20",
+          "price": 6921.0
+        },
+        {
+          "date": "2026-09-21",
+          "price": 6921.0
+        },
+        {
+          "date": "2026-09-22",
+          "price": 6921.0
+        },
+        {
+          "date": "2026-09-23",
+          "price": 6920.99
+        },
+        {
+          "date": "2026-09-24",
+          "price": 6920.99
+        },
+        {
+          "date": "2026-09-25",
+          "price": 6921.0
+        },
+        {
+          "date": "2026-09-26",
+          "price": 6921.0
+        },
+        {
+          "date": "2026-09-27",
+          "price": 6920.99
+        },
+        {
+          "date": "2026-09-28",
+          "price": 6920.99
+        },
+        {
+          "date": "2026-09-29",
+          "price": 6921.0
+        },
+        {
+          "date": "2026-09-30",
+          "price": 6921.0
+        },
+        {
+          "date": "2026-10-01",
+          "price": 6773.4
+        },
+        {
+          "date": "2026-10-02",
+          "price": 6921.01
+        },
+        {
+          "date": "2026-10-03",
+          "price": 6921.0
+        },
+        {
+          "date": "2026-10-04",
+          "price": 6921.0
+        },
+        {
+          "date": "2026-10-05",
+          "price": 6921.0
+        },
+        {
+          "date": "2026-10-06",
+          "price": 6921.0
+        },
+        {
+          "date": "2026-10-07",
+          "price": 6773.4
+        },
+        {
+          "date": "2026-10-08",
+          "price": 6920.99
+        },
+        {
+          "date": "2026-10-09",
+          "price": 6920.99
+        },
+        {
+          "date": "2026-10-10",
+          "price": 6748.99
+        },
+        {
+          "date": "2026-10-11",
+          "price": 6748.99
+        },
+        {
+          "date": "2026-10-12",
+          "price": 6748.99
+        },
+        {
+          "date": "2026-10-13",
+          "price": 6749.0
+        },
+        {
+          "date": "2026-10-14",
+          "price": 6749.0
+        },
+        {
+          "date": "2026-10-15",
+          "price": 6749.0
+        },
+        {
+          "date": "2026-10-16",
+          "price": 6749.0
+        },
+        {
+          "date": "2026-10-17",
+          "price": 7124.05
+        },
+        {
+          "date": "2026-10-18",
+          "price": 7124.05
+        },
+        {
+          "date": "2026-10-19",
+          "price": 6749.0
+        },
+        {
+          "date": "2026-10-20",
+          "price": 6749.0
+        },
+        {
+          "date": "2026-10-21",
+          "price": 7124.05
+        },
+        {
+          "date": "2026-10-22",
+          "price": 6649.05
+        },
+        {
+          "date": "2026-10-23",
+          "price": 6649.05
+        },
+        {
+          "date": "2026-10-24",
+          "price": 6999.0
+        }
+      ]
+    },
+    {
+      "marketplace": "kabum",
+      "label": "KaBuM!",
+      "link": "https://www.kabum.com.br/produto/1007598/smartphone-samsung-galaxy-s26-ultra-5g-256gb-preto-12gb-ram?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792832930_17fb241a32a34c45ffee7aea56bbc02d&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "has_affiliate": true,
+      "current_price": 11789.1,
+      "min_price": 11789.1,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 11789.1
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1353_all",
+    "per_store": {
+      "amazon": "https://t.me/MyProductTrackerBot?start=sc_1353_amazon",
+      "kabum": "https://t.me/MyProductTrackerBot?start=sc_1353_kabum"
+    }
+  }
+}

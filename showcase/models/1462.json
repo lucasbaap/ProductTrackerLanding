@@ -1,0 +1,66 @@
+{
+  "id": 1462,
+  "name": "AMD Ryzen 9 7900",
+  "family_id": 1222,
+  "image_url": null,
+  "monitored_since": "2026-10-24",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "pichau",
+      "label": "Pichau",
+      "link": "https://www.pichau.com.br/processador-amd-ryzen-9-7900-12-core-24-threads-3-7ghz-5-4ghzturbo-cache-76mb-am5-100-100000590wof",
+      "has_affiliate": true,
+      "current_price": 2176.46,
+      "min_price": 2176.46,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 2176.46
+        }
+      ]
+    },
+    {
+      "marketplace": "mercadolibre",
+      "label": "Mercado Livre",
+      "link": "https://www.mercadolivre.com.br/p/MLB61075833?matt_word=balu1353476&matt_tool=29239275",
+      "has_affiliate": true,
+      "current_price": 2317.4,
+      "min_price": 2317.4,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 2317.4
+        }
+      ]
+    },
+    {
+      "marketplace": "shopee",
+      "label": "Shopee",
+      "link": "https://s.shopee.com.br/3g4hFjwOf2",
+      "has_affiliate": true,
+      "current_price": 2799.99,
+      "min_price": 2799.99,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 2799.99
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1462_all",
+    "per_store": {
+      "pichau": "https://t.me/MyProductTrackerBot?start=sc_1462_pichau",
+      "mercadolibre": "https://t.me/MyProductTrackerBot?start=sc_1462_mercadolibre",
+      "shopee": "https://t.me/MyProductTrackerBot?start=sc_1462_shopee"
+    }
+  }
+}

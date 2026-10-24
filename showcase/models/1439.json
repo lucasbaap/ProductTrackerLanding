@@ -1,0 +1,83 @@
+{
+  "id": 1439,
+  "name": "ASUS TUF Gaming B760M-Plus WiFi II",
+  "family_id": 1199,
+  "image_url": null,
+  "monitored_since": "2026-10-24",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "mercadolibre",
+      "label": "Mercado Livre",
+      "link": "https://www.mercadolivre.com.br/p/MLB38460898?matt_word=balu1353476&matt_tool=29239275",
+      "has_affiliate": true,
+      "current_price": 1351.08,
+      "min_price": 1351.08,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1351.08
+        }
+      ]
+    },
+    {
+      "marketplace": "kabum",
+      "label": "KaBuM!",
+      "link": "https://www.kabum.com.br/produto/523144/placa-mae-asus-tuf-gaming-b760m-plus-wifi-ii-intel-ddr5-preto-90mb1he0-m0eay0?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792816726_f3433d118cf315069cebde01deed378f&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "has_affiliate": true,
+      "current_price": 1255.99,
+      "min_price": 1255.99,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1255.99
+        }
+      ]
+    },
+    {
+      "marketplace": "terabyte",
+      "label": "Terabyte",
+      "link": "https://www.terabyteshop.com.br/produto/28867/placa-mae-asus-tuf-gaming-b760m-plus-ii-chipset-b760-intel-lga-1700-matx-ddr5-90mb1hd0-m0eay0",
+      "has_affiliate": true,
+      "current_price": 1352.93,
+      "min_price": 1352.93,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1352.93
+        }
+      ]
+    },
+    {
+      "marketplace": "pichau",
+      "label": "Pichau",
+      "link": "https://www.pichau.com.br/placa-mae-asus-tuf-gaming-b760m-plus-wifi-ii-ddr5-lga-1700-m-atx-chipset-intel-b760-tuf-gaming-b760m-plus-wifi-ii",
+      "has_affiliate": true,
+      "current_price": 1236.46,
+      "min_price": 1236.46,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1236.46
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1439_all",
+    "per_store": {
+      "mercadolibre": "https://t.me/MyProductTrackerBot?start=sc_1439_mercadolibre",
+      "kabum": "https://t.me/MyProductTrackerBot?start=sc_1439_kabum",
+      "terabyte": "https://t.me/MyProductTrackerBot?start=sc_1439_terabyte",
+      "pichau": "https://t.me/MyProductTrackerBot?start=sc_1439_pichau"
+    }
+  }
+}

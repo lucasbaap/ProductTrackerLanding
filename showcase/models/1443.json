@@ -1,0 +1,83 @@
+{
+  "id": 1443,
+  "name": "MSI MAG B860 Tomahawk WiFi",
+  "family_id": 1203,
+  "image_url": null,
+  "monitored_since": "2026-10-24",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "mercadolibre",
+      "label": "Mercado Livre",
+      "link": "https://www.mercadolivre.com.br/p/MLB46413483?matt_word=balu1353476&matt_tool=29239275",
+      "has_affiliate": true,
+      "current_price": 2029.9,
+      "min_price": 2029.9,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 2029.9
+        }
+      ]
+    },
+    {
+      "marketplace": "amazon",
+      "label": "Amazon",
+      "link": "https://www.amazon.com.br/Placa-m%C3%A3e-B860-Tomahawk-WiFi-processadores/dp/B0DQBJ64KH?tag=producttrac0c-20",
+      "has_affiliate": true,
+      "current_price": 1814.27,
+      "min_price": 1814.27,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1814.27
+        }
+      ]
+    },
+    {
+      "marketplace": "kabum",
+      "label": "KaBuM!",
+      "link": "https://www.kabum.com.br/produto/902507/placa-mae-msi-mag-b860-tomahawk-wifi-7-lga-1851-4xddr5-chipset-intel-b860-atx?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792816848_c0de9caa7a9092a8ee5e48fa9f7f28da&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "has_affiliate": true,
+      "current_price": 2259.0,
+      "min_price": 2259.0,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 2259.0
+        }
+      ]
+    },
+    {
+      "marketplace": "terabyte",
+      "label": "Terabyte",
+      "link": "https://www.terabyteshop.com.br/produto/36352/placa-mae-msi-mag-b860-tomahawk-wifi-chipset-b860-intel-lga-1851-atx-ddr5",
+      "has_affiliate": true,
+      "current_price": 2235.28,
+      "min_price": 2235.28,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 2235.28
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1443_all",
+    "per_store": {
+      "mercadolibre": "https://t.me/MyProductTrackerBot?start=sc_1443_mercadolibre",
+      "amazon": "https://t.me/MyProductTrackerBot?start=sc_1443_amazon",
+      "kabum": "https://t.me/MyProductTrackerBot?start=sc_1443_kabum",
+      "terabyte": "https://t.me/MyProductTrackerBot?start=sc_1443_terabyte"
+    }
+  }
+}

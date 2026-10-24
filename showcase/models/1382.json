@@ -1,0 +1,192 @@
+{
+  "id": 1382,
+  "name": "12GB/512GB",
+  "family_id": 1155,
+  "image_url": null,
+  "monitored_since": "2026-09-11",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "amazon",
+      "label": "Amazon",
+      "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-C%C3%A2mera-Marinho/dp/B0DSY8CP8H?th=1&tag=producttrac0c-20",
+      "has_affiliate": true,
+      "current_price": 4998.96,
+      "min_price": 3899.0,
+      "min_price_at": "2026-09-14",
+      "monitored_since": "2026-09-11",
+      "history": [
+        {
+          "date": "2026-09-11",
+          "price": 4499.0
+        },
+        {
+          "date": "2026-09-12",
+          "price": 4499.0
+        },
+        {
+          "date": "2026-09-13",
+          "price": 4499.0
+        },
+        {
+          "date": "2026-09-14",
+          "price": 3899.0
+        },
+        {
+          "date": "2026-09-15",
+          "price": 3899.0
+        },
+        {
+          "date": "2026-09-16",
+          "price": 3999.0
+        },
+        {
+          "date": "2026-09-17",
+          "price": 3999.0
+        },
+        {
+          "date": "2026-09-18",
+          "price": 3999.0
+        },
+        {
+          "date": "2026-09-19",
+          "price": 4899.0
+        },
+        {
+          "date": "2026-09-20",
+          "price": 4899.0
+        },
+        {
+          "date": "2026-09-21",
+          "price": 3999.0
+        },
+        {
+          "date": "2026-09-22",
+          "price": 3999.0
+        },
+        {
+          "date": "2026-09-23",
+          "price": 4899.0
+        },
+        {
+          "date": "2026-09-24",
+          "price": 4899.0
+        },
+        {
+          "date": "2026-09-25",
+          "price": 4899.0
+        },
+        {
+          "date": "2026-09-26",
+          "price": 4899.0
+        },
+        {
+          "date": "2026-09-27",
+          "price": 4899.0
+        },
+        {
+          "date": "2026-09-28",
+          "price": 4899.0
+        },
+        {
+          "date": "2026-09-29",
+          "price": 4654.05
+        },
+        {
+          "date": "2026-09-30",
+          "price": 4654.05
+        },
+        {
+          "date": "2026-10-01",
+          "price": 4654.05
+        },
+        {
+          "date": "2026-10-02",
+          "price": 4654.05
+        },
+        {
+          "date": "2026-10-03",
+          "price": 4654.05
+        },
+        {
+          "date": "2026-10-04",
+          "price": 4654.05
+        },
+        {
+          "date": "2026-10-05",
+          "price": 4274.05
+        },
+        {
+          "date": "2026-10-06",
+          "price": 4499.0
+        },
+        {
+          "date": "2026-10-07",
+          "price": 4499.0
+        },
+        {
+          "date": "2026-10-08",
+          "price": 4499.0
+        },
+        {
+          "date": "2026-10-09",
+          "price": 4499.0
+        },
+        {
+          "date": "2026-10-10",
+          "price": 4499.0
+        },
+        {
+          "date": "2026-10-11",
+          "price": 4499.0
+        },
+        {
+          "date": "2026-10-12",
+          "price": 5554.44
+        },
+        {
+          "date": "2026-10-13",
+          "price": 4511.55
+        },
+        {
+          "date": "2026-10-14",
+          "price": 4511.55
+        },
+        {
+          "date": "2026-10-15",
+          "price": 4511.55
+        },
+        {
+          "date": "2026-10-16",
+          "price": 4511.55
+        },
+        {
+          "date": "2026-10-17",
+          "price": 4335.53
+        },
+        {
+          "date": "2026-10-18",
+          "price": 4335.53
+        },
+        {
+          "date": "2026-10-19",
+          "price": 4297.54
+        },
+        {
+          "date": "2026-10-20",
+          "price": 4297.54
+        },
+        {
+          "date": "2026-10-24",
+          "price": 4998.96
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1382_all",
+    "per_store": {
+      "amazon": "https://t.me/MyProductTrackerBot?start=sc_1382_amazon"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": 1474,
+  "name": "Intel Core Ultra 7 265F",
+  "family_id": 1234,
+  "image_url": null,
+  "monitored_since": "2026-10-24",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "kabum",
+      "label": "KaBuM!",
+      "link": "https://www.kabum.com.br/produto/1017997/processador-intel-core-ultra-7-265f-2-4-ghz-5-3-ghz-turbo-30mb-bx80768265f",
+      "has_affiliate": true,
+      "current_price": 2994.9,
+      "min_price": 2994.9,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 2994.9
+        }
+      ]
+    },
+    {
+      "marketplace": "terabyte",
+      "label": "Terabyte",
+      "link": "https://www.terabyteshop.com.br/produto/36287/processador-intel-core-ultra-7-265f-24ghz-53ghz-turbo-serie-2-20-cores-20-threads-lga-1851-bx80768265f",
+      "has_affiliate": true,
+      "current_price": 1929.4,
+      "min_price": 1929.4,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1929.4
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1474_all",
+    "per_store": {
+      "kabum": "https://t.me/MyProductTrackerBot?start=sc_1474_kabum",
+      "terabyte": "https://t.me/MyProductTrackerBot?start=sc_1474_terabyte"
+    }
+  }
+}

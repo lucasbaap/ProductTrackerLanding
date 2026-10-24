@@ -1,0 +1,100 @@
+{
+  "id": 1446,
+  "name": "ASUS TUF Gaming Z890-Plus WiFi",
+  "family_id": 1206,
+  "image_url": null,
+  "monitored_since": "2026-10-24",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "mercadolibre",
+      "label": "Mercado Livre",
+      "link": "https://www.mercadolivre.com.br/p/MLB42523487?matt_word=balu1353476&matt_tool=29239275",
+      "has_affiliate": true,
+      "current_price": 2853.9,
+      "min_price": 2853.9,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 2853.9
+        }
+      ]
+    },
+    {
+      "marketplace": "amazon",
+      "label": "Amazon",
+      "link": "https://www.amazon.com.br/ASUS-TUF-GAMING-Z890-PLUS-WIFI/dp/B0DGWNVCHL?tag=producttrac0c-20",
+      "has_affiliate": true,
+      "current_price": 2283.64,
+      "min_price": 2283.64,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 2283.64
+        }
+      ]
+    },
+    {
+      "marketplace": "kabum",
+      "label": "KaBuM!",
+      "link": "https://www.kabum.com.br/produto/677452/placa-mae-asus-tuf-gaming-z890-plus-wifi7-4xddr5-chipset-z890-atx?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792816958_8a8e42c97c1faa3e5e74b2b15451f91c&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "has_affiliate": true,
+      "current_price": 2684.55,
+      "min_price": 2684.55,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 2684.55
+        }
+      ]
+    },
+    {
+      "marketplace": "terabyte",
+      "label": "Terabyte",
+      "link": "https://www.terabyteshop.com.br/produto/32500/placa-mae-asus-tuf-gaming-z890-plus-wifi-chipset-z890-intel-lga-1851-atx-ddr5",
+      "has_affiliate": true,
+      "current_price": 2941.16,
+      "min_price": 2941.16,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 2941.16
+        }
+      ]
+    },
+    {
+      "marketplace": "pichau",
+      "label": "Pichau",
+      "link": "https://www.pichau.com.br/placa-mae-asus-tuf-gaming-z890-plus-wifi-ddr5-lga1851-atx-chipset-intel-z890-tuf-gaming-z890-plus-wifi",
+      "has_affiliate": true,
+      "current_price": 2823.52,
+      "min_price": 2823.52,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 2823.52
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1446_all",
+    "per_store": {
+      "mercadolibre": "https://t.me/MyProductTrackerBot?start=sc_1446_mercadolibre",
+      "amazon": "https://t.me/MyProductTrackerBot?start=sc_1446_amazon",
+      "kabum": "https://t.me/MyProductTrackerBot?start=sc_1446_kabum",
+      "terabyte": "https://t.me/MyProductTrackerBot?start=sc_1446_terabyte",
+      "pichau": "https://t.me/MyProductTrackerBot?start=sc_1446_pichau"
+    }
+  }
+}

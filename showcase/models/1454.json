@@ -1,0 +1,83 @@
+{
+  "id": 1454,
+  "name": "AMD Ryzen 7 9800X3D",
+  "family_id": 1214,
+  "image_url": null,
+  "monitored_since": "2026-10-24",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "kabum",
+      "label": "KaBuM!",
+      "link": "https://www.kabum.com.br/produto/662405/processador-amd-ryzen-7-9800x3d-4-7ghz-5-2ghz-max-turbo-cache-104mb-8-nucleos-16-threads-am5-com-video-integrado-100-100001084wof?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792817226_af6b2bde944cac8cc265c7fedef4100d&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "has_affiliate": true,
+      "current_price": 2389.99,
+      "min_price": 2389.99,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 2389.99
+        }
+      ]
+    },
+    {
+      "marketplace": "pichau",
+      "label": "Pichau",
+      "link": "https://www.pichau.com.br/processador-amd-ryzen-7-9800x3d-8-core-16-threads-4-7ghz-5-2ghz-turbo-cache-104mb-am5-100-100001084wof",
+      "has_affiliate": true,
+      "current_price": 2588.22,
+      "min_price": 2588.22,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 2588.22
+        }
+      ]
+    },
+    {
+      "marketplace": "amazon",
+      "label": "Amazon",
+      "link": "https://www.amazon.com.br/dp/B0DKFMSMYK?tag=producttrac0c-20",
+      "has_affiliate": true,
+      "current_price": 2588.22,
+      "min_price": 2588.22,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 2588.22
+        }
+      ]
+    },
+    {
+      "marketplace": "mercadolibre",
+      "label": "Mercado Livre",
+      "link": "https://www.mercadolivre.com.br/p/MLB44455598?matt_word=balu1353476&matt_tool=29239275",
+      "has_affiliate": true,
+      "current_price": 2399.0,
+      "min_price": 2399.0,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 2399.0
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1454_all",
+    "per_store": {
+      "kabum": "https://t.me/MyProductTrackerBot?start=sc_1454_kabum",
+      "pichau": "https://t.me/MyProductTrackerBot?start=sc_1454_pichau",
+      "amazon": "https://t.me/MyProductTrackerBot?start=sc_1454_amazon",
+      "mercadolibre": "https://t.me/MyProductTrackerBot?start=sc_1454_mercadolibre"
+    }
+  }
+}

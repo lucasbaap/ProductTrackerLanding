@@ -1,0 +1,100 @@
+{
+  "id": 1436,
+  "name": "Gigabyte B850 Aorus Elite WiFi7",
+  "family_id": 1196,
+  "image_url": null,
+  "monitored_since": "2026-10-24",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "mercadolibre",
+      "label": "Mercado Livre",
+      "link": "https://www.mercadolivre.com.br/p/MLB47692362?matt_word=balu1353476&matt_tool=29239275",
+      "has_affiliate": true,
+      "current_price": 2180.5,
+      "min_price": 2180.5,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 2180.5
+        }
+      ]
+    },
+    {
+      "marketplace": "amazon",
+      "label": "Amazon",
+      "link": "https://www.amazon.com.br/Placa-Gigabyte-B850-ELITE-4xDDR5/dp/B0DQM8GPR7?tag=producttrac0c-20",
+      "has_affiliate": true,
+      "current_price": 2235.28,
+      "min_price": 2235.28,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 2235.28
+        }
+      ]
+    },
+    {
+      "marketplace": "kabum",
+      "label": "KaBuM!",
+      "link": "https://www.kabum.com.br/produto/1015546/placa-mae-b850-aorus-elite-wifi7-amd-am5-atx-ddr5-pcie-5-0?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792816623_015ef478072df0b0f6b45efa79d0446d&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "has_affiliate": true,
+      "current_price": 2034.99,
+      "min_price": 2034.99,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 2034.99
+        }
+      ]
+    },
+    {
+      "marketplace": "terabyte",
+      "label": "Terabyte",
+      "link": "https://www.terabyteshop.com.br/produto/35572/placa-mae-gigabyte-b850-aorus-elite-wifi7-chipset-b850-amd-am5-atx-ddr5",
+      "has_affiliate": true,
+      "current_price": 2199.99,
+      "min_price": 2199.99,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 2199.99
+        }
+      ]
+    },
+    {
+      "marketplace": "pichau",
+      "label": "Pichau",
+      "link": "https://www.pichau.com.br/placa-mae-gigabyte-b850-aorus-elite-wf7-ddr5-socket-amd-am5-atx-chipset-amd-b850-b850-a-elite-wf7",
+      "has_affiliate": true,
+      "current_price": 2235.28,
+      "min_price": 2235.28,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 2235.28
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1436_all",
+    "per_store": {
+      "mercadolibre": "https://t.me/MyProductTrackerBot?start=sc_1436_mercadolibre",
+      "amazon": "https://t.me/MyProductTrackerBot?start=sc_1436_amazon",
+      "kabum": "https://t.me/MyProductTrackerBot?start=sc_1436_kabum",
+      "terabyte": "https://t.me/MyProductTrackerBot?start=sc_1436_terabyte",
+      "pichau": "https://t.me/MyProductTrackerBot?start=sc_1436_pichau"
+    }
+  }
+}

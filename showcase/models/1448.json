@@ -1,0 +1,66 @@
+{
+  "id": 1448,
+  "name": "AMD Ryzen 9 9950X3D2 Dual Edition",
+  "family_id": 1208,
+  "image_url": null,
+  "monitored_since": "2026-10-24",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "kabum",
+      "label": "KaBuM!",
+      "link": "https://www.kabum.com.br/produto/1028554/processador-amd-ryzen-9-9950x3d2-4-3ghz-5-6ghz-max-turbo-cache-208mb-16-nucleos-32-threads-am5-com-video-integrado-100-100001978wof?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792817019_fba46d5f7b4608a81f6e7137914748c2&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "has_affiliate": true,
+      "current_price": 6399.99,
+      "min_price": 6399.99,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 6399.99
+        }
+      ]
+    },
+    {
+      "marketplace": "pichau",
+      "label": "Pichau",
+      "link": "https://www.pichau.com.br/processador-amd-ryzen-9-9950x3d2-dual-edition-16-core-32-threads-4-3ghz-5-6ghz-turbo-cache-208mb-am5-100-100001978wof",
+      "has_affiliate": true,
+      "current_price": 7411.75,
+      "min_price": 7411.75,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 7411.75
+        }
+      ]
+    },
+    {
+      "marketplace": "mercadolibre",
+      "label": "Mercado Livre",
+      "link": "https://www.mercadolivre.com.br/p/MLB69088291?matt_word=balu1353476&matt_tool=29239275",
+      "has_affiliate": true,
+      "current_price": 6899.0,
+      "min_price": 6899.0,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 6899.0
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1448_all",
+    "per_store": {
+      "kabum": "https://t.me/MyProductTrackerBot?start=sc_1448_kabum",
+      "pichau": "https://t.me/MyProductTrackerBot?start=sc_1448_pichau",
+      "mercadolibre": "https://t.me/MyProductTrackerBot?start=sc_1448_mercadolibre"
+    }
+  }
+}

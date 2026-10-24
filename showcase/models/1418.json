@@ -1,0 +1,66 @@
+{
+  "id": 1418,
+  "name": "12GB/128GB",
+  "family_id": 1179,
+  "image_url": null,
+  "monitored_since": "2026-10-24",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "mercadolibre",
+      "label": "Mercado Livre",
+      "link": "https://www.mercadolivre.com.br/p/MLB65041642?matt_word=balu1353476&matt_tool=29239275",
+      "has_affiliate": true,
+      "current_price": 979.93,
+      "min_price": 979.93,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 979.93
+        }
+      ]
+    },
+    {
+      "marketplace": "amazon",
+      "label": "Amazon",
+      "link": "https://www.amazon.com.br/dp/B0GKD2XXVJ?tag=producttrac0c-20",
+      "has_affiliate": true,
+      "current_price": 949.0,
+      "min_price": 949.0,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 949.0
+        }
+      ]
+    },
+    {
+      "marketplace": "kabum",
+      "label": "KaBuM!",
+      "link": "https://www.kabum.com.br/produto/1007603/smartphone-motorola-moto-g17-128gb-roxo-12gb-4gb-ram-8gb-ram-boost-camera-50mp-e-tela-6-7-?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792816177_0733dbd4b460b489cc8b9cdf37b9fc60&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "has_affiliate": true,
+      "current_price": 899.1,
+      "min_price": 899.1,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 899.1
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1418_all",
+    "per_store": {
+      "mercadolibre": "https://t.me/MyProductTrackerBot?start=sc_1418_mercadolibre",
+      "amazon": "https://t.me/MyProductTrackerBot?start=sc_1418_amazon",
+      "kabum": "https://t.me/MyProductTrackerBot?start=sc_1418_kabum"
+    }
+  }
+}

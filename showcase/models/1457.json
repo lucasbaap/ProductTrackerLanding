@@ -1,0 +1,49 @@
+{
+  "id": 1457,
+  "name": "AMD Ryzen 5 9600",
+  "family_id": 1217,
+  "image_url": null,
+  "monitored_since": "2026-10-24",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "kabum",
+      "label": "KaBuM!",
+      "link": "https://www.kabum.com.br/produto/951846/processador-amd-ryzen-5-9600?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792817357_9fb42569ca8f0441771d94bbbe489c08&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "has_affiliate": true,
+      "current_price": 1445.54,
+      "min_price": 1445.54,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1445.54
+        }
+      ]
+    },
+    {
+      "marketplace": "mercadolibre",
+      "label": "Mercado Livre",
+      "link": "https://www.mercadolivre.com.br/p/MLB50742489?matt_word=balu1353476&matt_tool=29239275",
+      "has_affiliate": true,
+      "current_price": 1349.99,
+      "min_price": 1349.99,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1349.99
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1457_all",
+    "per_store": {
+      "kabum": "https://t.me/MyProductTrackerBot?start=sc_1457_kabum",
+      "mercadolibre": "https://t.me/MyProductTrackerBot?start=sc_1457_mercadolibre"
+    }
+  }
+}

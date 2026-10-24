@@ -1,0 +1,78 @@
+{
+  "id": 1421,
+  "name": "Nintendo Switch OLED",
+  "family_id": 1181,
+  "image_url": null,
+  "monitored_since": "2026-10-24",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "mercadolibre",
+      "label": "Mercado Livre",
+      "link": "https://www.mercadolivre.com.br/p/MLB58623212?matt_word=balu1353476&matt_tool=29239275",
+      "has_affiliate": true,
+      "current_price": 2199.0,
+      "min_price": 2199.0,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 2199.0
+        }
+      ]
+    },
+    {
+      "marketplace": "amazon",
+      "label": "Amazon",
+      "link": "https://www.amazon.com.br/dp/B098RKWHHZ?tag=producttrac0c-20",
+      "has_affiliate": true,
+      "current_price": 2273.0,
+      "min_price": 2273.0,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 2273.0
+        }
+      ]
+    },
+    {
+      "marketplace": "kabum",
+      "label": "KaBuM!",
+      "link": "https://www.kabum.com.br/produto/308190/console-nintendo-switch-oled-64gb-branco?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792816228_34777625789d58316e595777082f8f03&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "has_affiliate": true,
+      "current_price": 3299.0,
+      "min_price": null,
+      "min_price_at": null,
+      "monitored_since": "2026-10-24",
+      "history": []
+    },
+    {
+      "marketplace": "magalu",
+      "label": "Magalu",
+      "link": "https://m.magazineluiza.com.br/console-nintendo-switch-oled-64gb-edicao-super-mario-bros-wonder/p/fh937be7ka/ga/coni/?partner_id=3440&promoter_id=5820501&utm_source=divulgador&utm_medium=magalu&utm_campaign=5820501",
+      "has_affiliate": true,
+      "current_price": 2700.0,
+      "min_price": 2700.0,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 2700.0
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1421_all",
+    "per_store": {
+      "mercadolibre": "https://t.me/MyProductTrackerBot?start=sc_1421_mercadolibre",
+      "amazon": "https://t.me/MyProductTrackerBot?start=sc_1421_amazon",
+      "kabum": "https://t.me/MyProductTrackerBot?start=sc_1421_kabum",
+      "magalu": "https://t.me/MyProductTrackerBot?start=sc_1421_magalu"
+    }
+  }
+}

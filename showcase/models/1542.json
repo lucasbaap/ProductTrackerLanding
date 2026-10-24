@@ -1,0 +1,83 @@
+{
+  "id": 1542,
+  "name": "Samsung 9100 Pro (NVMe Gen5)",
+  "family_id": 1302,
+  "image_url": null,
+  "monitored_since": "2026-10-24",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "mercadolibre",
+      "label": "Mercado Livre",
+      "link": "https://www.mercadolivre.com.br/ssd-samsung-9100-pro-1tb-nvme-gen5-x4-leitura-14700mbs/up/MLBU5504951663?matt_word=balu1353476&matt_tool=29239275",
+      "has_affiliate": true,
+      "current_price": 2475.38,
+      "min_price": 2475.38,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 2475.38
+        }
+      ]
+    },
+    {
+      "marketplace": "amazon",
+      "label": "Amazon",
+      "link": "https://www.amazon.com.br/dp/B0DX2G349M?tag=producttrac0c-20",
+      "has_affiliate": true,
+      "current_price": 1999.0,
+      "min_price": 1999.0,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1999.0
+        }
+      ]
+    },
+    {
+      "marketplace": "aliexpress",
+      "label": "AliExpress",
+      "link": "https://www.aliexpress.com/item/1005009921672679.html",
+      "has_affiliate": true,
+      "current_price": 1642.71,
+      "min_price": 1642.71,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1642.71
+        }
+      ]
+    },
+    {
+      "marketplace": "kabum",
+      "label": "KaBuM!",
+      "link": "https://www.kabum.com.br/produto/905491/ssd-m-2-nvme-gen5-1tb-14-700mb-s-samsung-9100-pro-1tb-pc-ps5-playstation-5-ssd-pcie-5-0-gen-5-mz-vap1t0bam",
+      "has_affiliate": true,
+      "current_price": 2469.05,
+      "min_price": 2469.05,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 2469.05
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1542_all",
+    "per_store": {
+      "mercadolibre": "https://t.me/MyProductTrackerBot?start=sc_1542_mercadolibre",
+      "amazon": "https://t.me/MyProductTrackerBot?start=sc_1542_amazon",
+      "aliexpress": "https://t.me/MyProductTrackerBot?start=sc_1542_aliexpress",
+      "kabum": "https://t.me/MyProductTrackerBot?start=sc_1542_kabum"
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1458,
+  "name": "AMD Ryzen 9 7950X3D",
+  "family_id": 1218,
+  "image_url": null,
+  "monitored_since": "2026-10-24",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "kabum",
+      "label": "KaBuM!",
+      "link": "https://www.kabum.com.br/produto/463524/processador-amd-ryzen-9-7950x3d-4-2ghz-5-7ghz-cache-16mb-am5-16-nucleos-32threads-placa-de-video-s-cooler-100-100000908wof?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792817360_65287c82184ad56442f49630998beffe&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "has_affiliate": true,
+      "current_price": 4074.89,
+      "min_price": 4074.89,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 4074.89
+        }
+      ]
+    },
+    {
+      "marketplace": "mercadolibre",
+      "label": "Mercado Livre",
+      "link": "https://www.mercadolivre.com.br/p/MLB22481014?matt_word=balu1353476&matt_tool=29239275",
+      "has_affiliate": true,
+      "current_price": 4225.0,
+      "min_price": 4225.0,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 4225.0
+        }
+      ]
+    },
+    {
+      "marketplace": "shopee",
+      "label": "Shopee",
+      "link": "https://s.shopee.com.br/4VdoFAZiZk",
+      "has_affiliate": true,
+      "current_price": 4293.9,
+      "min_price": 4293.9,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 4293.9
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1458_all",
+    "per_store": {
+      "kabum": "https://t.me/MyProductTrackerBot?start=sc_1458_kabum",
+      "mercadolibre": "https://t.me/MyProductTrackerBot?start=sc_1458_mercadolibre",
+      "shopee": "https://t.me/MyProductTrackerBot?start=sc_1458_shopee"
+    }
+  }
+}

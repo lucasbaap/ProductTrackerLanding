@@ -1,0 +1,66 @@
+{
+  "id": 1486,
+  "name": "Intel Core i9-14900",
+  "family_id": 1246,
+  "image_url": null,
+  "monitored_since": "2026-10-24",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "mercadolibre",
+      "label": "Mercado Livre",
+      "link": "https://www.mercadolivre.com.br/p/MLB32038252?matt_word=balu1353476&matt_tool=29239275",
+      "has_affiliate": true,
+      "current_price": 4331.43,
+      "min_price": 4331.43,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 4331.43
+        }
+      ]
+    },
+    {
+      "marketplace": "amazon",
+      "label": "Amazon",
+      "link": "https://www.amazon.com.br/dp/B0CQ2ZKDKB?tag=producttrac0c-20",
+      "has_affiliate": true,
+      "current_price": 3529.4,
+      "min_price": 3529.4,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 3529.4
+        }
+      ]
+    },
+    {
+      "marketplace": "kabum",
+      "label": "KaBuM!",
+      "link": "https://www.kabum.com.br/produto/904661/processador-intel-core-i9-14900-2-0ghz-5-80-ghz-max-turbo-cache-36mb-24-nucleos-32-threads-lga-1700-com-video-integrado-bx8071514900",
+      "has_affiliate": true,
+      "current_price": 2999.99,
+      "min_price": 2999.99,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 2999.99
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1486_all",
+    "per_store": {
+      "mercadolibre": "https://t.me/MyProductTrackerBot?start=sc_1486_mercadolibre",
+      "amazon": "https://t.me/MyProductTrackerBot?start=sc_1486_amazon",
+      "kabum": "https://t.me/MyProductTrackerBot?start=sc_1486_kabum"
+    }
+  }
+}

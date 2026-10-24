@@ -1,0 +1,78 @@
+{
+  "id": 1499,
+  "name": "Corsair Vengeance LPX CMK16GX4M2E3200C16 (16GB 2x8 DDR4-3200)",
+  "family_id": 1259,
+  "image_url": null,
+  "monitored_since": "2026-10-24",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "mercadolibre",
+      "label": "Mercado Livre",
+      "link": "https://www.mercadolivre.com.br/p/MLB18340609?matt_word=balu1353476&matt_tool=29239275",
+      "has_affiliate": true,
+      "current_price": 1688.8,
+      "min_price": 1688.8,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1688.8
+        }
+      ]
+    },
+    {
+      "marketplace": "amazon",
+      "label": "Amazon",
+      "link": "https://www.amazon.com.br/dp/B07RS1G6XW?tag=producttrac0c-20",
+      "has_affiliate": true,
+      "current_price": 1312.79,
+      "min_price": 1312.79,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1312.79
+        }
+      ]
+    },
+    {
+      "marketplace": "kabum",
+      "label": "KaBuM!",
+      "link": "https://www.kabum.com.br/produto/881337/memoria-ram-corsair-vengeance-lpx-16gb-2x8gb-ddr4-3200mhz-black",
+      "has_affiliate": true,
+      "current_price": 1434.99,
+      "min_price": null,
+      "min_price_at": null,
+      "monitored_since": "2026-10-24",
+      "history": []
+    },
+    {
+      "marketplace": "aliexpress",
+      "label": "AliExpress",
+      "link": "https://www.aliexpress.com/item/1005012574590022.html",
+      "has_affiliate": true,
+      "current_price": 1093.73,
+      "min_price": 1093.73,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1093.73
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1499_all",
+    "per_store": {
+      "mercadolibre": "https://t.me/MyProductTrackerBot?start=sc_1499_mercadolibre",
+      "amazon": "https://t.me/MyProductTrackerBot?start=sc_1499_amazon",
+      "kabum": "https://t.me/MyProductTrackerBot?start=sc_1499_kabum",
+      "aliexpress": "https://t.me/MyProductTrackerBot?start=sc_1499_aliexpress"
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1395,
+  "name": "256GB",
+  "family_id": 1162,
+  "image_url": null,
+  "monitored_since": "2026-10-24",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "mercadolibre",
+      "label": "Mercado Livre",
+      "link": "https://www.mercadolivre.com.br/p/MLB77855502?matt_word=balu1353476&matt_tool=29239275",
+      "has_affiliate": true,
+      "current_price": 10050.0,
+      "min_price": 10050.0,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 10050.0
+        }
+      ]
+    },
+    {
+      "marketplace": "kabum",
+      "label": "KaBuM!",
+      "link": "https://www.kabum.com.br/produto/1072459/iphone-18-pro-max-apple-256gb-camera-de-48mp-a20-pro-tela-6-9-super-retina-xdr-bordo?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792815959_0498a367749c1efc0b58d24335abff7f&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "has_affiliate": true,
+      "current_price": 11699.1,
+      "min_price": 11699.1,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 11699.1
+        }
+      ]
+    },
+    {
+      "marketplace": "shopee",
+      "label": "Shopee",
+      "link": "https://s.shopee.com.br/1gJcqL3IzG",
+      "has_affiliate": true,
+      "current_price": 12999.0,
+      "min_price": 12999.0,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 12999.0
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1395_all",
+    "per_store": {
+      "mercadolibre": "https://t.me/MyProductTrackerBot?start=sc_1395_mercadolibre",
+      "kabum": "https://t.me/MyProductTrackerBot?start=sc_1395_kabum",
+      "shopee": "https://t.me/MyProductTrackerBot?start=sc_1395_shopee"
+    }
+  }
+}

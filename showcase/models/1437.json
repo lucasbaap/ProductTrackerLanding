@@ -1,0 +1,100 @@
+{
+  "id": 1437,
+  "name": "ASUS TUF Gaming B650M-E WiFi",
+  "family_id": 1197,
+  "image_url": null,
+  "monitored_since": "2026-10-24",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "mercadolibre",
+      "label": "Mercado Livre",
+      "link": "https://www.mercadolivre.com.br/p/MLB38509494?matt_word=balu1353476&matt_tool=29239275",
+      "has_affiliate": true,
+      "current_price": 1299.0,
+      "min_price": 1299.0,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1299.0
+        }
+      ]
+    },
+    {
+      "marketplace": "amazon",
+      "label": "Amazon",
+      "link": "https://www.amazon.com.br/ASUS-Gaming-B650M-PROTECTION-Armoury/dp/B0C6HXLPJP?tag=producttrac0c-20",
+      "has_affiliate": true,
+      "current_price": 1196.9,
+      "min_price": 1196.9,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1196.9
+        }
+      ]
+    },
+    {
+      "marketplace": "kabum",
+      "label": "KaBuM!",
+      "link": "https://www.kabum.com.br/produto/523145/placa-mae-asus-tuf-gaming-b650m-e-wifi-amd-am5-b650-ddr5-preto-90mb1fv0-m0eay0?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792816678_19cf35489d05b276a33f7488e61f9683&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "has_affiliate": true,
+      "current_price": 1149.99,
+      "min_price": 1149.99,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1149.99
+        }
+      ]
+    },
+    {
+      "marketplace": "terabyte",
+      "label": "Terabyte",
+      "link": "https://www.terabyteshop.com.br/produto/27232/placa-mae-asus-tuf-gaming-b650m-e-wifi-chipset-b650-amd-am5-matx-ddr5-90mb1fv0-m0eay0",
+      "has_affiliate": true,
+      "current_price": 1352.93,
+      "min_price": 1352.93,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1352.93
+        }
+      ]
+    },
+    {
+      "marketplace": "pichau",
+      "label": "Pichau",
+      "link": "https://www.pichau.com.br/placa-mae-asus-tuf-gaming-b650m-e-wifi-ddr5-socket-amd-am5-m-atx-chipset-amd-b650-tuf-gaming-b650m-e-wifi",
+      "has_affiliate": true,
+      "current_price": 1352.93,
+      "min_price": 1352.93,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1352.93
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1437_all",
+    "per_store": {
+      "mercadolibre": "https://t.me/MyProductTrackerBot?start=sc_1437_mercadolibre",
+      "amazon": "https://t.me/MyProductTrackerBot?start=sc_1437_amazon",
+      "kabum": "https://t.me/MyProductTrackerBot?start=sc_1437_kabum",
+      "terabyte": "https://t.me/MyProductTrackerBot?start=sc_1437_terabyte",
+      "pichau": "https://t.me/MyProductTrackerBot?start=sc_1437_pichau"
+    }
+  }
+}

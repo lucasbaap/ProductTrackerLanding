@@ -1,0 +1,83 @@
+{
+  "id": 1484,
+  "name": "Intel Core i9-14900KF",
+  "family_id": 1244,
+  "image_url": null,
+  "monitored_since": "2026-10-24",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "mercadolibre",
+      "label": "Mercado Livre",
+      "link": "https://www.mercadolivre.com.br/p/MLB2071859315?matt_word=balu1353476&matt_tool=29239275",
+      "has_affiliate": true,
+      "current_price": 4009.0,
+      "min_price": 4009.0,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 4009.0
+        }
+      ]
+    },
+    {
+      "marketplace": "amazon",
+      "label": "Amazon",
+      "link": "https://www.amazon.com.br/dp/B0CHBJXG7G?tag=producttrac0c-20",
+      "has_affiliate": true,
+      "current_price": 3411.75,
+      "min_price": 3411.75,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 3411.75
+        }
+      ]
+    },
+    {
+      "marketplace": "kabum",
+      "label": "KaBuM!",
+      "link": "https://www.kabum.com.br/produto/497574/processador-intel-core-i9-14900kf-3-2ghz-6ghz-max-turbo-cache-36mb-24-nucleos-32-threads-lga-1700-sem-video-integrado-bx8071514900kf",
+      "has_affiliate": true,
+      "current_price": 3299.99,
+      "min_price": 3299.99,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 3299.99
+        }
+      ]
+    },
+    {
+      "marketplace": "pichau",
+      "label": "Pichau",
+      "link": "https://www.pichau.com.br/processador-intel-core-i9-14900kf-24-core-32-threads-3-2ghz-6-0ghz-turbo-cache-36mb-lga1700-bx8071514900kf",
+      "has_affiliate": true,
+      "current_price": 3411.75,
+      "min_price": 3411.75,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 3411.75
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1484_all",
+    "per_store": {
+      "mercadolibre": "https://t.me/MyProductTrackerBot?start=sc_1484_mercadolibre",
+      "amazon": "https://t.me/MyProductTrackerBot?start=sc_1484_amazon",
+      "kabum": "https://t.me/MyProductTrackerBot?start=sc_1484_kabum",
+      "pichau": "https://t.me/MyProductTrackerBot?start=sc_1484_pichau"
+    }
+  }
+}

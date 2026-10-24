@@ -1,0 +1,95 @@
+{
+  "id": 1419,
+  "name": "avulso",
+  "family_id": 1180,
+  "image_url": null,
+  "monitored_since": "2026-10-24",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "mercadolibre",
+      "label": "Mercado Livre",
+      "link": "https://www.mercadolivre.com.br/p/MLB49200061?matt_word=balu1353476&matt_tool=29239275",
+      "has_affiliate": true,
+      "current_price": 2842.96,
+      "min_price": 2842.96,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 2842.96
+        }
+      ]
+    },
+    {
+      "marketplace": "amazon",
+      "label": "Amazon",
+      "link": "https://www.amazon.com.br/dp/B0F6D7MQQB?tag=producttrac0c-20",
+      "has_affiliate": true,
+      "current_price": 4155.89,
+      "min_price": 4155.89,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 4155.89
+        }
+      ]
+    },
+    {
+      "marketplace": "shopee",
+      "label": "Shopee",
+      "link": "https://s.shopee.com.br/7AeZOhxpjH",
+      "has_affiliate": true,
+      "current_price": 3990.0,
+      "min_price": 3990.0,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 3990.0
+        }
+      ]
+    },
+    {
+      "marketplace": "kabum",
+      "label": "KaBuM!",
+      "link": "https://www.kabum.com.br/produto/777177/console-nintendo-switch-2-256gb-preto-azul-e-vermelho?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792816192_d4066d069a22f44586b9b859d5d57800&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "has_affiliate": true,
+      "current_price": 4499.0,
+      "min_price": 4499.0,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 4499.0
+        }
+      ]
+    },
+    {
+      "marketplace": "magalu",
+      "label": "Magalu",
+      "link": "https://www.magazineluiza.com.br/console-nintendo-switch-2-256gb-preto/p/ha8a221412/ga/otga/?partner_id=3440&promoter_id=5820501&utm_source=divulgador&utm_medium=magalu&utm_campaign=5820501",
+      "has_affiliate": true,
+      "current_price": 4899.0,
+      "min_price": null,
+      "min_price_at": null,
+      "monitored_since": "2026-10-24",
+      "history": []
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1419_all",
+    "per_store": {
+      "mercadolibre": "https://t.me/MyProductTrackerBot?start=sc_1419_mercadolibre",
+      "amazon": "https://t.me/MyProductTrackerBot?start=sc_1419_amazon",
+      "shopee": "https://t.me/MyProductTrackerBot?start=sc_1419_shopee",
+      "kabum": "https://t.me/MyProductTrackerBot?start=sc_1419_kabum",
+      "magalu": "https://t.me/MyProductTrackerBot?start=sc_1419_magalu"
+    }
+  }
+}

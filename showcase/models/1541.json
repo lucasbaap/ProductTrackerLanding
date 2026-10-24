@@ -1,0 +1,83 @@
+{
+  "id": 1541,
+  "name": "Kingston Fury Renegade G5 (NVMe Gen5)",
+  "family_id": 1301,
+  "image_url": null,
+  "monitored_since": "2026-10-24",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "mercadolibre",
+      "label": "Mercado Livre",
+      "link": "https://www.mercadolivre.com.br/p/MLB49446796?matt_word=balu1353476&matt_tool=29239275",
+      "has_affiliate": true,
+      "current_price": 2690.9,
+      "min_price": 2690.9,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 2690.9
+        }
+      ]
+    },
+    {
+      "marketplace": "amazon",
+      "label": "Amazon",
+      "link": "https://www.amazon.com.br/dp/B0F4425DTW?tag=producttrac0c-20",
+      "has_affiliate": true,
+      "current_price": 2888.88,
+      "min_price": 2888.88,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 2888.88
+        }
+      ]
+    },
+    {
+      "marketplace": "kabum",
+      "label": "KaBuM!",
+      "link": "https://www.kabum.com.br/produto/752217/ssd-kingston-fury-renegade-1024gb-g5-pcie-m-2-nvme-leitura-14-200mb-s-e-gravacao-11-000mb-s-compativel-com-ps5-sfyr2s-1t0",
+      "has_affiliate": true,
+      "current_price": 2599.99,
+      "min_price": 2599.99,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 2599.99
+        }
+      ]
+    },
+    {
+      "marketplace": "pichau",
+      "label": "Pichau",
+      "link": "https://www.pichau.com.br/ssd-kingston-fury-renegade-g5-1024gb-m-2-2280-pcie-5-0-nvme-leitura-14200mb-s-gravacao-11000mb-s-sfyr2s-1t0",
+      "has_affiliate": true,
+      "current_price": 3529.4,
+      "min_price": 3529.4,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 3529.4
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1541_all",
+    "per_store": {
+      "mercadolibre": "https://t.me/MyProductTrackerBot?start=sc_1541_mercadolibre",
+      "amazon": "https://t.me/MyProductTrackerBot?start=sc_1541_amazon",
+      "kabum": "https://t.me/MyProductTrackerBot?start=sc_1541_kabum",
+      "pichau": "https://t.me/MyProductTrackerBot?start=sc_1541_pichau"
+    }
+  }
+}

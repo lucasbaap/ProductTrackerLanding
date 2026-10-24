@@ -1,0 +1,32 @@
+{
+  "id": 1405,
+  "name": "12GB/256GB",
+  "family_id": 1170,
+  "image_url": null,
+  "monitored_since": "2026-10-24",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "mercadolibre",
+      "label": "Mercado Livre",
+      "link": "https://www.mercadolivre.com.br/motorola-signature-5g-256gb-dual-sim/up/MLBU5395959637?matt_word=balu1353476&matt_tool=29239275",
+      "has_affiliate": true,
+      "current_price": 5999.0,
+      "min_price": 5999.0,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 5999.0
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1405_all",
+    "per_store": {
+      "mercadolibre": "https://t.me/MyProductTrackerBot?start=sc_1405_mercadolibre"
+    }
+  }
+}

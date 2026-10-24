@@ -1,0 +1,49 @@
+{
+  "id": 1530,
+  "name": "Samsung 980 1TB (NVMe Gen3)",
+  "family_id": 1290,
+  "image_url": null,
+  "monitored_since": "2026-10-24",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "mercadolibre",
+      "label": "Mercado Livre",
+      "link": "https://www.mercadolivre.com.br/p/MLB17978325?matt_word=balu1353476&matt_tool=29239275",
+      "has_affiliate": true,
+      "current_price": 1297.66,
+      "min_price": 1297.66,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1297.66
+        }
+      ]
+    },
+    {
+      "marketplace": "aliexpress",
+      "label": "AliExpress",
+      "link": "https://www.aliexpress.com/item/1005008573768033.html",
+      "has_affiliate": true,
+      "current_price": 1257.49,
+      "min_price": 1257.49,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1257.49
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1530_all",
+    "per_store": {
+      "mercadolibre": "https://t.me/MyProductTrackerBot?start=sc_1530_mercadolibre",
+      "aliexpress": "https://t.me/MyProductTrackerBot?start=sc_1530_aliexpress"
+    }
+  }
+}

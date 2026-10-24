@@ -1,0 +1,83 @@
+{
+  "id": 1481,
+  "name": "Intel Core Ultra 5 225",
+  "family_id": 1241,
+  "image_url": null,
+  "monitored_since": "2026-10-24",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "mercadolibre",
+      "label": "Mercado Livre",
+      "link": "https://www.mercadolivre.com.br/p/MLB2089094099?matt_word=balu1353476&matt_tool=29239275",
+      "has_affiliate": true,
+      "current_price": 702.02,
+      "min_price": 702.02,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 702.02
+        }
+      ]
+    },
+    {
+      "marketplace": "amazon",
+      "label": "Amazon",
+      "link": "https://www.amazon.com.br/dp/B0DTRYXZFJ?tag=producttrac0c-20",
+      "has_affiliate": true,
+      "current_price": 1257.0,
+      "min_price": 1257.0,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1257.0
+        }
+      ]
+    },
+    {
+      "marketplace": "kabum",
+      "label": "KaBuM!",
+      "link": "https://www.kabum.com.br/produto/696999/processador-intel-core-ultra-5-225-3-3ghz-4-9ghz-turbo-cache-20mb-10-nucleos-10-threads-lga-1851-com-video-integrado-bx80768225?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792818135_11ef925ac52121530bdebf6944829379&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "has_affiliate": true,
+      "current_price": 1249.99,
+      "min_price": 1249.99,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1249.99
+        }
+      ]
+    },
+    {
+      "marketplace": "terabyte",
+      "label": "Terabyte",
+      "link": "https://www.terabyteshop.com.br/produto/34576/processador-intel-core-ultra-5-225-33-ghz-49ghz-turbo-serie-2-10-cores-10-threads-lga-1851-bx80768225",
+      "has_affiliate": true,
+      "current_price": 1058.81,
+      "min_price": 1058.81,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1058.81
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1481_all",
+    "per_store": {
+      "mercadolibre": "https://t.me/MyProductTrackerBot?start=sc_1481_mercadolibre",
+      "amazon": "https://t.me/MyProductTrackerBot?start=sc_1481_amazon",
+      "kabum": "https://t.me/MyProductTrackerBot?start=sc_1481_kabum",
+      "terabyte": "https://t.me/MyProductTrackerBot?start=sc_1481_terabyte"
+    }
+  }
+}

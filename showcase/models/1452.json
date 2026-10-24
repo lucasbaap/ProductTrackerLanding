@@ -1,0 +1,83 @@
+{
+  "id": 1452,
+  "name": "AMD Ryzen 9 9900X",
+  "family_id": 1212,
+  "image_url": null,
+  "monitored_since": "2026-10-24",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "kabum",
+      "label": "KaBuM!",
+      "link": "https://www.kabum.com.br/produto/609952/processador-amd-ryzen-9-9900x-4-4-ghz-5-6-ghz-max-turbo-cache-76mb-12-nucleos-24-threads-am5-com-video-integrado-100-100000662wof?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792817161_6e665eabb324048c88ffa26583090adc&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "has_affiliate": true,
+      "current_price": 2199.99,
+      "min_price": 2199.99,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 2199.99
+        }
+      ]
+    },
+    {
+      "marketplace": "pichau",
+      "label": "Pichau",
+      "link": "https://www.pichau.com.br/processador-amd-ryzen-9-9900x-12-core-24-threads-4-4ghz-5-6ghz-turbo-cache-76mb-am5-100-100000662wof",
+      "has_affiliate": true,
+      "current_price": 2470.58,
+      "min_price": 2470.58,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 2470.58
+        }
+      ]
+    },
+    {
+      "marketplace": "mercadolibre",
+      "label": "Mercado Livre",
+      "link": "https://www.mercadolivre.com.br/p/MLB39628050?matt_word=balu1353476&matt_tool=29239275",
+      "has_affiliate": true,
+      "current_price": 2588.22,
+      "min_price": 2588.22,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 2588.22
+        }
+      ]
+    },
+    {
+      "marketplace": "aliexpress",
+      "label": "AliExpress",
+      "link": "https://s.click.aliexpress.com/s/NdpwztbAIgDMmxGbP8fFks7yUFfsHjzlImSYmA68h7xlMRgzueFsRgokQ9f9hcpVKttxtQE2VzIoqkXJXrpOr6uR3zv7mP4CDO9CddoFf4t0QE5DXPy8Pgjhz4irfQSEjEGUmy5yF3A5gJ9h3NYjLMgqIMqa3zcpq5E2BC3W5EbV40Dm9buQxWpZzw1lbX8Zm2kZtNIa4KyDieNjsH7IU6Yv8StELKVvT9r4eFAaXPGhwHsgaDqdNcmY116r3GC2YvmvR57S69fGyn8Tt4pCtmLccxQz3g0L1ZKu00BPwYOT3BF4QZOqRqMDB0Dv3LQmIqddL3iHYIDk2y9KVsryHySRkaNVw13FF74fmT76bNTqjGjgin7IKnSjKv9v5Y5KDpa02NitpQdcuFpzYVRFUVJ4wi0zdwo37umv34XvTjj27RVz2u86eVVtxU8ze0GfcApGggZggmoLlJqvnst7SL1KzqS1dbBFGLlVTWiUJa6s1zVHbuyGaSemnzQ8wysenNojFViz38wksa95HXhdQBftsqTXvAoVLJwTXxJZF76IfexjzRC22bAyVDX7HTFnBbn5zKnqeSJJxJVCHJ7pVdRrE2XaW5BjX1SZoNCpZPoZvQ9rTDScrhlojG1gEMov6hay8kxlPw1hRmHfmmOf4JGMmlCg9R4XpoP2ljnj3TwBgNy8KK25GGbIIBpvRP15biOXUrN4G5QL2JhzySAlffcZuauDNAbeAyXBQbGqLUyH5x7fk22u3f6RuSrYMVGne1OOkWp0t92T8eTZHwEodNvOQXpwMGcVOg95MolE8fABP9e37MXDvMRUBq7K6fmbKBYvsKJYHqwbYmzigQZ0gDGzzriJtHgsov7GmeIDjQT4hPk2osoRQomHjckIdp4VMrmdmJ5Y0nqcJbg7O7yPjJSbRq3t4cnMNGZsjDma0AJvCChiO353uOxowhbwyMMNRi52nmAepI2K2BGXvBiK1YCQJJQ5ZPSEVinK3HnNkIzfl",
+      "has_affiliate": true,
+      "current_price": 2906.04,
+      "min_price": 2906.04,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 2906.04
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1452_all",
+    "per_store": {
+      "kabum": "https://t.me/MyProductTrackerBot?start=sc_1452_kabum",
+      "pichau": "https://t.me/MyProductTrackerBot?start=sc_1452_pichau",
+      "mercadolibre": "https://t.me/MyProductTrackerBot?start=sc_1452_mercadolibre",
+      "aliexpress": "https://t.me/MyProductTrackerBot?start=sc_1452_aliexpress"
+    }
+  }
+}

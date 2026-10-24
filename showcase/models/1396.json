@@ -1,0 +1,32 @@
+{
+  "id": 1396,
+  "name": "512GB",
+  "family_id": 1162,
+  "image_url": null,
+  "monitored_since": "2026-10-24",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "amazon",
+      "label": "Amazon",
+      "link": "https://www.amazon.com.br/dp/B0HJ9VQMB1?tag=producttrac0c-20",
+      "has_affiliate": true,
+      "current_price": 12163.44,
+      "min_price": 12163.44,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 12163.44
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1396_all",
+    "per_store": {
+      "amazon": "https://t.me/MyProductTrackerBot?start=sc_1396_amazon"
+    }
+  }
+}

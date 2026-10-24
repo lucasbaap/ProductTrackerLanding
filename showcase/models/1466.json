@@ -1,0 +1,249 @@
+{
+  "id": 1466,
+  "name": "AMD Ryzen 5 7600X",
+  "family_id": 1226,
+  "image_url": null,
+  "monitored_since": "2026-09-05",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "kabum",
+      "label": "KaBuM!",
+      "link": "https://www.kabum.com.br/produto/378414/processador-amd-ryzen-5-7600x-4-7ghz-5-3ghz-max-turbo-cache-38mb-6-nucleos-12-threads-am5-com-video-integrado-100-100000593wof?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1791391300_f33a8d9cdd69dd64fdf5f50c5d4999ca&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "has_affiliate": true,
+      "current_price": 1089.99,
+      "min_price": 999.99,
+      "min_price_at": "2026-10-07",
+      "monitored_since": "2026-09-05",
+      "history": [
+        {
+          "date": "2026-09-05",
+          "price": 1299.99
+        },
+        {
+          "date": "2026-09-06",
+          "price": 1299.99
+        },
+        {
+          "date": "2026-09-07",
+          "price": 1299.99
+        },
+        {
+          "date": "2026-09-08",
+          "price": 1299.99
+        },
+        {
+          "date": "2026-09-09",
+          "price": 1299.99
+        },
+        {
+          "date": "2026-09-10",
+          "price": 1299.99
+        },
+        {
+          "date": "2026-09-11",
+          "price": 1299.99
+        },
+        {
+          "date": "2026-09-12",
+          "price": 1299.99
+        },
+        {
+          "date": "2026-09-13",
+          "price": 1299.99
+        },
+        {
+          "date": "2026-09-14",
+          "price": 1299.99
+        },
+        {
+          "date": "2026-09-15",
+          "price": 1299.99
+        },
+        {
+          "date": "2026-09-16",
+          "price": 1299.99
+        },
+        {
+          "date": "2026-09-17",
+          "price": 1299.99
+        },
+        {
+          "date": "2026-09-18",
+          "price": 1199.99
+        },
+        {
+          "date": "2026-09-19",
+          "price": 1199.99
+        },
+        {
+          "date": "2026-09-20",
+          "price": 1199.99
+        },
+        {
+          "date": "2026-09-21",
+          "price": 1199.99
+        },
+        {
+          "date": "2026-09-22",
+          "price": 1199.99
+        },
+        {
+          "date": "2026-09-23",
+          "price": 1199.99
+        },
+        {
+          "date": "2026-09-24",
+          "price": 1199.99
+        },
+        {
+          "date": "2026-09-25",
+          "price": 1199.99
+        },
+        {
+          "date": "2026-09-26",
+          "price": 1199.99
+        },
+        {
+          "date": "2026-09-27",
+          "price": 1199.99
+        },
+        {
+          "date": "2026-09-28",
+          "price": 1199.99
+        },
+        {
+          "date": "2026-09-29",
+          "price": 1199.99
+        },
+        {
+          "date": "2026-09-30",
+          "price": 1199.99
+        },
+        {
+          "date": "2026-10-01",
+          "price": 1199.99
+        },
+        {
+          "date": "2026-10-02",
+          "price": 1199.99
+        },
+        {
+          "date": "2026-10-03",
+          "price": 1199.99
+        },
+        {
+          "date": "2026-10-04",
+          "price": 1199.99
+        },
+        {
+          "date": "2026-10-05",
+          "price": 1199.99
+        },
+        {
+          "date": "2026-10-06",
+          "price": 1199.99
+        },
+        {
+          "date": "2026-10-07",
+          "price": 999.99
+        },
+        {
+          "date": "2026-10-24",
+          "price": 1089.99
+        }
+      ]
+    },
+    {
+      "marketplace": "pichau",
+      "label": "Pichau",
+      "link": "https://www.pichau.com.br/processador-amd-ryzen-5-7600x-6-core-12-threads-4-7ghz-5-3ghz-turbo-cache-38mb-am5-100-100000593wof",
+      "has_affiliate": true,
+      "current_price": 1282.34,
+      "min_price": 1282.34,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1282.34
+        }
+      ]
+    },
+    {
+      "marketplace": "terabyte",
+      "label": "Terabyte",
+      "link": "https://www.terabyteshop.com.br/produto/22262/processador-amd-ryzen-5-7600x-47ghz-53ghz-turbo-6-cores-12-threads-am5-100-100000593wof",
+      "has_affiliate": true,
+      "current_price": 1411.75,
+      "min_price": 1411.75,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1411.75
+        }
+      ]
+    },
+    {
+      "marketplace": "amazon",
+      "label": "Amazon",
+      "link": "https://www.amazon.com.br/dp/B0BBJDS62N?tag=producttrac0c-20",
+      "has_affiliate": true,
+      "current_price": 1089.99,
+      "min_price": 1089.99,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1089.99
+        }
+      ]
+    },
+    {
+      "marketplace": "mercadolibre",
+      "label": "Mercado Livre",
+      "link": "https://www.mercadolivre.com.br/p/MLB49466419?matt_word=balu1353476&matt_tool=29239275",
+      "has_affiliate": true,
+      "current_price": 1245.0,
+      "min_price": 1245.0,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1245.0
+        }
+      ]
+    },
+    {
+      "marketplace": "shopee",
+      "label": "Shopee",
+      "link": "https://s.shopee.com.br/8AX6cDILZO",
+      "has_affiliate": true,
+      "current_price": 1764.99,
+      "min_price": 1764.99,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1764.99
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1466_all",
+    "per_store": {
+      "kabum": "https://t.me/MyProductTrackerBot?start=sc_1466_kabum",
+      "pichau": "https://t.me/MyProductTrackerBot?start=sc_1466_pichau",
+      "terabyte": "https://t.me/MyProductTrackerBot?start=sc_1466_terabyte",
+      "amazon": "https://t.me/MyProductTrackerBot?start=sc_1466_amazon",
+      "mercadolibre": "https://t.me/MyProductTrackerBot?start=sc_1466_mercadolibre",
+      "shopee": "https://t.me/MyProductTrackerBot?start=sc_1466_shopee"
+    }
+  }
+}

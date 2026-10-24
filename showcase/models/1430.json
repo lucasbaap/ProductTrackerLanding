@@ -1,0 +1,112 @@
+{
+  "id": 1430,
+  "name": "MSI B550M Pro-VDH WiFi",
+  "family_id": 1190,
+  "image_url": null,
+  "monitored_since": "2026-10-24",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "mercadolibre",
+      "label": "Mercado Livre",
+      "link": "https://www.mercadolivre.com.br/p/MLB27428538?matt_word=balu1353476&matt_tool=29239275",
+      "has_affiliate": true,
+      "current_price": 841.0,
+      "min_price": 841.0,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 841.0
+        }
+      ]
+    },
+    {
+      "marketplace": "amazon",
+      "label": "Amazon",
+      "link": "https://www.amazon.com.br/MSI-B550M-PRO-VDH-ProSeries-Micro-ATX/dp/B089D1YG11?tag=producttrac0c-20",
+      "has_affiliate": true,
+      "current_price": 759.99,
+      "min_price": 759.99,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 759.99
+        }
+      ]
+    },
+    {
+      "marketplace": "aliexpress",
+      "label": "AliExpress",
+      "link": "https://s.click.aliexpress.com/s/fwx308cRD9Eny963e3KDdYxyIpNj8TXVr7saiF9Um5rMUg1kZtJALLnfa2LNXtiVgnxdD8Og6MmvwBoxhnSYQGM6r0c08U4TfX8DFGo7vviCuu3q62Q60OAhRZcqm3G8PtwM69xY7TOEWRrvulP5ukZQ4uQbBBtaVsdr6EffAqVmp3O5GyUANU2DoA3dJufNhDfh7KOlLgKIvRVhDxRESHLmea6fTE26gLUqKEUuuizJiLENrCbax94DZHDu8WhaXMN8fDE1HOLt4j1KZUcj471WKjwUetlj4ZWgS3yWx6lzuERHNTI3Zmy1QdFv50p1dw6hj0SltZKgU8qEo5UEkRjecJQJ74CfBePQYOV157kxzTCkmXiSRwsGglzSiBBsYwgikw1ceiCL83RlmoBk1e2h6wI39gfrjkrYadYPbZxeSWT5q4DXTUSsLtFE9je96NrHpMwXnWfDRQJE9g9LNPGNjqDOuIbHZ1SIOBY5lfI7bGuNmCYxpaSDj6ExlwO40QL0Ai8cqJju4gEHmr11Oct0fCXxVsc5qQn9IDbtipcATetS9daxLdqKtWC6HVNoTsGRrPhcqBMOSxVeSKH8AK73Y9JOlV05UqH5qRU2XeRylQjmLPhca8fJ7h5CVP72iVKJknk8xmeGU3q2mg6H1GoeUveGPOzip2B21X3wdzyilE3aAIHRmJTPJKaSNBnVViDhYCWyr3zSgJ8vprl1VsDJcIrbFCFp570ouiG0XgXVvFDUfMvR57c0XK1E2CHYFFI6wbAe8EkZC9R9t0PpculEhgZQ1qiSEDvq1bG1yCPi9nybvcUMWWeQQBlpk31mmsZwGDL7F8qBhoWNjE3fRWqTEFdGtMiS88hqSZVc0IuuvIsGKA8REUgAh9pUdAxVLgyvub1taYnvb3KRxVxTIwe6XJmjNJlWfCFnDbOdvUotHmMg0MEZSWDZb8mVJ8FaVfQb1Iz4qW7nNn9qqR",
+      "has_affiliate": true,
+      "current_price": 578.67,
+      "min_price": 578.67,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 578.67
+        }
+      ]
+    },
+    {
+      "marketplace": "kabum",
+      "label": "KaBuM!",
+      "link": "https://www.kabum.com.br/produto/114338/placa-mae-msi-b550m-pro-vdh-wifi-amd-am4-matx-ddr4-preto-b550m-pro-vdh-wifi?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792816469_763163bc48c93faed846a17496bcddc3&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "has_affiliate": true,
+      "current_price": 929.99,
+      "min_price": null,
+      "min_price_at": null,
+      "monitored_since": "2026-10-24",
+      "history": []
+    },
+    {
+      "marketplace": "pichau",
+      "label": "Pichau",
+      "link": "https://www.pichau.com.br/placa-mae-msi-b550m-pro-vdh-wifi-ddr4-socket-am4-chipset-amd-b550-b550m-pro-vdh-wifi",
+      "has_affiliate": true,
+      "current_price": 894.11,
+      "min_price": 894.11,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 894.11
+        }
+      ]
+    },
+    {
+      "marketplace": "terabyte",
+      "label": "Terabyte",
+      "link": "https://www.terabyteshop.com.br/produto/22572/placa-mae-msi-b550m-pro-vdh-wifi-chipset-b550-amd-am4-matx-ddr4",
+      "has_affiliate": true,
+      "current_price": 941.16,
+      "min_price": 941.16,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 941.16
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1430_all",
+    "per_store": {
+      "mercadolibre": "https://t.me/MyProductTrackerBot?start=sc_1430_mercadolibre",
+      "amazon": "https://t.me/MyProductTrackerBot?start=sc_1430_amazon",
+      "aliexpress": "https://t.me/MyProductTrackerBot?start=sc_1430_aliexpress",
+      "kabum": "https://t.me/MyProductTrackerBot?start=sc_1430_kabum",
+      "pichau": "https://t.me/MyProductTrackerBot?start=sc_1430_pichau",
+      "terabyte": "https://t.me/MyProductTrackerBot?start=sc_1430_terabyte"
+    }
+  }
+}

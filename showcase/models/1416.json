@@ -1,0 +1,49 @@
+{
+  "id": 1416,
+  "name": "12GB/256GB",
+  "family_id": 1178,
+  "image_url": null,
+  "monitored_since": "2026-10-24",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "mercadolibre",
+      "label": "Mercado Livre",
+      "link": "https://www.mercadolivre.com.br/p/MLB68697596?matt_word=balu1353476&matt_tool=29239275",
+      "has_affiliate": true,
+      "current_price": 1583.33,
+      "min_price": 1583.33,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1583.33
+        }
+      ]
+    },
+    {
+      "marketplace": "kabum",
+      "label": "KaBuM!",
+      "link": "https://www.kabum.com.br/produto/1038266/smartphone-motorola-moto-g47-5g-rosa-tela-de-6-7-256gb-4gb-ram-e-camera-de-50-mp-sony-lytia-600-bivolt?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792816164_61de4e180ba15974787d4a275b533a52&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "has_affiliate": true,
+      "current_price": 2098.95,
+      "min_price": 2098.95,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 2098.95
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1416_all",
+    "per_store": {
+      "mercadolibre": "https://t.me/MyProductTrackerBot?start=sc_1416_mercadolibre",
+      "kabum": "https://t.me/MyProductTrackerBot?start=sc_1416_kabum"
+    }
+  }
+}

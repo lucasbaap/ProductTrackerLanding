@@ -1,0 +1,49 @@
+{
+  "id": 1389,
+  "name": "12GB/512GB",
+  "family_id": 1158,
+  "image_url": null,
+  "monitored_since": "2026-10-24",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "amazon",
+      "label": "Amazon",
+      "link": "https://www.amazon.com.br/dp/B0FDHZ113J?tag=producttrac0c-20",
+      "has_affiliate": true,
+      "current_price": 10739.0,
+      "min_price": 10739.0,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 10739.0
+        }
+      ]
+    },
+    {
+      "marketplace": "kabum",
+      "label": "KaBuM!",
+      "link": "https://www.kabum.com.br/produto/906006/smartphone-samsung-galaxy-z-fold-7-5g-azul-512gb-16gb-ram-e-camera-tripla-de-200-mp-12mp-10mp-n-a?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792815910_08d2d794017e6b29103b965e654214dc&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "has_affiliate": true,
+      "current_price": 9974.05,
+      "min_price": 9974.05,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 9974.05
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1389_all",
+    "per_store": {
+      "amazon": "https://t.me/MyProductTrackerBot?start=sc_1389_amazon",
+      "kabum": "https://t.me/MyProductTrackerBot?start=sc_1389_kabum"
+    }
+  }
+}

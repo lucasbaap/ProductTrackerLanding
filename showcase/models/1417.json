@@ -1,0 +1,32 @@
+{
+  "id": 1417,
+  "name": "12GB/128GB",
+  "family_id": 1178,
+  "image_url": null,
+  "monitored_since": "2026-10-24",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "amazon",
+      "label": "Amazon",
+      "link": "https://www.amazon.com.br/dp/B0GYPQBXVX?tag=producttrac0c-20",
+      "has_affiliate": true,
+      "current_price": 1443.33,
+      "min_price": 1443.33,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1443.33
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1417_all",
+    "per_store": {
+      "amazon": "https://t.me/MyProductTrackerBot?start=sc_1417_amazon"
+    }
+  }
+}

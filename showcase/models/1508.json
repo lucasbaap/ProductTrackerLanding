@@ -1,0 +1,32 @@
+{
+  "id": 1508,
+  "name": "XPG Lancer Blade AX5U6000C4816G-DTLABWH (16GB 1x8 DDR5-6000)",
+  "family_id": 1268,
+  "image_url": null,
+  "monitored_since": "2026-10-24",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "kabum",
+      "label": "KaBuM!",
+      "link": "https://www.kabum.com.br/produto/677473/memoria-ram-xpg-lancer-blade-16gb-rgb-ddr5-6000mhz-single-tray-cl48-preto-ax5u6000c4816g-slabrbk",
+      "has_affiliate": true,
+      "current_price": 2079.99,
+      "min_price": 2079.99,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 2079.99
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1508_all",
+    "per_store": {
+      "kabum": "https://t.me/MyProductTrackerBot?start=sc_1508_kabum"
+    }
+  }
+}

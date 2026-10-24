@@ -1,0 +1,95 @@
+{
+  "id": 1471,
+  "name": "Intel Core Ultra 7 265K",
+  "family_id": 1231,
+  "image_url": null,
+  "monitored_since": "2026-10-24",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "mercadolibre",
+      "label": "Mercado Livre",
+      "link": "https://www.mercadolivre.com.br/p/MLB42521472?matt_word=balu1353476&matt_tool=29239275",
+      "has_affiliate": true,
+      "current_price": 2352.93,
+      "min_price": 2352.93,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 2352.93
+        }
+      ]
+    },
+    {
+      "marketplace": "amazon",
+      "label": "Amazon",
+      "link": "https://www.amazon.com.br/dp/B0DFK2MH2D?tag=producttrac0c-20",
+      "has_affiliate": true,
+      "current_price": 2719.9,
+      "min_price": 2719.9,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 2719.9
+        }
+      ]
+    },
+    {
+      "marketplace": "kabum",
+      "label": "KaBuM!",
+      "link": "https://www.kabum.com.br/produto/645178/processador-intel-core-ultra-7-265k-3-9ghz-5-5ghz-turbo-cache-30mb-20-nucleos-20-threads-lga-1851-com-video-integrado-bx80768265k",
+      "has_affiliate": true,
+      "current_price": 1999.99,
+      "min_price": 1999.99,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1999.99
+        }
+      ]
+    },
+    {
+      "marketplace": "magalu",
+      "label": "Magalu",
+      "link": "https://www.magazineluiza.com.br/processador-intel-core-ultra-7-265k-arrow-lake-3-9ghz-5-5ghz-turbo-20cores-20threads-lga1851-video-integrado/p/gaea098932/in/prsd/?partner_id=3440&promoter_id=5820501&utm_source=divulgador&utm_medium=magalu&utm_campaign=5820501",
+      "has_affiliate": true,
+      "current_price": 3160.9,
+      "min_price": null,
+      "min_price_at": null,
+      "monitored_since": "2026-10-24",
+      "history": []
+    },
+    {
+      "marketplace": "aliexpress",
+      "label": "AliExpress",
+      "link": "https://s.click.aliexpress.com/s/NdpwztbAIgDMmxGbP8fFks7yUFfsHjzlImSYmA68h7xlMRgzueFsRgokQ9f9hcpVKttxtQE2VzIoqkXJXrpOr6uR3zv7mP4CDO9CddoFf4t0QE5DXPy8Pgjhz4irfQSEjEGUmy5yF3A5gJ9h3NYjLMgqIMqa3zcpq5E2BC3W5EbV40Dm9buQxWpZzw1lbX8Zm2kZtNIa4KyDieNjsH7IU6Yv8StELKVvT9r4eFAaXPGhwHsgaDqdNcmY116r3GC2YvmvR57S69fGyn8Tt4pCtmLccxQz3g0L1ZKu00BPwYOT3BF4QZOqRqMDB0DHu4eJY7J1Y0PlKerFtw2iSIVLy8uU7dweBkjLgum3QJcrsubwW9bbZGnyZbWlt2oxpFSbrphTQrwGUl8EVT7pDHKDtUtDhLRkNTpZvHitmVD5pvbtu2bukxBh4wTEYiYG9pdFgwjFb046e4FUtYAbGAcpIIIh24WhzCsDJ20hv8HjMQRjB9tYNQ86O3ZQUm601uowrnFXtjj9TB5mBj71TYythOPjJUzFb66erGEwK576dq7tP31N3qX4uxiDGFvCzwJw2aD5qJyVLykEFuYlmu4wiCsai9UMFt0zgFYakXvUHB6QuIZrmKIja4Ih14kjYejFlVtymHaYLkF6ladiP4kpDvLvzrH9wjkGpFaos1yjEc1FdnLWnSuNc6Pk2XIEbCLrDy5LpT98oPYrGIFIrHkGdbNRvqlGqf8YrHNUnznv0fD1LbkNElsxtZy28bRWRCJMoZGSckPYFDxHgShXF4SCVoNq0MaE8zQSldBBBFcI2eSqYPdgiohdSnphtRbLbs0MFmAijPFDzqdDckXza73AV2hKct7Lt0gtEpSxlQQWzgIfKJPVg8HrakISTnOAKA1sE8SXbVSOWWZql47Wmz8ax1BDfTYh9qREdkfoXdl8YdIjp1wSXwPxkslCes117ARf25HjmgGT8WFqmIFtyKSZEfye28KGXhdxqsmbigZOx5X4r",
+      "has_affiliate": true,
+      "current_price": 2354.11,
+      "min_price": 2354.11,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 2354.11
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1471_all",
+    "per_store": {
+      "mercadolibre": "https://t.me/MyProductTrackerBot?start=sc_1471_mercadolibre",
+      "amazon": "https://t.me/MyProductTrackerBot?start=sc_1471_amazon",
+      "kabum": "https://t.me/MyProductTrackerBot?start=sc_1471_kabum",
+      "magalu": "https://t.me/MyProductTrackerBot?start=sc_1471_magalu",
+      "aliexpress": "https://t.me/MyProductTrackerBot?start=sc_1471_aliexpress"
+    }
+  }
+}

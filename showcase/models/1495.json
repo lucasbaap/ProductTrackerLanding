@@ -1,0 +1,83 @@
+{
+  "id": 1495,
+  "name": "Intel Core i5-14400",
+  "family_id": 1255,
+  "image_url": null,
+  "monitored_since": "2026-10-24",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "mercadolibre",
+      "label": "Mercado Livre",
+      "link": "https://www.mercadolivre.com.br/p/MLB29916394?matt_word=balu1353476&matt_tool=29239275",
+      "has_affiliate": true,
+      "current_price": 1519.0,
+      "min_price": 1519.0,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1519.0
+        }
+      ]
+    },
+    {
+      "marketplace": "amazon",
+      "label": "Amazon",
+      "link": "https://www.amazon.com.br/dp/B0CQ3HKJYV?tag=producttrac0c-20",
+      "has_affiliate": true,
+      "current_price": 1548.0,
+      "min_price": 1548.0,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1548.0
+        }
+      ]
+    },
+    {
+      "marketplace": "kabum",
+      "label": "KaBuM!",
+      "link": "https://www.kabum.com.br/produto/524576/processador-intel-core-i5-14400-14-geracao-3-5-ghz-4-7-ghz-turbo-cache-20mb-lga1700-bx8071514400",
+      "has_affiliate": true,
+      "current_price": 1603.73,
+      "min_price": 1603.73,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1603.73
+        }
+      ]
+    },
+    {
+      "marketplace": "magalu",
+      "label": "Magalu",
+      "link": "https://m.magazineluiza.com.br/processador-intel-core-i5-14400-14a-geracao-3-5-ghz-4-7-ghz-turbo-cache-20mb-lga1700-bx8071514400/p/bf7j405b12/in/prsd/?partner_id=3440&promoter_id=5820501&utm_source=divulgador&utm_medium=magalu&utm_campaign=5820501",
+      "has_affiliate": true,
+      "current_price": 1953.9,
+      "min_price": 1953.9,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1953.9
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1495_all",
+    "per_store": {
+      "mercadolibre": "https://t.me/MyProductTrackerBot?start=sc_1495_mercadolibre",
+      "amazon": "https://t.me/MyProductTrackerBot?start=sc_1495_amazon",
+      "kabum": "https://t.me/MyProductTrackerBot?start=sc_1495_kabum",
+      "magalu": "https://t.me/MyProductTrackerBot?start=sc_1495_magalu"
+    }
+  }
+}

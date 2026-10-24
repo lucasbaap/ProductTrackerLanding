@@ -1,0 +1,100 @@
+{
+  "id": 1478,
+  "name": "Intel Core Ultra 5 250K Plus",
+  "family_id": 1238,
+  "image_url": null,
+  "monitored_since": "2026-10-24",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "mercadolibre",
+      "label": "Mercado Livre",
+      "link": "https://www.mercadolivre.com.br/p/MLB2083517350?matt_word=balu1353476&matt_tool=29239275",
+      "has_affiliate": true,
+      "current_price": 1645.83,
+      "min_price": 1645.83,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1645.83
+        }
+      ]
+    },
+    {
+      "marketplace": "amazon",
+      "label": "Amazon",
+      "link": "https://www.amazon.com.br/dp/B0GMKXVVJQ?tag=producttrac0c-20",
+      "has_affiliate": true,
+      "current_price": 2204.99,
+      "min_price": 2204.99,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 2204.99
+        }
+      ]
+    },
+    {
+      "marketplace": "kabum",
+      "label": "KaBuM!",
+      "link": "https://www.kabum.com.br/produto/1026649/processador-intel-core-ultra-5-250k-4-2ghz-5-3ghz-turbo-cache-30mb-18-nucleos-18-threads-lga-1851-com-video-integrado-bx80768250k?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792818042_690ef01d8c4017045275177397003291&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "has_affiliate": true,
+      "current_price": 1499.99,
+      "min_price": 1499.99,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1499.99
+        }
+      ]
+    },
+    {
+      "marketplace": "pichau",
+      "label": "Pichau",
+      "link": "https://www.pichau.com.br/processador-intel-core-ultra-5-250k-plus-18-core-18-threads-4-2ghz-5-3ghz-turbo-cache-30mb-lga1851-bx80768250k",
+      "has_affiliate": true,
+      "current_price": 1623.52,
+      "min_price": 1623.52,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1623.52
+        }
+      ]
+    },
+    {
+      "marketplace": "terabyte",
+      "label": "Terabyte",
+      "link": "https://www.terabyteshop.com.br/produto/40733/processador-intel-core-ultra-5-250k-plus-otimizado-para-ia-53ghz-turbo-18-cores-18-threads-lga-1851-bx80768250k",
+      "has_affiliate": true,
+      "current_price": 1623.52,
+      "min_price": 1623.52,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1623.52
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1478_all",
+    "per_store": {
+      "mercadolibre": "https://t.me/MyProductTrackerBot?start=sc_1478_mercadolibre",
+      "amazon": "https://t.me/MyProductTrackerBot?start=sc_1478_amazon",
+      "kabum": "https://t.me/MyProductTrackerBot?start=sc_1478_kabum",
+      "pichau": "https://t.me/MyProductTrackerBot?start=sc_1478_pichau",
+      "terabyte": "https://t.me/MyProductTrackerBot?start=sc_1478_terabyte"
+    }
+  }
+}

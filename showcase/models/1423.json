@@ -1,0 +1,66 @@
+{
+  "id": 1423,
+  "name": "1TB com leitor de disco",
+  "family_id": 1183,
+  "image_url": null,
+  "monitored_since": "2026-10-24",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "mercadolibre",
+      "label": "Mercado Livre",
+      "link": "https://www.mercadolivre.com.br/p/MLB52897777?matt_word=balu1353476&matt_tool=29239275",
+      "has_affiliate": true,
+      "current_price": 3299.0,
+      "min_price": 3299.0,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 3299.0
+        }
+      ]
+    },
+    {
+      "marketplace": "amazon",
+      "label": "Amazon",
+      "link": "https://www.amazon.com.br/dp/B0CKZGY5B6?tag=producttrac0c-20",
+      "has_affiliate": true,
+      "current_price": 5499.9,
+      "min_price": 5499.9,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 5499.9
+        }
+      ]
+    },
+    {
+      "marketplace": "magalu",
+      "label": "Magalu",
+      "link": "https://m.magazineluiza.com.br/playstation-5-slim-disk-1tb-1-controle-branco-sony/p/240609000/ga/gap5/?partner_id=3440&promoter_id=5820501&utm_source=divulgador&utm_medium=magalu&utm_campaign=5820501",
+      "has_affiliate": true,
+      "current_price": 5199.0,
+      "min_price": 5199.0,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 5199.0
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1423_all",
+    "per_store": {
+      "mercadolibre": "https://t.me/MyProductTrackerBot?start=sc_1423_mercadolibre",
+      "amazon": "https://t.me/MyProductTrackerBot?start=sc_1423_amazon",
+      "magalu": "https://t.me/MyProductTrackerBot?start=sc_1423_magalu"
+    }
+  }
+}

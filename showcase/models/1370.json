@@ -1,0 +1,49 @@
+{
+  "id": 1370,
+  "name": "8GB/256GB",
+  "family_id": 1149,
+  "image_url": null,
+  "monitored_since": "2026-10-24",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "amazon",
+      "label": "Amazon",
+      "link": "https://www.amazon.com.br/dp/B0GVTB7BGQ?tag=producttrac0c-20",
+      "has_affiliate": true,
+      "current_price": 2632.84,
+      "min_price": 2632.84,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 2632.84
+        }
+      ]
+    },
+    {
+      "marketplace": "kabum",
+      "label": "KaBuM!",
+      "link": "https://www.kabum.com.br/produto/1032833/smartphone-samsung-galaxy-a57-5g-256gb-8gb-ram-azul-escuro?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792832949_79002f2b64a0ed6ca7bc2373603bf741&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "has_affiliate": true,
+      "current_price": 2399.0,
+      "min_price": 2399.0,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 2399.0
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1370_all",
+    "per_store": {
+      "amazon": "https://t.me/MyProductTrackerBot?start=sc_1370_amazon",
+      "kabum": "https://t.me/MyProductTrackerBot?start=sc_1370_kabum"
+    }
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "id": 1520,
+  "name": "SanDisk SSD Plus 500GB (SATA 2.5)",
+  "family_id": 1280,
+  "image_url": null,
+  "monitored_since": "2026-10-24",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "amazon",
+      "label": "Amazon",
+      "link": "https://www.amazon.com.br/dp/B0F4Y2VR8S?tag=producttrac0c-20",
+      "has_affiliate": true,
+      "current_price": 680.0,
+      "min_price": 680.0,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 680.0
+        }
+      ]
+    },
+    {
+      "marketplace": "aliexpress",
+      "label": "AliExpress",
+      "link": "https://www.aliexpress.com/item/1005012783101673.html",
+      "has_affiliate": true,
+      "current_price": 466.88,
+      "min_price": 466.88,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 466.88
+        }
+      ]
+    },
+    {
+      "marketplace": "kabum",
+      "label": "KaBuM!",
+      "link": "https://www.kabum.com.br/produto/957170/ssd-sandisk-plus-500gb-545mb-s-sdssda-500g-g28",
+      "has_affiliate": true,
+      "current_price": 695.46,
+      "min_price": 695.46,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 695.46
+        }
+      ]
+    },
+    {
+      "marketplace": "pichau",
+      "label": "Pichau",
+      "link": "https://www.pichau.com.br/ssd-sandisk-plus-500gb-2-5-sata-iii-6gb-s-leitura-545mb-s-gravacao-505-mbs-sdssda-500g-g28",
+      "has_affiliate": true,
+      "current_price": 717.64,
+      "min_price": 717.64,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 717.64
+        }
+      ]
+    },
+    {
+      "marketplace": "terabyte",
+      "label": "Terabyte",
+      "link": "https://www.terabyteshop.com.br/produto/39554/ssd-sandisk-plus-500gb-sata-iii-leitura-545mbs-e-gravacao-505mbs-sdssda-500g-g28",
+      "has_affiliate": true,
+      "current_price": 823.41,
+      "min_price": 823.41,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 823.41
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1520_all",
+    "per_store": {
+      "amazon": "https://t.me/MyProductTrackerBot?start=sc_1520_amazon",
+      "aliexpress": "https://t.me/MyProductTrackerBot?start=sc_1520_aliexpress",
+      "kabum": "https://t.me/MyProductTrackerBot?start=sc_1520_kabum",
+      "pichau": "https://t.me/MyProductTrackerBot?start=sc_1520_pichau",
+      "terabyte": "https://t.me/MyProductTrackerBot?start=sc_1520_terabyte"
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1540,
+  "name": "WD/SanDisk Black SN850X 2TB (NVMe Gen4)",
+  "family_id": 1300,
+  "image_url": null,
+  "monitored_since": "2026-10-24",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "mercadolibre",
+      "label": "Mercado Livre",
+      "link": "https://www.mercadolivre.com.br/ssd-2tb-m2-nvme-wd-black-sn850x/up/MLBU4948757920?matt_word=balu1353476&matt_tool=29239275",
+      "has_affiliate": true,
+      "current_price": 3999.0,
+      "min_price": 3999.0,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 3999.0
+        }
+      ]
+    },
+    {
+      "marketplace": "amazon",
+      "label": "Amazon",
+      "link": "https://www.amazon.com.br/dp/B0B7CMZ3QH?tag=producttrac0c-20",
+      "has_affiliate": true,
+      "current_price": 2708.46,
+      "min_price": 2708.46,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 2708.46
+        }
+      ]
+    },
+    {
+      "marketplace": "aliexpress",
+      "label": "AliExpress",
+      "link": "https://s.click.aliexpress.com/e/_c3HvCUUJ",
+      "has_affiliate": true,
+      "current_price": 1568.95,
+      "min_price": 1568.95,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1568.95
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1540_all",
+    "per_store": {
+      "mercadolibre": "https://t.me/MyProductTrackerBot?start=sc_1540_mercadolibre",
+      "amazon": "https://t.me/MyProductTrackerBot?start=sc_1540_amazon",
+      "aliexpress": "https://t.me/MyProductTrackerBot?start=sc_1540_aliexpress"
+    }
+  }
+}

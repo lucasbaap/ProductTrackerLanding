@@ -1,0 +1,49 @@
+{
+  "id": 1521,
+  "name": "WD Green SATA 500GB",
+  "family_id": 1281,
+  "image_url": null,
+  "monitored_since": "2026-10-24",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "shopee",
+      "label": "Shopee",
+      "link": "https://s.shopee.com.br/1W0ChmOXyK",
+      "has_affiliate": true,
+      "current_price": 1529.38,
+      "min_price": 1529.38,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1529.38
+        }
+      ]
+    },
+    {
+      "marketplace": "kabum",
+      "label": "KaBuM!",
+      "link": "https://www.kabum.com.br/produto/872628/ssd-sandisk-wd-green-sata-500gb-2-5-leitura-545mb-s-gravacao-430mb-s-wds500g5g0a",
+      "has_affiliate": true,
+      "current_price": 599.99,
+      "min_price": 599.99,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 599.99
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1521_all",
+    "per_store": {
+      "shopee": "https://t.me/MyProductTrackerBot?start=sc_1521_shopee",
+      "kabum": "https://t.me/MyProductTrackerBot?start=sc_1521_kabum"
+    }
+  }
+}

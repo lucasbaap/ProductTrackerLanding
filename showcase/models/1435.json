@@ -1,0 +1,83 @@
+{
+  "id": 1435,
+  "name": "ASRock B850 Steel Legend WiFi",
+  "family_id": 1195,
+  "image_url": null,
+  "monitored_since": "2026-10-24",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "mercadolibre",
+      "label": "Mercado Livre",
+      "link": "https://www.mercadolivre.com.br/placa-mae-am5-asrock-steel-legend-b850-wifi/up/MLBU3227662273?matt_word=balu1353476&matt_tool=29239275",
+      "has_affiliate": true,
+      "current_price": 2099.0,
+      "min_price": 2099.0,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 2099.0
+        }
+      ]
+    },
+    {
+      "marketplace": "amazon",
+      "label": "Amazon",
+      "link": "https://www.amazon.com.br/ASRock-B850-Steel-Legend-WiFi/dp/B0DRTTJ5D6?tag=producttrac0c-20",
+      "has_affiliate": true,
+      "current_price": 1768.96,
+      "min_price": 1768.96,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1768.96
+        }
+      ]
+    },
+    {
+      "marketplace": "kabum",
+      "label": "KaBuM!",
+      "link": "https://www.kabum.com.br/produto/777005/placa-mae-asrock-b850-steel-legend-wifi-ryzen-b850-atx-ddr5-90-mxbqs0-a0uayz?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792816592_65ce6455f2b73411dac0a56326b3507d&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "has_affiliate": true,
+      "current_price": 1663.99,
+      "min_price": 1663.99,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1663.99
+        }
+      ]
+    },
+    {
+      "marketplace": "terabyte",
+      "label": "Terabyte",
+      "link": "https://www.terabyteshop.com.br/produto/40930/placa-mae-asrock-b850-steel-legend-wifi-chipset-b850-amd-am5-atx-ddr5-branco",
+      "has_affiliate": true,
+      "current_price": 1988.22,
+      "min_price": 1988.22,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1988.22
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1435_all",
+    "per_store": {
+      "mercadolibre": "https://t.me/MyProductTrackerBot?start=sc_1435_mercadolibre",
+      "amazon": "https://t.me/MyProductTrackerBot?start=sc_1435_amazon",
+      "kabum": "https://t.me/MyProductTrackerBot?start=sc_1435_kabum",
+      "terabyte": "https://t.me/MyProductTrackerBot?start=sc_1435_terabyte"
+    }
+  }
+}

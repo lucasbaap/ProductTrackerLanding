@@ -1,0 +1,49 @@
+{
+  "id": 1375,
+  "name": "256GB",
+  "family_id": 1152,
+  "image_url": null,
+  "monitored_since": "2026-10-24",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "mercadolibre",
+      "label": "Mercado Livre",
+      "link": "https://www.mercadolivre.com.br/p/MLB67284398?matt_word=balu1353476&matt_tool=29239275",
+      "has_affiliate": true,
+      "current_price": 1450.0,
+      "min_price": 1450.0,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1450.0
+        }
+      ]
+    },
+    {
+      "marketplace": "kabum",
+      "label": "KaBuM!",
+      "link": "https://www.kabum.com.br/produto/924097/smartphone-samsung-galaxy-a17-4g-256gb-sm-a175fzkmzto-preto?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792832961_1cf72a3010afb0ef752514fce54a8ca0&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "has_affiliate": true,
+      "current_price": 1349.1,
+      "min_price": 1349.1,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1349.1
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1375_all",
+    "per_store": {
+      "mercadolibre": "https://t.me/MyProductTrackerBot?start=sc_1375_mercadolibre",
+      "kabum": "https://t.me/MyProductTrackerBot?start=sc_1375_kabum"
+    }
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "id": 1469,
+  "name": "Intel Core Ultra 9 285K",
+  "family_id": 1229,
+  "image_url": null,
+  "monitored_since": "2026-10-24",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "mercadolibre",
+      "label": "Mercado Livre",
+      "link": "https://www.mercadolivre.com.br/p/MLB2059082289?matt_word=balu1353476&matt_tool=29239275",
+      "has_affiliate": true,
+      "current_price": 3198.07,
+      "min_price": 3198.07,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 3198.07
+        }
+      ]
+    },
+    {
+      "marketplace": "amazon",
+      "label": "Amazon",
+      "link": "https://www.amazon.com.br/dp/B0DFKC99VL?tag=producttrac0c-20",
+      "has_affiliate": true,
+      "current_price": 4616.0,
+      "min_price": 4616.0,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 4616.0
+        }
+      ]
+    },
+    {
+      "marketplace": "kabum",
+      "label": "KaBuM!",
+      "link": "https://www.kabum.com.br/produto/645177/processador-intel-core-ultra-9-285k-3-7ghz-5-7ghz-turbo-cache-36mb-24-nucleos-24-threads-lga-1851-com-video-integrado-bx80768285k",
+      "has_affiliate": true,
+      "current_price": 4714.99,
+      "min_price": null,
+      "min_price_at": null,
+      "monitored_since": "2026-10-24",
+      "history": []
+    },
+    {
+      "marketplace": "terabyte",
+      "label": "Terabyte",
+      "link": "https://www.terabyteshop.com.br/produto/32037/processador-intel-core-ultra-9-285k-37-ghz-57ghz-turbo-serie-2-24-cores-24-threads-lga-1851-bx80768285k",
+      "has_affiliate": true,
+      "current_price": 3705.87,
+      "min_price": 3705.87,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 3705.87
+        }
+      ]
+    },
+    {
+      "marketplace": "magalu",
+      "label": "Magalu",
+      "link": "https://m.magazineluiza.com.br/processador-intel-core-ultra-9-285k-24-nucleos-ate-5-7ghz-ddr5-bx80768285k/p/hb040aejh1/in/prsd/?partner_id=3440&promoter_id=5820501&utm_source=divulgador&utm_medium=magalu&utm_campaign=5820501",
+      "has_affiliate": true,
+      "current_price": 5699.0,
+      "min_price": 5699.0,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 5699.0
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1469_all",
+    "per_store": {
+      "mercadolibre": "https://t.me/MyProductTrackerBot?start=sc_1469_mercadolibre",
+      "amazon": "https://t.me/MyProductTrackerBot?start=sc_1469_amazon",
+      "kabum": "https://t.me/MyProductTrackerBot?start=sc_1469_kabum",
+      "terabyte": "https://t.me/MyProductTrackerBot?start=sc_1469_terabyte",
+      "magalu": "https://t.me/MyProductTrackerBot?start=sc_1469_magalu"
+    }
+  }
+}

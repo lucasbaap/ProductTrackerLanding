@@ -1,0 +1,66 @@
+{
+  "id": 1400,
+  "name": "256GB",
+  "family_id": 1165,
+  "image_url": null,
+  "monitored_since": "2026-10-24",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "mercadolibre",
+      "label": "Mercado Livre",
+      "link": "https://www.mercadolivre.com.br/p/MLB54107097?matt_word=balu1353476&matt_tool=29239275",
+      "has_affiliate": true,
+      "current_price": 7350.0,
+      "min_price": 7350.0,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 7350.0
+        }
+      ]
+    },
+    {
+      "marketplace": "amazon",
+      "label": "Amazon",
+      "link": "https://www.amazon.com.br/dp/B0FQHRD3MD?tag=producttrac0c-20",
+      "has_affiliate": true,
+      "current_price": 9099.0,
+      "min_price": 9099.0,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 9099.0
+        }
+      ]
+    },
+    {
+      "marketplace": "kabum",
+      "label": "KaBuM!",
+      "link": "https://www.kabum.com.br/produto/928625/apple-iphone-air-256gb-azul-ceu?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792816000_0d7d4051db6c835bf670231b43b7767e&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "has_affiliate": true,
+      "current_price": 9799.0,
+      "min_price": 9799.0,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 9799.0
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1400_all",
+    "per_store": {
+      "mercadolibre": "https://t.me/MyProductTrackerBot?start=sc_1400_mercadolibre",
+      "amazon": "https://t.me/MyProductTrackerBot?start=sc_1400_amazon",
+      "kabum": "https://t.me/MyProductTrackerBot?start=sc_1400_kabum"
+    }
+  }
+}

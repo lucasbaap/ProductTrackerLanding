@@ -1,0 +1,66 @@
+{
+  "id": 1426,
+  "name": "1TB",
+  "family_id": 1186,
+  "image_url": null,
+  "monitored_since": "2026-10-24",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "mercadolibre",
+      "label": "Mercado Livre",
+      "link": "https://www.mercadolivre.com.br/p/MLB37335939?matt_word=balu1353476&matt_tool=29239275",
+      "has_affiliate": true,
+      "current_price": 7299.0,
+      "min_price": 7299.0,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 7299.0
+        }
+      ]
+    },
+    {
+      "marketplace": "amazon",
+      "label": "Amazon",
+      "link": "https://www.amazon.com.br/dp/B088GHBH92?tag=producttrac0c-20",
+      "has_affiliate": true,
+      "current_price": 7086.05,
+      "min_price": 7086.05,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 7086.05
+        }
+      ]
+    },
+    {
+      "marketplace": "kabum",
+      "label": "KaBuM!",
+      "link": "https://www.kabum.com.br/produto/209239/console-xbox-series-x-microsoft-1tb-controle-sem-fio-preto?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792816387_d4ec3fd60dcc65453fac84134fe4184d&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "has_affiliate": true,
+      "current_price": 7070.0,
+      "min_price": 7070.0,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 7070.0
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1426_all",
+    "per_store": {
+      "mercadolibre": "https://t.me/MyProductTrackerBot?start=sc_1426_mercadolibre",
+      "amazon": "https://t.me/MyProductTrackerBot?start=sc_1426_amazon",
+      "kabum": "https://t.me/MyProductTrackerBot?start=sc_1426_kabum"
+    }
+  }
+}

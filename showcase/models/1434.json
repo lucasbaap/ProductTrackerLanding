@@ -1,0 +1,61 @@
+{
+  "id": 1434,
+  "name": "MSI MAG B650 Tomahawk WiFi",
+  "family_id": 1194,
+  "image_url": null,
+  "monitored_since": "2026-10-24",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "mercadolibre",
+      "label": "Mercado Livre",
+      "link": "https://www.mercadolivre.com.br/p/MLB22852900?matt_word=balu1353476&matt_tool=29239275",
+      "has_affiliate": true,
+      "current_price": 1197.15,
+      "min_price": 1197.15,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1197.15
+        }
+      ]
+    },
+    {
+      "marketplace": "aliexpress",
+      "label": "AliExpress",
+      "link": "https://s.click.aliexpress.com/s/fwx308cRD9Eny963e3KDdYxyIpNj8TXVr7saiF9Um5rMUg1kZtJALLnfa2LNXtiVgnxdD8Og6MmvwBoxhnSYQGM6r0c08U4TfX8DFGo7vviCuu3q62Q60OAhRZcqm3G8PtwM69xY7TOEWRrvulP5ukZQ4uQbBBtaVsdr6EffAqVmp3O5GyUANU2DoA3dJufNhDfh7KOlLgKIvRVhDxRESHLmea6fTE26gLUqKEUuuizJiLENrCbax94DZHDu8WhaXMN8fDE1HOLt4j1KZUcj471WKjwUetlj4ZWgS3yWx6lzuERHNTI3Zmy1QdFAfrdcXbgE2QidW1D1JdeIETsqSkzItePtsgq7oYJzuCwxJNP0rkEFPVxi8du85f5d24G2VoZJYcTkEpDQUp4YzxE0QkvEmIQ6eem9hpg8Lu6NX2DZpTsnmNO2jVTBITcQCIJ0PVKJX7F97FuOzPPmp0leXUs1u1Z3YvM4ELymxRADRxBvWelM2TcyKm7cTnCtZLa7bo38xLjVD7o9KSHbKV7aZiqCDm10mY1pkF7htcynDXgPP3mY4LXatf8zAElqFkKidya0nXEqmDVhlGiGOTHpcLTURAPyAMsgScTc5SmePvSzhZValJoMNp0uPSLxsOQa6IaU1IUw4pTokT84miPJMWxCHBPWZiM7lTX5aHELnXruyPmqdA7JQFZyQvh4Ik8dfjlcpAnkQiPGVDuKtMM01cBd76pzSkd24YpoDFdC4OBjuXvO4czDfwR1d5dJ2IQlBJA3NrtzXugsifojdiSlVf0nc9mVgYnFW1rRicQoNEz8JSOGR1JOVQEsgVIkTo9TPGaoseQEqeFW9ZpNFAIjzNOIdQsw11lJ51OSpwKu7QRkz3vzHiKAt1ndst4W1RrxxKUyQLqGkwEboje2jw4qYPNx7OCBKqoSsofp6B7vCs2jHLoWdTZwXXcPbSr4esguEHG1dHGUZ0xMe3C4k7",
+      "has_affiliate": true,
+      "current_price": 923.24,
+      "min_price": 923.24,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 923.24
+        }
+      ]
+    },
+    {
+      "marketplace": "kabum",
+      "label": "KaBuM!",
+      "link": "https://www.kabum.com.br/produto/392611/placa-mae-b650-msi-mag-tomahawk-wi-fi-amd-am5-atx-ddr5-preto-mag-b650-tomahawk-wifi?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792816580_10afd04905079165ce5895df1041960a&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "has_affiliate": true,
+      "current_price": 2229.9,
+      "min_price": null,
+      "min_price_at": null,
+      "monitored_since": "2026-10-24",
+      "history": []
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1434_all",
+    "per_store": {
+      "mercadolibre": "https://t.me/MyProductTrackerBot?start=sc_1434_mercadolibre",
+      "aliexpress": "https://t.me/MyProductTrackerBot?start=sc_1434_aliexpress",
+      "kabum": "https://t.me/MyProductTrackerBot?start=sc_1434_kabum"
+    }
+  }
+}

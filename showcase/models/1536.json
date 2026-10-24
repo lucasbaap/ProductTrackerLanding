@@ -1,0 +1,83 @@
+{
+  "id": 1536,
+  "name": "Samsung 990 Pro 2TB (NVMe Gen4)",
+  "family_id": 1296,
+  "image_url": null,
+  "monitored_since": "2026-10-24",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "mercadolibre",
+      "label": "Mercado Livre",
+      "link": "https://www.mercadolivre.com.br/p/MLB23376752?matt_word=balu1353476&matt_tool=29239275",
+      "has_affiliate": true,
+      "current_price": 4139.99,
+      "min_price": 4139.99,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 4139.99
+        }
+      ]
+    },
+    {
+      "marketplace": "amazon",
+      "label": "Amazon",
+      "link": "https://www.amazon.com.br/dp/B0BHJDY57J?tag=producttrac0c-20",
+      "has_affiliate": true,
+      "current_price": 4088.0,
+      "min_price": 4088.0,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 4088.0
+        }
+      ]
+    },
+    {
+      "marketplace": "aliexpress",
+      "label": "AliExpress",
+      "link": "https://s.click.aliexpress.com/s/NdpwztbAIgDMmxGbP8fFks7yUFfsHjzlImSYmA68h7xlMRgzueFsRgokQ9f9hcpVKttxtQE2VzIoqkXJXrpOr6uR3zv7mP4CDO9CddoFf4t0QE5DXPy8Pgjhz4irfQSEjEGUmy5yF3A5gJ9h3NYjLMgqIMqa3zcpq5E2BC3W5EbV40Dm9buQxWpZzw1lbX8Zm2kZtNIa4KyDieNjsH7IU6Yv8StELKVvT9r4eFAaXPGhwHsgaDqdNcmY116r3GC2YvmvR57S69fGyn8Tt4pCtmLccxQz3g0L1ZKu00BPwYOT3BF4QZOqRqMDB0Dyc68BR9rTVa7l6qlZ1ZIfDZdYNqOLdKkJravNrrXbfdmGsi4S2ZtnIk0IN8PVlT7wpyIA3RHIpDbCRyPn6T1cPSHvdSgCx9XvVFYQ3PfTIi05Vuu2Bv0RXmoHPGfOfrIuXns4O3uPIKKbEMsrOmc1HlCMUvHbj9XWQSf97QHl2gtVmRPVrZqYTSiSymOvWbqW5cAH6cqgBaOmjvhBOLfQEmcGTIq7mWyjXU2HJuRtbX7ud5mA49oMxLzCWfvm5JneNJVv2ZPNqWBWywhkp58YCzr9yot9iGXCpw8A29xHOGvtK2pqG2ON7j3qdK39xrFCVuQ6qmixP4FLr2heGdbiRby8bWHBxscdYKgozzEm4BxRQ4x54lCxR0vklnsRwBfM5SU1xDoWpJUCrQXd1IYT0B8SaKYeOSilbIK1Cf4aaNrXmytZTGvkaGRmZYyCpQmLLmpys4ODhifbcQ8NkiU4Pz3CWUynnm96tX7GhCeRl2XPekZmeoO1m4HMy8XLo4laOk2a5NkMCkDIeMvH9sSCcr7OJx4u0cQVht32Uf5EqmSyEMmFuVjBJcKL3YTCy36Cnj8GCJdw0QvuUD7WX70XuQNcz8eQl2qirpRoeti5YveDQ9fzbkzwAh2PjddkYfeyNIjMOVjNgJy4xq2KHdEaKkCeON05wu6Oz8Z3QHJrr8bPPWkpV",
+      "has_affiliate": true,
+      "current_price": 1411.53,
+      "min_price": 1411.53,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1411.53
+        }
+      ]
+    },
+    {
+      "marketplace": "kabum",
+      "label": "KaBuM!",
+      "link": "https://www.kabum.com.br/produto/576204/ssd-samsung-990-pro-2tb-m-2-nvme-pcie-4-0-leitura-7450mbps-gravacao-6900mbps-mz-v9p2t0bw",
+      "has_affiliate": true,
+      "current_price": 4119.0,
+      "min_price": 4119.0,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 4119.0
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1536_all",
+    "per_store": {
+      "mercadolibre": "https://t.me/MyProductTrackerBot?start=sc_1536_mercadolibre",
+      "amazon": "https://t.me/MyProductTrackerBot?start=sc_1536_amazon",
+      "aliexpress": "https://t.me/MyProductTrackerBot?start=sc_1536_aliexpress",
+      "kabum": "https://t.me/MyProductTrackerBot?start=sc_1536_kabum"
+    }
+  }
+}

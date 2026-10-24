@@ -1,0 +1,83 @@
+{
+  "id": 1498,
+  "name": "Intel Core i3-14100F",
+  "family_id": 1258,
+  "image_url": null,
+  "monitored_since": "2026-10-24",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "mercadolibre",
+      "label": "Mercado Livre",
+      "link": "https://www.mercadolivre.com.br/p/MLB2031074195?matt_word=balu1353476&matt_tool=29239275",
+      "has_affiliate": true,
+      "current_price": 811.57,
+      "min_price": 811.57,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 811.57
+        }
+      ]
+    },
+    {
+      "marketplace": "kabum",
+      "label": "KaBuM!",
+      "link": "https://www.kabum.com.br/produto/524589/processador-intel-core-i3-14100f-14-geracao-3-5-ghz-4-7-ghz-turbo-cache-12mb-lga-1700-sem-video-bx8071514100f",
+      "has_affiliate": true,
+      "current_price": 752.74,
+      "min_price": 752.74,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 752.74
+        }
+      ]
+    },
+    {
+      "marketplace": "pichau",
+      "label": "Pichau",
+      "link": "https://www.pichau.com.br/processador-intel-core-i3-14100f-4-core-8-threads-3-5ghz-4-7ghz-turbo-cache-12mb-lga1700-bx8071514100f",
+      "has_affiliate": true,
+      "current_price": 776.46,
+      "min_price": 776.46,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 776.46
+        }
+      ]
+    },
+    {
+      "marketplace": "magalu",
+      "label": "Magalu",
+      "link": "https://m.magazineluiza.com.br/processador-intel-core-i3-14100f-3-50-ghz-12mb-bx8071514100f/p/fdh59kaee3/in/prsd/?partner_id=3440&promoter_id=5820501&utm_source=divulgador&utm_medium=magalu&utm_campaign=5820501",
+      "has_affiliate": true,
+      "current_price": 1049.83,
+      "min_price": 1049.83,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1049.83
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1498_all",
+    "per_store": {
+      "mercadolibre": "https://t.me/MyProductTrackerBot?start=sc_1498_mercadolibre",
+      "kabum": "https://t.me/MyProductTrackerBot?start=sc_1498_kabum",
+      "pichau": "https://t.me/MyProductTrackerBot?start=sc_1498_pichau",
+      "magalu": "https://t.me/MyProductTrackerBot?start=sc_1498_magalu"
+    }
+  }
+}

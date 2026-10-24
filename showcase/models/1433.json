@@ -1,0 +1,83 @@
+{
+  "id": 1433,
+  "name": "Gigabyte B650 Gaming X AX V2",
+  "family_id": 1193,
+  "image_url": null,
+  "monitored_since": "2026-10-24",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "mercadolibre",
+      "label": "Mercado Livre",
+      "link": "https://www.mercadolivre.com.br/p/MLB36866100?matt_word=balu1353476&matt_tool=29239275",
+      "has_affiliate": true,
+      "current_price": 1508.76,
+      "min_price": 1508.76,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1508.76
+        }
+      ]
+    },
+    {
+      "marketplace": "aliexpress",
+      "label": "AliExpress",
+      "link": "https://www.aliexpress.com/item/1005012785477563.html",
+      "has_affiliate": true,
+      "current_price": 1009.79,
+      "min_price": 1009.79,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1009.79
+        }
+      ]
+    },
+    {
+      "marketplace": "kabum",
+      "label": "KaBuM!",
+      "link": "https://www.kabum.com.br/produto/692781/placa-mae-gigabyte-b650-gaming-x-ax-v2-rev-1-0-ddr5-am5-atx?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792816557_72c7c908948556f60a2479a5e8e658b2&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "has_affiliate": true,
+      "current_price": 1554.99,
+      "min_price": 1554.99,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1554.99
+        }
+      ]
+    },
+    {
+      "marketplace": "terabyte",
+      "label": "Terabyte",
+      "link": "https://www.terabyteshop.com.br/produto/28492/placa-mae-gigabyte-b650-gaming-x-ax-v2-chipset-b650-wifi-amd-am5-atx-ddr5",
+      "has_affiliate": true,
+      "current_price": 1529.4,
+      "min_price": 1529.4,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1529.4
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1433_all",
+    "per_store": {
+      "mercadolibre": "https://t.me/MyProductTrackerBot?start=sc_1433_mercadolibre",
+      "aliexpress": "https://t.me/MyProductTrackerBot?start=sc_1433_aliexpress",
+      "kabum": "https://t.me/MyProductTrackerBot?start=sc_1433_kabum",
+      "terabyte": "https://t.me/MyProductTrackerBot?start=sc_1433_terabyte"
+    }
+  }
+}

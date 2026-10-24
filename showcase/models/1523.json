@@ -1,0 +1,83 @@
+{
+  "id": 1523,
+  "name": "Samsung 870 EVO 1TB (SATA)",
+  "family_id": 1283,
+  "image_url": null,
+  "monitored_since": "2026-10-24",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "mercadolibre",
+      "label": "Mercado Livre",
+      "link": "https://www.mercadolivre.com.br/p/MLB17921779?matt_word=balu1353476&matt_tool=29239275",
+      "has_affiliate": true,
+      "current_price": 1998.0,
+      "min_price": 1998.0,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1998.0
+        }
+      ]
+    },
+    {
+      "marketplace": "amazon",
+      "label": "Amazon",
+      "link": "https://www.amazon.com.br/dp/B08QBJ2YMG?tag=producttrac0c-20",
+      "has_affiliate": true,
+      "current_price": 1872.5,
+      "min_price": 1872.5,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1872.5
+        }
+      ]
+    },
+    {
+      "marketplace": "aliexpress",
+      "label": "AliExpress",
+      "link": "https://s.click.aliexpress.com/s/fwx308cRD9Eny963e3KDdYxyIpNj8TXVr7saiF9Um5rMUg1kZtJALLnfa2LNXtiVgnxdD8Og6MmvwBoxhnSYQGM6r0c08U4TfX8DFGo7vviCuu3q62Q60OAhRZcqm3G8PtwM69xY7TOEWRrvulP5ukZQ4uQbBBtaVsdr6EffAqVmp3O5GyUANU2DoA3dJufNhDfh7KOlLgKIvRVhDxRESHLmea6fTE26gLUqKEUuuizJiLENrCbax94DZHDu8WhaXMN8fDE1HOLt4j1KZUcj471WKjwUetlj4ZWgS3yWx6lzuERHNTI3Zmy1QdFuzv60ycglALHOQPfhmhbDqj1lO89BklqNagahO1nCmM9kA9oJ3ykWfVSOwLWHrV9ubGLc4FxvaX3S6aYcf6AIAUIDIlSaacFW41YU2pXjS79nsTSnxGoLh6rNLfP7QnB5R3eiKuTDvtFCTv1OwmKpBQ9X0gUhVbwNmLZLpcnPrd6iqE14fSCvjKSVZYm5pTd9ME0z1akad4xLFV8u7yWsVz7HD10htLHV4hwG1N1yvzE5a9NWidI3ZYuTVIpPoFPUklsztDRFzncCnD92ngh2JilPUo7iPrwBZpcmZLBDu4zvBcTtHnsuNBWfvNzLC5shzdXtuZsCNh4AumKSb9wYXmoIDTMijZTJI2Q4G8TzubQF0JUuua4AUnKDSpXsgwso5H5dATRc8q61SOGXcNBE86jVdCsAclVh9xclTtXU0foia1pofTZvEJzz29os7Ex612IdRr88DQZp0KxO7Wji9xShhTTtFxyMqvlMCDScV4ePvTBfhlSYQ7ernWjl2Dap4WyUk2mhCWMTRUWqbZOSy1ObrEBEflbblBXjY6J7hSaKF0Eh9cwh6SrFXyXfvRaMpgwJ6naxLYyMV8voKNskIMjP5fXDc7NhcvtLh89BHaw0PxAYIcqrTHZGkOeMVvsx5qmSUsimOQ5CqcRonCQOqr",
+      "has_affiliate": true,
+      "current_price": 293.12,
+      "min_price": 293.12,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 293.12
+        }
+      ]
+    },
+    {
+      "marketplace": "kabum",
+      "label": "KaBuM!",
+      "link": "https://www.kabum.com.br/produto/351998/ssd-samsung-870-evo-1tb-sata-mz-77e1t0b-am",
+      "has_affiliate": true,
+      "current_price": 1685.25,
+      "min_price": 1685.25,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1685.25
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1523_all",
+    "per_store": {
+      "mercadolibre": "https://t.me/MyProductTrackerBot?start=sc_1523_mercadolibre",
+      "amazon": "https://t.me/MyProductTrackerBot?start=sc_1523_amazon",
+      "aliexpress": "https://t.me/MyProductTrackerBot?start=sc_1523_aliexpress",
+      "kabum": "https://t.me/MyProductTrackerBot?start=sc_1523_kabum"
+    }
+  }
+}

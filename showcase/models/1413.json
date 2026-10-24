@@ -1,0 +1,49 @@
+{
+  "id": 1413,
+  "name": "24GB/256GB",
+  "family_id": 1175,
+  "image_url": null,
+  "monitored_since": "2026-10-24",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "amazon",
+      "label": "Amazon",
+      "link": "https://www.amazon.com.br/dp/B0GZQX7CBJ?tag=producttrac0c-20",
+      "has_affiliate": true,
+      "current_price": 1799.0,
+      "min_price": 1799.0,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1799.0
+        }
+      ]
+    },
+    {
+      "marketplace": "kabum",
+      "label": "KaBuM!",
+      "link": "https://www.kabum.com.br/produto/1050738/smartphone-motorola-moto-g-max-5g-256gb-azul-claro-24gb-8gb-ram-16gb-ram-boost-camera-200mp-e-tela-6-8-?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792816123_be7ea022f41e943a72758b79dc6a8d45&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "has_affiliate": true,
+      "current_price": 2465.25,
+      "min_price": 2465.25,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 2465.25
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1413_all",
+    "per_store": {
+      "amazon": "https://t.me/MyProductTrackerBot?start=sc_1413_amazon",
+      "kabum": "https://t.me/MyProductTrackerBot?start=sc_1413_kabum"
+    }
+  }
+}

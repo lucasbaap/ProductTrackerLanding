@@ -1,0 +1,66 @@
+{
+  "id": 1468,
+  "name": "AMD Ryzen 5 7500F",
+  "family_id": 1228,
+  "image_url": null,
+  "monitored_since": "2026-10-24",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "amazon",
+      "label": "Amazon",
+      "link": "https://www.amazon.com.br/dp/B0FP64XTTZ?tag=producttrac0c-20",
+      "has_affiliate": true,
+      "current_price": 1463.99,
+      "min_price": 1463.99,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1463.99
+        }
+      ]
+    },
+    {
+      "marketplace": "mercadolibre",
+      "label": "Mercado Livre",
+      "link": "https://www.mercadolivre.com.br/p/MLB39028009?matt_word=balu1353476&matt_tool=29239275",
+      "has_affiliate": true,
+      "current_price": 935.6,
+      "min_price": 935.6,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 935.6
+        }
+      ]
+    },
+    {
+      "marketplace": "aliexpress",
+      "label": "AliExpress",
+      "link": "https://s.click.aliexpress.com/s/NdpwztbAIgDMmxGbP8fFks7yUFfsHjzlImSYmA68h7xlMRgzueFsRgokQ9f9hcpVKttxtQE2VzIoqkXJXrpOr6uR3zv7mP4CDO9CddoFf4t0QE5DXPy8Pgjhz4irfQSEjEGUmy5yF3A5gJ9h3NYjLMgqIMqa3zcpq5E2BC3W5EbV40Dm9buQxWpZzw1lbX8Zm2kZtNIa4KyDieNjsH7IU6Yv8StELKVvT9r4eFAaXPGhwHsgaDqdNcmY116r3GC2YvmvR57S69fGyn8Tt4pCtmLccxQz3g0L1ZKu00BPwYOT3BF4QZOqRqMDB0DQYqRBMsjrYNzGFGRVKWm1D3BC9FQmLOoSr3wlcYV2d3NRQlD965yHfgfPYHI9Q2mrKQ1kx1BvA2L1AdAmxaiIiybz9DOHW9Nj96rcEm4h8hZbvKUFQycnHcrH7efcbIYmIX5KbSVK2KuPqssEnXzSUGPcd0ysTGVNdc541qbXSJJcTCyNHuIasmKDIEwK9n1ugnXYimaBPVkyqkMiBcVXiqZJHZ9tNaorw4M0mmQpPC20YM7TK4tBnUH196l96hn8Z3wk7ajxKAcAng7Nlwh4OZYXZ8kJcjmeHMNYO2W8GR1NU386OgJitlFrnve6VcHkrec7YEd7POLrKR08falVtwmVzIGCIn0xUXrerGAYPBybA0rPnsErPcMbwW6zpNoLyIJcjEGKJ21ZiSERICwwOT7eyU86wdUXQ0rbTfPXfpXQ3uohc4VDk36l6v3MiDVTWiIpjN0LDG1daXkXQ5XcuewlL0em24LXhVXJUQTTJpqrYCdZkEqFBq5D1YbqR6RZ2XSy4yNtjfjA2hot3nyRIsitszYoAkmKWWQhnZatVhrXwUYDqCHPUd6PoPguMT60M2tWWYxFJ5QXQ4BEDQhfB632CIjfEhjPtzLYPEEs6ooRYK1r0HmFC3lf1nPrKt5dDeHTOOVlnjCCLwmBr8oX5uoM572LLIleh6hJLrRCr1kxperL9",
+      "has_affiliate": true,
+      "current_price": 776.29,
+      "min_price": 776.29,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 776.29
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1468_all",
+    "per_store": {
+      "amazon": "https://t.me/MyProductTrackerBot?start=sc_1468_amazon",
+      "mercadolibre": "https://t.me/MyProductTrackerBot?start=sc_1468_mercadolibre",
+      "aliexpress": "https://t.me/MyProductTrackerBot?start=sc_1468_aliexpress"
+    }
+  }
+}

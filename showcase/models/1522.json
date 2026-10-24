@@ -1,0 +1,66 @@
+{
+  "id": 1522,
+  "name": "Samsung 870 EVO 500GB (SATA)",
+  "family_id": 1282,
+  "image_url": null,
+  "monitored_since": "2026-10-24",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "amazon",
+      "label": "Amazon",
+      "link": "https://www.amazon.com.br/dp/B08QBMD6P4?tag=producttrac0c-20",
+      "has_affiliate": true,
+      "current_price": 1786.57,
+      "min_price": 1786.57,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1786.57
+        }
+      ]
+    },
+    {
+      "marketplace": "aliexpress",
+      "label": "AliExpress",
+      "link": "https://s.click.aliexpress.com/s/fwx308cRD9Eny963e3KDdYxyIpNj8TXVr7saiF9Um5rMUg1kZtJALLnfa2LNXtiVgnxdD8Og6MmvwBoxhnSYQGM6r0c08U4TfX8DFGo7vviCuu3q62Q60OAhRZcqm3G8PtwM69xY7TOEWRrvulP5ukZQ4uQbBBtaVsdr6EffAqVmp3O5GyUANU2DoA3dJufNhDfh7KOlLgKIvRVhDxRESHLmea6fTE26gLUqKEUuuizJiLENrCbax94DZHDu8WhaXMN8fDE1HOLt4j1KZUcj471WKjwUetlj4ZWgS3yWx6lzuERHNTI3Zmy1QdFvD0l5CGMrCHZlk71ZjQXrOO2WJnsyGqPVjwtGB8JidzbLxmaDHrfftjMhQbptxaPaFKbMG7wkkkvr0p3c8PdsP7WJxSLE8SGdJgeDREE3UXWEdazxk5lLaufVVBXYN2us2gV4lKLE0lmeXIqDgxpJgsAKwKs1HSr0KzRIt0bBNMRjLJ9R31RlDpqw8t16AuwmSO4UAO7ShX4CD27II6kHtGwEz9rvVHGrN6V0grvxLU2Jw1rfcSubPyW8CZt6lUwmW9TKs3CPfK5hQECVckJTRuJE9ck2EKxmIWJwZBB9kBLQslgDSWCj9Kg6pDwx3Htnglemu7Kl4QxWnk8QnqzMiGIB88QWHz6v3qKpLj9XK6gdaH0M3NzU9JOJtmPjxsizFhOtS9Xo0mmt3K0y1q7zplPrUHgvQq5QDwubf3CRM9iyND8KtUWDHd4cfXgo5cuemf3HCsKYHSJmOJMxosce2YW09RgnFSGnd4RFo8Syan4PSd1GGWp0GWx92TYyhUd9qjWozoemHvjABaoJWrSefxfeVLROOnFE4eJrmPFcvwpleSRilvxdSQqafRXKtf9ANDgqHbxUnO58ZBTzkLyjjNjsdMWJXzDP0qGn5H53GBIRllYHZC1DIeKPF3HXfXrr0eIV3pEuBaGFpxjP4GA5NZ",
+      "has_affiliate": true,
+      "current_price": 321.56,
+      "min_price": 321.56,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 321.56
+        }
+      ]
+    },
+    {
+      "marketplace": "kabum",
+      "label": "KaBuM!",
+      "link": "https://www.kabum.com.br/produto/647831/ssd-500gb-2-5-sata-3-870-evo-560mb-s-leit-530mb-s-grav-mz-77e500b-eu-samsung",
+      "has_affiliate": true,
+      "current_price": 862.83,
+      "min_price": 862.83,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 862.83
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1522_all",
+    "per_store": {
+      "amazon": "https://t.me/MyProductTrackerBot?start=sc_1522_amazon",
+      "aliexpress": "https://t.me/MyProductTrackerBot?start=sc_1522_aliexpress",
+      "kabum": "https://t.me/MyProductTrackerBot?start=sc_1522_kabum"
+    }
+  }
+}

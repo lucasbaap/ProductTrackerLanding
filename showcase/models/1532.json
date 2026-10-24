@@ -1,0 +1,49 @@
+{
+  "id": 1532,
+  "name": "Kingston KC3000 1TB (NVMe Gen4)",
+  "family_id": 1292,
+  "image_url": null,
+  "monitored_since": "2026-10-24",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "amazon",
+      "label": "Amazon",
+      "link": "https://www.amazon.com.br/dp/B09K7F5VJQ?tag=producttrac0c-20",
+      "has_affiliate": true,
+      "current_price": 2159.0,
+      "min_price": 2159.0,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 2159.0
+        }
+      ]
+    },
+    {
+      "marketplace": "aliexpress",
+      "label": "AliExpress",
+      "link": "https://s.click.aliexpress.com/s/fwx308cRD9Eny963e3KDdYxyIpNj8TXVr7saiF9Um5rMUg1kZtJALLnfa2LNXtiVgnxdD8Og6MmvwBoxhnSYQGM6r0c08U4TfX8DFGo7vviCuu3q62Q60OAhRZcqm3G8PtwM69xY7TOEWRrvulP5ukZQ4uQbBBtaVsdr6EffAqVmp3O5GyUANU2DoA3dJufNhDfh7KOlLgKIvRVhDxRESHLmea6fTE26gLUqKEUuuizJiLENrCbax94DZHDu8WhaXMN8fDE1HOLt4j1KZUcj471WKjwUetlj4ZWgS3yWx6lzuERHNTI3Zmy1QdF6WTR0hmR2a9yYnRvXJJh4JwqFjq2qORKosrTyLONoVVSOG6MZ5oJWz8mzYqJbA1klDPIpqgqcrqAa4NLgIgxXtYv7FlsLxb2YiquwDVvCBzJgsVpL1BXEcBta27YcyghqoBxD02KnCcdL524iWKnRP0KxmKcVqIagN1mLUOB7Y6tnhRo1LnpFJ8K0AfZxsFSfLKpUC1Px9app2xXGqm4PGLrd1gPlla0FOTt443u5TfXkT0WowCYppZVqXuyD1y30VjarcRARNuTA7wK1thVwBbzcv3s9hKmYflWwTgriG99VbuGiwmF9aiu9Ek7lQDVFTsDd2t6KfSRdLii31JjEPH96VLz0fZEd2gZNaK7NaWPLyziI8wZYLc7okLz920LIHw40Z6JBnkIaMrmx0G36TvrMZVGGiPm4Spys5KXbua6zx0HlNWIWrVXP7Qa6GNoIcylw1AtAQ2VcIlaUdQDjby2lVnqgstSIqW7Oh3WJgv70Mhumi4rp7ss1PeR4R5JizOmGBhQ0DXCjGFWCVCAezyOQZyZFOU0ZdDiDbltLdD4N6spEZRwwRrQl75WnDMsi1tSGAM6oaeprGL28cl2Ih5oAYo2gIpcJv8Rh57DT5V9Fq3FwdnfOURIvGjQrBS8TiwtMUA3hByobpT7hHtshJl",
+      "has_affiliate": true,
+      "current_price": 654.06,
+      "min_price": 654.06,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 654.06
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1532_all",
+    "per_store": {
+      "amazon": "https://t.me/MyProductTrackerBot?start=sc_1532_amazon",
+      "aliexpress": "https://t.me/MyProductTrackerBot?start=sc_1532_aliexpress"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1461,
+  "name": "AMD Ryzen 9 7900X",
+  "family_id": 1221,
+  "image_url": null,
+  "monitored_since": "2026-10-24",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "kabum",
+      "label": "KaBuM!",
+      "link": "https://www.kabum.com.br/produto/378412/processador-amd-ryzen-9-7900x-4-7ghz-5-6ghz-max-turbo-cache-76mb-12-nucleos-24-threads-am5-com-video-integrado-100-100000589wof-",
+      "has_affiliate": true,
+      "current_price": 2399.99,
+      "min_price": 2399.99,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 2399.99
+        }
+      ]
+    },
+    {
+      "marketplace": "pichau",
+      "label": "Pichau",
+      "link": "https://www.pichau.com.br/processador-amd-ryzen-9-7900x-12-core-24-threads-4-7ghz-5-6ghz-turbo-cache-76mb-am5-100-100000589wof",
+      "has_affiliate": true,
+      "current_price": 2235.28,
+      "min_price": 2235.28,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 2235.28
+        }
+      ]
+    },
+    {
+      "marketplace": "terabyte",
+      "label": "Terabyte",
+      "link": "https://www.terabyteshop.com.br/produto/22266/processador-amd-ryzen-9-7900x-47ghz-56ghz-turbo-12-cores-24-threads-am5-100-100000589wof",
+      "has_affiliate": true,
+      "current_price": 2235.28,
+      "min_price": 2235.28,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 2235.28
+        }
+      ]
+    },
+    {
+      "marketplace": "mercadolibre",
+      "label": "Mercado Livre",
+      "link": "https://www.mercadolivre.com.br/p/MLB19711898?matt_word=balu1353476&matt_tool=29239275",
+      "has_affiliate": true,
+      "current_price": 1700.0,
+      "min_price": 1700.0,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1700.0
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1461_all",
+    "per_store": {
+      "kabum": "https://t.me/MyProductTrackerBot?start=sc_1461_kabum",
+      "pichau": "https://t.me/MyProductTrackerBot?start=sc_1461_pichau",
+      "terabyte": "https://t.me/MyProductTrackerBot?start=sc_1461_terabyte",
+      "mercadolibre": "https://t.me/MyProductTrackerBot?start=sc_1461_mercadolibre"
+    }
+  }
+}

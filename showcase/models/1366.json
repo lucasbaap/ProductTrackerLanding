@@ -1,0 +1,49 @@
+{
+  "id": 1366,
+  "name": "12GB/256GB",
+  "family_id": 1147,
+  "image_url": null,
+  "monitored_since": "2026-10-24",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "amazon",
+      "label": "Amazon",
+      "link": "https://www.amazon.com.br/dp/B0HCX8FCFJ?tag=producttrac0c-20",
+      "has_affiliate": true,
+      "current_price": 11929.0,
+      "min_price": 11929.0,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 11929.0
+        }
+      ]
+    },
+    {
+      "marketplace": "shopee",
+      "label": "Shopee",
+      "link": "https://s.shopee.com.br/9Kj3yCO6bv",
+      "has_affiliate": true,
+      "current_price": 11999.0,
+      "min_price": 11999.0,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 11999.0
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1366_all",
+    "per_store": {
+      "amazon": "https://t.me/MyProductTrackerBot?start=sc_1366_amazon",
+      "shopee": "https://t.me/MyProductTrackerBot?start=sc_1366_shopee"
+    }
+  }
+}

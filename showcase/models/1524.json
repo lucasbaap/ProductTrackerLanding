@@ -1,0 +1,83 @@
+{
+  "id": 1524,
+  "name": "Crucial BX500 1TB (SATA)",
+  "family_id": 1284,
+  "image_url": null,
+  "monitored_since": "2026-10-24",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "mercadolibre",
+      "label": "Mercado Livre",
+      "link": "https://www.mercadolivre.com.br/p/MLB45902515?matt_word=balu1353476&matt_tool=29239275",
+      "has_affiliate": true,
+      "current_price": 972.0,
+      "min_price": 972.0,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 972.0
+        }
+      ]
+    },
+    {
+      "marketplace": "amazon",
+      "label": "Amazon",
+      "link": "https://www.amazon.com.br/dp/B07YD579WM?tag=producttrac0c-20",
+      "has_affiliate": true,
+      "current_price": 949.0,
+      "min_price": 949.0,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 949.0
+        }
+      ]
+    },
+    {
+      "marketplace": "kabum",
+      "label": "KaBuM!",
+      "link": "https://www.kabum.com.br/produto/167492/ssd-crucial-bx500-1tb-sata-6gb-s-2-5-leitura-540-mb-s-escrita-500-mb-s-preto-ct1000bx500ssd1",
+      "has_affiliate": true,
+      "current_price": 999.0,
+      "min_price": 999.0,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 999.0
+        }
+      ]
+    },
+    {
+      "marketplace": "pichau",
+      "label": "Pichau",
+      "link": "https://www.pichau.com.br/ssd-crucial-bx500-1tb-2-5-sata-iii-6gb-s-leitura-540mb-s-gravac-o-500mb-s-ct1000bx500ssd1",
+      "has_affiliate": true,
+      "current_price": 1164.69,
+      "min_price": 1164.69,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1164.69
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1524_all",
+    "per_store": {
+      "mercadolibre": "https://t.me/MyProductTrackerBot?start=sc_1524_mercadolibre",
+      "amazon": "https://t.me/MyProductTrackerBot?start=sc_1524_amazon",
+      "kabum": "https://t.me/MyProductTrackerBot?start=sc_1524_kabum",
+      "pichau": "https://t.me/MyProductTrackerBot?start=sc_1524_pichau"
+    }
+  }
+}

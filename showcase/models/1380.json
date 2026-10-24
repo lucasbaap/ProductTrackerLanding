@@ -1,0 +1,122 @@
+{
+  "id": 1380,
+  "name": "12GB/256GB",
+  "family_id": 1154,
+  "image_url": null,
+  "monitored_since": "2026-09-24",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "amazon",
+      "label": "Amazon",
+      "link": "https://www.amazon.com.br/dp/B0DSYJCY45?ref=cm_sw_r_cso_cp_apan_ct_BV8ZR00FQV1XP53SR1P6&ref_=cm_sw_r_cso_cp_apan_ct_BV8ZR00FQV1XP53SR1P6&social_share=cm_sw_r_cso_cp_apan_ct_BV8ZR00FQV1XP53SR1P6&th=1&tag=producttrac0c-20",
+      "has_affiliate": true,
+      "current_price": 6033.01,
+      "min_price": 4873.78,
+      "min_price_at": "2026-10-03",
+      "monitored_since": "2026-09-24",
+      "history": [
+        {
+          "date": "2026-09-24",
+          "price": 5399.0
+        },
+        {
+          "date": "2026-09-25",
+          "price": 5399.0
+        },
+        {
+          "date": "2026-09-26",
+          "price": 5399.0
+        },
+        {
+          "date": "2026-09-27",
+          "price": 5399.01
+        },
+        {
+          "date": "2026-09-28",
+          "price": 5319.9
+        },
+        {
+          "date": "2026-09-29",
+          "price": 5224.05
+        },
+        {
+          "date": "2026-09-30",
+          "price": 4958.1
+        },
+        {
+          "date": "2026-10-01",
+          "price": 4958.1
+        },
+        {
+          "date": "2026-10-02",
+          "price": 4958.1
+        },
+        {
+          "date": "2026-10-03",
+          "price": 4873.78
+        },
+        {
+          "date": "2026-10-04",
+          "price": 4873.78
+        },
+        {
+          "date": "2026-10-05",
+          "price": 4873.78
+        },
+        {
+          "date": "2026-10-06",
+          "price": 4958.1
+        },
+        {
+          "date": "2026-10-07",
+          "price": 5605.0
+        },
+        {
+          "date": "2026-10-24",
+          "price": 6033.01
+        }
+      ]
+    },
+    {
+      "marketplace": "kabum",
+      "label": "KaBuM!",
+      "link": "https://www.kabum.com.br/produto/703062/smartphone-samsung-galaxy-s25-ultra-256gb-5g-titanio-azul-com-caneta-s-pen-galaxy-ai-camera-quadrupla-200mp-selfie-12mp-ram-12gb-tela-6-9-?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792832965_608d11515d45429320bbcf5ff93c4245&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "has_affiliate": true,
+      "current_price": 5799.0,
+      "min_price": 5799.0,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 5799.0
+        }
+      ]
+    },
+    {
+      "marketplace": "shopee",
+      "label": "Shopee",
+      "link": "https://s.shopee.com.br/7puGBYiejS",
+      "has_affiliate": true,
+      "current_price": 9221.12,
+      "min_price": 9221.12,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 9221.12
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1380_all",
+    "per_store": {
+      "amazon": "https://t.me/MyProductTrackerBot?start=sc_1380_amazon",
+      "kabum": "https://t.me/MyProductTrackerBot?start=sc_1380_kabum",
+      "shopee": "https://t.me/MyProductTrackerBot?start=sc_1380_shopee"
+    }
+  }
+}

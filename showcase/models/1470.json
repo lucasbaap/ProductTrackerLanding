@@ -1,0 +1,100 @@
+{
+  "id": 1470,
+  "name": "Intel Core Ultra 9 285",
+  "family_id": 1230,
+  "image_url": null,
+  "monitored_since": "2026-10-24",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "mercadolibre",
+      "label": "Mercado Livre",
+      "link": "https://www.mercadolivre.com.br/p/MLB48593755?matt_word=balu1353476&matt_tool=29239275",
+      "has_affiliate": true,
+      "current_price": 5799.0,
+      "min_price": 5799.0,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 5799.0
+        }
+      ]
+    },
+    {
+      "marketplace": "amazon",
+      "label": "Amazon",
+      "link": "https://www.amazon.com.br/dp/B0DTRK5WK3?tag=producttrac0c-20",
+      "has_affiliate": true,
+      "current_price": 3588.22,
+      "min_price": 3588.22,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 3588.22
+        }
+      ]
+    },
+    {
+      "marketplace": "kabum",
+      "label": "KaBuM!",
+      "link": "https://www.kabum.com.br/produto/696996/processador-intel-core-ultra-9-285-2-5ghz-5-6ghz-turbo-cache-36mb-24-nucleos-24-threads-lga-1851-com-video-integrado-bx80768285",
+      "has_affiliate": true,
+      "current_price": 3049.99,
+      "min_price": 3049.99,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 3049.99
+        }
+      ]
+    },
+    {
+      "marketplace": "pichau",
+      "label": "Pichau",
+      "link": "https://www.pichau.com.br/processador-intel-core-ultra-9-285-24-core-24-threads-2-5ghz-5-6ghz-turbo-cache-36mb-lga1851-bx80768285",
+      "has_affiliate": true,
+      "current_price": 3588.22,
+      "min_price": 3588.22,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 3588.22
+        }
+      ]
+    },
+    {
+      "marketplace": "terabyte",
+      "label": "Terabyte",
+      "link": "https://www.terabyteshop.com.br/produto/34720/processador-intel-core-ultra-9-285-25ghz-56ghz-turbo-serie-2-24-cores-24-threads-lga-1851-bx80768285",
+      "has_affiliate": true,
+      "current_price": 3647.05,
+      "min_price": 3647.05,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 3647.05
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1470_all",
+    "per_store": {
+      "mercadolibre": "https://t.me/MyProductTrackerBot?start=sc_1470_mercadolibre",
+      "amazon": "https://t.me/MyProductTrackerBot?start=sc_1470_amazon",
+      "kabum": "https://t.me/MyProductTrackerBot?start=sc_1470_kabum",
+      "pichau": "https://t.me/MyProductTrackerBot?start=sc_1470_pichau",
+      "terabyte": "https://t.me/MyProductTrackerBot?start=sc_1470_terabyte"
+    }
+  }
+}

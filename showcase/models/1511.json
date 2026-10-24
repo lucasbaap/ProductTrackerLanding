@@ -1,0 +1,44 @@
+{
+  "id": 1511,
+  "name": "Corsair Vengeance CMK16GX5M2B5200Z40 (16GB 2x8 DDR5-5200)",
+  "family_id": 1271,
+  "image_url": null,
+  "monitored_since": "2026-10-24",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "amazon",
+      "label": "Amazon",
+      "link": "https://www.amazon.com.br/dp/B0D2P1CVQD?tag=producttrac0c-20",
+      "has_affiliate": true,
+      "current_price": 2966.94,
+      "min_price": 2966.94,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 2966.94
+        }
+      ]
+    },
+    {
+      "marketplace": "kabum",
+      "label": "KaBuM!",
+      "link": "https://www.kabum.com.br/produto/988586/memoria-ram-corsair-vengeance-16gb-2x8gb-5200mhz-ddr5-cl40-intel-xmp-amd-expo-cinza-cmk16gx5m2b5200z40",
+      "has_affiliate": true,
+      "current_price": 2239.9,
+      "min_price": null,
+      "min_price_at": null,
+      "monitored_since": "2026-10-24",
+      "history": []
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1511_all",
+    "per_store": {
+      "amazon": "https://t.me/MyProductTrackerBot?start=sc_1511_amazon",
+      "kabum": "https://t.me/MyProductTrackerBot?start=sc_1511_kabum"
+    }
+  }
+}

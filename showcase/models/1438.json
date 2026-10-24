@@ -1,0 +1,66 @@
+{
+  "id": 1438,
+  "name": "MSI MAG B760 Tomahawk WiFi",
+  "family_id": 1198,
+  "image_url": null,
+  "monitored_since": "2026-10-24",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "mercadolibre",
+      "label": "Mercado Livre",
+      "link": "https://www.mercadolivre.com.br/p/MLB45183886?matt_word=balu1353476&matt_tool=29239275",
+      "has_affiliate": true,
+      "current_price": 2199.0,
+      "min_price": 2199.0,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 2199.0
+        }
+      ]
+    },
+    {
+      "marketplace": "amazon",
+      "label": "Amazon",
+      "link": "https://www.amazon.com.br/MSI-Placa-m%C3%A3e-MAG-B760-Tomahawk/dp/B0BMM7NZDX?tag=producttrac0c-20",
+      "has_affiliate": true,
+      "current_price": 1719.0,
+      "min_price": 1719.0,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1719.0
+        }
+      ]
+    },
+    {
+      "marketplace": "kabum",
+      "label": "KaBuM!",
+      "link": "https://www.kabum.com.br/produto/495667/placa-mae-msi-mag-b760-tomahawk-wifi-intel-lga-1700-atx-12-13-14-geracoes-ddr5-bluetooth-911-7d96-013?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792816724_3dbd3c9317b3011617a59e5801584017&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "has_affiliate": true,
+      "current_price": 1699.0,
+      "min_price": 1699.0,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1699.0
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1438_all",
+    "per_store": {
+      "mercadolibre": "https://t.me/MyProductTrackerBot?start=sc_1438_mercadolibre",
+      "amazon": "https://t.me/MyProductTrackerBot?start=sc_1438_amazon",
+      "kabum": "https://t.me/MyProductTrackerBot?start=sc_1438_kabum"
+    }
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "id": 1449,
+  "name": "AMD Ryzen 9 9950X3D",
+  "family_id": 1209,
+  "image_url": null,
+  "monitored_since": "2026-10-24",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "kabum",
+      "label": "KaBuM!",
+      "link": "https://www.kabum.com.br/produto/708039/processador-amd-ryzen-9-9950x3d-4-4-ghz-5-7-ghz-max-turbo-cache-144mb-16-nucleos-32-threads-am5-com-video-integrado-100-100000719wof?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792817055_5a5d3605213e62ceb05b7dc9bd256644&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "has_affiliate": true,
+      "current_price": 4299.99,
+      "min_price": 4299.99,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 4299.99
+        }
+      ]
+    },
+    {
+      "marketplace": "pichau",
+      "label": "Pichau",
+      "link": "https://www.pichau.com.br/processador-amd-ryzen-9-9950x3d-16-core-32-threads-4-3ghz-5-7ghz-turbo-cache-144mb-am5-100-100000719wof",
+      "has_affiliate": true,
+      "current_price": 4941.16,
+      "min_price": 4941.16,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 4941.16
+        }
+      ]
+    },
+    {
+      "marketplace": "amazon",
+      "label": "Amazon",
+      "link": "https://www.amazon.com.br/dp/B0DVZSG8D5?tag=producttrac0c-20",
+      "has_affiliate": true,
+      "current_price": 4845.4,
+      "min_price": 4845.4,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 4845.4
+        }
+      ]
+    },
+    {
+      "marketplace": "mercadolibre",
+      "label": "Mercado Livre",
+      "link": "https://www.mercadolivre.com.br/p/MLB47079231?matt_word=balu1353476&matt_tool=29239275",
+      "has_affiliate": true,
+      "current_price": 4699.0,
+      "min_price": 4699.0,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 4699.0
+        }
+      ]
+    },
+    {
+      "marketplace": "aliexpress",
+      "label": "AliExpress",
+      "link": "https://s.click.aliexpress.com/s/NdpwztbAIgDMmxGbP8fFks7yUFfsHjzlImSYmA68h7xlMRgzueFsRgokQ9f9hcpVKttxtQE2VzIoqkXJXrpOr6uR3zv7mP4CDO9CddoFf4t0QE5DXPy8Pgjhz4irfQSEjEGUmy5yF3A5gJ9h3NYjLMgqIMqa3zcpq5E2BC3W5EbV40Dm9buQxWpZzw1lbX8Zm2kZtNIa4KyDieNjsH7IU6Yv8StELKVvT9r4eFAaXPGhwHsgaDqdNcmY116r3GC2YvmvR57S69fGyn8Tt4pCtmLccxQz3g0L1ZKu00BPwYOT3BF4QZOqRqMDB0Dvc04txTZPCpKkUhD0FKadoXQRvxQFwr2YysofNZiEYikWbXdA1rCIDehZK2CkAy99g0dbmjqVFodAvaShnsITKcYke0VeL0hYJfZ1E5fggeIldlhlblxqTGW50Wa5sMTXBka6qkQ90skQ7hrR4da5bsd9LOvPlasC7SC0Ah6MZ0NTnIIvfPRi2UQfrhXHBM0BNgSq8Gp5R8SQUTcvhwNR4X9dRaWyxehauuMCWNgzkvVbTATbc8PhGH8jhunQRFcgu4LrkDpJQpjAT5WLvSRhWiGTMgUKKfW3K4jCsmUbSPOD7a4gRdv0DXfXvGPzzsZfd4h8XG5WG3UR9g0tWvn15x7MsjRkusAnK0mITSzAcB3YYVhd3Lx09TpQ8Eaql0BbcDiBQwXNdP2oQn6FcE7XZkKdXv3Z8AbvM1kX29aR4Zs6FkacyjfnF7BjFRsvFCMZDz0Qn2dIB7cGzZjuPYEbY6T34wsxf1kDZBCN1krHrpyYM6WpaoZNc8LVZjWMR2yoVvS3uGta1mUFYnpXmXZPe5ZujXl0Mh4Jt8zlgLVlEOWgXrNnzXojqWYqlGn99jesDiiECJcERWkUDih5t4BNxutRvNzFO3QKVslbUwIYYpXNKaRIilKbbTRb2WnPliwSqzb2RVazhtBvhWK6OgvQ0R1PkmkDNGB5j3ullNdMWXRYIYHgR",
+      "has_affiliate": true,
+      "current_price": 5783.51,
+      "min_price": 5783.51,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 5783.51
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1449_all",
+    "per_store": {
+      "kabum": "https://t.me/MyProductTrackerBot?start=sc_1449_kabum",
+      "pichau": "https://t.me/MyProductTrackerBot?start=sc_1449_pichau",
+      "amazon": "https://t.me/MyProductTrackerBot?start=sc_1449_amazon",
+      "mercadolibre": "https://t.me/MyProductTrackerBot?start=sc_1449_mercadolibre",
+      "aliexpress": "https://t.me/MyProductTrackerBot?start=sc_1449_aliexpress"
+    }
+  }
+}

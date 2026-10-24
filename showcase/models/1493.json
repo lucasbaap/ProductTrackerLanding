@@ -1,0 +1,83 @@
+{
+  "id": 1493,
+  "name": "Intel Core i5-14600KF",
+  "family_id": 1253,
+  "image_url": null,
+  "monitored_since": "2026-10-24",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "mercadolibre",
+      "label": "Mercado Livre",
+      "link": "https://www.mercadolivre.com.br/p/MLB27860992?matt_word=balu1353476&matt_tool=29239275",
+      "has_affiliate": true,
+      "current_price": 1727.0,
+      "min_price": 1727.0,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1727.0
+        }
+      ]
+    },
+    {
+      "marketplace": "kabum",
+      "label": "KaBuM!",
+      "link": "https://www.kabum.com.br/produto/497579/processador-intel-core-i5-14600kf-3-5ghz-5-3-ghz-max-turbo-cache-24mb-14-nucleos-20-threads-lga-1700-sem-video-integrado-bx8071514600kf",
+      "has_affiliate": true,
+      "current_price": 1499.99,
+      "min_price": 1499.99,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1499.99
+        }
+      ]
+    },
+    {
+      "marketplace": "pichau",
+      "label": "Pichau",
+      "link": "https://www.pichau.com.br/processador-intel-core-i5-14600kf-14-core-20-threads-3-5ghz-5-3ghz-turbo-cache-24mb-lga1700-bx8071514600kf",
+      "has_affiliate": true,
+      "current_price": 1870.58,
+      "min_price": 1870.58,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1870.58
+        }
+      ]
+    },
+    {
+      "marketplace": "magalu",
+      "label": "Magalu",
+      "link": "https://m.magazineluiza.com.br/processador-intel-core-i5-14600kf-14a-geracao-3-5-ghz-5-3-ghz-turbo-cache-24mb-lga1700-bx8071514600kf/p/ab5g7g07a1/in/prsd/?partner_id=3440&promoter_id=5820501&utm_source=divulgador&utm_medium=magalu&utm_campaign=5820501",
+      "has_affiliate": true,
+      "current_price": 2284.9,
+      "min_price": 2284.9,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 2284.9
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1493_all",
+    "per_store": {
+      "mercadolibre": "https://t.me/MyProductTrackerBot?start=sc_1493_mercadolibre",
+      "kabum": "https://t.me/MyProductTrackerBot?start=sc_1493_kabum",
+      "pichau": "https://t.me/MyProductTrackerBot?start=sc_1493_pichau",
+      "magalu": "https://t.me/MyProductTrackerBot?start=sc_1493_magalu"
+    }
+  }
+}

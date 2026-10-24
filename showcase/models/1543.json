@@ -1,0 +1,49 @@
+{
+  "id": 1543,
+  "name": "SanDisk/WD Black SN8100 (NVMe Gen5)",
+  "family_id": 1303,
+  "image_url": null,
+  "monitored_since": "2026-10-24",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "mercadolibre",
+      "label": "Mercado Livre",
+      "link": "https://www.mercadolivre.com.br/p/MLB2111740330?matt_word=balu1353476&matt_tool=29239275",
+      "has_affiliate": true,
+      "current_price": 2293.19,
+      "min_price": 2293.19,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 2293.19
+        }
+      ]
+    },
+    {
+      "marketplace": "aliexpress",
+      "label": "AliExpress",
+      "link": "https://www.aliexpress.com/item/1005012314378425.html",
+      "has_affiliate": true,
+      "current_price": 1868.49,
+      "min_price": 1868.49,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1868.49
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1543_all",
+    "per_store": {
+      "mercadolibre": "https://t.me/MyProductTrackerBot?start=sc_1543_mercadolibre",
+      "aliexpress": "https://t.me/MyProductTrackerBot?start=sc_1543_aliexpress"
+    }
+  }
+}

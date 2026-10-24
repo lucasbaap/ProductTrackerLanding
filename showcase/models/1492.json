@@ -1,0 +1,83 @@
+{
+  "id": 1492,
+  "name": "Intel Core i5-14600K",
+  "family_id": 1252,
+  "image_url": null,
+  "monitored_since": "2026-10-24",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "mercadolibre",
+      "label": "Mercado Livre",
+      "link": "https://www.mercadolivre.com.br/p/MLB28087623?matt_word=balu1353476&matt_tool=29239275",
+      "has_affiliate": true,
+      "current_price": 1900.0,
+      "min_price": 1900.0,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1900.0
+        }
+      ]
+    },
+    {
+      "marketplace": "amazon",
+      "label": "Amazon",
+      "link": "https://www.amazon.com.br/dp/B0CHBGVFHP?tag=producttrac0c-20",
+      "has_affiliate": true,
+      "current_price": 1952.92,
+      "min_price": 1952.92,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1952.92
+        }
+      ]
+    },
+    {
+      "marketplace": "kabum",
+      "label": "KaBuM!",
+      "link": "https://www.kabum.com.br/produto/497578/processador-intel-core-i5-14600k-3-5ghz-5-3-ghz-max-turbo-cache-24mb-14-nucleos-20-threads-lga-1700-com-video-integrado-bx8071514600k",
+      "has_affiliate": true,
+      "current_price": 1678.99,
+      "min_price": 1678.99,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1678.99
+        }
+      ]
+    },
+    {
+      "marketplace": "pichau",
+      "label": "Pichau",
+      "link": "https://www.pichau.com.br/processador-intel-core-i5-14600k-14-core-20-threads-3-5ghz-5-3ghz-turbo-cache-24mb-lga1700-bx8071514600k",
+      "has_affiliate": true,
+      "current_price": 1952.92,
+      "min_price": 1952.92,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1952.92
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1492_all",
+    "per_store": {
+      "mercadolibre": "https://t.me/MyProductTrackerBot?start=sc_1492_mercadolibre",
+      "amazon": "https://t.me/MyProductTrackerBot?start=sc_1492_amazon",
+      "kabum": "https://t.me/MyProductTrackerBot?start=sc_1492_kabum",
+      "pichau": "https://t.me/MyProductTrackerBot?start=sc_1492_pichau"
+    }
+  }
+}

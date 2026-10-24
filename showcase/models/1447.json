@@ -1,0 +1,66 @@
+{
+  "id": 1447,
+  "name": "ASRock Z890 Steel Legend WiFi",
+  "family_id": 1207,
+  "image_url": null,
+  "monitored_since": "2026-10-24",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "amazon",
+      "label": "Amazon",
+      "link": "https://www.amazon.com.br/ASRock-Z890-Legend-LGA1851RL-ILM-Thunderbolt/dp/B0DJHLSY68?tag=producttrac0c-20",
+      "has_affiliate": true,
+      "current_price": 1866.0,
+      "min_price": 1866.0,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1866.0
+        }
+      ]
+    },
+    {
+      "marketplace": "kabum",
+      "label": "KaBuM!",
+      "link": "https://www.kabum.com.br/produto/894444/placa-mae-asrock-z890-steel-legend-wifi-intel-lga-1851-atx-wf-blt-ddr5-z890-steel-legend-wifi?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792817000_c195c167ffa428b513fb92de9ebcb731&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "has_affiliate": true,
+      "current_price": 2481.6,
+      "min_price": 2481.6,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 2481.6
+        }
+      ]
+    },
+    {
+      "marketplace": "terabyte",
+      "label": "Terabyte",
+      "link": "https://www.terabyteshop.com.br/produto/32064/placa-mae-asrock-z890-steel-legend-wifi-chipset-z890-intel-lga-1851-atx-ddr5-branco-90-mxbpf0-a0uayz",
+      "has_affiliate": true,
+      "current_price": 2705.87,
+      "min_price": 2705.87,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 2705.87
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1447_all",
+    "per_store": {
+      "amazon": "https://t.me/MyProductTrackerBot?start=sc_1447_amazon",
+      "kabum": "https://t.me/MyProductTrackerBot?start=sc_1447_kabum",
+      "terabyte": "https://t.me/MyProductTrackerBot?start=sc_1447_terabyte"
+    }
+  }
+}

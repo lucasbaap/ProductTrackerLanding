@@ -1,0 +1,61 @@
+{
+  "id": 1475,
+  "name": "Intel Core Ultra 7 270K Plus",
+  "family_id": 1235,
+  "image_url": null,
+  "monitored_since": "2026-10-24",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "kabum",
+      "label": "KaBuM!",
+      "link": "https://www.kabum.com.br/produto/1032775/processador-intel-core-ultra-7-270k-plus-turbo-ate-5-5ghz-36mb-cache-lga-1851-bx80768270k",
+      "has_affiliate": true,
+      "current_price": 3815.78,
+      "min_price": null,
+      "min_price_at": null,
+      "monitored_since": "2026-10-24",
+      "history": []
+    },
+    {
+      "marketplace": "pichau",
+      "label": "Pichau",
+      "link": "https://www.pichau.com.br/processador-intel-core-ultra-7-270k-plus-24-core-24-threads-3-7ghz-5-5ghz-turbo-cache-36mb-lga1851-bx80768270k",
+      "has_affiliate": true,
+      "current_price": 2635.28,
+      "min_price": 2635.28,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 2635.28
+        }
+      ]
+    },
+    {
+      "marketplace": "terabyte",
+      "label": "Terabyte",
+      "link": "https://www.terabyteshop.com.br/produto/40719/processador-intel-core-ultra-7-270k-plus-otimizado-para-ia-55ghz-turbo-24-cores-24-threads-lga-1851-bx80768270k",
+      "has_affiliate": true,
+      "current_price": 2623.52,
+      "min_price": 2623.52,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 2623.52
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1475_all",
+    "per_store": {
+      "kabum": "https://t.me/MyProductTrackerBot?start=sc_1475_kabum",
+      "pichau": "https://t.me/MyProductTrackerBot?start=sc_1475_pichau",
+      "terabyte": "https://t.me/MyProductTrackerBot?start=sc_1475_terabyte"
+    }
+  }
+}

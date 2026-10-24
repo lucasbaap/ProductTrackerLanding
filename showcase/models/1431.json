@@ -1,0 +1,100 @@
+{
+  "id": 1431,
+  "name": "Gigabyte B550M DS3H AC R2",
+  "family_id": 1191,
+  "image_url": null,
+  "monitored_since": "2026-10-24",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "mercadolibre",
+      "label": "Mercado Livre",
+      "link": "https://www.mercadolivre.com.br/p/MLB64984104?matt_word=balu1353476&matt_tool=29239275",
+      "has_affiliate": true,
+      "current_price": 678.0,
+      "min_price": 678.0,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 678.0
+        }
+      ]
+    },
+    {
+      "marketplace": "amazon",
+      "label": "Amazon",
+      "link": "https://www.amazon.com.br/B550M-DS3H-AC-R2-DisplayPort/dp/B0F2H4JLJM?tag=producttrac0c-20",
+      "has_affiliate": true,
+      "current_price": 675.98,
+      "min_price": 675.98,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 675.98
+        }
+      ]
+    },
+    {
+      "marketplace": "aliexpress",
+      "label": "AliExpress",
+      "link": "https://www.aliexpress.com/item/1005013029702073.html",
+      "has_affiliate": true,
+      "current_price": 897.87,
+      "min_price": 897.87,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 897.87
+        }
+      ]
+    },
+    {
+      "marketplace": "kabum",
+      "label": "KaBuM!",
+      "link": "https://www.kabum.com.br/produto/875852/placa-mae-gigabyte-b550m-ds3h-ac-r2-amd-am4-micro-atx-ddr4-rgb-wi-fi-bluetooth-preto-b550m-ds3h-ac-r2?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792816520_8ae1ff086312a3e956fe6be3dfbaa25b&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "has_affiliate": true,
+      "current_price": 675.99,
+      "min_price": 675.99,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 675.99
+        }
+      ]
+    },
+    {
+      "marketplace": "pichau",
+      "label": "Pichau",
+      "link": "https://www.pichau.com.br/placa-mae-gigabyte-b550m-ds3h-ac-r2-wifi-ddr4-socket-am4-m-atx-chipset-amd-b550-b550m-ds3h-ac-r2",
+      "has_affiliate": true,
+      "current_price": 823.52,
+      "min_price": 823.52,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 823.52
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1431_all",
+    "per_store": {
+      "mercadolibre": "https://t.me/MyProductTrackerBot?start=sc_1431_mercadolibre",
+      "amazon": "https://t.me/MyProductTrackerBot?start=sc_1431_amazon",
+      "aliexpress": "https://t.me/MyProductTrackerBot?start=sc_1431_aliexpress",
+      "kabum": "https://t.me/MyProductTrackerBot?start=sc_1431_kabum",
+      "pichau": "https://t.me/MyProductTrackerBot?start=sc_1431_pichau"
+    }
+  }
+}

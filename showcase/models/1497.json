@@ -1,0 +1,83 @@
+{
+  "id": 1497,
+  "name": "Intel Core i3-14100",
+  "family_id": 1257,
+  "image_url": null,
+  "monitored_since": "2026-10-24",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "mercadolibre",
+      "label": "Mercado Livre",
+      "link": "https://www.mercadolivre.com.br/p/MLB29769928?matt_word=balu1353476&matt_tool=29239275",
+      "has_affiliate": true,
+      "current_price": 1100.0,
+      "min_price": 1100.0,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1100.0
+        }
+      ]
+    },
+    {
+      "marketplace": "amazon",
+      "label": "Amazon",
+      "link": "https://www.amazon.com.br/dp/B0CQ2ZLXB4?tag=producttrac0c-20",
+      "has_affiliate": true,
+      "current_price": 1366.16,
+      "min_price": 1366.16,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1366.16
+        }
+      ]
+    },
+    {
+      "marketplace": "kabum",
+      "label": "KaBuM!",
+      "link": "https://www.kabum.com.br/produto/904655/processador-intel-core-i3-14100-3-5ghz-4-70-ghz-max-turbo-cache-12mb-4-nucleos-8-threads-lga-1700-com-video-integrado-bx8071514100-",
+      "has_affiliate": true,
+      "current_price": 899.99,
+      "min_price": 899.99,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 899.99
+        }
+      ]
+    },
+    {
+      "marketplace": "pichau",
+      "label": "Pichau",
+      "link": "https://www.pichau.com.br/processador-intel-core-i3-14100-4-core-8-threads-3-5ghz-4-7ghz-turbo-cache-12mb-lga1700-bx8071514100",
+      "has_affiliate": true,
+      "current_price": 1035.28,
+      "min_price": 1035.28,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1035.28
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1497_all",
+    "per_store": {
+      "mercadolibre": "https://t.me/MyProductTrackerBot?start=sc_1497_mercadolibre",
+      "amazon": "https://t.me/MyProductTrackerBot?start=sc_1497_amazon",
+      "kabum": "https://t.me/MyProductTrackerBot?start=sc_1497_kabum",
+      "pichau": "https://t.me/MyProductTrackerBot?start=sc_1497_pichau"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": 1502,
+  "name": "Kingston Fury Beast KF432C16BBK2/16 (16GB 2x8 DDR4-3200)",
+  "family_id": 1262,
+  "image_url": null,
+  "monitored_since": "2026-10-24",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "amazon",
+      "label": "Amazon",
+      "link": "https://www.amazon.com.br/dp/B097K2WBL3?tag=producttrac0c-20",
+      "has_affiliate": true,
+      "current_price": 845.0,
+      "min_price": 845.0,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 845.0
+        }
+      ]
+    },
+    {
+      "marketplace": "kabum",
+      "label": "KaBuM!",
+      "link": "https://www.kabum.com.br/produto/909720/kingston-kf432c16bbk2-16-kit-de-memorias-de-16gb-2-x-8gb-dimm-ddr4-3200mhz-fury-beast-black-1-35v-1rx8-288-pinos-pa",
+      "has_affiliate": true,
+      "current_price": 1158.05,
+      "min_price": 1158.05,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1158.05
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1502_all",
+    "per_store": {
+      "amazon": "https://t.me/MyProductTrackerBot?start=sc_1502_amazon",
+      "kabum": "https://t.me/MyProductTrackerBot?start=sc_1502_kabum"
+    }
+  }
+}

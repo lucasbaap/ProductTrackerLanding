@@ -1,0 +1,282 @@
+{
+  "id": 1401,
+  "name": "256GB",
+  "family_id": 1166,
+  "image_url": null,
+  "monitored_since": "2026-10-01",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "mercadolibre",
+      "label": "Mercado Livre",
+      "link": "https://www.mercadolivre.com.br/p/MLB1055308605?matt_word=balu1353476&matt_tool=29239275",
+      "has_affiliate": true,
+      "current_price": 10748.95,
+      "min_price": 9748.3,
+      "min_price_at": "2026-10-08",
+      "monitored_since": "2026-10-01",
+      "history": [
+        {
+          "date": "2026-10-01",
+          "price": 11099.0
+        },
+        {
+          "date": "2026-10-02",
+          "price": 10999.0
+        },
+        {
+          "date": "2026-10-03",
+          "price": 10748.95
+        },
+        {
+          "date": "2026-10-04",
+          "price": 10748.95
+        },
+        {
+          "date": "2026-10-05",
+          "price": 10748.95
+        },
+        {
+          "date": "2026-10-06",
+          "price": 10748.95
+        },
+        {
+          "date": "2026-10-07",
+          "price": 9999.57
+        },
+        {
+          "date": "2026-10-08",
+          "price": 9748.3
+        },
+        {
+          "date": "2026-10-09",
+          "price": 10748.95
+        },
+        {
+          "date": "2026-10-10",
+          "price": 10748.95
+        },
+        {
+          "date": "2026-10-11",
+          "price": 10748.95
+        },
+        {
+          "date": "2026-10-12",
+          "price": 10748.95
+        },
+        {
+          "date": "2026-10-13",
+          "price": 10748.95
+        },
+        {
+          "date": "2026-10-14",
+          "price": 10748.95
+        },
+        {
+          "date": "2026-10-15",
+          "price": 10748.95
+        },
+        {
+          "date": "2026-10-16",
+          "price": 10748.95
+        },
+        {
+          "date": "2026-10-17",
+          "price": 10748.95
+        },
+        {
+          "date": "2026-10-18",
+          "price": 10748.95
+        },
+        {
+          "date": "2026-10-24",
+          "price": 10748.95
+        }
+      ]
+    },
+    {
+      "marketplace": "amazon",
+      "label": "Amazon",
+      "link": "https://www.amazon.com.br/Apple-iPhone-Pro-Max-256/dp/B0FQGTT4V7/ref=sr_1_1_sspa?tag=producttrac0c-20",
+      "has_affiliate": true,
+      "current_price": 10748.95,
+      "min_price": 8429.99,
+      "min_price_at": "2026-10-08",
+      "monitored_since": "2026-10-01",
+      "history": [
+        {
+          "date": "2026-10-01",
+          "price": 9989.1
+        },
+        {
+          "date": "2026-10-02",
+          "price": 9899.1
+        },
+        {
+          "date": "2026-10-03",
+          "price": 9899.1
+        },
+        {
+          "date": "2026-10-04",
+          "price": 10734.05
+        },
+        {
+          "date": "2026-10-05",
+          "price": 9674.06
+        },
+        {
+          "date": "2026-10-06",
+          "price": 9674.05
+        },
+        {
+          "date": "2026-10-07",
+          "price": 8721.32
+        },
+        {
+          "date": "2026-10-08",
+          "price": 8429.99
+        },
+        {
+          "date": "2026-10-09",
+          "price": 8500.0
+        },
+        {
+          "date": "2026-10-10",
+          "price": 10169.1
+        },
+        {
+          "date": "2026-10-11",
+          "price": 10169.1
+        },
+        {
+          "date": "2026-10-12",
+          "price": 10169.09
+        },
+        {
+          "date": "2026-10-13",
+          "price": 10169.09
+        },
+        {
+          "date": "2026-10-14",
+          "price": 10169.1
+        },
+        {
+          "date": "2026-10-15",
+          "price": 9555.54
+        },
+        {
+          "date": "2026-10-16",
+          "price": 9674.05
+        },
+        {
+          "date": "2026-10-17",
+          "price": 9674.06
+        },
+        {
+          "date": "2026-10-18",
+          "price": 9674.05
+        },
+        {
+          "date": "2026-10-24",
+          "price": 10748.95
+        }
+      ]
+    },
+    {
+      "marketplace": "kabum",
+      "label": "KaBuM!",
+      "link": "https://www.kabum.com.br/produto/928991/apple-iphone-17-pro-max-256gb-laranja-cosmico?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792376769_80324a6e5c901b0b2b7b370f99132b08&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "has_affiliate": true,
+      "current_price": 9999.99,
+      "min_price": 9999.99,
+      "min_price_at": "2026-10-01",
+      "monitored_since": "2026-10-01",
+      "history": [
+        {
+          "date": "2026-10-01",
+          "price": 9999.99
+        },
+        {
+          "date": "2026-10-02",
+          "price": 9999.99
+        },
+        {
+          "date": "2026-10-03",
+          "price": 9999.99
+        },
+        {
+          "date": "2026-10-04",
+          "price": 9999.99
+        },
+        {
+          "date": "2026-10-05",
+          "price": 9999.99
+        },
+        {
+          "date": "2026-10-06",
+          "price": 9999.99
+        },
+        {
+          "date": "2026-10-07",
+          "price": 9999.99
+        },
+        {
+          "date": "2026-10-08",
+          "price": 9999.99
+        },
+        {
+          "date": "2026-10-09",
+          "price": 9999.99
+        },
+        {
+          "date": "2026-10-10",
+          "price": 9999.99
+        },
+        {
+          "date": "2026-10-11",
+          "price": 9999.99
+        },
+        {
+          "date": "2026-10-12",
+          "price": 9999.99
+        },
+        {
+          "date": "2026-10-13",
+          "price": 9999.99
+        },
+        {
+          "date": "2026-10-14",
+          "price": 9999.99
+        },
+        {
+          "date": "2026-10-15",
+          "price": 9999.99
+        },
+        {
+          "date": "2026-10-16",
+          "price": 9999.99
+        },
+        {
+          "date": "2026-10-17",
+          "price": 9999.99
+        },
+        {
+          "date": "2026-10-18",
+          "price": 9999.99
+        },
+        {
+          "date": "2026-10-24",
+          "price": 9999.99
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1401_all",
+    "per_store": {
+      "mercadolibre": "https://t.me/MyProductTrackerBot?start=sc_1401_mercadolibre",
+      "amazon": "https://t.me/MyProductTrackerBot?start=sc_1401_amazon",
+      "kabum": "https://t.me/MyProductTrackerBot?start=sc_1401_kabum"
+    }
+  }
+}

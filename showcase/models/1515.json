@@ -1,0 +1,32 @@
+{
+  "id": 1515,
+  "name": "Corsair Vengeance CMK32GX5M2B6000C38 (32GB 2x16 DDR5-6000 CL38)",
+  "family_id": 1275,
+  "image_url": null,
+  "monitored_since": "2026-10-24",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "amazon",
+      "label": "Amazon",
+      "link": "https://www.amazon.com.br/dp/B0CQQTR1ZV?tag=producttrac0c-20",
+      "has_affiliate": true,
+      "current_price": 4010.0,
+      "min_price": 4010.0,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 4010.0
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1515_all",
+    "per_store": {
+      "amazon": "https://t.me/MyProductTrackerBot?start=sc_1515_amazon"
+    }
+  }
+}

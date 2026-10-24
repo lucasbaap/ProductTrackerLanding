@@ -1,0 +1,66 @@
+{
+  "id": 1491,
+  "name": "Intel Core i7-14700F",
+  "family_id": 1251,
+  "image_url": null,
+  "monitored_since": "2026-10-24",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "mercadolibre",
+      "label": "Mercado Livre",
+      "link": "https://www.mercadolivre.com.br/p/MLB30856113?matt_word=balu1353476&matt_tool=29239275",
+      "has_affiliate": true,
+      "current_price": 2790.0,
+      "min_price": 2790.0,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 2790.0
+        }
+      ]
+    },
+    {
+      "marketplace": "kabum",
+      "label": "KaBuM!",
+      "link": "https://www.kabum.com.br/produto/904660/processador-intel-core-i7-14700f-2-1ghz-5-40-ghz-max-turbo-cache-33mb-20-nucleos-28-threads-lga-1700-sem-video-integrado-bx8071514700f",
+      "has_affiliate": true,
+      "current_price": 1999.99,
+      "min_price": 1999.99,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1999.99
+        }
+      ]
+    },
+    {
+      "marketplace": "pichau",
+      "label": "Pichau",
+      "link": "https://www.pichau.com.br/processador-intel-core-i7-14700f-20-core-28-threads-3-4ghz-5-4ghz-turbo-cache-33mb-lga1700-bx8071514700f",
+      "has_affiliate": true,
+      "current_price": 3529.4,
+      "min_price": 3529.4,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 3529.4
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1491_all",
+    "per_store": {
+      "mercadolibre": "https://t.me/MyProductTrackerBot?start=sc_1491_mercadolibre",
+      "kabum": "https://t.me/MyProductTrackerBot?start=sc_1491_kabum",
+      "pichau": "https://t.me/MyProductTrackerBot?start=sc_1491_pichau"
+    }
+  }
+}

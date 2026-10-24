@@ -1,0 +1,117 @@
+{
+  "id": 1519,
+  "name": "Kingston A400 480GB (SATA 2.5)",
+  "family_id": 1279,
+  "image_url": null,
+  "monitored_since": "2026-10-24",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "mercadolibre",
+      "label": "Mercado Livre",
+      "link": "https://www.mercadolivre.com.br/ssd-kingston-480gb-sata-3-a400-6gbs-sa400s37480g-original/up/MLBU4221898472?matt_word=balu1353476&matt_tool=29239275",
+      "has_affiliate": true,
+      "current_price": 871.29,
+      "min_price": 871.29,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 871.29
+        }
+      ]
+    },
+    {
+      "marketplace": "amazon",
+      "label": "Amazon",
+      "link": "https://www.amazon.com.br/dp/B01N0TQPQB?tag=producttrac0c-20",
+      "has_affiliate": true,
+      "current_price": 502.55,
+      "min_price": 502.55,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 502.55
+        }
+      ]
+    },
+    {
+      "marketplace": "aliexpress",
+      "label": "AliExpress",
+      "link": "https://s.click.aliexpress.com/s/fwx308cRD9Eny963e3KDdYxyIpNj8TXVr7saiF9Um5rMUg1kZtJALLnfa2LNXtiVgnxdD8Og6MmvwBoxhnSYQGM6r0c08U4TfX8DFGo7vviCuu3q62Q60OAhRZcqm3G8PtwM69xY7TOEWRrvulP5ukZQ4uQbBBtaVsdr6EffAqVmp3O5GyUANU2DoA3dJufNhDfh7KOlLgKIvRVhDxRESHLmea6fTE26gLUqKEUuuizJiLENrCbax94DZHDu8WhaXMN8fDE1HOLt4j1KZUcj471WKjwUetlj4ZWgS3yWx6lzuERHNTI3Zmy1QdFfd8GooZdwLiaiF6ANvoZBAqfevU6wUHkGpl2qcC5SvINZfj9tjaKuDnOJgPdKhNv3U6Lqv4EHwnE7RyIjvz7gL6ZxCANoOzx7owdrJQefrH90cfxZtL6iOYdAWIBtdWuDLKsiZOlDggc8A1GmcJOnpyJHQIAYvKsMZtjIoqomNjFboJPfnB2pIIbOt7YOE9loF3My5ZaXCqV5CeJNJfbW6vxUdHa0SDT0FcnXWJaJrxiOG8hVBx6TnNYE8lJfOypYPlVRLijB0aQklVdZDePq1H48JMaEnNjzZrdVF8b2utZqFDGuO7W4kgUSRDSMmtKO1zk3FfarY4nCufxRngUoeRpH07WYKNSPdQj4TsbRn5Jsb4jUxu48BcbMhsSgvHZalz9Aov2bATBycbXdGseJ7I8kt6pEXf2LW1gfQ0TpVA832VryMMiM1Fe0mzrH6lO4T0fkeKV3Mwz5DXKoz4ilQdRmTyo0xUW0SIXeahVxPMy539o5P3hLFNOVXqnj1jJabv0JH9AEmBfx8WTOa5L8Mbfhlqctx6tieMkmu1NZ1vzIfjDvFGiCJPpTvdaWxcuhxNBj6GEBhfBn7RA05vHZTv40l0703HLhvoXeuOtpBOCjUvdacf7PX0iuUSpWYYNmPspgK0K1siVmju4bKVT5oX",
+      "has_affiliate": true,
+      "current_price": 211.17,
+      "min_price": 211.17,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 211.17
+        }
+      ]
+    },
+    {
+      "marketplace": "kabum",
+      "label": "KaBuM!",
+      "link": "https://www.kabum.com.br/produto/85198/ssd-kingston-a400-480gb-sata-iii-2-5-leitura-500mb-s-gravacao-450mb-s-preto-sa400s37-480g",
+      "has_affiliate": true,
+      "current_price": 659.99,
+      "min_price": 659.99,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 659.99
+        }
+      ]
+    },
+    {
+      "marketplace": "pichau",
+      "label": "Pichau",
+      "link": "https://www.pichau.com.br/ssd-kingston-a400-480gb-2-5-sata-iii-6gb-s-leitura-500mb-s-gravacao-450mb-s-sa400s37-480g",
+      "has_affiliate": true,
+      "current_price": 670.58,
+      "min_price": 670.58,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 670.58
+        }
+      ]
+    },
+    {
+      "marketplace": "terabyte",
+      "label": "Terabyte",
+      "link": "https://www.terabyteshop.com.br/produto/19382/ssd-kingston-a400-480gb-sata-iii-leitura-500mbs-gravacao-450mbs-sa400s37480g-imp",
+      "has_affiliate": true,
+      "current_price": 670.47,
+      "min_price": 670.47,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 670.47
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1519_all",
+    "per_store": {
+      "mercadolibre": "https://t.me/MyProductTrackerBot?start=sc_1519_mercadolibre",
+      "amazon": "https://t.me/MyProductTrackerBot?start=sc_1519_amazon",
+      "aliexpress": "https://t.me/MyProductTrackerBot?start=sc_1519_aliexpress",
+      "kabum": "https://t.me/MyProductTrackerBot?start=sc_1519_kabum",
+      "pichau": "https://t.me/MyProductTrackerBot?start=sc_1519_pichau",
+      "terabyte": "https://t.me/MyProductTrackerBot?start=sc_1519_terabyte"
+    }
+  }
+}

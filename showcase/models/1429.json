@@ -1,0 +1,13 @@
+{
+  "id": 1429,
+  "name": "ASUS TUF Gaming B550M-Plus (Wi-Fi II)",
+  "family_id": 1189,
+  "image_url": null,
+  "monitored_since": null,
+  "currency": "BRL",
+  "stores": [],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1429_all",
+    "per_store": {}
+  }
+}

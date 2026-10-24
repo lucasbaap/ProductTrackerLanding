@@ -1,0 +1,66 @@
+{
+  "id": 1489,
+  "name": "Intel Core i7-14700KF",
+  "family_id": 1249,
+  "image_url": null,
+  "monitored_since": "2026-10-24",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "mercadolibre",
+      "label": "Mercado Livre",
+      "link": "https://www.mercadolivre.com.br/p/MLB2058924123?matt_word=balu1353476&matt_tool=29239275",
+      "has_affiliate": true,
+      "current_price": 2223.11,
+      "min_price": 2223.11,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 2223.11
+        }
+      ]
+    },
+    {
+      "marketplace": "kabum",
+      "label": "KaBuM!",
+      "link": "https://www.kabum.com.br/produto/497577/processador-intel-core-i7-14700kf-3-4ghz-5-6-ghz-max-turbo-cache-33mb-20-nucleos-28-threads-lga-1700-sem-video-integrado-bx8071514700kf",
+      "has_affiliate": true,
+      "current_price": 2099.99,
+      "min_price": 2099.99,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 2099.99
+        }
+      ]
+    },
+    {
+      "marketplace": "pichau",
+      "label": "Pichau",
+      "link": "https://www.pichau.com.br/processador-intel-core-i7-14700kf-20-core-28-threads-3-4ghz-5-6ghz-turbo-cache-33mb-lga1700-bx8071514700kf",
+      "has_affiliate": true,
+      "current_price": 2470.58,
+      "min_price": 2470.58,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 2470.58
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1489_all",
+    "per_store": {
+      "mercadolibre": "https://t.me/MyProductTrackerBot?start=sc_1489_mercadolibre",
+      "kabum": "https://t.me/MyProductTrackerBot?start=sc_1489_kabum",
+      "pichau": "https://t.me/MyProductTrackerBot?start=sc_1489_pichau"
+    }
+  }
+}

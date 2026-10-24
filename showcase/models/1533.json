@@ -1,0 +1,66 @@
+{
+  "id": 1533,
+  "name": "WD/SanDisk Black SN850X 1TB (NVMe Gen4)",
+  "family_id": 1293,
+  "image_url": null,
+  "monitored_since": "2026-10-24",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "amazon",
+      "label": "Amazon",
+      "link": "https://www.amazon.com.br/dp/B0B7CKVCCV?tag=producttrac0c-20",
+      "has_affiliate": true,
+      "current_price": 1807.0,
+      "min_price": 1807.0,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1807.0
+        }
+      ]
+    },
+    {
+      "marketplace": "aliexpress",
+      "label": "AliExpress",
+      "link": "https://s.click.aliexpress.com/e/_c3HvCUUJ",
+      "has_affiliate": true,
+      "current_price": 1568.95,
+      "min_price": 1568.95,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1568.95
+        }
+      ]
+    },
+    {
+      "marketplace": "pichau",
+      "label": "Pichau",
+      "link": "https://www.pichau.com.br/ssd-wd-black-sn850x-1tb-m-2-2280-pcie-nvme-leitura-7300-mb-s-gravacao-6300mb-s-wds100t2xhe",
+      "has_affiliate": true,
+      "current_price": 2458.81,
+      "min_price": 2458.81,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 2458.81
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1533_all",
+    "per_store": {
+      "amazon": "https://t.me/MyProductTrackerBot?start=sc_1533_amazon",
+      "aliexpress": "https://t.me/MyProductTrackerBot?start=sc_1533_aliexpress",
+      "pichau": "https://t.me/MyProductTrackerBot?start=sc_1533_pichau"
+    }
+  }
+}

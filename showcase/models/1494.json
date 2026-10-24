@@ -1,0 +1,49 @@
+{
+  "id": 1494,
+  "name": "Intel Core i5-14500",
+  "family_id": 1254,
+  "image_url": null,
+  "monitored_since": "2026-10-24",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "mercadolibre",
+      "label": "Mercado Livre",
+      "link": "https://www.mercadolivre.com.br/p/MLB2089096453?matt_word=balu1353476&matt_tool=29239275",
+      "has_affiliate": true,
+      "current_price": 1729.05,
+      "min_price": 1729.05,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1729.05
+        }
+      ]
+    },
+    {
+      "marketplace": "amazon",
+      "label": "Amazon",
+      "link": "https://www.amazon.com.br/dp/B0CRSS4R7P?tag=producttrac0c-20",
+      "has_affiliate": true,
+      "current_price": 5243.86,
+      "min_price": 5243.86,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 5243.86
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1494_all",
+    "per_store": {
+      "mercadolibre": "https://t.me/MyProductTrackerBot?start=sc_1494_mercadolibre",
+      "amazon": "https://t.me/MyProductTrackerBot?start=sc_1494_amazon"
+    }
+  }
+}

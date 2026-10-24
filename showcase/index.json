@@ -1,142 +1,3808 @@
 {
-  "generated_at": "2026-09-24T18:00:00-03:00",
+  "generated_at": "2026-10-24T06:26:29-03:00",
   "categories": [
     {
-      "id": 1,
-      "name": "Hardware",
-      "slug": "hardware",
+      "id": 43,
+      "name": "Celular",
+      "slug": "celular",
       "parent_id": null,
       "position": 0
     },
     {
-      "id": 2,
-      "name": "Placa de vídeo",
-      "slug": "placa-de-video",
-      "parent_id": 1,
-      "position": 0
-    },
-    {
-      "id": 3,
-      "name": "Processadores",
-      "slug": "processadores",
-      "parent_id": 1,
-      "position": 1
-    },
-    {
-      "id": 4,
-      "name": "Periféricos",
-      "slug": "perifericos",
+      "id": 44,
+      "name": "Console",
+      "slug": "console",
       "parent_id": null,
       "position": 1
     },
     {
-      "id": 5,
-      "name": "Teclados",
-      "slug": "teclados",
-      "parent_id": 4,
-      "position": 0
+      "id": 45,
+      "name": "Placa-mãe",
+      "slug": "placa-mae",
+      "parent_id": null,
+      "position": 2
+    },
+    {
+      "id": 46,
+      "name": "Processador",
+      "slug": "processador",
+      "parent_id": null,
+      "position": 3
+    },
+    {
+      "id": 47,
+      "name": "RAM",
+      "slug": "ram",
+      "parent_id": null,
+      "position": 4
+    },
+    {
+      "id": 48,
+      "name": "SSD",
+      "slug": "ssd",
+      "parent_id": null,
+      "position": 5
     }
   ],
   "families": [
     {
-      "id": 10,
-      "category_id": 2,
-      "name": "RX 9070",
-      "slug": "rx-9070",
-      "brand": "AMD",
-      "image_url": "assets/showcase/rx9070.webp",
+      "id": 1142,
+      "category_id": 43,
+      "name": "Samsung Galaxy S26 Ultra",
+      "slug": "samsung-galaxy-s26-ultra",
+      "brand": "Samsung",
+      "image_url": null,
       "position": 0,
-      "price_from": 3299.99,
+      "price_from": 6999.0,
       "currency": "BRL",
       "model_count": 2
     },
     {
-      "id": 11,
-      "category_id": 2,
-      "name": "RTX 5070",
-      "slug": "rtx-5070",
-      "brand": "NVIDIA",
+      "id": 1143,
+      "category_id": 43,
+      "name": "Samsung Galaxy S26+",
+      "slug": "samsung-galaxy-s26",
+      "brand": "Samsung",
       "image_url": null,
       "position": 1,
-      "price_from": 4239.99,
+      "price_from": 5332.22,
       "currency": "BRL",
       "model_count": 2
     },
     {
-      "id": 14,
-      "category_id": 2,
-      "name": "RX 9060 XT",
-      "slug": "rx-9060-xt",
-      "brand": "AMD",
+      "id": 1144,
+      "category_id": 43,
+      "name": "Samsung Galaxy S26",
+      "slug": "samsung-galaxy-s26-2",
+      "brand": "Samsung",
       "image_url": null,
       "position": 2,
-      "price_from": 2499.99,
+      "price_from": 4799.0,
+      "currency": "BRL",
+      "model_count": 2
+    },
+    {
+      "id": 1145,
+      "category_id": 43,
+      "name": "Samsung Galaxy S26 FE",
+      "slug": "samsung-galaxy-s26-fe",
+      "brand": "Samsung",
+      "image_url": null,
+      "position": 3,
+      "price_from": 3999.0,
+      "currency": "BRL",
+      "model_count": 4
+    },
+    {
+      "id": 1146,
+      "category_id": 43,
+      "name": "Samsung Galaxy Z Fold8 Ultra",
+      "slug": "samsung-galaxy-z-fold8-ultra",
+      "brand": "Samsung",
+      "image_url": null,
+      "position": 4,
+      "price_from": 11399.0,
+      "currency": "BRL",
+      "model_count": 3
+    },
+    {
+      "id": 1147,
+      "category_id": 43,
+      "name": "Samsung Galaxy Z Fold8",
+      "slug": "samsung-galaxy-z-fold8",
+      "brand": "Samsung",
+      "image_url": null,
+      "position": 5,
+      "price_from": 11929.0,
+      "currency": "BRL",
+      "model_count": 2
+    },
+    {
+      "id": 1148,
+      "category_id": 43,
+      "name": "Samsung Galaxy Z Flip8",
+      "slug": "samsung-galaxy-z-flip8",
+      "brand": "Samsung",
+      "image_url": null,
+      "position": 6,
+      "price_from": 5899.0,
+      "currency": "BRL",
+      "model_count": 2
+    },
+    {
+      "id": 1149,
+      "category_id": 43,
+      "name": "Samsung Galaxy A57 5G",
+      "slug": "samsung-galaxy-a57-5g",
+      "brand": "Samsung",
+      "image_url": null,
+      "position": 7,
+      "price_from": 2379.15,
+      "currency": "BRL",
+      "model_count": 2
+    },
+    {
+      "id": 1150,
+      "category_id": 43,
+      "name": "Samsung Galaxy A37 5G",
+      "slug": "samsung-galaxy-a37-5g",
+      "brand": "Samsung",
+      "image_url": null,
+      "position": 8,
+      "price_from": 1989.0,
+      "currency": "BRL",
+      "model_count": 2
+    },
+    {
+      "id": 1151,
+      "category_id": 43,
+      "name": "Samsung Galaxy A27 5G",
+      "slug": "samsung-galaxy-a27-5g",
+      "brand": "Samsung",
+      "image_url": null,
+      "position": 9,
+      "price_from": 1899.9,
+      "currency": "BRL",
+      "model_count": 2
+    },
+    {
+      "id": 1152,
+      "category_id": 43,
+      "name": "Samsung Galaxy A17",
+      "slug": "samsung-galaxy-a17",
+      "brand": "Samsung",
+      "image_url": null,
+      "position": 10,
+      "price_from": 1349.1,
+      "currency": "BRL",
+      "model_count": 2
+    },
+    {
+      "id": 1153,
+      "category_id": 43,
+      "name": "Samsung Galaxy A07",
+      "slug": "samsung-galaxy-a07",
+      "brand": "Samsung",
+      "image_url": null,
+      "position": 11,
+      "price_from": 996.55,
+      "currency": "BRL",
+      "model_count": 2
+    },
+    {
+      "id": 1154,
+      "category_id": 43,
+      "name": "Samsung Galaxy S25 Ultra",
+      "slug": "samsung-galaxy-s25-ultra",
+      "brand": "Samsung",
+      "image_url": null,
+      "position": 12,
+      "price_from": 5799.0,
+      "currency": "BRL",
+      "model_count": 2
+    },
+    {
+      "id": 1155,
+      "category_id": 43,
+      "name": "Samsung Galaxy S25+",
+      "slug": "samsung-galaxy-s25",
+      "brand": "Samsung",
+      "image_url": null,
+      "position": 13,
+      "price_from": 4998.96,
+      "currency": "BRL",
+      "model_count": 2
+    },
+    {
+      "id": 1156,
+      "category_id": 43,
+      "name": "Samsung Galaxy S25",
+      "slug": "samsung-galaxy-s25-2",
+      "brand": "Samsung",
+      "image_url": null,
+      "position": 14,
+      "price_from": 3899.0,
+      "currency": "BRL",
+      "model_count": 2
+    },
+    {
+      "id": 1157,
+      "category_id": 43,
+      "name": "Samsung Galaxy S25 FE",
+      "slug": "samsung-galaxy-s25-fe",
+      "brand": "Samsung",
+      "image_url": null,
+      "position": 15,
+      "price_from": 3109.9,
+      "currency": "BRL",
+      "model_count": 3
+    },
+    {
+      "id": 1158,
+      "category_id": 43,
+      "name": "Samsung Galaxy Z Fold7",
+      "slug": "samsung-galaxy-z-fold7",
+      "brand": "Samsung",
+      "image_url": null,
+      "position": 16,
+      "price_from": 7999.99,
+      "currency": "BRL",
+      "model_count": 2
+    },
+    {
+      "id": 1159,
+      "category_id": 43,
+      "name": "Samsung Galaxy Z Flip7",
+      "slug": "samsung-galaxy-z-flip7",
+      "brand": "Samsung",
+      "image_url": null,
+      "position": 17,
+      "price_from": 5399.0,
+      "currency": "BRL",
+      "model_count": 2
+    },
+    {
+      "id": 1160,
+      "category_id": 43,
+      "name": "Samsung Galaxy A56 5G",
+      "slug": "samsung-galaxy-a56-5g",
+      "brand": "Samsung",
+      "image_url": null,
+      "position": 18,
+      "price_from": 2612.5,
+      "currency": "BRL",
+      "model_count": 2
+    },
+    {
+      "id": 1161,
+      "category_id": 43,
+      "name": "Samsung Galaxy A36 5G",
+      "slug": "samsung-galaxy-a36-5g",
+      "brand": "Samsung",
+      "image_url": null,
+      "position": 19,
+      "price_from": 1688.15,
       "currency": "BRL",
       "model_count": 1
     },
     {
-      "id": 12,
-      "category_id": 3,
-      "name": "Ryzen 7 9800X3D",
-      "slug": "ryzen-7-9800x3d",
-      "brand": "AMD",
-      "image_url": "assets/showcase/ryzen-9800x3d.webp",
+      "id": 1162,
+      "category_id": 43,
+      "name": "Apple iPhone 18 Pro Max",
+      "slug": "apple-iphone-18-pro-max",
+      "brand": "Apple",
+      "image_url": null,
+      "position": 20,
+      "price_from": 10050.0,
+      "currency": "BRL",
+      "model_count": 2
+    },
+    {
+      "id": 1163,
+      "category_id": 43,
+      "name": "Apple iPhone 18 Pro",
+      "slug": "apple-iphone-18-pro",
+      "brand": "Apple",
+      "image_url": null,
+      "position": 21,
+      "price_from": 10259.14,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1164,
+      "category_id": 43,
+      "name": "Apple iPhone 17",
+      "slug": "apple-iphone-17",
+      "brand": "Apple",
+      "image_url": null,
+      "position": 22,
+      "price_from": 5699.0,
+      "currency": "BRL",
+      "model_count": 2
+    },
+    {
+      "id": 1165,
+      "category_id": 43,
+      "name": "Apple iPhone Air",
+      "slug": "apple-iphone-air",
+      "brand": "Apple",
+      "image_url": null,
+      "position": 23,
+      "price_from": 7350.0,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1166,
+      "category_id": 43,
+      "name": "Apple iPhone 17 Pro Max",
+      "slug": "apple-iphone-17-pro-max",
+      "brand": "Apple",
+      "image_url": null,
+      "position": 24,
+      "price_from": 9999.99,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1167,
+      "category_id": 43,
+      "name": "Apple iPhone 17 Pro",
+      "slug": "apple-iphone-17-pro",
+      "brand": "Apple",
+      "image_url": null,
+      "position": 25,
+      "price_from": 8887.78,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1168,
+      "category_id": 43,
+      "name": "Apple iPhone 17e",
+      "slug": "apple-iphone-17e",
+      "brand": "Apple",
+      "image_url": null,
+      "position": 26,
+      "price_from": 4499.1,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1169,
+      "category_id": 43,
+      "name": "Motorola Razr 70 5G",
+      "slug": "motorola-razr-70-5g",
+      "brand": "Motorola",
+      "image_url": null,
+      "position": 27,
+      "price_from": 4949.0,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1170,
+      "category_id": 43,
+      "name": "Motorola Signature 5G",
+      "slug": "motorola-signature-5g",
+      "brand": "Motorola",
+      "image_url": null,
+      "position": 28,
+      "price_from": 5799.08,
+      "currency": "BRL",
+      "model_count": 2
+    },
+    {
+      "id": 1171,
+      "category_id": 43,
+      "name": "Motorola Edge 70 Pro 5G",
+      "slug": "motorola-edge-70-pro-5g",
+      "brand": "Motorola",
+      "image_url": null,
+      "position": 29,
+      "price_from": 3498.0,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1172,
+      "category_id": 43,
+      "name": "Motorola Edge 70 Fusion+ 5G",
+      "slug": "motorola-edge-70-fusion-5g",
+      "brand": "Motorola",
+      "image_url": null,
+      "position": 30,
+      "price_from": 3199.0,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1173,
+      "category_id": 43,
+      "name": "Motorola Edge 70 Fusion 5G",
+      "slug": "motorola-edge-70-fusion-5g-2",
+      "brand": "Motorola",
+      "image_url": null,
+      "position": 31,
+      "price_from": 2687.55,
+      "currency": "BRL",
+      "model_count": 2
+    },
+    {
+      "id": 1174,
+      "category_id": 43,
+      "name": "Motorola Edge 70 5G",
+      "slug": "motorola-edge-70-5g",
+      "brand": "Motorola",
+      "image_url": null,
+      "position": 32,
+      "price_from": 2429.1,
+      "currency": "BRL",
+      "model_count": 2
+    },
+    {
+      "id": 1175,
+      "category_id": 43,
+      "name": "Motorola Moto G Max 5G (G87)",
+      "slug": "motorola-moto-g-max-5g-g87",
+      "brand": "Motorola",
+      "image_url": null,
+      "position": 33,
+      "price_from": 1799.0,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1176,
+      "category_id": 43,
+      "name": "Motorola Moto G77 5G",
+      "slug": "motorola-moto-g77-5g",
+      "brand": "Motorola",
+      "image_url": null,
+      "position": 34,
+      "price_from": 1556.1,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1177,
+      "category_id": 43,
+      "name": "Motorola Moto G67 5G",
+      "slug": "motorola-moto-g67-5g",
+      "brand": "Motorola",
+      "image_url": null,
+      "position": 35,
+      "price_from": 1466.1,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1178,
+      "category_id": 43,
+      "name": "Motorola Moto G47 5G",
+      "slug": "motorola-moto-g47-5g",
+      "brand": "Motorola",
+      "image_url": null,
+      "position": 36,
+      "price_from": 1443.33,
+      "currency": "BRL",
+      "model_count": 2
+    },
+    {
+      "id": 1179,
+      "category_id": 43,
+      "name": "Motorola Moto G17",
+      "slug": "motorola-moto-g17",
+      "brand": "Motorola",
+      "image_url": null,
+      "position": 37,
+      "price_from": 899.1,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1180,
+      "category_id": 44,
+      "name": "Nintendo Switch 2",
+      "slug": "nintendo-switch-2",
+      "brand": "Nintendo",
+      "image_url": null,
       "position": 0,
+      "price_from": 2842.96,
+      "currency": "BRL",
+      "model_count": 2
+    },
+    {
+      "id": 1181,
+      "category_id": 44,
+      "name": "Nintendo Switch OLED",
+      "slug": "nintendo-switch-oled",
+      "brand": "Nintendo",
+      "image_url": null,
+      "position": 1,
+      "price_from": 2199.0,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1182,
+      "category_id": 44,
+      "name": "Nintendo Switch Lite",
+      "slug": "nintendo-switch-lite",
+      "brand": "Nintendo",
+      "image_url": null,
+      "position": 2,
+      "price_from": 1599.9,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1183,
+      "category_id": 44,
+      "name": "PlayStation 5 Slim c/ Leitor",
+      "slug": "playstation-5-slim-c-leitor",
+      "brand": "PlayStation",
+      "image_url": null,
+      "position": 3,
+      "price_from": 3299.0,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1184,
+      "category_id": 44,
+      "name": "PlayStation 5 Slim",
+      "slug": "playstation-5-slim",
+      "brand": "PlayStation",
+      "image_url": null,
+      "position": 4,
+      "price_from": 4299.0,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1185,
+      "category_id": 44,
+      "name": "PlayStation 5 Pro",
+      "slug": "playstation-5-pro",
+      "brand": "PlayStation",
+      "image_url": null,
+      "position": 5,
+      "price_from": 5200.0,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1186,
+      "category_id": 44,
+      "name": "Xbox Series X",
+      "slug": "xbox-series-x",
+      "brand": "Xbox",
+      "image_url": null,
+      "position": 6,
+      "price_from": 7070.0,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1187,
+      "category_id": 44,
+      "name": "Xbox Series S",
+      "slug": "xbox-series-s",
+      "brand": "Xbox",
+      "image_url": null,
+      "position": 7,
+      "price_from": 3265.0,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1188,
+      "category_id": 45,
+      "name": "Gigabyte B550 Aorus Elite V2",
+      "slug": "gigabyte-b550-aorus-elite-v2",
+      "brand": "Gigabyte",
+      "image_url": null,
+      "position": 0,
+      "price_from": 1199.0,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1189,
+      "category_id": 45,
+      "name": "ASUS TUF Gaming B550M-Plus (Wi-Fi II)",
+      "slug": "asus-tuf-gaming-b550m-plus-wi-fi-ii",
+      "brand": "ASUS",
+      "image_url": null,
+      "position": 1,
+      "price_from": null,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1190,
+      "category_id": 45,
+      "name": "MSI B550M Pro-VDH WiFi",
+      "slug": "msi-b550m-pro-vdh-wifi",
+      "brand": "MSI",
+      "image_url": null,
+      "position": 2,
+      "price_from": 578.67,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1191,
+      "category_id": 45,
+      "name": "Gigabyte B550M DS3H AC R2",
+      "slug": "gigabyte-b550m-ds3h-ac-r2",
+      "brand": "Gigabyte",
+      "image_url": null,
+      "position": 3,
+      "price_from": 675.98,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1192,
+      "category_id": 45,
+      "name": "ASUS Prime B550M-K",
+      "slug": "asus-prime-b550m-k",
+      "brand": "ASUS",
+      "image_url": null,
+      "position": 4,
+      "price_from": 547.0,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1193,
+      "category_id": 45,
+      "name": "Gigabyte B650 Gaming X AX V2",
+      "slug": "gigabyte-b650-gaming-x-ax-v2",
+      "brand": "Gigabyte",
+      "image_url": null,
+      "position": 5,
+      "price_from": 1009.79,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1194,
+      "category_id": 45,
+      "name": "MSI MAG B650 Tomahawk WiFi",
+      "slug": "msi-mag-b650-tomahawk-wifi",
+      "brand": "MSI",
+      "image_url": null,
+      "position": 6,
+      "price_from": 923.24,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1195,
+      "category_id": 45,
+      "name": "ASRock B850 Steel Legend WiFi",
+      "slug": "asrock-b850-steel-legend-wifi",
+      "brand": "ASRock",
+      "image_url": null,
+      "position": 7,
+      "price_from": 1663.99,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1196,
+      "category_id": 45,
+      "name": "Gigabyte B850 Aorus Elite WiFi7",
+      "slug": "gigabyte-b850-aorus-elite-wifi7",
+      "brand": "Gigabyte",
+      "image_url": null,
+      "position": 8,
+      "price_from": 2034.99,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1197,
+      "category_id": 45,
+      "name": "ASUS TUF Gaming B650M-E WiFi",
+      "slug": "asus-tuf-gaming-b650m-e-wifi",
+      "brand": "ASUS",
+      "image_url": null,
+      "position": 9,
+      "price_from": 1149.99,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1198,
+      "category_id": 45,
+      "name": "MSI MAG B760 Tomahawk WiFi",
+      "slug": "msi-mag-b760-tomahawk-wifi",
+      "brand": "MSI",
+      "image_url": null,
+      "position": 10,
+      "price_from": 1699.0,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1199,
+      "category_id": 45,
+      "name": "ASUS TUF Gaming B760M-Plus WiFi II",
+      "slug": "asus-tuf-gaming-b760m-plus-wifi-ii",
+      "brand": "ASUS",
+      "image_url": null,
+      "position": 11,
+      "price_from": 1236.46,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1200,
+      "category_id": 45,
+      "name": "Gigabyte B760M Aorus Elite WiFi6E GEN5",
+      "slug": "gigabyte-b760m-aorus-elite-wifi6e-gen5",
+      "brand": "Gigabyte",
+      "image_url": null,
+      "position": 12,
+      "price_from": 1193.99,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1201,
+      "category_id": 45,
+      "name": "Gigabyte B760 Gaming X AX",
+      "slug": "gigabyte-b760-gaming-x-ax",
+      "brand": "Gigabyte",
+      "image_url": null,
+      "position": 13,
+      "price_from": 1656.34,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1202,
+      "category_id": 45,
+      "name": "ASRock B760M Pro RS",
+      "slug": "asrock-b760m-pro-rs",
+      "brand": "ASRock",
+      "image_url": null,
+      "position": 14,
+      "price_from": 859.9,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1203,
+      "category_id": 45,
+      "name": "MSI MAG B860 Tomahawk WiFi",
+      "slug": "msi-mag-b860-tomahawk-wifi",
+      "brand": "MSI",
+      "image_url": null,
+      "position": 15,
+      "price_from": 1814.27,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1204,
+      "category_id": 45,
+      "name": "ASUS TUF Gaming B860M-Plus WiFi",
+      "slug": "asus-tuf-gaming-b860m-plus-wifi",
+      "brand": "ASUS",
+      "image_url": null,
+      "position": 16,
+      "price_from": 1884.9,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1205,
+      "category_id": 45,
+      "name": "Gigabyte B860M Aorus Elite WiFi6E",
+      "slug": "gigabyte-b860m-aorus-elite-wifi6e",
+      "brand": "Gigabyte",
+      "image_url": null,
+      "position": 17,
+      "price_from": 1739.9,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1206,
+      "category_id": 45,
+      "name": "ASUS TUF Gaming Z890-Plus WiFi",
+      "slug": "asus-tuf-gaming-z890-plus-wifi",
+      "brand": "ASUS",
+      "image_url": null,
+      "position": 18,
+      "price_from": 2283.64,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1207,
+      "category_id": 45,
+      "name": "ASRock Z890 Steel Legend WiFi",
+      "slug": "asrock-z890-steel-legend-wifi",
+      "brand": "ASRock",
+      "image_url": null,
+      "position": 19,
+      "price_from": 1866.0,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1208,
+      "category_id": 46,
+      "name": "AMD Ryzen 9 9950X3D2 Dual Edition",
+      "slug": "amd-ryzen-9-9950x3d2-dual-edition",
+      "brand": "AMD",
+      "image_url": null,
+      "position": 0,
+      "price_from": 6399.99,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1209,
+      "category_id": 46,
+      "name": "AMD Ryzen 9 9950X3D",
+      "slug": "amd-ryzen-9-9950x3d",
+      "brand": "AMD",
+      "image_url": null,
+      "position": 1,
+      "price_from": 4299.99,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1210,
+      "category_id": 46,
+      "name": "AMD Ryzen 9 9950X",
+      "slug": "amd-ryzen-9-9950x",
+      "brand": "AMD",
+      "image_url": null,
+      "position": 2,
+      "price_from": 3299.99,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1211,
+      "category_id": 46,
+      "name": "AMD Ryzen 9 9900X3D",
+      "slug": "amd-ryzen-9-9900x3d",
+      "brand": "AMD",
+      "image_url": null,
+      "position": 3,
+      "price_from": 3294.11,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1212,
+      "category_id": 46,
+      "name": "AMD Ryzen 9 9900X",
+      "slug": "amd-ryzen-9-9900x",
+      "brand": "AMD",
+      "image_url": null,
+      "position": 4,
+      "price_from": 2199.99,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1213,
+      "category_id": 46,
+      "name": "AMD Ryzen 7 9850X3D",
+      "slug": "amd-ryzen-7-9850x3d",
+      "brand": "AMD",
+      "image_url": null,
+      "position": 5,
+      "price_from": 2625.91,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1214,
+      "category_id": 46,
+      "name": "AMD Ryzen 7 9800X3D",
+      "slug": "amd-ryzen-7-9800x3d",
+      "brand": "AMD",
+      "image_url": null,
+      "position": 6,
+      "price_from": 2389.99,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1215,
+      "category_id": 46,
+      "name": "AMD Ryzen 7 9700X",
+      "slug": "amd-ryzen-7-9700x",
+      "brand": "AMD",
+      "image_url": null,
+      "position": 7,
+      "price_from": 1699.0,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1216,
+      "category_id": 46,
+      "name": "AMD Ryzen 5 9600X",
+      "slug": "amd-ryzen-5-9600x",
+      "brand": "AMD",
+      "image_url": null,
+      "position": 8,
+      "price_from": 1220.37,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1217,
+      "category_id": 46,
+      "name": "AMD Ryzen 5 9600",
+      "slug": "amd-ryzen-5-9600",
+      "brand": "AMD",
+      "image_url": null,
+      "position": 9,
+      "price_from": 1349.99,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1218,
+      "category_id": 46,
+      "name": "AMD Ryzen 9 7950X3D",
+      "slug": "amd-ryzen-9-7950x3d",
+      "brand": "AMD",
+      "image_url": null,
+      "position": 10,
+      "price_from": 4074.89,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1219,
+      "category_id": 46,
+      "name": "AMD Ryzen 9 7950X",
+      "slug": "amd-ryzen-9-7950x",
+      "brand": "AMD",
+      "image_url": null,
+      "position": 11,
+      "price_from": 3265.0,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1220,
+      "category_id": 46,
+      "name": "AMD Ryzen 9 7900X3D",
+      "slug": "amd-ryzen-9-7900x3d",
+      "brand": "AMD",
+      "image_url": null,
+      "position": 12,
+      "price_from": 3650.0,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1221,
+      "category_id": 46,
+      "name": "AMD Ryzen 9 7900X",
+      "slug": "amd-ryzen-9-7900x",
+      "brand": "AMD",
+      "image_url": null,
+      "position": 13,
+      "price_from": 1700.0,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1222,
+      "category_id": 46,
+      "name": "AMD Ryzen 9 7900",
+      "slug": "amd-ryzen-9-7900",
+      "brand": "AMD",
+      "image_url": null,
+      "position": 14,
+      "price_from": 2176.46,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1223,
+      "category_id": 46,
+      "name": "AMD Ryzen 7 7800X3D",
+      "slug": "amd-ryzen-7-7800x3d",
+      "brand": "AMD",
+      "image_url": null,
+      "position": 15,
+      "price_from": 1637.1,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1224,
+      "category_id": 46,
+      "name": "AMD Ryzen 7 7700X",
+      "slug": "amd-ryzen-7-7700x",
+      "brand": "AMD",
+      "image_url": null,
+      "position": 16,
+      "price_from": 1618.27,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1225,
+      "category_id": 46,
+      "name": "AMD Ryzen 7 7700",
+      "slug": "amd-ryzen-7-7700",
+      "brand": "AMD",
+      "image_url": null,
+      "position": 17,
+      "price_from": 1304.75,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1226,
+      "category_id": 46,
+      "name": "AMD Ryzen 5 7600X",
+      "slug": "amd-ryzen-5-7600x",
+      "brand": "AMD",
+      "image_url": null,
+      "position": 18,
+      "price_from": 1089.99,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1227,
+      "category_id": 46,
+      "name": "AMD Ryzen 5 7600",
+      "slug": "amd-ryzen-5-7600",
+      "brand": "AMD",
+      "image_url": null,
+      "position": 19,
+      "price_from": 242.77,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1228,
+      "category_id": 46,
+      "name": "AMD Ryzen 5 7500F",
+      "slug": "amd-ryzen-5-7500f",
+      "brand": "AMD",
+      "image_url": null,
+      "position": 20,
+      "price_from": 776.29,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1229,
+      "category_id": 46,
+      "name": "Intel Core Ultra 9 285K",
+      "slug": "intel-core-ultra-9-285k",
+      "brand": "Intel",
+      "image_url": null,
+      "position": 21,
+      "price_from": 3198.07,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1230,
+      "category_id": 46,
+      "name": "Intel Core Ultra 9 285",
+      "slug": "intel-core-ultra-9-285",
+      "brand": "Intel",
+      "image_url": null,
+      "position": 22,
+      "price_from": 3049.99,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1231,
+      "category_id": 46,
+      "name": "Intel Core Ultra 7 265K",
+      "slug": "intel-core-ultra-7-265k",
+      "brand": "Intel",
+      "image_url": null,
+      "position": 23,
+      "price_from": 1999.99,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1232,
+      "category_id": 46,
+      "name": "Intel Core Ultra 7 265KF",
+      "slug": "intel-core-ultra-7-265kf",
+      "brand": "Intel",
+      "image_url": null,
+      "position": 24,
+      "price_from": 1699.99,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1233,
+      "category_id": 46,
+      "name": "Intel Core Ultra 7 265",
+      "slug": "intel-core-ultra-7-265",
+      "brand": "Intel",
+      "image_url": null,
+      "position": 25,
+      "price_from": 3299.9,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1234,
+      "category_id": 46,
+      "name": "Intel Core Ultra 7 265F",
+      "slug": "intel-core-ultra-7-265f",
+      "brand": "Intel",
+      "image_url": null,
+      "position": 26,
+      "price_from": 1929.4,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1235,
+      "category_id": 46,
+      "name": "Intel Core Ultra 7 270K Plus",
+      "slug": "intel-core-ultra-7-270k-plus",
+      "brand": "Intel",
+      "image_url": null,
+      "position": 27,
+      "price_from": 2623.52,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1236,
+      "category_id": 46,
+      "name": "Intel Core Ultra 5 245K",
+      "slug": "intel-core-ultra-5-245k",
+      "brand": "Intel",
+      "image_url": null,
+      "position": 28,
+      "price_from": 1199.99,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1237,
+      "category_id": 46,
+      "name": "Intel Core Ultra 5 245KF",
+      "slug": "intel-core-ultra-5-245kf",
+      "brand": "Intel",
+      "image_url": null,
+      "position": 29,
+      "price_from": 799.99,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1238,
+      "category_id": 46,
+      "name": "Intel Core Ultra 5 250K Plus",
+      "slug": "intel-core-ultra-5-250k-plus",
+      "brand": "Intel",
+      "image_url": null,
+      "position": 30,
+      "price_from": 1499.99,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1239,
+      "category_id": 46,
+      "name": "Intel Core Ultra 5 250KF Plus",
+      "slug": "intel-core-ultra-5-250kf-plus",
+      "brand": "Intel",
+      "image_url": null,
+      "position": 31,
+      "price_from": 1299.99,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1240,
+      "category_id": 46,
+      "name": "Intel Core Ultra 5 235",
+      "slug": "intel-core-ultra-5-235",
+      "brand": "Intel",
+      "image_url": null,
+      "position": 32,
+      "price_from": 2169.98,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1241,
+      "category_id": 46,
+      "name": "Intel Core Ultra 5 225",
+      "slug": "intel-core-ultra-5-225",
+      "brand": "Intel",
+      "image_url": null,
+      "position": 33,
+      "price_from": 702.02,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1242,
+      "category_id": 46,
+      "name": "Intel Core Ultra 5 225F",
+      "slug": "intel-core-ultra-5-225f",
+      "brand": "Intel",
+      "image_url": null,
+      "position": 34,
+      "price_from": 579.99,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1243,
+      "category_id": 46,
+      "name": "Intel Core i9-14900K",
+      "slug": "intel-core-i9-14900k",
+      "brand": "Intel",
+      "image_url": null,
+      "position": 35,
+      "price_from": 2749.99,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1244,
+      "category_id": 46,
+      "name": "Intel Core i9-14900KF",
+      "slug": "intel-core-i9-14900kf",
+      "brand": "Intel",
+      "image_url": null,
+      "position": 36,
+      "price_from": 3299.99,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1245,
+      "category_id": 46,
+      "name": "Intel Core i9-14900KS",
+      "slug": "intel-core-i9-14900ks",
+      "brand": "Intel",
+      "image_url": null,
+      "position": 37,
+      "price_from": null,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1246,
+      "category_id": 46,
+      "name": "Intel Core i9-14900",
+      "slug": "intel-core-i9-14900",
+      "brand": "Intel",
+      "image_url": null,
+      "position": 38,
       "price_from": 2999.99,
       "currency": "BRL",
       "model_count": 1
     },
     {
-      "id": 13,
-      "category_id": 5,
-      "name": "Teclado Redragon Kumara",
-      "slug": "redragon-kumara",
-      "brand": null,
+      "id": 1247,
+      "category_id": 46,
+      "name": "Intel Core i9-14900F",
+      "slug": "intel-core-i9-14900f",
+      "brand": "Intel",
+      "image_url": null,
+      "position": 39,
+      "price_from": 2150.0,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1248,
+      "category_id": 46,
+      "name": "Intel Core i7-14700K",
+      "slug": "intel-core-i7-14700k",
+      "brand": "Intel",
+      "image_url": null,
+      "position": 40,
+      "price_from": 2099.99,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1249,
+      "category_id": 46,
+      "name": "Intel Core i7-14700KF",
+      "slug": "intel-core-i7-14700kf",
+      "brand": "Intel",
+      "image_url": null,
+      "position": 41,
+      "price_from": 2099.99,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1250,
+      "category_id": 46,
+      "name": "Intel Core i7-14700",
+      "slug": "intel-core-i7-14700",
+      "brand": "Intel",
+      "image_url": null,
+      "position": 42,
+      "price_from": 2299.99,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1251,
+      "category_id": 46,
+      "name": "Intel Core i7-14700F",
+      "slug": "intel-core-i7-14700f",
+      "brand": "Intel",
+      "image_url": null,
+      "position": 43,
+      "price_from": 1999.99,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1252,
+      "category_id": 46,
+      "name": "Intel Core i5-14600K",
+      "slug": "intel-core-i5-14600k",
+      "brand": "Intel",
+      "image_url": null,
+      "position": 44,
+      "price_from": 1678.99,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1253,
+      "category_id": 46,
+      "name": "Intel Core i5-14600KF",
+      "slug": "intel-core-i5-14600kf",
+      "brand": "Intel",
+      "image_url": null,
+      "position": 45,
+      "price_from": 1499.99,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1254,
+      "category_id": 46,
+      "name": "Intel Core i5-14500",
+      "slug": "intel-core-i5-14500",
+      "brand": "Intel",
+      "image_url": null,
+      "position": 46,
+      "price_from": 1729.05,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1255,
+      "category_id": 46,
+      "name": "Intel Core i5-14400",
+      "slug": "intel-core-i5-14400",
+      "brand": "Intel",
+      "image_url": null,
+      "position": 47,
+      "price_from": 1519.0,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1256,
+      "category_id": 46,
+      "name": "Intel Core i5-14400F",
+      "slug": "intel-core-i5-14400f",
+      "brand": "Intel",
+      "image_url": null,
+      "position": 48,
+      "price_from": 1152.93,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1257,
+      "category_id": 46,
+      "name": "Intel Core i3-14100",
+      "slug": "intel-core-i3-14100",
+      "brand": "Intel",
+      "image_url": null,
+      "position": 49,
+      "price_from": 899.99,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1258,
+      "category_id": 46,
+      "name": "Intel Core i3-14100F",
+      "slug": "intel-core-i3-14100f",
+      "brand": "Intel",
+      "image_url": null,
+      "position": 50,
+      "price_from": 752.74,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1259,
+      "category_id": 47,
+      "name": "Corsair Vengeance LPX CMK16GX4M2E3200C16 (16GB 2x8 DDR4-3200)",
+      "slug": "corsair-vengeance-lpx-cmk16gx4m2e3200c16-16gb-2x8-ddr4-3200",
+      "brand": "Corsair",
       "image_url": null,
       "position": 0,
-      "price_from": 169.99,
+      "price_from": 1093.73,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1260,
+      "category_id": 47,
+      "name": "Corsair Vengeance RGB RS CMG16GX4M2E3200C16 (16GB 2x8 DDR4-3200)",
+      "slug": "corsair-vengeance-rgb-rs-cmg16gx4m2e3200c16-16gb-2x8-ddr4-3200",
+      "brand": "Corsair",
+      "image_url": null,
+      "position": 1,
+      "price_from": 1599.88,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1261,
+      "category_id": 47,
+      "name": "Kingston Fury Beast RGB KF432C16BB2AK2/16 (16GB 2x8 DDR4-3200)",
+      "slug": "kingston-fury-beast-rgb-kf432c16bb2ak2-16-16gb-2x8-ddr4-3200",
+      "brand": "Kingston",
+      "image_url": null,
+      "position": 2,
+      "price_from": 495.36,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1262,
+      "category_id": 47,
+      "name": "Kingston Fury Beast KF432C16BBK2/16 (16GB 2x8 DDR4-3200)",
+      "slug": "kingston-fury-beast-kf432c16bbk2-16-16gb-2x8-ddr4-3200",
+      "brand": "Kingston",
+      "image_url": null,
+      "position": 3,
+      "price_from": 845.0,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1263,
+      "category_id": 47,
+      "name": "Corsair Vengeance RGB RS CMG32GX4M2E3200C16 (32GB 2x16 DDR4-3200)",
+      "slug": "corsair-vengeance-rgb-rs-cmg32gx4m2e3200c16-32gb-2x16-ddr4-3200",
+      "brand": "Corsair",
+      "image_url": null,
+      "position": 4,
+      "price_from": 2199.0,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1264,
+      "category_id": 47,
+      "name": "Corsair Vengeance RGB PRO SL CMH32GX4M2E3200C16 (32GB 2x16 DDR4-3200 TUF)",
+      "slug": "corsair-vengeance-rgb-pro-sl-cmh32gx4m2e3200c16-32gb-2x16-ddr4-3200-tuf",
+      "brand": "Corsair",
+      "image_url": null,
+      "position": 5,
+      "price_from": 3199.99,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1265,
+      "category_id": 47,
+      "name": "Kingston Fury Beast RGB KF432C16BB12AK2/32 (32GB 2x16 DDR4-3200)",
+      "slug": "kingston-fury-beast-rgb-kf432c16bb12ak2-32-32gb-2x16-ddr4-3200",
+      "brand": "Kingston",
+      "image_url": null,
+      "position": 6,
+      "price_from": 3489.99,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1266,
+      "category_id": 47,
+      "name": "Kingston Fury Beast RGB KF436C18BB2AK2/32 (32GB 2x16 DDR4-3600)",
+      "slug": "kingston-fury-beast-rgb-kf436c18bb2ak2-32-32gb-2x16-ddr4-3600",
+      "brand": "Kingston",
+      "image_url": null,
+      "position": 7,
+      "price_from": null,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1267,
+      "category_id": 47,
+      "name": "XPG Lancer Blade AX5U6000C4816G-DTLABWH (16GB 2x8 DDR5-6000)",
+      "slug": "xpg-lancer-blade-ax5u6000c4816g-dtlabwh-16gb-2x8-ddr5-6000",
+      "brand": "XPG",
+      "image_url": null,
+      "position": 8,
+      "price_from": 4658.81,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1268,
+      "category_id": 47,
+      "name": "XPG Lancer Blade AX5U6000C4816G-DTLABWH (16GB 1x8 DDR5-6000)",
+      "slug": "xpg-lancer-blade-ax5u6000c4816g-dtlabwh-16gb-1x8-ddr5-6000",
+      "brand": "XPG",
+      "image_url": null,
+      "position": 9,
+      "price_from": 2079.99,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1269,
+      "category_id": 47,
+      "name": "Kingston Fury Beast EXPO KF560C36BBEK2-16 (16GB 2x8 DDR5-6000 CL36)",
+      "slug": "kingston-fury-beast-expo-kf560c36bbek2-16-16gb-2x8-ddr5-6000-cl36",
+      "brand": "Kingston",
+      "image_url": null,
+      "position": 10,
+      "price_from": null,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1270,
+      "category_id": 47,
+      "name": "Kingston Fury Beast EXPO KF560C36BBEK2-16 (16GB 1x16 DDR5-6000 CL36)",
+      "slug": "kingston-fury-beast-expo-kf560c36bbek2-16-16gb-1x16-ddr5-6000-cl36",
+      "brand": "Kingston",
+      "image_url": null,
+      "position": 11,
+      "price_from": 1744.26,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1271,
+      "category_id": 47,
+      "name": "Corsair Vengeance CMK16GX5M2B5200Z40 (16GB 2x8 DDR5-5200)",
+      "slug": "corsair-vengeance-cmk16gx5m2b5200z40-16gb-2x8-ddr5-5200",
+      "brand": "Corsair",
+      "image_url": null,
+      "position": 12,
+      "price_from": 2239.9,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1272,
+      "category_id": 47,
+      "name": "Corsair Vengeance CMK16GX5M2B5200Z40 (16GB 1x16 DDR5-5200)",
+      "slug": "corsair-vengeance-cmk16gx5m2b5200z40-16gb-1x16-ddr5-5200",
+      "brand": "Corsair",
+      "image_url": null,
+      "position": 13,
+      "price_from": 1899.0,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1273,
+      "category_id": 47,
+      "name": "Corsair Vengeance CMK32GX5M2B6000C30 (32GB 2x16 DDR5-6000 CL30)",
+      "slug": "corsair-vengeance-cmk32gx5m2b6000c30-32gb-2x16-ddr5-6000-cl30",
+      "brand": "Corsair",
+      "image_url": null,
+      "position": 14,
+      "price_from": 5199.0,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1274,
+      "category_id": 47,
+      "name": "Corsair Dominator Titanium RGB CMP32GX5M2B6000Z30 (32GB 2x16 DDR5-6000 CL30)",
+      "slug": "corsair-dominator-titanium-rgb-cmp32gx5m2b6000z30-32gb-2x16-ddr5-6000-cl30",
+      "brand": "Corsair",
+      "image_url": null,
+      "position": 15,
+      "price_from": 6999.9,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1275,
+      "category_id": 47,
+      "name": "Corsair Vengeance CMK32GX5M2B6000C38 (32GB 2x16 DDR5-6000 CL38)",
+      "slug": "corsair-vengeance-cmk32gx5m2b6000c38-32gb-2x16-ddr5-6000-cl38",
+      "brand": "Corsair",
+      "image_url": null,
+      "position": 16,
+      "price_from": 4010.0,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1276,
+      "category_id": 47,
+      "name": "Corsair Dominator Titanium RGB CMP64GX5M2B6000Z30 (64GB 2x32 DDR5-6000 CL30)",
+      "slug": "corsair-dominator-titanium-rgb-cmp64gx5m2b6000z30-64gb-2x32-ddr5-6000-cl30",
+      "brand": "Corsair",
+      "image_url": null,
+      "position": 17,
+      "price_from": 10999.99,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1277,
+      "category_id": 47,
+      "name": "Crucial Pro CP2K32G60C40U5B (64GB 2x32 DDR5-6000)",
+      "slug": "crucial-pro-cp2k32g60c40u5b-64gb-2x32-ddr5-6000",
+      "brand": "Crucial",
+      "image_url": null,
+      "position": 18,
+      "price_from": 10788.0,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1278,
+      "category_id": 48,
+      "name": "Crucial BX500 500GB (SATA 2.5)",
+      "slug": "crucial-bx500-500gb-sata-2-5",
+      "brand": "Crucial",
+      "image_url": null,
+      "position": 0,
+      "price_from": 545.9,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1279,
+      "category_id": 48,
+      "name": "Kingston A400 480GB (SATA 2.5)",
+      "slug": "kingston-a400-480gb-sata-2-5",
+      "brand": "Kingston",
+      "image_url": null,
+      "position": 1,
+      "price_from": 211.17,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1280,
+      "category_id": 48,
+      "name": "SanDisk SSD Plus 500GB (SATA 2.5)",
+      "slug": "sandisk-ssd-plus-500gb-sata-2-5",
+      "brand": "SanDisk",
+      "image_url": null,
+      "position": 2,
+      "price_from": 466.88,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1281,
+      "category_id": 48,
+      "name": "WD Green SATA 500GB",
+      "slug": "wd-green-sata-500gb",
+      "brand": "WD",
+      "image_url": null,
+      "position": 3,
+      "price_from": 599.99,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1282,
+      "category_id": 48,
+      "name": "Samsung 870 EVO 500GB (SATA)",
+      "slug": "samsung-870-evo-500gb-sata",
+      "brand": "Samsung",
+      "image_url": null,
+      "position": 4,
+      "price_from": 321.56,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1283,
+      "category_id": 48,
+      "name": "Samsung 870 EVO 1TB (SATA)",
+      "slug": "samsung-870-evo-1tb-sata",
+      "brand": "Samsung",
+      "image_url": null,
+      "position": 5,
+      "price_from": 293.12,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1284,
+      "category_id": 48,
+      "name": "Crucial BX500 1TB (SATA)",
+      "slug": "crucial-bx500-1tb-sata",
+      "brand": "Crucial",
+      "image_url": null,
+      "position": 6,
+      "price_from": 949.0,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1285,
+      "category_id": 48,
+      "name": "Kingston KC600 1TB (SATA, DRAM)",
+      "slug": "kingston-kc600-1tb-sata-dram",
+      "brand": "Kingston",
+      "image_url": null,
+      "position": 7,
+      "price_from": 2199.99,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1286,
+      "category_id": 48,
+      "name": "SanDisk SSD Plus 1TB (SATA)",
+      "slug": "sandisk-ssd-plus-1tb-sata",
+      "brand": "SanDisk",
+      "image_url": null,
+      "position": 8,
+      "price_from": 440.99,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1287,
+      "category_id": 48,
+      "name": "ADATA SU650 1TB (SATA)",
+      "slug": "adata-su650-1tb-sata",
+      "brand": "ADATA",
+      "image_url": null,
+      "position": 9,
+      "price_from": 963.76,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1288,
+      "category_id": 48,
+      "name": "ADATA Legend 710 1TB (NVMe Gen3)",
+      "slug": "adata-legend-710-1tb-nvme-gen3",
+      "brand": "ADATA",
+      "image_url": null,
+      "position": 10,
+      "price_from": 1093.19,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1289,
+      "category_id": 48,
+      "name": "WD Blue SN570 1TB (NVMe Gen3)",
+      "slug": "wd-blue-sn570-1tb-nvme-gen3",
+      "brand": "WD",
+      "image_url": null,
+      "position": 11,
+      "price_from": 1218.38,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1290,
+      "category_id": 48,
+      "name": "Samsung 980 1TB (NVMe Gen3)",
+      "slug": "samsung-980-1tb-nvme-gen3",
+      "brand": "Samsung",
+      "image_url": null,
+      "position": 12,
+      "price_from": 1257.49,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1291,
+      "category_id": 48,
+      "name": "Samsung 990 Pro 1TB (NVMe Gen4)",
+      "slug": "samsung-990-pro-1tb-nvme-gen4",
+      "brand": "Samsung",
+      "image_url": null,
+      "position": 13,
+      "price_from": 719.95,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1292,
+      "category_id": 48,
+      "name": "Kingston KC3000 1TB (NVMe Gen4)",
+      "slug": "kingston-kc3000-1tb-nvme-gen4",
+      "brand": "Kingston",
+      "image_url": null,
+      "position": 14,
+      "price_from": 654.06,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1293,
+      "category_id": 48,
+      "name": "WD/SanDisk Black SN850X 1TB (NVMe Gen4)",
+      "slug": "wd-sandisk-black-sn850x-1tb-nvme-gen4",
+      "brand": "WD/SanDisk",
+      "image_url": null,
+      "position": 15,
+      "price_from": 1568.95,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1294,
+      "category_id": 48,
+      "name": "Kingston Fury Renegade 1TB (NVMe Gen4)",
+      "slug": "kingston-fury-renegade-1tb-nvme-gen4",
+      "brand": "Kingston",
+      "image_url": null,
+      "position": 16,
+      "price_from": 1879.99,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1295,
+      "category_id": 48,
+      "name": "Lexar NM790 1TB (NVMe Gen4)",
+      "slug": "lexar-nm790-1tb-nvme-gen4",
+      "brand": "Lexar",
+      "image_url": null,
+      "position": 17,
+      "price_from": 1030.84,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1296,
+      "category_id": 48,
+      "name": "Samsung 990 Pro 2TB (NVMe Gen4)",
+      "slug": "samsung-990-pro-2tb-nvme-gen4",
+      "brand": "Samsung",
+      "image_url": null,
+      "position": 18,
+      "price_from": 1411.53,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1297,
+      "category_id": 48,
+      "name": "Kingston Fury Renegade 2TB (NVMe Gen4)",
+      "slug": "kingston-fury-renegade-2tb-nvme-gen4",
+      "brand": "Kingston",
+      "image_url": null,
+      "position": 19,
+      "price_from": 2418.69,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1298,
+      "category_id": 48,
+      "name": "Kingston KC3000 2TB (NVMe Gen4)",
+      "slug": "kingston-kc3000-2tb-nvme-gen4",
+      "brand": "Kingston",
+      "image_url": null,
+      "position": 20,
+      "price_from": 3319.0,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1299,
+      "category_id": 48,
+      "name": "Lexar NM790 2TB (NVMe Gen4)",
+      "slug": "lexar-nm790-2tb-nvme-gen4",
+      "brand": "Lexar",
+      "image_url": null,
+      "position": 21,
+      "price_from": 1030.84,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1300,
+      "category_id": 48,
+      "name": "WD/SanDisk Black SN850X 2TB (NVMe Gen4)",
+      "slug": "wd-sandisk-black-sn850x-2tb-nvme-gen4",
+      "brand": "WD/SanDisk",
+      "image_url": null,
+      "position": 22,
+      "price_from": 1568.95,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1301,
+      "category_id": 48,
+      "name": "Kingston Fury Renegade G5 (NVMe Gen5)",
+      "slug": "kingston-fury-renegade-g5-nvme-gen5",
+      "brand": "Kingston",
+      "image_url": null,
+      "position": 23,
+      "price_from": 2599.99,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1302,
+      "category_id": 48,
+      "name": "Samsung 9100 Pro (NVMe Gen5)",
+      "slug": "samsung-9100-pro-nvme-gen5",
+      "brand": "Samsung",
+      "image_url": null,
+      "position": 24,
+      "price_from": 1642.71,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1303,
+      "category_id": 48,
+      "name": "SanDisk/WD Black SN8100 (NVMe Gen5)",
+      "slug": "sandisk-wd-black-sn8100-nvme-gen5",
+      "brand": "SanDisk/WD",
+      "image_url": null,
+      "position": 25,
+      "price_from": 1868.49,
+      "currency": "BRL",
+      "model_count": 1
+    },
+    {
+      "id": 1304,
+      "category_id": 48,
+      "name": "Crucial T705 (NVMe Gen5)",
+      "slug": "crucial-t705-nvme-gen5",
+      "brand": "Crucial",
+      "image_url": null,
+      "position": 26,
+      "price_from": 1985.09,
       "currency": "BRL",
       "model_count": 1
     }
   ],
   "models": [
     {
-      "id": 100,
-      "family_id": 10,
-      "name": "RX 9070 XFX Swift 16GB",
-      "slug": "rx-9070-xfx-swift",
-      "image_url": "assets/showcase/rx9070-xfx.webp",
+      "id": 1352,
+      "family_id": 1142,
+      "name": "256GB",
+      "slug": "samsung-galaxy-s26-ultra-256gb",
+      "image_url": null,
       "position": 0,
-      "price_from": 3299.99,
+      "price_from": 7499.0,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre",
+        "shopee"
+      ]
+    },
+    {
+      "id": 1353,
+      "family_id": 1142,
+      "name": "12GB/256GB",
+      "slug": "samsung-galaxy-s26-ultra-12gb-256gb",
+      "image_url": null,
+      "position": 1,
+      "price_from": 6999.0,
+      "currency": "BRL",
+      "stores": [
+        "amazon",
+        "kabum"
+      ]
+    },
+    {
+      "id": 1354,
+      "family_id": 1143,
+      "name": "512GB",
+      "slug": "samsung-galaxy-s26-512gb",
+      "image_url": null,
+      "position": 0,
+      "price_from": 6665.56,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre"
+      ]
+    },
+    {
+      "id": 1355,
+      "family_id": 1143,
+      "name": "12GB/256GB",
+      "slug": "samsung-galaxy-s26-12gb-256gb",
+      "image_url": null,
+      "position": 1,
+      "price_from": 5332.22,
+      "currency": "BRL",
+      "stores": [
+        "amazon"
+      ]
+    },
+    {
+      "id": 1356,
+      "family_id": 1144,
+      "name": "256GB",
+      "slug": "samsung-galaxy-s26-2-256gb",
+      "image_url": null,
+      "position": 0,
+      "price_from": 5332.0,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre"
+      ]
+    },
+    {
+      "id": 1357,
+      "family_id": 1144,
+      "name": "12GB/256GB",
+      "slug": "samsung-galaxy-s26-2-12gb-256gb",
+      "image_url": null,
+      "position": 1,
+      "price_from": 4799.0,
+      "currency": "BRL",
+      "stores": [
+        "amazon",
+        "kabum",
+        "shopee"
+      ]
+    },
+    {
+      "id": 1358,
+      "family_id": 1145,
+      "name": "256GB",
+      "slug": "samsung-galaxy-s26-fe-256gb",
+      "image_url": null,
+      "position": 0,
+      "price_from": 4799.0,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre"
+      ]
+    },
+    {
+      "id": 1359,
+      "family_id": 1145,
+      "name": "128GB",
+      "slug": "samsung-galaxy-s26-fe-128gb",
+      "image_url": null,
+      "position": 1,
+      "price_from": 3999.0,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre"
+      ]
+    },
+    {
+      "id": 1360,
+      "family_id": 1145,
+      "name": "8GB/128GB",
+      "slug": "samsung-galaxy-s26-fe-8gb-128gb",
+      "image_url": null,
+      "position": 2,
+      "price_from": 3999.0,
+      "currency": "BRL",
+      "stores": [
+        "amazon"
+      ]
+    },
+    {
+      "id": 1361,
+      "family_id": 1145,
+      "name": "8GB/256GB",
+      "slug": "samsung-galaxy-s26-fe-8gb-256gb",
+      "image_url": null,
+      "position": 3,
+      "price_from": 4799.0,
+      "currency": "BRL",
+      "stores": [
+        "shopee"
+      ]
+    },
+    {
+      "id": 1362,
+      "family_id": 1146,
+      "name": "256GB",
+      "slug": "samsung-galaxy-z-fold8-ultra-256gb",
+      "image_url": null,
+      "position": 0,
+      "price_from": 11399.0,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre"
+      ]
+    },
+    {
+      "id": 1363,
+      "family_id": 1146,
+      "name": "12GB/256GB",
+      "slug": "samsung-galaxy-z-fold8-ultra-12gb-256gb",
+      "image_url": null,
+      "position": 1,
+      "price_from": 13999.0,
+      "currency": "BRL",
+      "stores": [
+        "amazon"
+      ]
+    },
+    {
+      "id": 1364,
+      "family_id": 1146,
+      "name": "Samsung Galaxy Z Fold8 Ultra",
+      "slug": "samsung-galaxy-z-fold8-ultra",
+      "image_url": null,
+      "position": 2,
+      "price_from": 17999.0,
+      "currency": "BRL",
+      "stores": [
+        "shopee"
+      ]
+    },
+    {
+      "id": 1365,
+      "family_id": 1147,
+      "name": "256GB",
+      "slug": "samsung-galaxy-z-fold8-256gb",
+      "image_url": null,
+      "position": 0,
+      "price_from": 11999.0,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre"
+      ]
+    },
+    {
+      "id": 1366,
+      "family_id": 1147,
+      "name": "12GB/256GB",
+      "slug": "samsung-galaxy-z-fold8-12gb-256gb",
+      "image_url": null,
+      "position": 1,
+      "price_from": 11929.0,
+      "currency": "BRL",
+      "stores": [
+        "amazon",
+        "shopee"
+      ]
+    },
+    {
+      "id": 1367,
+      "family_id": 1148,
+      "name": "256GB",
+      "slug": "samsung-galaxy-z-flip8-256gb",
+      "image_url": null,
+      "position": 0,
+      "price_from": 5899.0,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre"
+      ]
+    },
+    {
+      "id": 1368,
+      "family_id": 1148,
+      "name": "12GB/256GB",
+      "slug": "samsung-galaxy-z-flip8-12gb-256gb",
+      "image_url": null,
+      "position": 1,
+      "price_from": 7449.0,
+      "currency": "BRL",
+      "stores": [
+        "amazon",
+        "kabum"
+      ]
+    },
+    {
+      "id": 1369,
+      "family_id": 1149,
+      "name": "256GB",
+      "slug": "samsung-galaxy-a57-5g-256gb",
+      "image_url": null,
+      "position": 0,
+      "price_from": 2379.15,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre",
+        "shopee"
+      ]
+    },
+    {
+      "id": 1370,
+      "family_id": 1149,
+      "name": "8GB/256GB",
+      "slug": "samsung-galaxy-a57-5g-8gb-256gb",
+      "image_url": null,
+      "position": 1,
+      "price_from": 2399.0,
+      "currency": "BRL",
+      "stores": [
+        "amazon",
+        "kabum"
+      ]
+    },
+    {
+      "id": 1371,
+      "family_id": 1150,
+      "name": "256GB",
+      "slug": "samsung-galaxy-a37-5g-256gb",
+      "image_url": null,
+      "position": 0,
+      "price_from": 2075.62,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre"
+      ]
+    },
+    {
+      "id": 1372,
+      "family_id": 1150,
+      "name": "8GB/256GB",
+      "slug": "samsung-galaxy-a37-5g-8gb-256gb",
+      "image_url": null,
+      "position": 1,
+      "price_from": 1989.0,
+      "currency": "BRL",
+      "stores": [
+        "amazon",
+        "kabum"
+      ]
+    },
+    {
+      "id": 1373,
+      "family_id": 1151,
+      "name": "256GB",
+      "slug": "samsung-galaxy-a27-5g-256gb",
+      "image_url": null,
+      "position": 0,
+      "price_from": 2221.11,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre"
+      ]
+    },
+    {
+      "id": 1374,
+      "family_id": 1151,
+      "name": "8GB/256GB",
+      "slug": "samsung-galaxy-a27-5g-8gb-256gb",
+      "image_url": null,
+      "position": 1,
+      "price_from": 1899.9,
+      "currency": "BRL",
+      "stores": [
+        "amazon",
+        "kabum",
+        "shopee"
+      ]
+    },
+    {
+      "id": 1375,
+      "family_id": 1152,
+      "name": "256GB",
+      "slug": "samsung-galaxy-a17-256gb",
+      "image_url": null,
+      "position": 0,
+      "price_from": 1349.1,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre",
+        "kabum"
+      ]
+    },
+    {
+      "id": 1376,
+      "family_id": 1152,
+      "name": "8GB/256GB",
+      "slug": "samsung-galaxy-a17-8gb-256gb",
+      "image_url": null,
+      "position": 1,
+      "price_from": 1400.0,
+      "currency": "BRL",
+      "stores": [
+        "amazon",
+        "shopee"
+      ]
+    },
+    {
+      "id": 1377,
+      "family_id": 1153,
+      "name": "256GB",
+      "slug": "samsung-galaxy-a07-256gb",
+      "image_url": null,
+      "position": 0,
+      "price_from": 996.55,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre"
+      ]
+    },
+    {
+      "id": 1378,
+      "family_id": 1153,
+      "name": "8GB/256GB",
+      "slug": "samsung-galaxy-a07-8gb-256gb",
+      "image_url": null,
+      "position": 1,
+      "price_from": 1049.0,
+      "currency": "BRL",
+      "stores": [
+        "amazon",
+        "kabum"
+      ]
+    },
+    {
+      "id": 1379,
+      "family_id": 1154,
+      "name": "256GB",
+      "slug": "samsung-galaxy-s25-ultra-256gb",
+      "image_url": null,
+      "position": 0,
+      "price_from": 5934.52,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre"
+      ]
+    },
+    {
+      "id": 1380,
+      "family_id": 1154,
+      "name": "12GB/256GB",
+      "slug": "samsung-galaxy-s25-ultra-12gb-256gb",
+      "image_url": null,
+      "position": 1,
+      "price_from": 5799.0,
+      "currency": "BRL",
+      "stores": [
+        "amazon",
+        "kabum",
+        "shopee"
+      ]
+    },
+    {
+      "id": 1381,
+      "family_id": 1155,
+      "name": "512GB",
+      "slug": "samsung-galaxy-s25-512gb",
+      "image_url": null,
+      "position": 0,
+      "price_from": 5100.0,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre"
+      ]
+    },
+    {
+      "id": 1382,
+      "family_id": 1155,
+      "name": "12GB/512GB",
+      "slug": "samsung-galaxy-s25-12gb-512gb",
+      "image_url": null,
+      "position": 1,
+      "price_from": 4998.96,
+      "currency": "BRL",
+      "stores": [
+        "amazon"
+      ]
+    },
+    {
+      "id": 1383,
+      "family_id": 1156,
+      "name": "256GB",
+      "slug": "samsung-galaxy-s25-2-256gb",
+      "image_url": null,
+      "position": 0,
+      "price_from": 3899.0,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre",
+        "kabum"
+      ]
+    },
+    {
+      "id": 1384,
+      "family_id": 1156,
+      "name": "12GB/256GB",
+      "slug": "samsung-galaxy-s25-2-12gb-256gb",
+      "image_url": null,
+      "position": 1,
+      "price_from": 4115.61,
+      "currency": "BRL",
+      "stores": [
+        "amazon",
+        "shopee"
+      ]
+    },
+    {
+      "id": 1385,
+      "family_id": 1157,
+      "name": "256GB",
+      "slug": "samsung-galaxy-s25-fe-256gb",
+      "image_url": null,
+      "position": 0,
+      "price_from": 3999.0,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre"
+      ]
+    },
+    {
+      "id": 1386,
+      "family_id": 1157,
+      "name": "8GB/128GB",
+      "slug": "samsung-galaxy-s25-fe-8gb-128gb",
+      "image_url": null,
+      "position": 1,
+      "price_from": 3109.9,
+      "currency": "BRL",
+      "stores": [
+        "amazon"
+      ]
+    },
+    {
+      "id": 1387,
+      "family_id": 1157,
+      "name": "8GB/256GB",
+      "slug": "samsung-galaxy-s25-fe-8gb-256gb",
+      "image_url": null,
+      "position": 2,
+      "price_from": 3689.1,
       "currency": "BRL",
       "stores": [
         "kabum",
+        "shopee"
+      ]
+    },
+    {
+      "id": 1388,
+      "family_id": 1158,
+      "name": "512GB",
+      "slug": "samsung-galaxy-z-fold7-512gb",
+      "image_url": null,
+      "position": 0,
+      "price_from": 7999.99,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre"
+      ]
+    },
+    {
+      "id": 1389,
+      "family_id": 1158,
+      "name": "12GB/512GB",
+      "slug": "samsung-galaxy-z-fold7-12gb-512gb",
+      "image_url": null,
+      "position": 1,
+      "price_from": 9974.05,
+      "currency": "BRL",
+      "stores": [
+        "amazon",
+        "kabum"
+      ]
+    },
+    {
+      "id": 1390,
+      "family_id": 1159,
+      "name": "256GB",
+      "slug": "samsung-galaxy-z-flip7-256gb",
+      "image_url": null,
+      "position": 0,
+      "price_from": 5399.0,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre"
+      ]
+    },
+    {
+      "id": 1391,
+      "family_id": 1159,
+      "name": "12GB/256GB",
+      "slug": "samsung-galaxy-z-flip7-12gb-256gb",
+      "image_url": null,
+      "position": 1,
+      "price_from": 6454.43,
+      "currency": "BRL",
+      "stores": [
+        "amazon",
+        "kabum"
+      ]
+    },
+    {
+      "id": 1392,
+      "family_id": 1160,
+      "name": "256GB",
+      "slug": "samsung-galaxy-a56-5g-256gb",
+      "image_url": null,
+      "position": 0,
+      "price_from": 2612.5,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre"
+      ]
+    },
+    {
+      "id": 1393,
+      "family_id": 1160,
+      "name": "8GB/256GB",
+      "slug": "samsung-galaxy-a56-5g-8gb-256gb",
+      "image_url": null,
+      "position": 1,
+      "price_from": 3099.0,
+      "currency": "BRL",
+      "stores": [
+        "amazon"
+      ]
+    },
+    {
+      "id": 1394,
+      "family_id": 1161,
+      "name": "6GB/128GB",
+      "slug": "samsung-galaxy-a36-5g-6gb-128gb",
+      "image_url": null,
+      "position": 0,
+      "price_from": 1688.15,
+      "currency": "BRL",
+      "stores": [
+        "amazon"
+      ]
+    },
+    {
+      "id": 1395,
+      "family_id": 1162,
+      "name": "256GB",
+      "slug": "apple-iphone-18-pro-max-256gb",
+      "image_url": null,
+      "position": 0,
+      "price_from": 10050.0,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre",
+        "kabum",
+        "shopee"
+      ]
+    },
+    {
+      "id": 1396,
+      "family_id": 1162,
+      "name": "512GB",
+      "slug": "apple-iphone-18-pro-max-512gb",
+      "image_url": null,
+      "position": 1,
+      "price_from": 12163.44,
+      "currency": "BRL",
+      "stores": [
+        "amazon"
+      ]
+    },
+    {
+      "id": 1397,
+      "family_id": 1163,
+      "name": "256GB",
+      "slug": "apple-iphone-18-pro-256gb",
+      "image_url": null,
+      "position": 0,
+      "price_from": 10259.14,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre",
+        "amazon",
+        "kabum"
+      ]
+    },
+    {
+      "id": 1398,
+      "family_id": 1164,
+      "name": "512GB",
+      "slug": "apple-iphone-17-512gb",
+      "image_url": null,
+      "position": 0,
+      "price_from": 6499.0,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre"
+      ]
+    },
+    {
+      "id": 1399,
+      "family_id": 1164,
+      "name": "256GB",
+      "slug": "apple-iphone-17-256gb",
+      "image_url": null,
+      "position": 1,
+      "price_from": 5699.0,
+      "currency": "BRL",
+      "stores": [
+        "amazon",
+        "kabum"
+      ]
+    },
+    {
+      "id": 1400,
+      "family_id": 1165,
+      "name": "256GB",
+      "slug": "apple-iphone-air-256gb",
+      "image_url": null,
+      "position": 0,
+      "price_from": 7350.0,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre",
+        "amazon",
+        "kabum"
+      ]
+    },
+    {
+      "id": 1401,
+      "family_id": 1166,
+      "name": "256GB",
+      "slug": "apple-iphone-17-pro-max-256gb",
+      "image_url": null,
+      "position": 0,
+      "price_from": 9999.99,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre",
+        "amazon",
+        "kabum"
+      ]
+    },
+    {
+      "id": 1402,
+      "family_id": 1167,
+      "name": "256GB",
+      "slug": "apple-iphone-17-pro-256gb",
+      "image_url": null,
+      "position": 0,
+      "price_from": 8887.78,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre",
+        "amazon",
+        "kabum"
+      ]
+    },
+    {
+      "id": 1403,
+      "family_id": 1168,
+      "name": "256GB",
+      "slug": "apple-iphone-17e-256gb",
+      "image_url": null,
+      "position": 0,
+      "price_from": 4499.1,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre",
+        "amazon",
+        "kabum"
+      ]
+    },
+    {
+      "id": 1404,
+      "family_id": 1169,
+      "name": "8GB/256GB",
+      "slug": "motorola-razr-70-5g-8gb-256gb",
+      "image_url": null,
+      "position": 0,
+      "price_from": 4949.0,
+      "currency": "BRL",
+      "stores": [
         "mercadolibre",
         "amazon"
       ]
     },
     {
-      "id": 101,
-      "family_id": 10,
-      "name": "RX 9070 Sapphire Pulse",
-      "slug": "rx-9070-sapphire",
+      "id": 1405,
+      "family_id": 1170,
+      "name": "12GB/256GB",
+      "slug": "motorola-signature-5g-12gb-256gb",
       "image_url": null,
-      "position": 1,
-      "price_from": 3459.99,
+      "position": 0,
+      "price_from": 5999.0,
       "currency": "BRL",
       "stores": [
+        "mercadolibre"
+      ]
+    },
+    {
+      "id": 1406,
+      "family_id": 1170,
+      "name": "24GB/512GB",
+      "slug": "motorola-signature-5g-24gb-512gb",
+      "image_url": null,
+      "position": 1,
+      "price_from": 5799.08,
+      "currency": "BRL",
+      "stores": [
+        "amazon",
+        "kabum"
+      ]
+    },
+    {
+      "id": 1407,
+      "family_id": 1171,
+      "name": "24GB/256GB",
+      "slug": "motorola-edge-70-pro-5g-24gb-256gb",
+      "image_url": null,
+      "position": 0,
+      "price_from": 3498.0,
+      "currency": "BRL",
+      "stores": [
+        "amazon",
+        "kabum"
+      ]
+    },
+    {
+      "id": 1408,
+      "family_id": 1172,
+      "name": "12GB/512GB",
+      "slug": "motorola-edge-70-fusion-5g-12gb-512gb",
+      "image_url": null,
+      "position": 0,
+      "price_from": 3199.0,
+      "currency": "BRL",
+      "stores": [
+        "kabum"
+      ]
+    },
+    {
+      "id": 1409,
+      "family_id": 1173,
+      "name": "8GB/256GB",
+      "slug": "motorola-edge-70-fusion-5g-2-8gb-256gb",
+      "image_url": null,
+      "position": 0,
+      "price_from": 2798.0,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre"
+      ]
+    },
+    {
+      "id": 1410,
+      "family_id": 1173,
+      "name": "24GB/256GB",
+      "slug": "motorola-edge-70-fusion-5g-2-24gb-256gb",
+      "image_url": null,
+      "position": 1,
+      "price_from": 2687.55,
+      "currency": "BRL",
+      "stores": [
+        "amazon",
+        "kabum"
+      ]
+    },
+    {
+      "id": 1411,
+      "family_id": 1174,
+      "name": "12GB/512GB",
+      "slug": "motorola-edge-70-5g-12gb-512gb",
+      "image_url": null,
+      "position": 0,
+      "price_from": 3699.0,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre"
+      ]
+    },
+    {
+      "id": 1412,
+      "family_id": 1174,
+      "name": "24GB/256GB",
+      "slug": "motorola-edge-70-5g-24gb-256gb",
+      "image_url": null,
+      "position": 1,
+      "price_from": 2429.1,
+      "currency": "BRL",
+      "stores": [
+        "amazon",
+        "kabum"
+      ]
+    },
+    {
+      "id": 1413,
+      "family_id": 1175,
+      "name": "24GB/256GB",
+      "slug": "motorola-moto-g-max-5g-g87-24gb-256gb",
+      "image_url": null,
+      "position": 0,
+      "price_from": 1799.0,
+      "currency": "BRL",
+      "stores": [
+        "amazon",
+        "kabum"
+      ]
+    },
+    {
+      "id": 1414,
+      "family_id": 1176,
+      "name": "24GB/256GB",
+      "slug": "motorola-moto-g77-5g-24gb-256gb",
+      "image_url": null,
+      "position": 0,
+      "price_from": 1556.1,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre",
+        "amazon",
+        "kabum"
+      ]
+    },
+    {
+      "id": 1415,
+      "family_id": 1177,
+      "name": "12GB/256GB",
+      "slug": "motorola-moto-g67-5g-12gb-256gb",
+      "image_url": null,
+      "position": 0,
+      "price_from": 1466.1,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre",
+        "amazon",
+        "kabum"
+      ]
+    },
+    {
+      "id": 1416,
+      "family_id": 1178,
+      "name": "12GB/256GB",
+      "slug": "motorola-moto-g47-5g-12gb-256gb",
+      "image_url": null,
+      "position": 0,
+      "price_from": 1583.33,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre",
+        "kabum"
+      ]
+    },
+    {
+      "id": 1417,
+      "family_id": 1178,
+      "name": "12GB/128GB",
+      "slug": "motorola-moto-g47-5g-12gb-128gb",
+      "image_url": null,
+      "position": 1,
+      "price_from": 1443.33,
+      "currency": "BRL",
+      "stores": [
+        "amazon"
+      ]
+    },
+    {
+      "id": 1418,
+      "family_id": 1179,
+      "name": "12GB/128GB",
+      "slug": "motorola-moto-g17-12gb-128gb",
+      "image_url": null,
+      "position": 0,
+      "price_from": 899.1,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre",
+        "amazon",
+        "kabum"
+      ]
+    },
+    {
+      "id": 1419,
+      "family_id": 1180,
+      "name": "avulso",
+      "slug": "nintendo-switch-2-avulso",
+      "image_url": null,
+      "position": 0,
+      "price_from": 2842.96,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre",
+        "amazon",
+        "shopee",
+        "kabum",
+        "magalu"
+      ]
+    },
+    {
+      "id": 1420,
+      "family_id": 1180,
+      "name": "bundle Mario Kart World",
+      "slug": "nintendo-switch-2-bundle-mario-kart-world",
+      "image_url": null,
+      "position": 1,
+      "price_from": 4390.0,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre",
+        "amazon"
+      ]
+    },
+    {
+      "id": 1421,
+      "family_id": 1181,
+      "name": "Nintendo Switch OLED",
+      "slug": "nintendo-switch-oled",
+      "image_url": null,
+      "position": 0,
+      "price_from": 2199.0,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre",
+        "amazon",
+        "kabum",
+        "magalu"
+      ]
+    },
+    {
+      "id": 1422,
+      "family_id": 1182,
+      "name": "Nintendo Switch Lite",
+      "slug": "nintendo-switch-lite",
+      "image_url": null,
+      "position": 0,
+      "price_from": 1599.9,
+      "currency": "BRL",
+      "stores": [
+        "amazon",
+        "kabum"
+      ]
+    },
+    {
+      "id": 1423,
+      "family_id": 1183,
+      "name": "1TB com leitor de disco",
+      "slug": "playstation-5-slim-c-leitor-1tb-com-leitor-de-disco",
+      "image_url": null,
+      "position": 0,
+      "price_from": 3299.0,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre",
+        "amazon",
+        "magalu"
+      ]
+    },
+    {
+      "id": 1424,
+      "family_id": 1184,
+      "name": "Edicao Digital 825GB",
+      "slug": "playstation-5-slim-edicao-digital-825gb",
+      "image_url": null,
+      "position": 0,
+      "price_from": 4299.0,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre",
+        "amazon",
+        "kabum",
+        "magalu",
+        "pichau"
+      ]
+    },
+    {
+      "id": 1425,
+      "family_id": 1185,
+      "name": "2TB",
+      "slug": "playstation-5-pro-2tb",
+      "image_url": null,
+      "position": 0,
+      "price_from": 5200.0,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre",
+        "amazon",
+        "kabum"
+      ]
+    },
+    {
+      "id": 1426,
+      "family_id": 1186,
+      "name": "1TB",
+      "slug": "xbox-series-x-1tb",
+      "image_url": null,
+      "position": 0,
+      "price_from": 7070.0,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre",
+        "amazon",
+        "kabum"
+      ]
+    },
+    {
+      "id": 1427,
+      "family_id": 1187,
+      "name": "512GB",
+      "slug": "xbox-series-s-512gb",
+      "image_url": null,
+      "position": 0,
+      "price_from": 3265.0,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre",
+        "amazon",
+        "kabum"
+      ]
+    },
+    {
+      "id": 1428,
+      "family_id": 1188,
+      "name": "Gigabyte B550 Aorus Elite V2",
+      "slug": "gigabyte-b550-aorus-elite-v2",
+      "image_url": null,
+      "position": 0,
+      "price_from": 1199.0,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre",
         "kabum",
         "pichau"
       ]
     },
     {
-      "id": 140,
-      "family_id": 14,
-      "name": "RX 9060 XT PowerColor Reaper 16GB",
-      "slug": "rx-9060-xt-powercolor",
+      "id": 1429,
+      "family_id": 1189,
+      "name": "ASUS TUF Gaming B550M-Plus (Wi-Fi II)",
+      "slug": "asus-tuf-gaming-b550m-plus-wi-fi-ii",
       "image_url": null,
       "position": 0,
-      "price_from": 2499.99,
+      "price_from": null,
+      "currency": "BRL",
+      "stores": []
+    },
+    {
+      "id": 1430,
+      "family_id": 1190,
+      "name": "MSI B550M Pro-VDH WiFi",
+      "slug": "msi-b550m-pro-vdh-wifi",
+      "image_url": null,
+      "position": 0,
+      "price_from": 578.67,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre",
+        "amazon",
+        "aliexpress",
+        "kabum",
+        "pichau",
+        "terabyte"
+      ]
+    },
+    {
+      "id": 1431,
+      "family_id": 1191,
+      "name": "Gigabyte B550M DS3H AC R2",
+      "slug": "gigabyte-b550m-ds3h-ac-r2",
+      "image_url": null,
+      "position": 0,
+      "price_from": 675.98,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre",
+        "amazon",
+        "aliexpress",
+        "kabum",
+        "pichau"
+      ]
+    },
+    {
+      "id": 1432,
+      "family_id": 1192,
+      "name": "ASUS Prime B550M-K",
+      "slug": "asus-prime-b550m-k",
+      "image_url": null,
+      "position": 0,
+      "price_from": 547.0,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre",
+        "amazon",
+        "kabum"
+      ]
+    },
+    {
+      "id": 1433,
+      "family_id": 1193,
+      "name": "Gigabyte B650 Gaming X AX V2",
+      "slug": "gigabyte-b650-gaming-x-ax-v2",
+      "image_url": null,
+      "position": 0,
+      "price_from": 1009.79,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre",
+        "aliexpress",
+        "kabum",
+        "terabyte"
+      ]
+    },
+    {
+      "id": 1434,
+      "family_id": 1194,
+      "name": "MSI MAG B650 Tomahawk WiFi",
+      "slug": "msi-mag-b650-tomahawk-wifi",
+      "image_url": null,
+      "position": 0,
+      "price_from": 923.24,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre",
+        "aliexpress",
+        "kabum"
+      ]
+    },
+    {
+      "id": 1435,
+      "family_id": 1195,
+      "name": "ASRock B850 Steel Legend WiFi",
+      "slug": "asrock-b850-steel-legend-wifi",
+      "image_url": null,
+      "position": 0,
+      "price_from": 1663.99,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre",
+        "amazon",
+        "kabum",
+        "terabyte"
+      ]
+    },
+    {
+      "id": 1436,
+      "family_id": 1196,
+      "name": "Gigabyte B850 Aorus Elite WiFi7",
+      "slug": "gigabyte-b850-aorus-elite-wifi7",
+      "image_url": null,
+      "position": 0,
+      "price_from": 2034.99,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre",
+        "amazon",
+        "kabum",
+        "terabyte",
+        "pichau"
+      ]
+    },
+    {
+      "id": 1437,
+      "family_id": 1197,
+      "name": "ASUS TUF Gaming B650M-E WiFi",
+      "slug": "asus-tuf-gaming-b650m-e-wifi",
+      "image_url": null,
+      "position": 0,
+      "price_from": 1149.99,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre",
+        "amazon",
+        "kabum",
+        "terabyte",
+        "pichau"
+      ]
+    },
+    {
+      "id": 1438,
+      "family_id": 1198,
+      "name": "MSI MAG B760 Tomahawk WiFi",
+      "slug": "msi-mag-b760-tomahawk-wifi",
+      "image_url": null,
+      "position": 0,
+      "price_from": 1699.0,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre",
+        "amazon",
+        "kabum"
+      ]
+    },
+    {
+      "id": 1439,
+      "family_id": 1199,
+      "name": "ASUS TUF Gaming B760M-Plus WiFi II",
+      "slug": "asus-tuf-gaming-b760m-plus-wifi-ii",
+      "image_url": null,
+      "position": 0,
+      "price_from": 1236.46,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre",
+        "kabum",
+        "terabyte",
+        "pichau"
+      ]
+    },
+    {
+      "id": 1440,
+      "family_id": 1200,
+      "name": "Gigabyte B760M Aorus Elite WiFi6E GEN5",
+      "slug": "gigabyte-b760m-aorus-elite-wifi6e-gen5",
+      "image_url": null,
+      "position": 0,
+      "price_from": 1193.99,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre",
+        "amazon",
+        "kabum",
+        "pichau"
+      ]
+    },
+    {
+      "id": 1441,
+      "family_id": 1201,
+      "name": "Gigabyte B760 Gaming X AX",
+      "slug": "gigabyte-b760-gaming-x-ax",
+      "image_url": null,
+      "position": 0,
+      "price_from": 1656.34,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre"
+      ]
+    },
+    {
+      "id": 1442,
+      "family_id": 1202,
+      "name": "ASRock B760M Pro RS",
+      "slug": "asrock-b760m-pro-rs",
+      "image_url": null,
+      "position": 0,
+      "price_from": 859.9,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre",
+        "amazon",
+        "kabum",
+        "terabyte"
+      ]
+    },
+    {
+      "id": 1443,
+      "family_id": 1203,
+      "name": "MSI MAG B860 Tomahawk WiFi",
+      "slug": "msi-mag-b860-tomahawk-wifi",
+      "image_url": null,
+      "position": 0,
+      "price_from": 1814.27,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre",
+        "amazon",
+        "kabum",
+        "terabyte"
+      ]
+    },
+    {
+      "id": 1444,
+      "family_id": 1204,
+      "name": "ASUS TUF Gaming B860M-Plus WiFi",
+      "slug": "asus-tuf-gaming-b860m-plus-wifi",
+      "image_url": null,
+      "position": 0,
+      "price_from": 1884.9,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre",
+        "amazon",
+        "kabum",
+        "terabyte",
+        "pichau"
+      ]
+    },
+    {
+      "id": 1445,
+      "family_id": 1205,
+      "name": "Gigabyte B860M Aorus Elite WiFi6E",
+      "slug": "gigabyte-b860m-aorus-elite-wifi6e",
+      "image_url": null,
+      "position": 0,
+      "price_from": 1739.9,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre",
+        "kabum",
+        "pichau"
+      ]
+    },
+    {
+      "id": 1446,
+      "family_id": 1206,
+      "name": "ASUS TUF Gaming Z890-Plus WiFi",
+      "slug": "asus-tuf-gaming-z890-plus-wifi",
+      "image_url": null,
+      "position": 0,
+      "price_from": 2283.64,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre",
+        "amazon",
+        "kabum",
+        "terabyte",
+        "pichau"
+      ]
+    },
+    {
+      "id": 1447,
+      "family_id": 1207,
+      "name": "ASRock Z890 Steel Legend WiFi",
+      "slug": "asrock-z890-steel-legend-wifi",
+      "image_url": null,
+      "position": 0,
+      "price_from": 1866.0,
+      "currency": "BRL",
+      "stores": [
+        "amazon",
+        "kabum",
+        "terabyte"
+      ]
+    },
+    {
+      "id": 1448,
+      "family_id": 1208,
+      "name": "AMD Ryzen 9 9950X3D2 Dual Edition",
+      "slug": "amd-ryzen-9-9950x3d2-dual-edition",
+      "image_url": null,
+      "position": 0,
+      "price_from": 6399.99,
+      "currency": "BRL",
+      "stores": [
+        "kabum",
+        "pichau",
+        "mercadolibre"
+      ]
+    },
+    {
+      "id": 1449,
+      "family_id": 1209,
+      "name": "AMD Ryzen 9 9950X3D",
+      "slug": "amd-ryzen-9-9950x3d",
+      "image_url": null,
+      "position": 0,
+      "price_from": 4299.99,
+      "currency": "BRL",
+      "stores": [
+        "kabum",
+        "pichau",
+        "amazon",
+        "mercadolibre",
+        "aliexpress"
+      ]
+    },
+    {
+      "id": 1450,
+      "family_id": 1210,
+      "name": "AMD Ryzen 9 9950X",
+      "slug": "amd-ryzen-9-9950x",
+      "image_url": null,
+      "position": 0,
+      "price_from": 3299.99,
+      "currency": "BRL",
+      "stores": [
+        "kabum",
+        "pichau",
+        "mercadolibre",
+        "aliexpress"
+      ]
+    },
+    {
+      "id": 1451,
+      "family_id": 1211,
+      "name": "AMD Ryzen 9 9900X3D",
+      "slug": "amd-ryzen-9-9900x3d",
+      "image_url": null,
+      "position": 0,
+      "price_from": 3294.11,
+      "currency": "BRL",
+      "stores": [
+        "kabum",
+        "pichau",
+        "terabyte",
+        "mercadolibre",
+        "aliexpress"
+      ]
+    },
+    {
+      "id": 1452,
+      "family_id": 1212,
+      "name": "AMD Ryzen 9 9900X",
+      "slug": "amd-ryzen-9-9900x",
+      "image_url": null,
+      "position": 0,
+      "price_from": 2199.99,
+      "currency": "BRL",
+      "stores": [
+        "kabum",
+        "pichau",
+        "mercadolibre",
+        "aliexpress"
+      ]
+    },
+    {
+      "id": 1453,
+      "family_id": 1213,
+      "name": "AMD Ryzen 7 9850X3D",
+      "slug": "amd-ryzen-7-9850x3d",
+      "image_url": null,
+      "position": 0,
+      "price_from": 2625.91,
+      "currency": "BRL",
+      "stores": [
+        "pichau",
+        "amazon",
+        "mercadolibre",
+        "aliexpress"
+      ]
+    },
+    {
+      "id": 1454,
+      "family_id": 1214,
+      "name": "AMD Ryzen 7 9800X3D",
+      "slug": "amd-ryzen-7-9800x3d",
+      "image_url": null,
+      "position": 0,
+      "price_from": 2389.99,
+      "currency": "BRL",
+      "stores": [
+        "kabum",
+        "pichau",
+        "amazon",
+        "mercadolibre"
+      ]
+    },
+    {
+      "id": 1455,
+      "family_id": 1215,
+      "name": "AMD Ryzen 7 9700X",
+      "slug": "amd-ryzen-7-9700x",
+      "image_url": null,
+      "position": 0,
+      "price_from": 1699.0,
+      "currency": "BRL",
+      "stores": [
+        "kabum",
+        "pichau",
+        "terabyte",
+        "amazon",
+        "mercadolibre"
+      ]
+    },
+    {
+      "id": 1456,
+      "family_id": 1216,
+      "name": "AMD Ryzen 5 9600X",
+      "slug": "amd-ryzen-5-9600x",
+      "image_url": null,
+      "position": 0,
+      "price_from": 1220.37,
+      "currency": "BRL",
+      "stores": [
+        "kabum",
+        "pichau",
+        "terabyte",
+        "amazon",
+        "mercadolibre",
+        "aliexpress"
+      ]
+    },
+    {
+      "id": 1457,
+      "family_id": 1217,
+      "name": "AMD Ryzen 5 9600",
+      "slug": "amd-ryzen-5-9600",
+      "image_url": null,
+      "position": 0,
+      "price_from": 1349.99,
+      "currency": "BRL",
+      "stores": [
+        "kabum",
+        "mercadolibre"
+      ]
+    },
+    {
+      "id": 1458,
+      "family_id": 1218,
+      "name": "AMD Ryzen 9 7950X3D",
+      "slug": "amd-ryzen-9-7950x3d",
+      "image_url": null,
+      "position": 0,
+      "price_from": 4074.89,
+      "currency": "BRL",
+      "stores": [
+        "kabum",
+        "mercadolibre",
+        "shopee"
+      ]
+    },
+    {
+      "id": 1459,
+      "family_id": 1219,
+      "name": "AMD Ryzen 9 7950X",
+      "slug": "amd-ryzen-9-7950x",
+      "image_url": null,
+      "position": 0,
+      "price_from": 3265.0,
+      "currency": "BRL",
+      "stores": [
+        "kabum",
+        "mercadolibre"
+      ]
+    },
+    {
+      "id": 1460,
+      "family_id": 1220,
+      "name": "AMD Ryzen 9 7900X3D",
+      "slug": "amd-ryzen-9-7900x3d",
+      "image_url": null,
+      "position": 0,
+      "price_from": 3650.0,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre"
+      ]
+    },
+    {
+      "id": 1461,
+      "family_id": 1221,
+      "name": "AMD Ryzen 9 7900X",
+      "slug": "amd-ryzen-9-7900x",
+      "image_url": null,
+      "position": 0,
+      "price_from": 1700.0,
+      "currency": "BRL",
+      "stores": [
+        "kabum",
+        "pichau",
+        "terabyte",
+        "mercadolibre"
+      ]
+    },
+    {
+      "id": 1462,
+      "family_id": 1222,
+      "name": "AMD Ryzen 9 7900",
+      "slug": "amd-ryzen-9-7900",
+      "image_url": null,
+      "position": 0,
+      "price_from": 2176.46,
+      "currency": "BRL",
+      "stores": [
+        "pichau",
+        "mercadolibre",
+        "shopee"
+      ]
+    },
+    {
+      "id": 1463,
+      "family_id": 1223,
+      "name": "AMD Ryzen 7 7800X3D",
+      "slug": "amd-ryzen-7-7800x3d",
+      "image_url": null,
+      "position": 0,
+      "price_from": 1637.1,
+      "currency": "BRL",
+      "stores": [
+        "kabum",
+        "pichau",
+        "amazon",
+        "mercadolibre",
+        "shopee",
+        "aliexpress"
+      ]
+    },
+    {
+      "id": 1464,
+      "family_id": 1224,
+      "name": "AMD Ryzen 7 7700X",
+      "slug": "amd-ryzen-7-7700x",
+      "image_url": null,
+      "position": 0,
+      "price_from": 1618.27,
+      "currency": "BRL",
+      "stores": [
+        "kabum",
+        "pichau",
+        "terabyte",
+        "amazon",
+        "mercadolibre",
+        "shopee",
+        "aliexpress"
+      ]
+    },
+    {
+      "id": 1465,
+      "family_id": 1225,
+      "name": "AMD Ryzen 7 7700",
+      "slug": "amd-ryzen-7-7700",
+      "image_url": null,
+      "position": 0,
+      "price_from": 1304.75,
+      "currency": "BRL",
+      "stores": [
+        "kabum",
+        "pichau",
+        "terabyte",
+        "mercadolibre",
+        "shopee",
+        "aliexpress"
+      ]
+    },
+    {
+      "id": 1466,
+      "family_id": 1226,
+      "name": "AMD Ryzen 5 7600X",
+      "slug": "amd-ryzen-5-7600x",
+      "image_url": null,
+      "position": 0,
+      "price_from": 1089.99,
+      "currency": "BRL",
+      "stores": [
+        "kabum",
+        "pichau",
+        "terabyte",
+        "amazon",
+        "mercadolibre",
+        "shopee"
+      ]
+    },
+    {
+      "id": 1467,
+      "family_id": 1227,
+      "name": "AMD Ryzen 5 7600",
+      "slug": "amd-ryzen-5-7600",
+      "image_url": null,
+      "position": 0,
+      "price_from": 242.77,
+      "currency": "BRL",
+      "stores": [
+        "kabum",
+        "pichau",
+        "terabyte",
+        "shopee",
+        "aliexpress"
+      ]
+    },
+    {
+      "id": 1468,
+      "family_id": 1228,
+      "name": "AMD Ryzen 5 7500F",
+      "slug": "amd-ryzen-5-7500f",
+      "image_url": null,
+      "position": 0,
+      "price_from": 776.29,
+      "currency": "BRL",
+      "stores": [
+        "amazon",
+        "mercadolibre",
+        "aliexpress"
+      ]
+    },
+    {
+      "id": 1469,
+      "family_id": 1229,
+      "name": "Intel Core Ultra 9 285K",
+      "slug": "intel-core-ultra-9-285k",
+      "image_url": null,
+      "position": 0,
+      "price_from": 3198.07,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre",
+        "amazon",
+        "kabum",
+        "terabyte",
+        "magalu"
+      ]
+    },
+    {
+      "id": 1470,
+      "family_id": 1230,
+      "name": "Intel Core Ultra 9 285",
+      "slug": "intel-core-ultra-9-285",
+      "image_url": null,
+      "position": 0,
+      "price_from": 3049.99,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre",
+        "amazon",
+        "kabum",
+        "pichau",
+        "terabyte"
+      ]
+    },
+    {
+      "id": 1471,
+      "family_id": 1231,
+      "name": "Intel Core Ultra 7 265K",
+      "slug": "intel-core-ultra-7-265k",
+      "image_url": null,
+      "position": 0,
+      "price_from": 1999.99,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre",
+        "amazon",
+        "kabum",
+        "magalu",
+        "aliexpress"
+      ]
+    },
+    {
+      "id": 1472,
+      "family_id": 1232,
+      "name": "Intel Core Ultra 7 265KF",
+      "slug": "intel-core-ultra-7-265kf",
+      "image_url": null,
+      "position": 0,
+      "price_from": 1699.99,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre",
+        "amazon",
+        "kabum",
+        "terabyte"
+      ]
+    },
+    {
+      "id": 1473,
+      "family_id": 1233,
+      "name": "Intel Core Ultra 7 265",
+      "slug": "intel-core-ultra-7-265",
+      "image_url": null,
+      "position": 0,
+      "price_from": 3299.9,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre",
+        "amazon",
+        "kabum",
+        "magalu"
+      ]
+    },
+    {
+      "id": 1474,
+      "family_id": 1234,
+      "name": "Intel Core Ultra 7 265F",
+      "slug": "intel-core-ultra-7-265f",
+      "image_url": null,
+      "position": 0,
+      "price_from": 1929.4,
       "currency": "BRL",
       "stores": [
         "kabum",
@@ -144,64 +3810,1042 @@
       ]
     },
     {
-      "id": 110,
-      "family_id": 11,
-      "name": "RTX 5070 Gigabyte Windforce",
-      "slug": "rtx-5070-gigabyte",
-      "image_url": "assets/showcase/rtx5070-gigabyte.webp",
+      "id": 1475,
+      "family_id": 1235,
+      "name": "Intel Core Ultra 7 270K Plus",
+      "slug": "intel-core-ultra-7-270k-plus",
+      "image_url": null,
       "position": 0,
-      "price_from": 4239.99,
+      "price_from": 2623.52,
       "currency": "BRL",
       "stores": [
         "kabum",
-        "terabyte",
+        "pichau",
+        "terabyte"
+      ]
+    },
+    {
+      "id": 1476,
+      "family_id": 1236,
+      "name": "Intel Core Ultra 5 245K",
+      "slug": "intel-core-ultra-5-245k",
+      "image_url": null,
+      "position": 0,
+      "price_from": 1199.99,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre",
+        "amazon",
+        "kabum",
+        "pichau",
+        "terabyte"
+      ]
+    },
+    {
+      "id": 1477,
+      "family_id": 1237,
+      "name": "Intel Core Ultra 5 245KF",
+      "slug": "intel-core-ultra-5-245kf",
+      "image_url": null,
+      "position": 0,
+      "price_from": 799.99,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre",
+        "kabum",
+        "pichau",
+        "terabyte"
+      ]
+    },
+    {
+      "id": 1478,
+      "family_id": 1238,
+      "name": "Intel Core Ultra 5 250K Plus",
+      "slug": "intel-core-ultra-5-250k-plus",
+      "image_url": null,
+      "position": 0,
+      "price_from": 1499.99,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre",
+        "amazon",
+        "kabum",
+        "pichau",
+        "terabyte"
+      ]
+    },
+    {
+      "id": 1479,
+      "family_id": 1239,
+      "name": "Intel Core Ultra 5 250KF Plus",
+      "slug": "intel-core-ultra-5-250kf-plus",
+      "image_url": null,
+      "position": 0,
+      "price_from": 1299.99,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre",
+        "amazon",
+        "kabum",
+        "pichau",
+        "terabyte"
+      ]
+    },
+    {
+      "id": 1480,
+      "family_id": 1240,
+      "name": "Intel Core Ultra 5 235",
+      "slug": "intel-core-ultra-5-235",
+      "image_url": null,
+      "position": 0,
+      "price_from": 2169.98,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre",
         "amazon"
       ]
     },
     {
-      "id": 111,
-      "family_id": 11,
-      "name": "RTX 5070 ASUS Dual OC",
-      "slug": "rtx-5070-asus-dual",
+      "id": 1481,
+      "family_id": 1241,
+      "name": "Intel Core Ultra 5 225",
+      "slug": "intel-core-ultra-5-225",
       "image_url": null,
-      "position": 1,
-      "price_from": 4519.99,
+      "position": 0,
+      "price_from": 702.02,
       "currency": "BRL",
       "stores": [
         "mercadolibre",
+        "amazon",
+        "kabum",
+        "terabyte"
+      ]
+    },
+    {
+      "id": 1482,
+      "family_id": 1242,
+      "name": "Intel Core Ultra 5 225F",
+      "slug": "intel-core-ultra-5-225f",
+      "image_url": null,
+      "position": 0,
+      "price_from": 579.99,
+      "currency": "BRL",
+      "stores": [
+        "amazon",
+        "kabum",
+        "pichau",
+        "terabyte",
         "magalu"
       ]
     },
     {
-      "id": 120,
-      "family_id": 12,
-      "name": "Ryzen 7 9800X3D",
-      "slug": "ryzen-7-9800x3d-box",
-      "image_url": "assets/showcase/ryzen-9800x3d.webp",
+      "id": 1483,
+      "family_id": 1243,
+      "name": "Intel Core i9-14900K",
+      "slug": "intel-core-i9-14900k",
+      "image_url": null,
       "position": 0,
-      "price_from": 2999.99,
+      "price_from": 2749.99,
       "currency": "BRL",
       "stores": [
         "kabum",
-        "mercadolibre",
-        "amazon",
         "pichau"
       ]
     },
     {
-      "id": 130,
-      "family_id": 13,
-      "name": "Redragon Kumara K552 RGB",
-      "slug": "redragon-kumara-k552",
+      "id": 1484,
+      "family_id": 1244,
+      "name": "Intel Core i9-14900KF",
+      "slug": "intel-core-i9-14900kf",
       "image_url": null,
       "position": 0,
-      "price_from": 169.99,
+      "price_from": 3299.99,
       "currency": "BRL",
       "stores": [
         "mercadolibre",
         "amazon",
-        "shopee",
+        "kabum",
+        "pichau"
+      ]
+    },
+    {
+      "id": 1485,
+      "family_id": 1245,
+      "name": "Intel Core i9-14900KS",
+      "slug": "intel-core-i9-14900ks",
+      "image_url": null,
+      "position": 0,
+      "price_from": null,
+      "currency": "BRL",
+      "stores": []
+    },
+    {
+      "id": 1486,
+      "family_id": 1246,
+      "name": "Intel Core i9-14900",
+      "slug": "intel-core-i9-14900",
+      "image_url": null,
+      "position": 0,
+      "price_from": 2999.99,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre",
+        "amazon",
+        "kabum"
+      ]
+    },
+    {
+      "id": 1487,
+      "family_id": 1247,
+      "name": "Intel Core i9-14900F",
+      "slug": "intel-core-i9-14900f",
+      "image_url": null,
+      "position": 0,
+      "price_from": 2150.0,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre",
+        "amazon",
+        "kabum",
+        "pichau"
+      ]
+    },
+    {
+      "id": 1488,
+      "family_id": 1248,
+      "name": "Intel Core i7-14700K",
+      "slug": "intel-core-i7-14700k",
+      "image_url": null,
+      "position": 0,
+      "price_from": 2099.99,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre",
+        "kabum",
+        "pichau"
+      ]
+    },
+    {
+      "id": 1489,
+      "family_id": 1249,
+      "name": "Intel Core i7-14700KF",
+      "slug": "intel-core-i7-14700kf",
+      "image_url": null,
+      "position": 0,
+      "price_from": 2099.99,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre",
+        "kabum",
+        "pichau"
+      ]
+    },
+    {
+      "id": 1490,
+      "family_id": 1250,
+      "name": "Intel Core i7-14700",
+      "slug": "intel-core-i7-14700",
+      "image_url": null,
+      "position": 0,
+      "price_from": 2299.99,
+      "currency": "BRL",
+      "stores": [
+        "kabum"
+      ]
+    },
+    {
+      "id": 1491,
+      "family_id": 1251,
+      "name": "Intel Core i7-14700F",
+      "slug": "intel-core-i7-14700f",
+      "image_url": null,
+      "position": 0,
+      "price_from": 1999.99,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre",
+        "kabum",
+        "pichau"
+      ]
+    },
+    {
+      "id": 1492,
+      "family_id": 1252,
+      "name": "Intel Core i5-14600K",
+      "slug": "intel-core-i5-14600k",
+      "image_url": null,
+      "position": 0,
+      "price_from": 1678.99,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre",
+        "amazon",
+        "kabum",
+        "pichau"
+      ]
+    },
+    {
+      "id": 1493,
+      "family_id": 1253,
+      "name": "Intel Core i5-14600KF",
+      "slug": "intel-core-i5-14600kf",
+      "image_url": null,
+      "position": 0,
+      "price_from": 1499.99,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre",
+        "kabum",
+        "pichau",
+        "magalu"
+      ]
+    },
+    {
+      "id": 1494,
+      "family_id": 1254,
+      "name": "Intel Core i5-14500",
+      "slug": "intel-core-i5-14500",
+      "image_url": null,
+      "position": 0,
+      "price_from": 1729.05,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre",
+        "amazon"
+      ]
+    },
+    {
+      "id": 1495,
+      "family_id": 1255,
+      "name": "Intel Core i5-14400",
+      "slug": "intel-core-i5-14400",
+      "image_url": null,
+      "position": 0,
+      "price_from": 1519.0,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre",
+        "amazon",
+        "kabum",
+        "magalu"
+      ]
+    },
+    {
+      "id": 1496,
+      "family_id": 1256,
+      "name": "Intel Core i5-14400F",
+      "slug": "intel-core-i5-14400f",
+      "image_url": null,
+      "position": 0,
+      "price_from": 1152.93,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre",
+        "amazon",
+        "kabum",
+        "pichau",
+        "magalu"
+      ]
+    },
+    {
+      "id": 1497,
+      "family_id": 1257,
+      "name": "Intel Core i3-14100",
+      "slug": "intel-core-i3-14100",
+      "image_url": null,
+      "position": 0,
+      "price_from": 899.99,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre",
+        "amazon",
+        "kabum",
+        "pichau"
+      ]
+    },
+    {
+      "id": 1498,
+      "family_id": 1258,
+      "name": "Intel Core i3-14100F",
+      "slug": "intel-core-i3-14100f",
+      "image_url": null,
+      "position": 0,
+      "price_from": 752.74,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre",
+        "kabum",
+        "pichau",
+        "magalu"
+      ]
+    },
+    {
+      "id": 1499,
+      "family_id": 1259,
+      "name": "Corsair Vengeance LPX CMK16GX4M2E3200C16 (16GB 2x8 DDR4-3200)",
+      "slug": "corsair-vengeance-lpx-cmk16gx4m2e3200c16-16gb-2x8-ddr4-3200",
+      "image_url": null,
+      "position": 0,
+      "price_from": 1093.73,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre",
+        "amazon",
+        "kabum",
         "aliexpress"
+      ]
+    },
+    {
+      "id": 1500,
+      "family_id": 1260,
+      "name": "Corsair Vengeance RGB RS CMG16GX4M2E3200C16 (16GB 2x8 DDR4-3200)",
+      "slug": "corsair-vengeance-rgb-rs-cmg16gx4m2e3200c16-16gb-2x8-ddr4-3200",
+      "image_url": null,
+      "position": 0,
+      "price_from": 1599.88,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre",
+        "terabyte"
+      ]
+    },
+    {
+      "id": 1501,
+      "family_id": 1261,
+      "name": "Kingston Fury Beast RGB KF432C16BB2AK2/16 (16GB 2x8 DDR4-3200)",
+      "slug": "kingston-fury-beast-rgb-kf432c16bb2ak2-16-16gb-2x8-ddr4-3200",
+      "image_url": null,
+      "position": 0,
+      "price_from": 495.36,
+      "currency": "BRL",
+      "stores": [
+        "aliexpress"
+      ]
+    },
+    {
+      "id": 1502,
+      "family_id": 1262,
+      "name": "Kingston Fury Beast KF432C16BBK2/16 (16GB 2x8 DDR4-3200)",
+      "slug": "kingston-fury-beast-kf432c16bbk2-16-16gb-2x8-ddr4-3200",
+      "image_url": null,
+      "position": 0,
+      "price_from": 845.0,
+      "currency": "BRL",
+      "stores": [
+        "amazon",
+        "kabum"
+      ]
+    },
+    {
+      "id": 1503,
+      "family_id": 1263,
+      "name": "Corsair Vengeance RGB RS CMG32GX4M2E3200C16 (32GB 2x16 DDR4-3200)",
+      "slug": "corsair-vengeance-rgb-rs-cmg32gx4m2e3200c16-32gb-2x16-ddr4-3200",
+      "image_url": null,
+      "position": 0,
+      "price_from": 2199.0,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre",
+        "amazon",
+        "kabum"
+      ]
+    },
+    {
+      "id": 1504,
+      "family_id": 1264,
+      "name": "Corsair Vengeance RGB PRO SL CMH32GX4M2E3200C16 (32GB 2x16 DDR4-3200 TUF)",
+      "slug": "corsair-vengeance-rgb-pro-sl-cmh32gx4m2e3200c16-32gb-2x16-ddr4-3200-tuf",
+      "image_url": null,
+      "position": 0,
+      "price_from": 3199.99,
+      "currency": "BRL",
+      "stores": [
+        "amazon",
+        "mercadolibre"
+      ]
+    },
+    {
+      "id": 1505,
+      "family_id": 1265,
+      "name": "Kingston Fury Beast RGB KF432C16BB12AK2/32 (32GB 2x16 DDR4-3200)",
+      "slug": "kingston-fury-beast-rgb-kf432c16bb12ak2-32-32gb-2x16-ddr4-3200",
+      "image_url": null,
+      "position": 0,
+      "price_from": 3489.99,
+      "currency": "BRL",
+      "stores": [
+        "kabum",
+        "mercadolibre"
+      ]
+    },
+    {
+      "id": 1506,
+      "family_id": 1266,
+      "name": "Kingston Fury Beast RGB KF436C18BB2AK2/32 (32GB 2x16 DDR4-3600)",
+      "slug": "kingston-fury-beast-rgb-kf436c18bb2ak2-32-32gb-2x16-ddr4-3600",
+      "image_url": null,
+      "position": 0,
+      "price_from": null,
+      "currency": "BRL",
+      "stores": []
+    },
+    {
+      "id": 1507,
+      "family_id": 1267,
+      "name": "XPG Lancer Blade AX5U6000C4816G-DTLABWH (16GB 2x8 DDR5-6000)",
+      "slug": "xpg-lancer-blade-ax5u6000c4816g-dtlabwh-16gb-2x8-ddr5-6000",
+      "image_url": null,
+      "position": 0,
+      "price_from": 4658.81,
+      "currency": "BRL",
+      "stores": [
+        "amazon"
+      ]
+    },
+    {
+      "id": 1508,
+      "family_id": 1268,
+      "name": "XPG Lancer Blade AX5U6000C4816G-DTLABWH (16GB 1x8 DDR5-6000)",
+      "slug": "xpg-lancer-blade-ax5u6000c4816g-dtlabwh-16gb-1x8-ddr5-6000",
+      "image_url": null,
+      "position": 0,
+      "price_from": 2079.99,
+      "currency": "BRL",
+      "stores": [
+        "kabum"
+      ]
+    },
+    {
+      "id": 1509,
+      "family_id": 1269,
+      "name": "Kingston Fury Beast EXPO KF560C36BBEK2-16 (16GB 2x8 DDR5-6000 CL36)",
+      "slug": "kingston-fury-beast-expo-kf560c36bbek2-16-16gb-2x8-ddr5-6000-cl36",
+      "image_url": null,
+      "position": 0,
+      "price_from": null,
+      "currency": "BRL",
+      "stores": []
+    },
+    {
+      "id": 1510,
+      "family_id": 1270,
+      "name": "Kingston Fury Beast EXPO KF560C36BBEK2-16 (16GB 1x16 DDR5-6000 CL36)",
+      "slug": "kingston-fury-beast-expo-kf560c36bbek2-16-16gb-1x16-ddr5-6000-cl36",
+      "image_url": null,
+      "position": 0,
+      "price_from": 1744.26,
+      "currency": "BRL",
+      "stores": [
+        "aliexpress"
+      ]
+    },
+    {
+      "id": 1511,
+      "family_id": 1271,
+      "name": "Corsair Vengeance CMK16GX5M2B5200Z40 (16GB 2x8 DDR5-5200)",
+      "slug": "corsair-vengeance-cmk16gx5m2b5200z40-16gb-2x8-ddr5-5200",
+      "image_url": null,
+      "position": 0,
+      "price_from": 2239.9,
+      "currency": "BRL",
+      "stores": [
+        "amazon",
+        "kabum"
+      ]
+    },
+    {
+      "id": 1512,
+      "family_id": 1272,
+      "name": "Corsair Vengeance CMK16GX5M2B5200Z40 (16GB 1x16 DDR5-5200)",
+      "slug": "corsair-vengeance-cmk16gx5m2b5200z40-16gb-1x16-ddr5-5200",
+      "image_url": null,
+      "position": 0,
+      "price_from": 1899.0,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre"
+      ]
+    },
+    {
+      "id": 1513,
+      "family_id": 1273,
+      "name": "Corsair Vengeance CMK32GX5M2B6000C30 (32GB 2x16 DDR5-6000 CL30)",
+      "slug": "corsair-vengeance-cmk32gx5m2b6000c30-32gb-2x16-ddr5-6000-cl30",
+      "image_url": null,
+      "position": 0,
+      "price_from": 5199.0,
+      "currency": "BRL",
+      "stores": [
+        "amazon",
+        "pichau",
+        "mercadolibre"
+      ]
+    },
+    {
+      "id": 1514,
+      "family_id": 1274,
+      "name": "Corsair Dominator Titanium RGB CMP32GX5M2B6000Z30 (32GB 2x16 DDR5-6000 CL30)",
+      "slug": "corsair-dominator-titanium-rgb-cmp32gx5m2b6000z30-32gb-2x16-ddr5-6000-cl30",
+      "image_url": null,
+      "position": 0,
+      "price_from": 6999.9,
+      "currency": "BRL",
+      "stores": [
+        "amazon",
+        "mercadolibre"
+      ]
+    },
+    {
+      "id": 1515,
+      "family_id": 1275,
+      "name": "Corsair Vengeance CMK32GX5M2B6000C38 (32GB 2x16 DDR5-6000 CL38)",
+      "slug": "corsair-vengeance-cmk32gx5m2b6000c38-32gb-2x16-ddr5-6000-cl38",
+      "image_url": null,
+      "position": 0,
+      "price_from": 4010.0,
+      "currency": "BRL",
+      "stores": [
+        "amazon"
+      ]
+    },
+    {
+      "id": 1516,
+      "family_id": 1276,
+      "name": "Corsair Dominator Titanium RGB CMP64GX5M2B6000Z30 (64GB 2x32 DDR5-6000 CL30)",
+      "slug": "corsair-dominator-titanium-rgb-cmp64gx5m2b6000z30-64gb-2x32-ddr5-6000-cl30",
+      "image_url": null,
+      "position": 0,
+      "price_from": 10999.99,
+      "currency": "BRL",
+      "stores": [
+        "amazon"
+      ]
+    },
+    {
+      "id": 1517,
+      "family_id": 1277,
+      "name": "Crucial Pro CP2K32G60C40U5B (64GB 2x32 DDR5-6000)",
+      "slug": "crucial-pro-cp2k32g60c40u5b-64gb-2x32-ddr5-6000",
+      "image_url": null,
+      "position": 0,
+      "price_from": 10788.0,
+      "currency": "BRL",
+      "stores": [
+        "amazon"
+      ]
+    },
+    {
+      "id": 1518,
+      "family_id": 1278,
+      "name": "Crucial BX500 500GB (SATA 2.5)",
+      "slug": "crucial-bx500-500gb-sata-2-5",
+      "image_url": null,
+      "position": 0,
+      "price_from": 545.9,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre",
+        "amazon",
+        "kabum",
+        "pichau"
+      ]
+    },
+    {
+      "id": 1519,
+      "family_id": 1279,
+      "name": "Kingston A400 480GB (SATA 2.5)",
+      "slug": "kingston-a400-480gb-sata-2-5",
+      "image_url": null,
+      "position": 0,
+      "price_from": 211.17,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre",
+        "amazon",
+        "aliexpress",
+        "kabum",
+        "pichau",
+        "terabyte"
+      ]
+    },
+    {
+      "id": 1520,
+      "family_id": 1280,
+      "name": "SanDisk SSD Plus 500GB (SATA 2.5)",
+      "slug": "sandisk-ssd-plus-500gb-sata-2-5",
+      "image_url": null,
+      "position": 0,
+      "price_from": 466.88,
+      "currency": "BRL",
+      "stores": [
+        "amazon",
+        "aliexpress",
+        "kabum",
+        "pichau",
+        "terabyte"
+      ]
+    },
+    {
+      "id": 1521,
+      "family_id": 1281,
+      "name": "WD Green SATA 500GB",
+      "slug": "wd-green-sata-500gb",
+      "image_url": null,
+      "position": 0,
+      "price_from": 599.99,
+      "currency": "BRL",
+      "stores": [
+        "shopee",
+        "kabum"
+      ]
+    },
+    {
+      "id": 1522,
+      "family_id": 1282,
+      "name": "Samsung 870 EVO 500GB (SATA)",
+      "slug": "samsung-870-evo-500gb-sata",
+      "image_url": null,
+      "position": 0,
+      "price_from": 321.56,
+      "currency": "BRL",
+      "stores": [
+        "amazon",
+        "aliexpress",
+        "kabum"
+      ]
+    },
+    {
+      "id": 1523,
+      "family_id": 1283,
+      "name": "Samsung 870 EVO 1TB (SATA)",
+      "slug": "samsung-870-evo-1tb-sata",
+      "image_url": null,
+      "position": 0,
+      "price_from": 293.12,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre",
+        "amazon",
+        "aliexpress",
+        "kabum"
+      ]
+    },
+    {
+      "id": 1524,
+      "family_id": 1284,
+      "name": "Crucial BX500 1TB (SATA)",
+      "slug": "crucial-bx500-1tb-sata",
+      "image_url": null,
+      "position": 0,
+      "price_from": 949.0,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre",
+        "amazon",
+        "kabum",
+        "pichau"
+      ]
+    },
+    {
+      "id": 1525,
+      "family_id": 1285,
+      "name": "Kingston KC600 1TB (SATA, DRAM)",
+      "slug": "kingston-kc600-1tb-sata-dram",
+      "image_url": null,
+      "position": 0,
+      "price_from": 2199.99,
+      "currency": "BRL",
+      "stores": [
+        "kabum"
+      ]
+    },
+    {
+      "id": 1526,
+      "family_id": 1286,
+      "name": "SanDisk SSD Plus 1TB (SATA)",
+      "slug": "sandisk-ssd-plus-1tb-sata",
+      "image_url": null,
+      "position": 0,
+      "price_from": 440.99,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre",
+        "amazon",
+        "aliexpress",
+        "kabum"
+      ]
+    },
+    {
+      "id": 1527,
+      "family_id": 1287,
+      "name": "ADATA SU650 1TB (SATA)",
+      "slug": "adata-su650-1tb-sata",
+      "image_url": null,
+      "position": 0,
+      "price_from": 963.76,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre",
+        "amazon",
+        "kabum",
+        "terabyte"
+      ]
+    },
+    {
+      "id": 1528,
+      "family_id": 1288,
+      "name": "ADATA Legend 710 1TB (NVMe Gen3)",
+      "slug": "adata-legend-710-1tb-nvme-gen3",
+      "image_url": null,
+      "position": 0,
+      "price_from": 1093.19,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre",
+        "amazon",
+        "kabum",
+        "terabyte"
+      ]
+    },
+    {
+      "id": 1529,
+      "family_id": 1289,
+      "name": "WD Blue SN570 1TB (NVMe Gen3)",
+      "slug": "wd-blue-sn570-1tb-nvme-gen3",
+      "image_url": null,
+      "position": 0,
+      "price_from": 1218.38,
+      "currency": "BRL",
+      "stores": [
+        "amazon",
+        "kabum"
+      ]
+    },
+    {
+      "id": 1530,
+      "family_id": 1290,
+      "name": "Samsung 980 1TB (NVMe Gen3)",
+      "slug": "samsung-980-1tb-nvme-gen3",
+      "image_url": null,
+      "position": 0,
+      "price_from": 1257.49,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre",
+        "aliexpress"
+      ]
+    },
+    {
+      "id": 1531,
+      "family_id": 1291,
+      "name": "Samsung 990 Pro 1TB (NVMe Gen4)",
+      "slug": "samsung-990-pro-1tb-nvme-gen4",
+      "image_url": null,
+      "position": 0,
+      "price_from": 719.95,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre",
+        "amazon",
+        "aliexpress",
+        "kabum"
+      ]
+    },
+    {
+      "id": 1532,
+      "family_id": 1292,
+      "name": "Kingston KC3000 1TB (NVMe Gen4)",
+      "slug": "kingston-kc3000-1tb-nvme-gen4",
+      "image_url": null,
+      "position": 0,
+      "price_from": 654.06,
+      "currency": "BRL",
+      "stores": [
+        "amazon",
+        "aliexpress"
+      ]
+    },
+    {
+      "id": 1533,
+      "family_id": 1293,
+      "name": "WD/SanDisk Black SN850X 1TB (NVMe Gen4)",
+      "slug": "wd-sandisk-black-sn850x-1tb-nvme-gen4",
+      "image_url": null,
+      "position": 0,
+      "price_from": 1568.95,
+      "currency": "BRL",
+      "stores": [
+        "amazon",
+        "aliexpress",
+        "pichau"
+      ]
+    },
+    {
+      "id": 1534,
+      "family_id": 1294,
+      "name": "Kingston Fury Renegade 1TB (NVMe Gen4)",
+      "slug": "kingston-fury-renegade-1tb-nvme-gen4",
+      "image_url": null,
+      "position": 0,
+      "price_from": 1879.99,
+      "currency": "BRL",
+      "stores": [
+        "amazon",
+        "kabum"
+      ]
+    },
+    {
+      "id": 1535,
+      "family_id": 1295,
+      "name": "Lexar NM790 1TB (NVMe Gen4)",
+      "slug": "lexar-nm790-1tb-nvme-gen4",
+      "image_url": null,
+      "position": 0,
+      "price_from": 1030.84,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre",
+        "amazon",
+        "aliexpress",
+        "pichau"
+      ]
+    },
+    {
+      "id": 1536,
+      "family_id": 1296,
+      "name": "Samsung 990 Pro 2TB (NVMe Gen4)",
+      "slug": "samsung-990-pro-2tb-nvme-gen4",
+      "image_url": null,
+      "position": 0,
+      "price_from": 1411.53,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre",
+        "amazon",
+        "aliexpress",
+        "kabum"
+      ]
+    },
+    {
+      "id": 1537,
+      "family_id": 1297,
+      "name": "Kingston Fury Renegade 2TB (NVMe Gen4)",
+      "slug": "kingston-fury-renegade-2tb-nvme-gen4",
+      "image_url": null,
+      "position": 0,
+      "price_from": 2418.69,
+      "currency": "BRL",
+      "stores": [
+        "shopee",
+        "aliexpress",
+        "kabum",
+        "pichau"
+      ]
+    },
+    {
+      "id": 1538,
+      "family_id": 1298,
+      "name": "Kingston KC3000 2TB (NVMe Gen4)",
+      "slug": "kingston-kc3000-2tb-nvme-gen4",
+      "image_url": null,
+      "position": 0,
+      "price_from": 3319.0,
+      "currency": "BRL",
+      "stores": [
+        "amazon",
+        "shopee",
+        "kabum",
+        "pichau"
+      ]
+    },
+    {
+      "id": 1539,
+      "family_id": 1299,
+      "name": "Lexar NM790 2TB (NVMe Gen4)",
+      "slug": "lexar-nm790-2tb-nvme-gen4",
+      "image_url": null,
+      "position": 0,
+      "price_from": 1030.84,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre",
+        "amazon",
+        "aliexpress"
+      ]
+    },
+    {
+      "id": 1540,
+      "family_id": 1300,
+      "name": "WD/SanDisk Black SN850X 2TB (NVMe Gen4)",
+      "slug": "wd-sandisk-black-sn850x-2tb-nvme-gen4",
+      "image_url": null,
+      "position": 0,
+      "price_from": 1568.95,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre",
+        "amazon",
+        "aliexpress"
+      ]
+    },
+    {
+      "id": 1541,
+      "family_id": 1301,
+      "name": "Kingston Fury Renegade G5 (NVMe Gen5)",
+      "slug": "kingston-fury-renegade-g5-nvme-gen5",
+      "image_url": null,
+      "position": 0,
+      "price_from": 2599.99,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre",
+        "amazon",
+        "kabum",
+        "pichau"
+      ]
+    },
+    {
+      "id": 1542,
+      "family_id": 1302,
+      "name": "Samsung 9100 Pro (NVMe Gen5)",
+      "slug": "samsung-9100-pro-nvme-gen5",
+      "image_url": null,
+      "position": 0,
+      "price_from": 1642.71,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre",
+        "amazon",
+        "aliexpress",
+        "kabum"
+      ]
+    },
+    {
+      "id": 1543,
+      "family_id": 1303,
+      "name": "SanDisk/WD Black SN8100 (NVMe Gen5)",
+      "slug": "sandisk-wd-black-sn8100-nvme-gen5",
+      "image_url": null,
+      "position": 0,
+      "price_from": 1868.49,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre",
+        "aliexpress"
+      ]
+    },
+    {
+      "id": 1544,
+      "family_id": 1304,
+      "name": "Crucial T705 (NVMe Gen5)",
+      "slug": "crucial-t705-nvme-gen5",
+      "image_url": null,
+      "position": 0,
+      "price_from": 1985.09,
+      "currency": "BRL",
+      "stores": [
+        "mercadolibre"
       ]
     }
   ]

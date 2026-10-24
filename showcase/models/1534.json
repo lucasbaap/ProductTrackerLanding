@@ -1,0 +1,44 @@
+{
+  "id": 1534,
+  "name": "Kingston Fury Renegade 1TB (NVMe Gen4)",
+  "family_id": 1294,
+  "image_url": null,
+  "monitored_since": "2026-10-24",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "amazon",
+      "label": "Amazon",
+      "link": "https://www.amazon.com.br/dp/B0BJL61R71?tag=producttrac0c-20",
+      "has_affiliate": true,
+      "current_price": 2039.0,
+      "min_price": 2039.0,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 2039.0
+        }
+      ]
+    },
+    {
+      "marketplace": "kabum",
+      "label": "KaBuM!",
+      "link": "https://www.kabum.com.br/produto/398535/ssd-kingston-fury-renegade-1tb-m-2-2280-pcie-4-0-x4-nvme-leitura-7300-mb-s-gravacao-6000mb-s-com-dissipador-compativel-com-ps5-sfyrsk-1000g",
+      "has_affiliate": true,
+      "current_price": 1879.99,
+      "min_price": null,
+      "min_price_at": null,
+      "monitored_since": "2026-10-24",
+      "history": []
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1534_all",
+    "per_store": {
+      "amazon": "https://t.me/MyProductTrackerBot?start=sc_1534_amazon",
+      "kabum": "https://t.me/MyProductTrackerBot?start=sc_1534_kabum"
+    }
+  }
+}

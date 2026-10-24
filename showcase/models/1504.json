@@ -1,0 +1,49 @@
+{
+  "id": 1504,
+  "name": "Corsair Vengeance RGB PRO SL CMH32GX4M2E3200C16 (32GB 2x16 DDR4-3200 TUF)",
+  "family_id": 1264,
+  "image_url": null,
+  "monitored_since": "2026-10-24",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "amazon",
+      "label": "Amazon",
+      "link": "https://www.amazon.com.br/dp/B08SQBKB5D?tag=producttrac0c-20",
+      "has_affiliate": true,
+      "current_price": 3199.99,
+      "min_price": 3199.99,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 3199.99
+        }
+      ]
+    },
+    {
+      "marketplace": "mercadolibre",
+      "label": "Mercado Livre",
+      "link": "https://www.mercadolivre.com.br/p/MLB46108232?matt_word=balu1353476&matt_tool=29239275",
+      "has_affiliate": true,
+      "current_price": 3288.9,
+      "min_price": 3288.9,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 3288.9
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1504_all",
+    "per_store": {
+      "amazon": "https://t.me/MyProductTrackerBot?start=sc_1504_amazon",
+      "mercadolibre": "https://t.me/MyProductTrackerBot?start=sc_1504_mercadolibre"
+    }
+  }
+}

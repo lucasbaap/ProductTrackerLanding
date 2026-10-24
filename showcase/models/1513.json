@@ -1,0 +1,66 @@
+{
+  "id": 1513,
+  "name": "Corsair Vengeance CMK32GX5M2B6000C30 (32GB 2x16 DDR5-6000 CL30)",
+  "family_id": 1273,
+  "image_url": null,
+  "monitored_since": "2026-10-24",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "amazon",
+      "label": "Amazon",
+      "link": "https://www.amazon.com.br/dp/B0C3RYHZJQ?tag=producttrac0c-20",
+      "has_affiliate": true,
+      "current_price": 5399.0,
+      "min_price": 5399.0,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 5399.0
+        }
+      ]
+    },
+    {
+      "marketplace": "pichau",
+      "label": "Pichau",
+      "link": "https://www.pichau.com.br/memoria-corsair-vengeance-32gb-2x16gb-ddr5-6000mhz-c30-preto-cmk32gx5m2b6000c30",
+      "has_affiliate": true,
+      "current_price": 6470.58,
+      "min_price": 6470.58,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 6470.58
+        }
+      ]
+    },
+    {
+      "marketplace": "mercadolibre",
+      "label": "Mercado Livre",
+      "link": "https://www.mercadolivre.com.br/p/MLB38745558?matt_word=balu1353476&matt_tool=29239275",
+      "has_affiliate": true,
+      "current_price": 5199.0,
+      "min_price": 5199.0,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 5199.0
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1513_all",
+    "per_store": {
+      "amazon": "https://t.me/MyProductTrackerBot?start=sc_1513_amazon",
+      "pichau": "https://t.me/MyProductTrackerBot?start=sc_1513_pichau",
+      "mercadolibre": "https://t.me/MyProductTrackerBot?start=sc_1513_mercadolibre"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": 1459,
+  "name": "AMD Ryzen 9 7950X",
+  "family_id": 1219,
+  "image_url": null,
+  "monitored_since": "2026-10-24",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "kabum",
+      "label": "KaBuM!",
+      "link": "https://www.kabum.com.br/produto/390981/processador-amd-ryzen-radeon-9-7950x-2200mhz-cache-80mb-1hexa-core-am5-video-integrado-100-100000514wof?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792817381_97c9f08f309fb87e6987d40706ee0c1c&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "has_affiliate": true,
+      "current_price": 3925.75,
+      "min_price": 3925.75,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 3925.75
+        }
+      ]
+    },
+    {
+      "marketplace": "mercadolibre",
+      "label": "Mercado Livre",
+      "link": "https://www.mercadolivre.com.br/p/MLB19711891?matt_word=balu1353476&matt_tool=29239275",
+      "has_affiliate": true,
+      "current_price": 3265.0,
+      "min_price": 3265.0,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 3265.0
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1459_all",
+    "per_store": {
+      "kabum": "https://t.me/MyProductTrackerBot?start=sc_1459_kabum",
+      "mercadolibre": "https://t.me/MyProductTrackerBot?start=sc_1459_mercadolibre"
+    }
+  }
+}

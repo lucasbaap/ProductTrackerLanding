@@ -1,0 +1,83 @@
+{
+  "id": 1537,
+  "name": "Kingston Fury Renegade 2TB (NVMe Gen4)",
+  "family_id": 1297,
+  "image_url": null,
+  "monitored_since": "2026-10-24",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "shopee",
+      "label": "Shopee",
+      "link": "https://s.shopee.com.br/AAIB24dvrd",
+      "has_affiliate": true,
+      "current_price": 4561.25,
+      "min_price": 4561.25,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 4561.25
+        }
+      ]
+    },
+    {
+      "marketplace": "aliexpress",
+      "label": "AliExpress",
+      "link": "https://www.aliexpress.com/item/1005012700854316.html",
+      "has_affiliate": true,
+      "current_price": 2418.69,
+      "min_price": 2418.69,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 2418.69
+        }
+      ]
+    },
+    {
+      "marketplace": "kabum",
+      "label": "KaBuM!",
+      "link": "https://www.kabum.com.br/produto/991966/ssd-m-2-2tb-kingston-fury-renegade-nvme-leitura-14-700mb-s-gravacao-14-000mb-s-sfyr2s-2t0",
+      "has_affiliate": true,
+      "current_price": 5729.99,
+      "min_price": 5729.99,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 5729.99
+        }
+      ]
+    },
+    {
+      "marketplace": "pichau",
+      "label": "Pichau",
+      "link": "https://www.pichau.com.br/ssd-kingston-fury-renegade-2tb-m-2-2280-pcie-nvme-leitura-7300-mb-s-gravacao-7000-mb-s-sfyrdk-2000g",
+      "has_affiliate": true,
+      "current_price": 4741.16,
+      "min_price": 4741.16,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 4741.16
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1537_all",
+    "per_store": {
+      "shopee": "https://t.me/MyProductTrackerBot?start=sc_1537_shopee",
+      "aliexpress": "https://t.me/MyProductTrackerBot?start=sc_1537_aliexpress",
+      "kabum": "https://t.me/MyProductTrackerBot?start=sc_1537_kabum",
+      "pichau": "https://t.me/MyProductTrackerBot?start=sc_1537_pichau"
+    }
+  }
+}

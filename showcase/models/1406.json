@@ -1,0 +1,49 @@
+{
+  "id": 1406,
+  "name": "24GB/512GB",
+  "family_id": 1170,
+  "image_url": null,
+  "monitored_since": "2026-10-24",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "amazon",
+      "label": "Amazon",
+      "link": "https://www.amazon.com.br/dp/B0GMKJDHT9?tag=producttrac0c-20",
+      "has_affiliate": true,
+      "current_price": 5799.08,
+      "min_price": 5799.08,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 5799.08
+        }
+      ]
+    },
+    {
+      "marketplace": "kabum",
+      "label": "KaBuM!",
+      "link": "https://www.kabum.com.br/produto/1012762/smartphone-motorola-signature-5g-512gb-preto-24gb-12gb-ram-12gb-ram-boost-camera-50-mp-e-tela-de-6-8-?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792816066_125e16ba00cfd9bc1283b2a9062c5883&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "has_affiliate": true,
+      "current_price": 6299.1,
+      "min_price": 6299.1,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 6299.1
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1406_all",
+    "per_store": {
+      "amazon": "https://t.me/MyProductTrackerBot?start=sc_1406_amazon",
+      "kabum": "https://t.me/MyProductTrackerBot?start=sc_1406_kabum"
+    }
+  }
+}

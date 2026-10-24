@@ -1,0 +1,49 @@
+{
+  "id": 1505,
+  "name": "Kingston Fury Beast RGB KF432C16BB12AK2/32 (32GB 2x16 DDR4-3200)",
+  "family_id": 1265,
+  "image_url": null,
+  "monitored_since": "2026-10-24",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "kabum",
+      "label": "KaBuM!",
+      "link": "https://www.kabum.com.br/produto/480530/memoria-ram-kingston-fury-beast-rgb-32gb-2x16gb-3200mhz-ddr4-cl16-preto-kf432c16bb12ak2-32",
+      "has_affiliate": true,
+      "current_price": 3489.99,
+      "min_price": 3489.99,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 3489.99
+        }
+      ]
+    },
+    {
+      "marketplace": "mercadolibre",
+      "label": "Mercado Livre",
+      "link": "https://www.mercadolivre.com.br/p/MLB2070191418?matt_word=balu1353476&matt_tool=29239275",
+      "has_affiliate": true,
+      "current_price": 4105.87,
+      "min_price": 4105.87,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 4105.87
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1505_all",
+    "per_store": {
+      "kabum": "https://t.me/MyProductTrackerBot?start=sc_1505_kabum",
+      "mercadolibre": "https://t.me/MyProductTrackerBot?start=sc_1505_mercadolibre"
+    }
+  }
+}

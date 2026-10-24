@@ -1,0 +1,257 @@
+{
+  "id": 1352,
+  "name": "256GB",
+  "family_id": 1142,
+  "image_url": null,
+  "monitored_since": "2026-09-20",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "mercadolibre",
+      "label": "Mercado Livre",
+      "link": "https://www.mercadolivre.com.br/p/MLB65503984?matt_word=balu1353476&matt_tool=29239275",
+      "has_affiliate": true,
+      "current_price": 7499.0,
+      "min_price": 7498.89,
+      "min_price_at": "2026-10-10",
+      "monitored_since": "2026-09-20",
+      "history": [
+        {
+          "date": "2026-09-20",
+          "price": 7690.0
+        },
+        {
+          "date": "2026-09-21",
+          "price": 7690.0
+        },
+        {
+          "date": "2026-09-22",
+          "price": 7690.0
+        },
+        {
+          "date": "2026-09-23",
+          "price": 7690.0
+        },
+        {
+          "date": "2026-09-24",
+          "price": 7690.0
+        },
+        {
+          "date": "2026-09-25",
+          "price": 7690.0
+        },
+        {
+          "date": "2026-09-26",
+          "price": 7690.0
+        },
+        {
+          "date": "2026-09-27",
+          "price": 7690.0
+        },
+        {
+          "date": "2026-09-28",
+          "price": 7690.0
+        },
+        {
+          "date": "2026-09-29",
+          "price": 7690.0
+        },
+        {
+          "date": "2026-09-30",
+          "price": 7690.0
+        },
+        {
+          "date": "2026-10-01",
+          "price": 7690.0
+        },
+        {
+          "date": "2026-10-02",
+          "price": 7690.0
+        },
+        {
+          "date": "2026-10-03",
+          "price": 7690.0
+        },
+        {
+          "date": "2026-10-04",
+          "price": 7690.0
+        },
+        {
+          "date": "2026-10-05",
+          "price": 7690.0
+        },
+        {
+          "date": "2026-10-06",
+          "price": 7690.0
+        },
+        {
+          "date": "2026-10-07",
+          "price": 7690.0
+        },
+        {
+          "date": "2026-10-08",
+          "price": 7690.0
+        },
+        {
+          "date": "2026-10-09",
+          "price": 7690.0
+        },
+        {
+          "date": "2026-10-10",
+          "price": 7498.89
+        },
+        {
+          "date": "2026-10-11",
+          "price": 7498.89
+        },
+        {
+          "date": "2026-10-12",
+          "price": 7498.89
+        },
+        {
+          "date": "2026-10-13",
+          "price": 7498.89
+        },
+        {
+          "date": "2026-10-14",
+          "price": 7498.89
+        },
+        {
+          "date": "2026-10-15",
+          "price": 7498.89
+        },
+        {
+          "date": "2026-10-16",
+          "price": 7498.89
+        },
+        {
+          "date": "2026-10-17",
+          "price": 7498.89
+        },
+        {
+          "date": "2026-10-18",
+          "price": 7498.89
+        },
+        {
+          "date": "2026-10-19",
+          "price": 7498.89
+        },
+        {
+          "date": "2026-10-20",
+          "price": 7498.89
+        },
+        {
+          "date": "2026-10-21",
+          "price": 7498.89
+        },
+        {
+          "date": "2026-10-22",
+          "price": 7498.89
+        },
+        {
+          "date": "2026-10-23",
+          "price": 7499.0
+        },
+        {
+          "date": "2026-10-24",
+          "price": 7499.0
+        }
+      ]
+    },
+    {
+      "marketplace": "shopee",
+      "label": "Shopee",
+      "link": "https://s.shopee.com.br/50a4oA2YHE",
+      "has_affiliate": true,
+      "current_price": 9999.0,
+      "min_price": 9554.44,
+      "min_price_at": "2026-10-01",
+      "monitored_since": "2026-10-01",
+      "history": [
+        {
+          "date": "2026-10-01",
+          "price": 9554.44
+        },
+        {
+          "date": "2026-10-02",
+          "price": 9554.44
+        },
+        {
+          "date": "2026-10-03",
+          "price": 9554.44
+        },
+        {
+          "date": "2026-10-04",
+          "price": 9554.44
+        },
+        {
+          "date": "2026-10-05",
+          "price": 9554.44
+        },
+        {
+          "date": "2026-10-06",
+          "price": 9554.44
+        },
+        {
+          "date": "2026-10-07",
+          "price": 9554.44
+        },
+        {
+          "date": "2026-10-08",
+          "price": 11498.89
+        },
+        {
+          "date": "2026-10-09",
+          "price": 11498.89
+        },
+        {
+          "date": "2026-10-10",
+          "price": 11498.89
+        },
+        {
+          "date": "2026-10-11",
+          "price": 11498.89
+        },
+        {
+          "date": "2026-10-12",
+          "price": 11498.89
+        },
+        {
+          "date": "2026-10-13",
+          "price": 11498.89
+        },
+        {
+          "date": "2026-10-14",
+          "price": 11498.89
+        },
+        {
+          "date": "2026-10-15",
+          "price": 9999.0
+        },
+        {
+          "date": "2026-10-16",
+          "price": 9999.0
+        },
+        {
+          "date": "2026-10-17",
+          "price": 9999.0
+        },
+        {
+          "date": "2026-10-18",
+          "price": 9999.0
+        },
+        {
+          "date": "2026-10-24",
+          "price": 9999.0
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1352_all",
+    "per_store": {
+      "mercadolibre": "https://t.me/MyProductTrackerBot?start=sc_1352_mercadolibre",
+      "shopee": "https://t.me/MyProductTrackerBot?start=sc_1352_shopee"
+    }
+  }
+}

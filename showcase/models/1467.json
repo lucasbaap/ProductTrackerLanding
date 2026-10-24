@@ -1,0 +1,100 @@
+{
+  "id": 1467,
+  "name": "AMD Ryzen 5 7600",
+  "family_id": 1227,
+  "image_url": null,
+  "monitored_since": "2026-10-24",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "kabum",
+      "label": "KaBuM!",
+      "link": "https://www.kabum.com.br/produto/422164/processador-amd-ryzen-5-7600-4-00ghz-6-core-38mb-am5",
+      "has_affiliate": true,
+      "current_price": 1759.9,
+      "min_price": 1759.9,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1759.9
+        }
+      ]
+    },
+    {
+      "marketplace": "pichau",
+      "label": "Pichau",
+      "link": "https://www.pichau.com.br/processador-amd-ryzen-5-7600-6-core-12-threads-3-8ghz-5-1ghz-turbo-cache-38mb-am5-100-100001015box",
+      "has_affiliate": true,
+      "current_price": 1176.46,
+      "min_price": 1176.46,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1176.46
+        }
+      ]
+    },
+    {
+      "marketplace": "terabyte",
+      "label": "Terabyte",
+      "link": "https://www.terabyteshop.com.br/produto/23415/processador-amd-ryzen-5-7600-38ghz-51ghz-turbo-6-cores-12-threads-am5-com-cooler-amd-wraith-stealth-100-100001015box",
+      "has_affiliate": true,
+      "current_price": 1529.4,
+      "min_price": 1529.4,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1529.4
+        }
+      ]
+    },
+    {
+      "marketplace": "shopee",
+      "label": "Shopee",
+      "link": "https://s.shopee.com.br/9V2UChub68",
+      "has_affiliate": true,
+      "current_price": 1674.99,
+      "min_price": 1674.99,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1674.99
+        }
+      ]
+    },
+    {
+      "marketplace": "aliexpress",
+      "label": "AliExpress",
+      "link": "https://s.click.aliexpress.com/s/fwx308cRD9Eny963e3KDdYxyIpNj8TXVr7saiF9Um5rMUg1kZtJALLnfa2LNXtiVgnxdD8Og6MmvwBoxhnSYQGM6r0c08U4TfX8DFGo7vviCuu3q62Q60OAhRZcqm3G8PtwM69xY7TOEWRrvulP5ukZQ4uQbBBtaVsdr6EffAqVmp3O5GyUANU2DoA3dJufNhDfh7KOlLgKIvRVhDxRESHLmea6fTE26gLUqKEUuuizJiLENrCbax94DZHDu8WhaXMN8fDE1HOLt4j1KZUcj471WKjwUetlj4ZWgS3yWx6lzuERHNTI3Zmy1QdFGmOrUpflNthqjRMyGbRR2yx4lVC7lpoHLywxEdqq8B9qXTIp4KoHLCdVWIv7c5uVNuObuYyMRMKuINYIlDgBv0LXmC08wFk4rwnqqAen0xci4UkcyHsO4E8ytTbgxzHM3plLLQHwAS8iGfhNLJqJ7qYMon1krIVaxYDMZGyW0RIl1OBS7GE4wMeY63u7MIVNZM5OSgrzQhOTdDTdSYuXH1coyv3qvOHR4Gr2ZkoAFlI6sVKuMMuEwkVYxc0NDx6LhYXNBOUUeO6gBcl66tq4dqJhwNFvuvss81OG5arcLkFciMVPpjFvyBZBXKL0Alje9noQESSPlNdXvl7QylrNXjLuPMJJP0tSoBtSSrxr36c9EpSzWgNKiP7W92eXja8NSyYW85bSEtFnhjDnVTNxFZdmvu2Elsz8lanT7ltkA4S3g7Oijagv2gSqCLIasiEcHN3pNXSURzNpqRVZ0YPwFX9AYqIbetajEktaBWCH249yFJAFwyoocbiSjLraQWZ8GwtG11dUHZzUNJdUCpXTPxurPwuB4gPwCL3J0G8zp6sKpVrojUNcBpR6WcGoKHZJ7jsid7EahT9C9oz6MTT2bTXhDgXoZ3Ag2gedTDja4QVZuArBW9X9qsEejuG7DYCGhB7kK7N1yPwENtUf3zDYHph",
+      "has_affiliate": true,
+      "current_price": 242.77,
+      "min_price": 242.77,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 242.77
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1467_all",
+    "per_store": {
+      "kabum": "https://t.me/MyProductTrackerBot?start=sc_1467_kabum",
+      "pichau": "https://t.me/MyProductTrackerBot?start=sc_1467_pichau",
+      "terabyte": "https://t.me/MyProductTrackerBot?start=sc_1467_terabyte",
+      "shopee": "https://t.me/MyProductTrackerBot?start=sc_1467_shopee",
+      "aliexpress": "https://t.me/MyProductTrackerBot?start=sc_1467_aliexpress"
+    }
+  }
+}

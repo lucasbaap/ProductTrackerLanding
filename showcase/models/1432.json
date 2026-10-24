@@ -1,0 +1,66 @@
+{
+  "id": 1432,
+  "name": "ASUS Prime B550M-K",
+  "family_id": 1192,
+  "image_url": null,
+  "monitored_since": "2026-10-24",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "mercadolibre",
+      "label": "Mercado Livre",
+      "link": "https://www.mercadolivre.com.br/p/MLB22688475?matt_word=balu1353476&matt_tool=29239275",
+      "has_affiliate": true,
+      "current_price": 651.0,
+      "min_price": 651.0,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 651.0
+        }
+      ]
+    },
+    {
+      "marketplace": "amazon",
+      "label": "Amazon",
+      "link": "https://www.amazon.com.br/ASUS-Placa-m%C3%A3e-B550M-K-USB3-2-PROTECTION/dp/B07ML1X93G?tag=producttrac0c-20",
+      "has_affiliate": true,
+      "current_price": 619.0,
+      "min_price": 619.0,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 619.0
+        }
+      ]
+    },
+    {
+      "marketplace": "kabum",
+      "label": "KaBuM!",
+      "link": "https://www.kabum.com.br/produto/992806/placa-mae-asus-prime-b550m-k-am4-ddr4-hdmi-display-port-micro-atx-argb-90mb1gc0-m0eay0?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792816550_432088eb689c14a7e4a3fc5781594c69&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "has_affiliate": true,
+      "current_price": 547.0,
+      "min_price": 547.0,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 547.0
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1432_all",
+    "per_store": {
+      "mercadolibre": "https://t.me/MyProductTrackerBot?start=sc_1432_mercadolibre",
+      "amazon": "https://t.me/MyProductTrackerBot?start=sc_1432_amazon",
+      "kabum": "https://t.me/MyProductTrackerBot?start=sc_1432_kabum"
+    }
+  }
+}

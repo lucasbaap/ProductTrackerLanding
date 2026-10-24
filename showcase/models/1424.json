@@ -1,0 +1,128 @@
+{
+  "id": 1424,
+  "name": "Edicao Digital 825GB",
+  "family_id": 1184,
+  "image_url": null,
+  "monitored_since": "2026-10-17",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "mercadolibre",
+      "label": "Mercado Livre",
+      "link": "https://www.mercadolivre.com.br/p/MLB54963150?matt_word=balu1353476&matt_tool=29239275",
+      "has_affiliate": true,
+      "current_price": 4299.0,
+      "min_price": 4299.0,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 4299.0
+        }
+      ]
+    },
+    {
+      "marketplace": "amazon",
+      "label": "Amazon",
+      "link": "https://www.amazon.com.br/dp/B0FVM6216K?tag=producttrac0c-20",
+      "has_affiliate": true,
+      "current_price": 4999.0,
+      "min_price": 4999.0,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 4999.0
+        }
+      ]
+    },
+    {
+      "marketplace": "kabum",
+      "label": "KaBuM!",
+      "link": "https://www.kabum.com.br/produto/1050570/console-sony-playstation-5-edicao-digital-slim-ssd-825gb-controle-dualsense-astro-s-playroom-branco-cfi-2114b?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792816307_ba1425e50bc0de03b1cab620d3e92224&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "has_affiliate": true,
+      "current_price": 4370.07,
+      "min_price": 4370.07,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 4370.07
+        }
+      ]
+    },
+    {
+      "marketplace": "magalu",
+      "label": "Magalu",
+      "link": "https://m.magazineluiza.com.br/console-sony-playstation-5-slim-digital-825-gb-branco/p/cb167fbh9g/ga/gap5/?partner_id=3440&promoter_id=5820501&utm_source=divulgador&utm_medium=magalu&utm_campaign=5820501",
+      "has_affiliate": true,
+      "current_price": 5599.0,
+      "min_price": 5599.0,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 5599.0
+        }
+      ]
+    },
+    {
+      "marketplace": "pichau",
+      "label": "Pichau",
+      "link": "https://www.pichau.com.br/console-sony-playstation-5-edicao-digital-ssd-825gb-com-controle-sem-fio-dualsense-branco-1000049907",
+      "has_affiliate": true,
+      "current_price": 5758.81,
+      "min_price": 5635.28,
+      "min_price_at": "2026-10-17",
+      "monitored_since": "2026-10-17",
+      "history": [
+        {
+          "date": "2026-10-17",
+          "price": 5635.28
+        },
+        {
+          "date": "2026-10-18",
+          "price": 5635.28
+        },
+        {
+          "date": "2026-10-19",
+          "price": 5635.28
+        },
+        {
+          "date": "2026-10-20",
+          "price": 5758.81
+        },
+        {
+          "date": "2026-10-21",
+          "price": 5758.81
+        },
+        {
+          "date": "2026-10-22",
+          "price": 5758.81
+        },
+        {
+          "date": "2026-10-23",
+          "price": 5758.81
+        },
+        {
+          "date": "2026-10-24",
+          "price": 5758.81
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1424_all",
+    "per_store": {
+      "mercadolibre": "https://t.me/MyProductTrackerBot?start=sc_1424_mercadolibre",
+      "amazon": "https://t.me/MyProductTrackerBot?start=sc_1424_amazon",
+      "kabum": "https://t.me/MyProductTrackerBot?start=sc_1424_kabum",
+      "magalu": "https://t.me/MyProductTrackerBot?start=sc_1424_magalu",
+      "pichau": "https://t.me/MyProductTrackerBot?start=sc_1424_pichau"
+    }
+  }
+}

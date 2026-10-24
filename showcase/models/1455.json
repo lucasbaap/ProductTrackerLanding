@@ -1,0 +1,100 @@
+{
+  "id": 1455,
+  "name": "AMD Ryzen 7 9700X",
+  "family_id": 1215,
+  "image_url": null,
+  "monitored_since": "2026-10-24",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "kabum",
+      "label": "KaBuM!",
+      "link": "https://www.kabum.com.br/produto/623737/processador-amd-ryzen-7-9700x-3-8ghz-5-5ghz-turbo-8-cores-16-threads-am5-40mb-radeon-graphics-sem-cooler-100-100001404wof?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792817268_717e885d0f2d28a13f060359291c7261&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "has_affiliate": true,
+      "current_price": 2764.28,
+      "min_price": 2764.28,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 2764.28
+        }
+      ]
+    },
+    {
+      "marketplace": "pichau",
+      "label": "Pichau",
+      "link": "https://www.pichau.com.br/processador-amd-ryzen-7-9700x-8-core-16-threads-3-8ghz-5-5ghz-turbo-cache-40mb-am5-100-100001404wof",
+      "has_affiliate": true,
+      "current_price": 2117.63,
+      "min_price": 2117.63,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 2117.63
+        }
+      ]
+    },
+    {
+      "marketplace": "terabyte",
+      "label": "Terabyte",
+      "link": "https://www.terabyteshop.com.br/produto/30039/processador-amd-ryzen-7-9700x-38ghz-55ghz-turbo-8-cores-16-threads-am5-sem-cooler-100-100001404wof",
+      "has_affiliate": true,
+      "current_price": 2091.75,
+      "min_price": 2091.75,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 2091.75
+        }
+      ]
+    },
+    {
+      "marketplace": "amazon",
+      "label": "Amazon",
+      "link": "https://www.amazon.com.br/dp/B0D6NMDNNX?tag=producttrac0c-20",
+      "has_affiliate": true,
+      "current_price": 1806.99,
+      "min_price": 1806.99,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1806.99
+        }
+      ]
+    },
+    {
+      "marketplace": "mercadolibre",
+      "label": "Mercado Livre",
+      "link": "https://www.mercadolivre.com.br/p/MLB39663823?matt_word=balu1353476&matt_tool=29239275",
+      "has_affiliate": true,
+      "current_price": 1699.0,
+      "min_price": 1699.0,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 1699.0
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1455_all",
+    "per_store": {
+      "kabum": "https://t.me/MyProductTrackerBot?start=sc_1455_kabum",
+      "pichau": "https://t.me/MyProductTrackerBot?start=sc_1455_pichau",
+      "terabyte": "https://t.me/MyProductTrackerBot?start=sc_1455_terabyte",
+      "amazon": "https://t.me/MyProductTrackerBot?start=sc_1455_amazon",
+      "mercadolibre": "https://t.me/MyProductTrackerBot?start=sc_1455_mercadolibre"
+    }
+  }
+}

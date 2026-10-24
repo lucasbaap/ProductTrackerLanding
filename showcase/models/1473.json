@@ -1,0 +1,83 @@
+{
+  "id": 1473,
+  "name": "Intel Core Ultra 7 265",
+  "family_id": 1233,
+  "image_url": null,
+  "monitored_since": "2026-10-24",
+  "currency": "BRL",
+  "stores": [
+    {
+      "marketplace": "mercadolibre",
+      "label": "Mercado Livre",
+      "link": "https://www.mercadolivre.com.br/p/MLB47854461?matt_word=balu1353476&matt_tool=29239275",
+      "has_affiliate": true,
+      "current_price": 3299.9,
+      "min_price": 3299.9,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 3299.9
+        }
+      ]
+    },
+    {
+      "marketplace": "amazon",
+      "label": "Amazon",
+      "link": "https://www.amazon.com.br/dp/B0DTRYQ6B1?tag=producttrac0c-20",
+      "has_affiliate": true,
+      "current_price": 3699.0,
+      "min_price": 3699.0,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 3699.0
+        }
+      ]
+    },
+    {
+      "marketplace": "kabum",
+      "label": "KaBuM!",
+      "link": "https://www.kabum.com.br/produto/928069/processador-intel-265-core-ultra-7-1851-3-9-ghz-box-turbo-5-5-ghz-bx80768265",
+      "has_affiliate": true,
+      "current_price": 3499.0,
+      "min_price": 3499.0,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 3499.0
+        }
+      ]
+    },
+    {
+      "marketplace": "magalu",
+      "label": "Magalu",
+      "link": "https://m.magazineluiza.com.br/processador-intel-265-core-ultra-7-lga-1851-3-9-ghz-box-turbo-5-5-ghz-bx80768265/p/bh9g7ej2ka/in/prsd/?partner_id=3440&promoter_id=5820501&utm_source=divulgador&utm_medium=magalu&utm_campaign=5820501",
+      "has_affiliate": true,
+      "current_price": 3699.0,
+      "min_price": 3699.0,
+      "min_price_at": "2026-10-24",
+      "monitored_since": "2026-10-24",
+      "history": [
+        {
+          "date": "2026-10-24",
+          "price": 3699.0
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "all": "https://t.me/MyProductTrackerBot?start=sc_1473_all",
+    "per_store": {
+      "mercadolibre": "https://t.me/MyProductTrackerBot?start=sc_1473_mercadolibre",
+      "amazon": "https://t.me/MyProductTrackerBot?start=sc_1473_amazon",
+      "kabum": "https://t.me/MyProductTrackerBot?start=sc_1473_kabum",
+      "magalu": "https://t.me/MyProductTrackerBot?start=sc_1473_magalu"
+    }
+  }
+}

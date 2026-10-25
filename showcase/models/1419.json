@@ -19,6 +19,10 @@
         {
           "date": "2026-10-24",
           "price": 2842.96
+        },
+        {
+          "date": "2026-10-25",
+          "price": 2842.96
         }
       ]
     },
@@ -27,23 +31,27 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/dp/B0F6D7MQQB?tag=producttrac0c-20",
       "has_affiliate": true,
-      "current_price": 4155.89,
-      "min_price": 4155.89,
-      "min_price_at": "2026-10-24",
+      "current_price": 3999.0,
+      "min_price": 3999.0,
+      "min_price_at": "2026-10-25",
       "monitored_since": "2026-10-24",
       "history": [
         {
           "date": "2026-10-24",
           "price": 4155.89
+        },
+        {
+          "date": "2026-10-25",
+          "price": 3999.0
         }
       ]
     },
     {
       "marketplace": "shopee",
       "label": "Shopee",
-      "link": "https://s.shopee.com.br/7AeZOhxpjH",
+      "link": "https://s.shopee.com.br/1gJf9R5BS7",
       "has_affiliate": true,
-      "current_price": 3990.0,
+      "current_price": 3999.0,
       "min_price": 3990.0,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -51,13 +59,17 @@
         {
           "date": "2026-10-24",
           "price": 3990.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 3999.0
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/777177/console-nintendo-switch-2-256gb-preto-azul-e-vermelho?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792816192_d4066d069a22f44586b9b859d5d57800&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/777177/console-nintendo-switch-2-256gb-preto-azul-e-vermelho?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792949259_8685b3bdeccf8a39b7bec4714a92d09f&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 4499.0,
       "min_price": 4499.0,
@@ -66,6 +78,10 @@
       "history": [
         {
           "date": "2026-10-24",
+          "price": 4499.0
+        },
+        {
+          "date": "2026-10-25",
           "price": 4499.0
         }
       ]

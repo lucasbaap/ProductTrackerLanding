@@ -19,6 +19,10 @@
         {
           "date": "2026-10-24",
           "price": 4299.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 4299.0
         }
       ]
     },
@@ -35,13 +39,17 @@
         {
           "date": "2026-10-24",
           "price": 4999.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 4999.0
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/1050570/console-sony-playstation-5-edicao-digital-slim-ssd-825gb-controle-dualsense-astro-s-playroom-branco-cfi-2114b?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792816307_ba1425e50bc0de03b1cab620d3e92224&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/1050570/console-sony-playstation-5-edicao-digital-slim-ssd-825gb-controle-dualsense-astro-s-playroom-branco-cfi-2114b?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792941924_0e76172efd1dbfe89982afd1807fe5f2&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 4370.07,
       "min_price": 4370.07,
@@ -50,6 +58,10 @@
       "history": [
         {
           "date": "2026-10-24",
+          "price": 4370.07
+        },
+        {
+          "date": "2026-10-25",
           "price": 4370.07
         }
       ]
@@ -67,6 +79,10 @@
         {
           "date": "2026-10-24",
           "price": 5599.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 5599.0
         }
       ]
     },
@@ -75,7 +91,7 @@
       "label": "Pichau",
       "link": "https://www.pichau.com.br/console-sony-playstation-5-edicao-digital-ssd-825gb-com-controle-sem-fio-dualsense-branco-1000049907",
       "has_affiliate": true,
-      "current_price": 5758.81,
+      "current_price": 5882.34,
       "min_price": 5635.28,
       "min_price_at": "2026-10-17",
       "monitored_since": "2026-10-17",
@@ -110,6 +126,10 @@
         },
         {
           "date": "2026-10-24",
+          "price": 5758.81
+        },
+        {
+          "date": "2026-10-25",
           "price": 5758.81
         }
       ]

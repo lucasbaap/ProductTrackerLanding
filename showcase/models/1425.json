@@ -19,6 +19,10 @@
         {
           "date": "2026-10-24",
           "price": 5200.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 5200.0
         }
       ]
     },
@@ -259,13 +263,17 @@
         {
           "date": "2026-10-24",
           "price": 7499.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 7499.0
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/636960/console-playstation-5-pro-sony-ssd-2tb-com-controle-sem-fio-dualsense-branco-1000046552?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1791897125_f1e0cbbf2923784e2e6a4d71dca73c44&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/636960/console-playstation-5-pro-sony-ssd-2tb-com-controle-sem-fio-dualsense-branco-1000046552?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792947180_f32018b483a7fe75b2bdd92688a7d519&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 7499.0,
       "min_price": 7299.0,
@@ -386,6 +394,10 @@
         },
         {
           "date": "2026-10-24",
+          "price": 7499.0
+        },
+        {
+          "date": "2026-10-25",
           "price": 7499.0
         }
       ]

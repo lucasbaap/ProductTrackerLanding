@@ -19,6 +19,10 @@
         {
           "date": "2026-10-24",
           "price": 3764.69
+        },
+        {
+          "date": "2026-10-25",
+          "price": 3764.69
         }
       ]
     },
@@ -35,6 +39,10 @@
         {
           "date": "2026-10-24",
           "price": 5093.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 5093.0
         }
       ]
     },
@@ -43,7 +51,7 @@
       "label": "Mercado Livre",
       "link": "https://www.mercadolivre.com.br/p/MLB65976532?matt_word=balu1353476&matt_tool=29239275",
       "has_affiliate": true,
-      "current_price": 3769.0,
+      "current_price": 3993.0,
       "min_price": 3769.0,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -51,15 +59,19 @@
         {
           "date": "2026-10-24",
           "price": 3769.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 3993.0
         }
       ]
     },
     {
       "marketplace": "aliexpress",
       "label": "AliExpress",
-      "link": "https://s.click.aliexpress.com/s/NdpwztbAIgDMmxGbP8fFks7yUFfsHjzlImSYmA68h7xlMRgzueFsRgokQ9f9hcpVKttxtQE2VzIoqkXJXrpOr6uR3zv7mP4CDO9CddoFf4t0QE5DXPy8Pgjhz4irfQSEjEGUmy5yF3A5gJ9h3NYjLMgqIMqa3zcpq5E2BC3W5EbV40Dm9buQxWpZzw1lbX8Zm2kZtNIa4KyDieNjsH7IU6Yv8StELKVvT9r4eFAaXPGhwHsgaDqdNcmY116r3GC2YvmvR57S69fGyn8Tt4pCtmLccxQz3g0L1ZKu00BPwYOT3BF4QZOqRqMDB0DvM6Zrdd9FVsDwco2B2wk7WIAUOLnyuu0kJzLFWMGdQHgzL0Hl2B1gnWxi2PvfR6otJrt8ziwFJx2ahihPWn2RKYsHYtIOR8Jyq9NY4hinnyCkXaBELN61DAuX9UBPCIiC8kfKAjsvNAaE90I5NVHLOpK193KClFRBkMYV4BVu3PUfPhlQkgyNreRzyPf2OjdUBFmtFdHPQNDUW27t6cxvv64FBXkCIx1ALwLanz41eEUoESqAgDfQjQmQeedVH2D9Kp3cvhGAJDjO66k3nAEmq95kop2LAYFiJTfgl2KNuWQy8e2Bsb4GCW38QK6f0veTsE4moDX41Feo7e1IlYIuVEcwm7RM9SdXg9CTnKSzjVOff5d36lx3avuc64pwM33UpKqUWRYa2aZHrWXRO85EYusWZZlKpdjp6ZjHwCigFRVKc4gKpEQlS0wGWX9uDJRRfZrMoM6ugu0GKBCP2TzSXeEHUhSRCdf2YrhmgEvtAYbyDNCLOWBWdxTLoRX9TIGz1HYIeASpcrOx5HFJakjqbIpQcvBb8smxHgIPs6TPJYXGkb72ps5dDiCXzCHycPMUww3K3Ft70m6aaSpWlHCy0CuUHZVaNoqiPze2obYWLF5o0aOKdKyEtSkVShkfCltHc6jCLorpqqlBxgJGNiPj84fWPGJnbzmC0jlScUhmptnrjhYx1",
+      "link": "https://s.click.aliexpress.com/e/_c4ah2UCf",
       "has_affiliate": true,
-      "current_price": 2625.91,
+      "current_price": 2896.55,
       "min_price": 2625.91,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -67,6 +79,10 @@
         {
           "date": "2026-10-24",
           "price": 2625.91
+        },
+        {
+          "date": "2026-10-25",
+          "price": 2896.55
         }
       ]
     }

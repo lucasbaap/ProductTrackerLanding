@@ -19,19 +19,28 @@
         {
           "date": "2026-10-24",
           "price": 1049.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 1049.0
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/921087/smartphone-samsung-galaxy-a07-preto-6-7-256gb-8gb-camera-dupla?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792815847_4fdc2abb8c2f47999b99b9fb8083211b&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/921087/smartphone-samsung-galaxy-a07-preto-6-7-256gb-8gb-camera-dupla?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792916730_f4707f15e7141a91bcf92b888c54e00f&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
-      "current_price": 1070.91,
-      "min_price": null,
-      "min_price_at": null,
-      "monitored_since": "2026-10-24",
-      "history": []
+      "current_price": 944.1,
+      "min_price": 944.1,
+      "min_price_at": "2026-10-25",
+      "monitored_since": "2026-10-25",
+      "history": [
+        {
+          "date": "2026-10-25",
+          "price": 944.1
+        }
+      ]
     }
   ],
   "cta": {

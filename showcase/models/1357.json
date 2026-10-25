@@ -199,13 +199,17 @@
         {
           "date": "2026-10-24",
           "price": 5332.22
+        },
+        {
+          "date": "2026-10-25",
+          "price": 5332.0
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/1007597/smartphone-samsung-galaxy-s26-5g-256gb-12gb-ram-tela-6-3-120hz-camera-50mp-preto-sm-s942bzkszto?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792832930_0542c6945609c01dafafeb2820847b43&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/1007597/smartphone-samsung-galaxy-s26-5g-256gb-12gb-ram-tela-6-3-120hz-camera-50mp-preto-sm-s942bzkszto?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792915743_e699df0391b1bbaf0a03b3f1ef7e2481&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 4799.0,
       "min_price": 4799.0,
@@ -215,13 +219,17 @@
         {
           "date": "2026-10-24",
           "price": 4799.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 4799.0
         }
       ]
     },
     {
       "marketplace": "shopee",
       "label": "Shopee",
-      "link": "https://s.shopee.com.br/1LgmRSKAiA",
+      "link": "https://s.shopee.com.br/3VlJT2ThxE",
       "has_affiliate": true,
       "current_price": 5332.22,
       "min_price": 5332.22,
@@ -230,6 +238,10 @@
       "history": [
         {
           "date": "2026-10-24",
+          "price": 5332.22
+        },
+        {
+          "date": "2026-10-25",
           "price": 5332.22
         }
       ]

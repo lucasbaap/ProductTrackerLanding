@@ -9,7 +9,7 @@
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/378414/processador-amd-ryzen-5-7600x-4-7ghz-5-3ghz-max-turbo-cache-38mb-6-nucleos-12-threads-am5-com-video-integrado-100-100000593wof?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1791391300_f33a8d9cdd69dd64fdf5f50c5d4999ca&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/378414/processador-amd-ryzen-5-7600x-4-7ghz-5-3ghz-max-turbo-cache-38mb-6-nucleos-12-threads-am5-com-video-integrado-100-100000593wof?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792942870_d797a242e205baeb9711249f25c6e530&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 1089.99,
       "min_price": 999.99,
@@ -151,6 +151,10 @@
         {
           "date": "2026-10-24",
           "price": 1089.99
+        },
+        {
+          "date": "2026-10-25",
+          "price": 1089.99
         }
       ]
     },
@@ -166,6 +170,10 @@
       "history": [
         {
           "date": "2026-10-24",
+          "price": 1282.34
+        },
+        {
+          "date": "2026-10-25",
           "price": 1282.34
         }
       ]
@@ -183,6 +191,10 @@
         {
           "date": "2026-10-24",
           "price": 1411.75
+        },
+        {
+          "date": "2026-10-25",
+          "price": 1411.75
         }
       ]
     },
@@ -198,6 +210,10 @@
       "history": [
         {
           "date": "2026-10-24",
+          "price": 1089.99
+        },
+        {
+          "date": "2026-10-25",
           "price": 1089.99
         }
       ]
@@ -215,13 +231,17 @@
         {
           "date": "2026-10-24",
           "price": 1245.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 1245.0
         }
       ]
     },
     {
       "marketplace": "shopee",
       "label": "Shopee",
-      "link": "https://s.shopee.com.br/8AX6cDILZO",
+      "link": "https://s.shopee.com.br/1gJfFeU7aW",
       "has_affiliate": true,
       "current_price": 1764.99,
       "min_price": 1764.99,
@@ -230,6 +250,10 @@
       "history": [
         {
           "date": "2026-10-24",
+          "price": 1764.99
+        },
+        {
+          "date": "2026-10-25",
           "price": 1764.99
         }
       ]

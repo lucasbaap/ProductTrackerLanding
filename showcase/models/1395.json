@@ -11,21 +11,25 @@
       "label": "Mercado Livre",
       "link": "https://www.mercadolivre.com.br/p/MLB77855502?matt_word=balu1353476&matt_tool=29239275",
       "has_affiliate": true,
-      "current_price": 10050.0,
-      "min_price": 10050.0,
-      "min_price_at": "2026-10-24",
+      "current_price": 9810.87,
+      "min_price": 9810.87,
+      "min_price_at": "2026-10-25",
       "monitored_since": "2026-10-24",
       "history": [
         {
           "date": "2026-10-24",
           "price": 10050.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 9810.87
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/1072459/iphone-18-pro-max-apple-256gb-camera-de-48mp-a20-pro-tela-6-9-super-retina-xdr-bordo?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792815959_0498a367749c1efc0b58d24335abff7f&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/1072459/iphone-18-pro-max-apple-256gb-camera-de-48mp-a20-pro-tela-6-9-super-retina-xdr-bordo?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792950014_d82b7aa0ff5639de5f44d21684b6b454&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 11699.1,
       "min_price": 11699.1,
@@ -35,13 +39,17 @@
         {
           "date": "2026-10-24",
           "price": 11699.1
+        },
+        {
+          "date": "2026-10-25",
+          "price": 11699.1
         }
       ]
     },
     {
       "marketplace": "shopee",
       "label": "Shopee",
-      "link": "https://s.shopee.com.br/1gJcqL3IzG",
+      "link": "https://s.shopee.com.br/4VdqaikarA",
       "has_affiliate": true,
       "current_price": 12999.0,
       "min_price": 12999.0,
@@ -50,6 +58,10 @@
       "history": [
         {
           "date": "2026-10-24",
+          "price": 12999.0
+        },
+        {
+          "date": "2026-10-25",
           "price": 12999.0
         }
       ]

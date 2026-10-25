@@ -19,6 +19,10 @@
         {
           "date": "2026-10-24",
           "price": 11126.19
+        },
+        {
+          "date": "2026-10-25",
+          "price": 11126.19
         }
       ]
     },
@@ -35,13 +39,17 @@
         {
           "date": "2026-10-24",
           "price": 10259.14
+        },
+        {
+          "date": "2026-10-25",
+          "price": 10259.14
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/1075500/iphone-18-pro-256gb-preto?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792815972_1930d147784456ddb9d13418b2800f6a&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/1075500/iphone-18-pro-256gb-preto?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792949254_ed48fdc9cef1eff2d7d30a44125cafc8&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 10599.0,
       "min_price": 10599.0,
@@ -50,6 +58,10 @@
       "history": [
         {
           "date": "2026-10-24",
+          "price": 10599.0
+        },
+        {
+          "date": "2026-10-25",
           "price": 10599.0
         }
       ]

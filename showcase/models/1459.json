@@ -9,7 +9,7 @@
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/390981/processador-amd-ryzen-radeon-9-7950x-2200mhz-cache-80mb-1hexa-core-am5-video-integrado-100-100000514wof?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792817381_97c9f08f309fb87e6987d40706ee0c1c&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/390981/processador-amd-ryzen-radeon-9-7950x-2200mhz-cache-80mb-1hexa-core-am5-video-integrado-100-100000514wof?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792947372_2f990f71833c852cfdcb380dd91033fc&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 3925.75,
       "min_price": 3925.75,
@@ -18,6 +18,10 @@
       "history": [
         {
           "date": "2026-10-24",
+          "price": 3925.75
+        },
+        {
+          "date": "2026-10-25",
           "price": 3925.75
         }
       ]
@@ -34,6 +38,10 @@
       "history": [
         {
           "date": "2026-10-24",
+          "price": 3265.0
+        },
+        {
+          "date": "2026-10-25",
           "price": 3265.0
         }
       ]

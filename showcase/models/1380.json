@@ -75,13 +75,17 @@
         {
           "date": "2026-10-24",
           "price": 6033.01
+        },
+        {
+          "date": "2026-10-25",
+          "price": 6033.01
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/703062/smartphone-samsung-galaxy-s25-ultra-256gb-5g-titanio-azul-com-caneta-s-pen-galaxy-ai-camera-quadrupla-200mp-selfie-12mp-ram-12gb-tela-6-9-?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792832965_608d11515d45429320bbcf5ff93c4245&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/703062/smartphone-samsung-galaxy-s25-ultra-256gb-5g-titanio-azul-com-caneta-s-pen-galaxy-ai-camera-quadrupla-200mp-selfie-12mp-ram-12gb-tela-6-9-?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792941889_3392dbc315b984c86cff5c2abfaf18c9&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 5799.0,
       "min_price": 5799.0,
@@ -91,13 +95,17 @@
         {
           "date": "2026-10-24",
           "price": 5799.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 5799.0
         }
       ]
     },
     {
       "marketplace": "shopee",
       "label": "Shopee",
-      "link": "https://s.shopee.com.br/7puGBYiejS",
+      "link": "https://s.shopee.com.br/AUv41u0DTw",
       "has_affiliate": true,
       "current_price": 9221.12,
       "min_price": 9221.12,
@@ -106,6 +114,10 @@
       "history": [
         {
           "date": "2026-10-24",
+          "price": 9221.12
+        },
+        {
+          "date": "2026-10-25",
           "price": 9221.12
         }
       ]

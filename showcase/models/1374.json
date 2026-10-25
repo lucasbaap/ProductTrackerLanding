@@ -19,13 +19,17 @@
         {
           "date": "2026-10-24",
           "price": 2095.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 2095.0
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/1060973/smartphone-galaxy-a27-5g-256gb-8gb-ram-tela-6-7-samsung-preto?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792832957_9a28ecacea0dc4aa8a1cc527e88f7496&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/1060973/smartphone-galaxy-a27-5g-256gb-8gb-ram-tela-6-7-samsung-preto?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792944609_19e904ec0223331491bfcd6baa12f99d&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 1899.9,
       "min_price": 1899.9,
@@ -35,13 +39,17 @@
         {
           "date": "2026-10-24",
           "price": 1899.9
+        },
+        {
+          "date": "2026-10-25",
+          "price": 1899.9
         }
       ]
     },
     {
       "marketplace": "shopee",
       "label": "Shopee",
-      "link": "https://s.shopee.com.br/4VdoDNf1lR",
+      "link": "https://s.shopee.com.br/3g4j6RWD09",
       "has_affiliate": true,
       "current_price": 2029.9,
       "min_price": 2029.9,
@@ -50,6 +58,10 @@
       "history": [
         {
           "date": "2026-10-24",
+          "price": 2029.9
+        },
+        {
+          "date": "2026-10-25",
           "price": 2029.9
         }
       ]

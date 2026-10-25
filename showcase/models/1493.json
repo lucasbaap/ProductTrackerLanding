@@ -19,13 +19,17 @@
         {
           "date": "2026-10-24",
           "price": 1727.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 1727.0
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/497579/processador-intel-core-i5-14600kf-3-5ghz-5-3-ghz-max-turbo-cache-24mb-14-nucleos-20-threads-lga-1700-sem-video-integrado-bx8071514600kf",
+      "link": "https://www.kabum.com.br/produto/497579/processador-intel-core-i5-14600kf-3-5ghz-5-3-ghz-max-turbo-cache-24mb-14-nucleos-20-threads-lga-1700-sem-video-integrado-bx8071514600kf?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792942923_dbf51bee679dfd3cba00e658102024d1&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 1499.99,
       "min_price": 1499.99,
@@ -34,6 +38,10 @@
       "history": [
         {
           "date": "2026-10-24",
+          "price": 1499.99
+        },
+        {
+          "date": "2026-10-25",
           "price": 1499.99
         }
       ]
@@ -51,6 +59,10 @@
         {
           "date": "2026-10-24",
           "price": 1870.58
+        },
+        {
+          "date": "2026-10-25",
+          "price": 1870.58
         }
       ]
     },
@@ -66,6 +78,10 @@
       "history": [
         {
           "date": "2026-10-24",
+          "price": 2284.9
+        },
+        {
+          "date": "2026-10-25",
           "price": 2284.9
         }
       ]

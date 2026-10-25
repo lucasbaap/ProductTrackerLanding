@@ -11,7 +11,7 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/Celular-Samsung-Galaxy-C%C3%A2mera-Marinho/dp/B0DSY8CP8H?th=1&tag=producttrac0c-20",
       "has_affiliate": true,
-      "current_price": 4998.96,
+      "current_price": 5554.44,
       "min_price": 3899.0,
       "min_price_at": "2026-09-14",
       "monitored_since": "2026-09-11",
@@ -179,6 +179,10 @@
         {
           "date": "2026-10-24",
           "price": 4998.96
+        },
+        {
+          "date": "2026-10-25",
+          "price": 5554.44
         }
       ]
     }

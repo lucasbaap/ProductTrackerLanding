@@ -19,6 +19,10 @@
         {
           "date": "2026-10-24",
           "price": 1344.9
+        },
+        {
+          "date": "2026-10-25",
+          "price": 1344.9
         }
       ]
     },
@@ -35,13 +39,17 @@
         {
           "date": "2026-10-24",
           "price": 1388.22
+        },
+        {
+          "date": "2026-10-25",
+          "price": 1388.22
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/645180/processador-intel-core-ultra-5-245k-4-2ghz-5-2ghz-turbo-cache-24mb-14-nucleos-14-threads-lga-1851-com-video-integrado-bx80768245k",
+      "link": "https://www.kabum.com.br/produto/645180/processador-intel-core-ultra-5-245k-4-2ghz-5-2ghz-turbo-cache-24mb-14-nucleos-14-threads-lga-1851-com-video-integrado-bx80768245k?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792944551_d7ee6492e9fc135771fb7a6049ad744a&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 1199.99,
       "min_price": 1199.99,
@@ -50,6 +58,10 @@
       "history": [
         {
           "date": "2026-10-24",
+          "price": 1199.99
+        },
+        {
+          "date": "2026-10-25",
           "price": 1199.99
         }
       ]
@@ -67,6 +79,10 @@
         {
           "date": "2026-10-24",
           "price": 1388.22
+        },
+        {
+          "date": "2026-10-25",
+          "price": 1388.22
         }
       ]
     },
@@ -82,6 +98,10 @@
       "history": [
         {
           "date": "2026-10-24",
+          "price": 1388.22
+        },
+        {
+          "date": "2026-10-25",
           "price": 1388.22
         }
       ]

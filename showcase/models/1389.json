@@ -19,13 +19,17 @@
         {
           "date": "2026-10-24",
           "price": 10739.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 10739.0
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/906006/smartphone-samsung-galaxy-z-fold-7-5g-azul-512gb-16gb-ram-e-camera-tripla-de-200-mp-12mp-10mp-n-a?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792815910_08d2d794017e6b29103b965e654214dc&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/906006/smartphone-samsung-galaxy-z-fold-7-5g-azul-512gb-16gb-ram-e-camera-tripla-de-200-mp-12mp-10mp-n-a?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792951848_9e0c3ab06921f75271bbae4e8e8f3fc1&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 9974.05,
       "min_price": 9974.05,
@@ -34,6 +38,10 @@
       "history": [
         {
           "date": "2026-10-24",
+          "price": 9974.05
+        },
+        {
+          "date": "2026-10-25",
           "price": 9974.05
         }
       ]

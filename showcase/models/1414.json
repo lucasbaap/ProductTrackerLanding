@@ -19,6 +19,10 @@
         {
           "date": "2026-10-24",
           "price": 1779.99
+        },
+        {
+          "date": "2026-10-25",
+          "price": 1779.99
         }
       ]
     },
@@ -27,21 +31,25 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/dp/B0GLSLLGZL?tag=producttrac0c-20",
       "has_affiliate": true,
-      "current_price": 1642.55,
-      "min_price": 1642.55,
-      "min_price_at": "2026-10-24",
+      "current_price": 1478.29,
+      "min_price": 1478.29,
+      "min_price_at": "2026-10-25",
       "monitored_since": "2026-10-24",
       "history": [
         {
           "date": "2026-10-24",
           "price": 1642.55
+        },
+        {
+          "date": "2026-10-25",
+          "price": 1478.29
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/1012764/smartphone-motorola-moto-g77-5g-256gb-marrom-24gb-8gb-ram-16gb-ram-boost-camera-108mp-tela-6-8-?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792816137_31ee1fda0eef1ef35f2622ac60f5601d&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/1012764/smartphone-motorola-moto-g77-5g-256gb-marrom-24gb-8gb-ram-16gb-ram-boost-camera-108mp-tela-6-8-?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792917490_f408b0a376bae061804b93139ffec94b&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 1556.1,
       "min_price": 1556.1,
@@ -50,6 +58,10 @@
       "history": [
         {
           "date": "2026-10-24",
+          "price": 1556.1
+        },
+        {
+          "date": "2026-10-25",
           "price": 1556.1
         }
       ]

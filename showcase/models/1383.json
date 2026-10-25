@@ -11,21 +11,25 @@
       "label": "Mercado Livre",
       "link": "https://www.mercadolivre.com.br/p/MLB45502223?matt_word=balu1353476&matt_tool=29239275",
       "has_affiliate": true,
-      "current_price": 4332.0,
-      "min_price": 4332.0,
-      "min_price_at": "2026-10-24",
+      "current_price": 4277.0,
+      "min_price": 4277.0,
+      "min_price_at": "2026-10-25",
       "monitored_since": "2026-10-24",
       "history": [
         {
           "date": "2026-10-24",
           "price": 4332.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 4277.0
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/703055/smartphone-samsung-galaxy-s25-camera-tripla-256-gb-5g-azul-marinho-s931b?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792832969_37180554079a8f238709bdad03c5d4e1&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/703055/smartphone-samsung-galaxy-s25-camera-tripla-256-gb-5g-azul-marinho-s931b?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792943880_29f68d50c711ec35c0f34a5e9c879c0a&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 3899.0,
       "min_price": 3899.0,
@@ -34,6 +38,10 @@
       "history": [
         {
           "date": "2026-10-24",
+          "price": 3899.0
+        },
+        {
+          "date": "2026-10-25",
           "price": 3899.0
         }
       ]

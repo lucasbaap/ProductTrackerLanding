@@ -9,7 +9,7 @@
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/426262/processador-amd-ryzen-7-7800x3d-4-2ghz-5-0ghz-max-turbo-cache-104mb-8-nucleos-16-threads-am5-com-video-integrado-100-100000910wof",
+      "link": "https://www.kabum.com.br/produto/426262/processador-amd-ryzen-7-7800x3d-4-2ghz-5-0ghz-max-turbo-cache-104mb-8-nucleos-16-threads-am5-com-video-integrado-100-100000910wof?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792946318_ce803b532e5018cb4b5cd81472932018&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 1849.99,
       "min_price": 1849.99,
@@ -18,6 +18,10 @@
       "history": [
         {
           "date": "2026-10-24",
+          "price": 1849.99
+        },
+        {
+          "date": "2026-10-25",
           "price": 1849.99
         }
       ]
@@ -35,6 +39,10 @@
         {
           "date": "2026-10-24",
           "price": 2176.46
+        },
+        {
+          "date": "2026-10-25",
+          "price": 2176.46
         }
       ]
     },
@@ -50,6 +58,10 @@
       "history": [
         {
           "date": "2026-10-24",
+          "price": 2176.46
+        },
+        {
+          "date": "2026-10-25",
           "price": 2176.46
         }
       ]
@@ -67,13 +79,17 @@
         {
           "date": "2026-10-24",
           "price": 2000.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 2000.0
         }
       ]
     },
     {
       "marketplace": "shopee",
       "label": "Shopee",
-      "link": "https://s.shopee.com.br/2Vsjre3xP2",
+      "link": "https://s.shopee.com.br/6Am42n8RcA",
       "has_affiliate": true,
       "current_price": 4079.9,
       "min_price": 4079.9,
@@ -83,13 +99,17 @@
         {
           "date": "2026-10-24",
           "price": 4079.9
+        },
+        {
+          "date": "2026-10-25",
+          "price": 4079.9
         }
       ]
     },
     {
       "marketplace": "aliexpress",
       "label": "AliExpress",
-      "link": "https://s.click.aliexpress.com/s/NdpwztbAIgDMmxGbP8fFks7yUFfsHjzlImSYmA68h7xlMRgzueFsRgokQ9f9hcpVKttxtQE2VzIoqkXJXrpOr6uR3zv7mP4CDO9CddoFf4t0QE5DXPy8Pgjhz4irfQSEjEGUmy5yF3A5gJ9h3NYjLMgqIMqa3zcpq5E2BC3W5EbV40Dm9buQxWpZzw1lbX8Zm2kZtNIa4KyDieNjsH7IU6Yv8StELKVvT9r4eFAaXPGhwHsgaDqdNcmY116r3GC2YvmvR57S69fGyn8Tt4pCtmLccxQz3g0L1ZKu00BPwYOT3BF4QZOqRqMDB0DyoCTucM66g02yHYZ7N56JEzGC6Gkv5yj0Kn2sG2KporeaXggAzFMl7NbZRotHHCgqVkxnaTnJeWeIzKtTpiqiHRgK1clXK0j99UVPwmOZX8vhDnNT0Yn5zztIdpjA2dEnE4Tacs8ih9ws7s3NOrvI6v1hcJBp08LkgNrA3yE2f3gJu1VxlFnhRPYCqaVPNo3PmDBxbEfNz2MshciYaMeEviukGF6HYWe322LCRKxbgkuI1eFSpVEcj8IsVN8hNZBrV8gSQJpsFLMCUsZ1l1CvuuzxlR9Ar1D42PJd7BR0xCReBpJm0jmQrXzM7okC7kBP8P99s2G14ECGzHQtDqFwxLEMriHfDHfugucquuJ5ynIrMYtM9gffP3m0KKMAcllbsF8GkRsqti7OFJ01KXW0FjqhfhDQCA8Ge74PL5vSIreaE0TAi7pQzcYQfzBvoRTiOETEYkz68TAwIk71ilYLIpiNs56KacDQehpQRyPhmtphEm3uwkdFnxCIhwajkTcm3SLpUXF93spHLwijtDgNlTJMjaKpSBVx53MMCgbHKxZFpZedOWF2U92UhnYcz8PmJ57t3jAUquFTjk2F8lK8YfaE5l7nVmzOadKoU91Y53Z0g0EOuFPFIqBRxCvAIcSPihYhpd0aZbPRASHm1crMB5OL49XyKiqayanvCB7rEY47NcmJv",
+      "link": "https://s.click.aliexpress.com/s/NdpwztbAIgDMmxGbP8fFks7yUFfsHjzlImSYmA68h7xlMRgzueFsRgokQ9f9hcpVKttxtQE2VzIoqkXJXrpOr6uR3zv7mP4CDO9CddoFf4t0QE5DXPy8Pgjhz4irfQSEjEGUmy5yF3A5gJ9h3NYjLMgqIMqa3zcpq5E2BC3W5EbV40Dm9buQxWpZzw1lbX8Zm2kZtNIa4KyDieNjsH7IU6Yv8StELKVvT9r4eFAaXPGhwHsgaDqdNcmY116r3GC2YvmvR57S69fGyn8Tt4pCtmLccxQz3g0L1ZKu00BPwYOT3BF4QZOqRqMDB0DyoCTucM66g02yHYZ7N56JEzGC6Gkv5yj0Kn2sG2KporeaXggAzFMl7NbZRotHHCgqVkxnaTnJeWeIzKtTpiqiHRgK1clXK0j99UVPwmOZX8vhDnNT0Yn5zztIdpjA2dEnE4Tacs8ih9ws7s3NOrvI6v1hcJBp08LkgNrA3yE2f3gJu1VxlFnhRPYCqaVPNo3PmDBxbEfOFt3gGlOhdYnhnsbpGHuyOjdyEz7NVv1JpPtAdBrWcrrffS3B9sNIvez1enFVnxJG8rNbllaIZEljWJqoElZBV3y7riEdYSiwleJMH1MMCOTYAVo9kN0sY6eTw3w2vD0KoXXiFhKIbfyUtAsvs55hjL302cw79O6Dkwzb4zq7ybQtG89ZWyuKPbEWP057HnkwylFaiSZHGR0x2pxHqWOKEwRwTf7SvbKNcET0nA96iPciX7TBSz3iN7aOxnQaM219RNSKyJWH8r1yqLBLfqsy3Ug5dA1ooY4CA2Bgrezci4veDwk7aM1ZsUkSArlmNNIBaU6QrlvSpNTVawFiszLeanYh3yjWN01Vf3pD45Ordq9AYtanObKrEQy7CNjv1kpcPhAY1RXBNxwVAQCpKUjHo6Xlf7c3VYWSqN5OJhG1fOTWfIj8j4MVsWpWJRxS1mMwvEqp7uVDAIjxay4tWNHXSelN2iK4SBYk1C5Ymb6R1",
       "has_affiliate": true,
       "current_price": 1637.1,
       "min_price": 1637.1,
@@ -98,6 +118,10 @@
       "history": [
         {
           "date": "2026-10-24",
+          "price": 1637.1
+        },
+        {
+          "date": "2026-10-25",
           "price": 1637.1
         }
       ]

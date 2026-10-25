@@ -19,13 +19,17 @@
         {
           "date": "2026-10-24",
           "price": 3498.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 3498.0
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/1064418/smartphone-motorola-edge-70-pro-256gb-5g-vinho-24gb-12gb-ram-12gb-ram-boost-4-cameras-de-50mp-tela-de-6-8-e-bateria-6500mah?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792816080_eccbc7c6fc37305c1984276d5ecf6118&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/1064418/smartphone-motorola-edge-70-pro-256gb-5g-vinho-24gb-12gb-ram-12gb-ram-boost-4-cameras-de-50mp-tela-de-6-8-e-bateria-6500mah?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792952740_56633108e19e0ee35479b88924a27bc2&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 3960.55,
       "min_price": 3960.55,
@@ -34,6 +38,10 @@
       "history": [
         {
           "date": "2026-10-24",
+          "price": 3960.55
+        },
+        {
+          "date": "2026-10-25",
           "price": 3960.55
         }
       ]

@@ -19,6 +19,10 @@
         {
           "date": "2026-10-24",
           "price": 889.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 889.0
         }
       ]
     },
@@ -34,6 +38,10 @@
       "history": [
         {
           "date": "2026-10-24",
+          "price": 839.99
+        },
+        {
+          "date": "2026-10-25",
           "price": 839.99
         }
       ]
@@ -51,13 +59,17 @@
         {
           "date": "2026-10-24",
           "price": 440.99
+        },
+        {
+          "date": "2026-10-25",
+          "price": 440.99
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/904676/ssd-sandisk-plus-sata-1tb-leitura-545mb-s-gravacao-515mb-s-sdssda-1t00-g28",
+      "link": "https://www.kabum.com.br/produto/904676/ssd-sandisk-plus-sata-1tb-leitura-545mb-s-gravacao-515mb-s-sdssda-1t00-g28?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792942790_fc92d7888a75cb667416c38b7e5cb376&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 1599.99,
       "min_price": 1599.99,
@@ -66,6 +78,10 @@
       "history": [
         {
           "date": "2026-10-24",
+          "price": 1599.99
+        },
+        {
+          "date": "2026-10-25",
           "price": 1599.99
         }
       ]

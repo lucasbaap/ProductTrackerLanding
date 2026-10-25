@@ -11,14 +11,18 @@
       "label": "Mercado Livre",
       "link": "https://www.mercadolivre.com.br/p/MLB29769928?matt_word=balu1353476&matt_tool=29239275",
       "has_affiliate": true,
-      "current_price": 1100.0,
-      "min_price": 1100.0,
-      "min_price_at": "2026-10-24",
+      "current_price": 1017.0,
+      "min_price": 1017.0,
+      "min_price_at": "2026-10-25",
       "monitored_since": "2026-10-24",
       "history": [
         {
           "date": "2026-10-24",
           "price": 1100.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 1017.0
         }
       ]
     },
@@ -27,7 +31,7 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/dp/B0CQ2ZLXB4?tag=producttrac0c-20",
       "has_affiliate": true,
-      "current_price": 1366.16,
+      "current_price": 1413.25,
       "min_price": 1366.16,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -35,13 +39,17 @@
         {
           "date": "2026-10-24",
           "price": 1366.16
+        },
+        {
+          "date": "2026-10-25",
+          "price": 1413.25
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/904655/processador-intel-core-i3-14100-3-5ghz-4-70-ghz-max-turbo-cache-12mb-4-nucleos-8-threads-lga-1700-com-video-integrado-bx8071514100-",
+      "link": "https://www.kabum.com.br/produto/904655/processador-intel-core-i3-14100-3-5ghz-4-70-ghz-max-turbo-cache-12mb-4-nucleos-8-threads-lga-1700-com-video-integrado-bx8071514100-?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792942892_0097b8abccf341a0eaff7e08bc7249c8&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 899.99,
       "min_price": 899.99,
@@ -50,6 +58,10 @@
       "history": [
         {
           "date": "2026-10-24",
+          "price": 899.99
+        },
+        {
+          "date": "2026-10-25",
           "price": 899.99
         }
       ]
@@ -66,6 +78,10 @@
       "history": [
         {
           "date": "2026-10-24",
+          "price": 1035.28
+        },
+        {
+          "date": "2026-10-25",
           "price": 1035.28
         }
       ]

@@ -35,6 +35,10 @@
         {
           "date": "2026-10-24",
           "price": 1999.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 1999.0
         }
       ]
     },
@@ -51,13 +55,17 @@
         {
           "date": "2026-10-24",
           "price": 1642.71
+        },
+        {
+          "date": "2026-10-25",
+          "price": 1642.71
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/905491/ssd-m-2-nvme-gen5-1tb-14-700mb-s-samsung-9100-pro-1tb-pc-ps5-playstation-5-ssd-pcie-5-0-gen-5-mz-vap1t0bam",
+      "link": "https://www.kabum.com.br/produto/905491/ssd-m-2-nvme-gen5-1tb-14-700mb-s-samsung-9100-pro-1tb-pc-ps5-playstation-5-ssd-pcie-5-0-gen-5-mz-vap1t0bam?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792950144_8371bed65f6ba9fcc6177d195d998c32&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 2469.05,
       "min_price": 2469.05,
@@ -66,6 +74,10 @@
       "history": [
         {
           "date": "2026-10-24",
+          "price": 2469.05
+        },
+        {
+          "date": "2026-10-25",
           "price": 2469.05
         }
       ]

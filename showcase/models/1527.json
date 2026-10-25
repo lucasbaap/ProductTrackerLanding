@@ -19,6 +19,10 @@
         {
           "date": "2026-10-24",
           "price": 1051.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 1051.0
         }
       ]
     },
@@ -27,7 +31,7 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/dp/B0C66DBB1H?tag=producttrac0c-20",
       "has_affiliate": true,
-      "current_price": 1047.05,
+      "current_price": 1051.0,
       "min_price": 1047.05,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -35,13 +39,17 @@
         {
           "date": "2026-10-24",
           "price": 1047.05
+        },
+        {
+          "date": "2026-10-25",
+          "price": 1051.0
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/995092/ssd-adata-ultimate-su650-1tb-sata-iii-6gb-s-2-5-leitura-ate-520mb-s-gravacao-ate-450mb-s-asu650ss-1tt-r",
+      "link": "https://www.kabum.com.br/produto/995092/ssd-adata-ultimate-su650-1tb-sata-iii-6gb-s-2-5-leitura-ate-520mb-s-gravacao-ate-450mb-s-asu650ss-1tt-r?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792917499_9d01ea0070cfe7bac33b509a04ccd066&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 963.76,
       "min_price": 963.76,
@@ -50,6 +58,10 @@
       "history": [
         {
           "date": "2026-10-24",
+          "price": 963.76
+        },
+        {
+          "date": "2026-10-25",
           "price": 963.76
         }
       ]
@@ -66,6 +78,10 @@
       "history": [
         {
           "date": "2026-10-24",
+          "price": 1199.88
+        },
+        {
+          "date": "2026-10-25",
           "price": 1199.88
         }
       ]

@@ -19,6 +19,10 @@
         {
           "date": "2026-10-24",
           "price": 702.02
+        },
+        {
+          "date": "2026-10-25",
+          "price": 702.02
         }
       ]
     },
@@ -35,13 +39,17 @@
         {
           "date": "2026-10-24",
           "price": 1257.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 1257.0
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/696999/processador-intel-core-ultra-5-225-3-3ghz-4-9ghz-turbo-cache-20mb-10-nucleos-10-threads-lga-1851-com-video-integrado-bx80768225?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792818135_11ef925ac52121530bdebf6944829379&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/696999/processador-intel-core-ultra-5-225-3-3ghz-4-9ghz-turbo-cache-20mb-10-nucleos-10-threads-lga-1851-com-video-integrado-bx80768225?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792954661_348b391ed450ae31d19d75e38fef0484&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 1249.99,
       "min_price": 1249.99,
@@ -50,6 +58,10 @@
       "history": [
         {
           "date": "2026-10-24",
+          "price": 1249.99
+        },
+        {
+          "date": "2026-10-25",
           "price": 1249.99
         }
       ]
@@ -66,6 +78,10 @@
       "history": [
         {
           "date": "2026-10-24",
+          "price": 1058.81
+        },
+        {
+          "date": "2026-10-25",
           "price": 1058.81
         }
       ]

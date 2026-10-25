@@ -19,13 +19,17 @@
         {
           "date": "2026-10-24",
           "price": 1866.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 1866.0
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/894444/placa-mae-asrock-z890-steel-legend-wifi-intel-lga-1851-atx-wf-blt-ddr5-z890-steel-legend-wifi?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792817000_c195c167ffa428b513fb92de9ebcb731&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/894444/placa-mae-asrock-z890-steel-legend-wifi-intel-lga-1851-atx-wf-blt-ddr5-z890-steel-legend-wifi?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792954541_ca922a66cc1a87a79776adb46d97a5dc&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 2481.6,
       "min_price": 2481.6,
@@ -34,6 +38,10 @@
       "history": [
         {
           "date": "2026-10-24",
+          "price": 2481.6
+        },
+        {
+          "date": "2026-10-25",
           "price": 2481.6
         }
       ]
@@ -50,6 +58,10 @@
       "history": [
         {
           "date": "2026-10-24",
+          "price": 2705.87
+        },
+        {
+          "date": "2026-10-25",
           "price": 2705.87
         }
       ]

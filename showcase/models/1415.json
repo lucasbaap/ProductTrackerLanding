@@ -19,6 +19,10 @@
         {
           "date": "2026-10-24",
           "price": 1618.53
+        },
+        {
+          "date": "2026-10-25",
+          "price": 1618.53
         }
       ]
     },
@@ -35,13 +39,17 @@
         {
           "date": "2026-10-24",
           "price": 1547.55
+        },
+        {
+          "date": "2026-10-25",
+          "price": 1547.55
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/1012769/smartphone-motorola-moto-g67-5g-256gb-verde-claro-12gb-4gb-ram-8gb-ram-boost-camera-50mp-e-tela-6-8-?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792816150_911374ce2efbe23c9a72234636c58346&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/1012769/smartphone-motorola-moto-g67-5g-256gb-verde-claro-12gb-4gb-ram-8gb-ram-boost-camera-50mp-e-tela-6-8-?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792917591_d136b4bf6b0936493d94cbdedb92c34e&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 1466.1,
       "min_price": 1466.1,
@@ -50,6 +58,10 @@
       "history": [
         {
           "date": "2026-10-24",
+          "price": 1466.1
+        },
+        {
+          "date": "2026-10-25",
           "price": 1466.1
         }
       ]

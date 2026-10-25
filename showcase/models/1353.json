@@ -11,7 +11,7 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/dp/B0GKQTTCMM?th=1&tag=producttrac0c-20",
       "has_affiliate": true,
-      "current_price": 6999.0,
+      "current_price": 7124.05,
       "min_price": 6649.05,
       "min_price_at": "2026-10-22",
       "monitored_since": "2026-09-20",
@@ -155,13 +155,17 @@
         {
           "date": "2026-10-24",
           "price": 6999.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 6999.0
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/1007598/smartphone-samsung-galaxy-s26-ultra-5g-256gb-preto-12gb-ram?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792832930_17fb241a32a34c45ffee7aea56bbc02d&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/1007598/smartphone-samsung-galaxy-s26-ultra-5g-256gb-preto-12gb-ram?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792942910_24075cbeac49d7df7f5ccd417383cdd5&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 11789.1,
       "min_price": 11789.1,
@@ -170,6 +174,10 @@
       "history": [
         {
           "date": "2026-10-24",
+          "price": 11789.1
+        },
+        {
+          "date": "2026-10-25",
           "price": 11789.1
         }
       ]

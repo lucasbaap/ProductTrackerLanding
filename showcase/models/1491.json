@@ -19,13 +19,17 @@
         {
           "date": "2026-10-24",
           "price": 2790.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 2790.0
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/904660/processador-intel-core-i7-14700f-2-1ghz-5-40-ghz-max-turbo-cache-33mb-20-nucleos-28-threads-lga-1700-sem-video-integrado-bx8071514700f",
+      "link": "https://www.kabum.com.br/produto/904660/processador-intel-core-i7-14700f-2-1ghz-5-40-ghz-max-turbo-cache-33mb-20-nucleos-28-threads-lga-1700-sem-video-integrado-bx8071514700f?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792944701_f01f5d3a910eae1f99a5b1be2b7b4784&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 1999.99,
       "min_price": 1999.99,
@@ -35,6 +39,10 @@
         {
           "date": "2026-10-24",
           "price": 1999.99
+        },
+        {
+          "date": "2026-10-25",
+          "price": 1999.99
         }
       ]
     },
@@ -43,14 +51,18 @@
       "label": "Pichau",
       "link": "https://www.pichau.com.br/processador-intel-core-i7-14700f-20-core-28-threads-3-4ghz-5-4ghz-turbo-cache-33mb-lga1700-bx8071514700f",
       "has_affiliate": true,
-      "current_price": 3529.4,
-      "min_price": 3529.4,
-      "min_price_at": "2026-10-24",
+      "current_price": 2317.63,
+      "min_price": 2317.63,
+      "min_price_at": "2026-10-25",
       "monitored_since": "2026-10-24",
       "history": [
         {
           "date": "2026-10-24",
           "price": 3529.4
+        },
+        {
+          "date": "2026-10-25",
+          "price": 2317.63
         }
       ]
     }

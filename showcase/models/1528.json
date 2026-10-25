@@ -19,6 +19,10 @@
         {
           "date": "2026-10-24",
           "price": 1093.19
+        },
+        {
+          "date": "2026-10-25",
+          "price": 1093.19
         }
       ]
     },
@@ -35,13 +39,17 @@
         {
           "date": "2026-10-24",
           "price": 1129.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 1129.0
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/373624/ssd-adata-1tb-legend-710-m-2-2280-nvme-aleg-710-1tcs",
+      "link": "https://www.kabum.com.br/produto/373624/ssd-adata-1tb-legend-710-m-2-2280-nvme-aleg-710-1tcs?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792942830_a887ad5569f7a537877727ee13a17d2e&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 1404.99,
       "min_price": 1404.99,
@@ -51,6 +59,10 @@
         {
           "date": "2026-10-24",
           "price": 1404.99
+        },
+        {
+          "date": "2026-10-25",
+          "price": 1404.99
         }
       ]
     },
@@ -59,14 +71,18 @@
       "label": "Terabyte",
       "link": "https://www.terabyteshop.com.br/produto/25638/ssd-adata-legend-710-1tb-m2-2280-nvme-leitura-2400mbs-gravacao-1800mbs-aleg-710-1tcs",
       "has_affiliate": true,
-      "current_price": 1894.0,
-      "min_price": 1894.0,
-      "min_price_at": "2026-10-24",
+      "current_price": 1411.65,
+      "min_price": 1411.65,
+      "min_price_at": "2026-10-25",
       "monitored_since": "2026-10-24",
       "history": [
         {
           "date": "2026-10-24",
           "price": 1894.0
+        },
+        {
+          "date": "2026-10-25",
+          "price": 1411.65
         }
       ]
     }

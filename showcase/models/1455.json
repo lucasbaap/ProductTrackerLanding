@@ -9,7 +9,7 @@
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/623737/processador-amd-ryzen-7-9700x-3-8ghz-5-5ghz-turbo-8-cores-16-threads-am5-40mb-radeon-graphics-sem-cooler-100-100001404wof?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792961247_8e367c198688261e95444998d93d2c31&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/623737/processador-amd-ryzen-7-9700x-3-8ghz-5-5ghz-turbo-8-cores-16-threads-am5-40mb-radeon-graphics-sem-cooler-100-100001404wof?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793007092_0f95c6b227ac7b147bb1e42b6963fe1e&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 2764.28,
       "min_price": 2764.28,
@@ -22,6 +22,10 @@
         },
         {
           "date": "2026-10-25",
+          "price": 2764.28
+        },
+        {
+          "date": "2026-10-26",
           "price": 2764.28
         }
       ]
@@ -43,6 +47,10 @@
         {
           "date": "2026-10-25",
           "price": 2117.63
+        },
+        {
+          "date": "2026-10-26",
+          "price": 2117.63
         }
       ]
     },
@@ -62,6 +70,10 @@
         },
         {
           "date": "2026-10-25",
+          "price": 2091.75
+        },
+        {
+          "date": "2026-10-26",
           "price": 2091.75
         }
       ]
@@ -83,6 +95,10 @@
         {
           "date": "2026-10-25",
           "price": 1806.99
+        },
+        {
+          "date": "2026-10-26",
+          "price": 1806.99
         }
       ]
     },
@@ -102,6 +118,10 @@
         },
         {
           "date": "2026-10-25",
+          "price": 1699.0
+        },
+        {
+          "date": "2026-10-26",
           "price": 1699.0
         }
       ]

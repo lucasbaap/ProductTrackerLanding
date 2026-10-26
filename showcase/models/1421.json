@@ -23,6 +23,10 @@
         {
           "date": "2026-10-25",
           "price": 2199.0
+        },
+        {
+          "date": "2026-10-26",
+          "price": 2199.0
         }
       ]
     },
@@ -31,9 +35,9 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/dp/B098RKWHHZ?tag=producttrac0c-20",
       "has_affiliate": true,
-      "current_price": 2273.0,
-      "min_price": 2273.0,
-      "min_price_at": "2026-10-24",
+      "current_price": 2250.0,
+      "min_price": 2250.0,
+      "min_price_at": "2026-10-26",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -43,6 +47,10 @@
         {
           "date": "2026-10-25",
           "price": 2273.0
+        },
+        {
+          "date": "2026-10-26",
+          "price": 2250.0
         }
       ]
     },
@@ -73,6 +81,10 @@
         },
         {
           "date": "2026-10-25",
+          "price": 2700.0
+        },
+        {
+          "date": "2026-10-26",
           "price": 2700.0
         }
       ]

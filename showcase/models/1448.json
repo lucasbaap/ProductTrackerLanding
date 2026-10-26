@@ -9,7 +9,7 @@
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/1028554/processador-amd-ryzen-9-9950x3d2-4-3ghz-5-6ghz-max-turbo-cache-208mb-16-nucleos-32-threads-am5-com-video-integrado-100-100001978wof?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792817019_fba46d5f7b4608a81f6e7137914748c2&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/1028554/processador-amd-ryzen-9-9950x3d2-4-3ghz-5-6ghz-max-turbo-cache-208mb-16-nucleos-32-threads-am5-com-video-integrado-100-100001978wof?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793009647_62c94e7db273750fef830376e0d500ad&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 9999.99,
       "min_price": 6399.99,
@@ -22,6 +22,10 @@
         },
         {
           "date": "2026-10-25",
+          "price": 9999.99
+        },
+        {
+          "date": "2026-10-26",
           "price": 9999.99
         }
       ]
@@ -43,6 +47,10 @@
         {
           "date": "2026-10-25",
           "price": 7411.75
+        },
+        {
+          "date": "2026-10-26",
+          "price": 7411.75
         }
       ]
     },
@@ -62,6 +70,10 @@
         },
         {
           "date": "2026-10-25",
+          "price": 6899.0
+        },
+        {
+          "date": "2026-10-26",
           "price": 6899.0
         }
       ]

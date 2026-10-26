@@ -23,6 +23,10 @@
         {
           "date": "2026-10-25",
           "price": 715.0
+        },
+        {
+          "date": "2026-10-26",
+          "price": 715.0
         }
       ]
     },
@@ -42,6 +46,10 @@
         },
         {
           "date": "2026-10-25",
+          "price": 675.99
+        },
+        {
+          "date": "2026-10-26",
           "price": 675.99
         }
       ]
@@ -65,7 +73,7 @@
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/875852/placa-mae-gigabyte-b550m-ds3h-ac-r2-amd-am4-micro-atx-ddr4-rgb-wi-fi-bluetooth-preto-b550m-ds3h-ac-r2?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792947289_576a578e31b2651bb1c2827f1d36fd29&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/875852/placa-mae-gigabyte-b550m-ds3h-ac-r2-amd-am4-micro-atx-ddr4-rgb-wi-fi-bluetooth-preto-b550m-ds3h-ac-r2?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793006059_18304e8948d9d58d587bd4fd78d726fc&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 675.99,
       "min_price": 675.99,
@@ -78,6 +86,10 @@
         },
         {
           "date": "2026-10-25",
+          "price": 675.99
+        },
+        {
+          "date": "2026-10-26",
           "price": 675.99
         }
       ]
@@ -98,6 +110,10 @@
         },
         {
           "date": "2026-10-25",
+          "price": 823.52
+        },
+        {
+          "date": "2026-10-26",
           "price": 823.52
         }
       ]

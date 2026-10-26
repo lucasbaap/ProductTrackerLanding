@@ -95,6 +95,10 @@
         {
           "date": "2026-10-25",
           "price": 10748.95
+        },
+        {
+          "date": "2026-10-26",
+          "price": 10748.95
         }
       ]
     },
@@ -187,13 +191,17 @@
         {
           "date": "2026-10-25",
           "price": 10748.95
+        },
+        {
+          "date": "2026-10-26",
+          "price": 10748.95
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/928991/apple-iphone-17-pro-max-256gb-laranja-cosmico?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792942929_6ababc37b10d2cf72533c61fb527785e&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/928991/apple-iphone-17-pro-max-256gb-laranja-cosmico?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793010786_06bd932531e1ce9e5bb3a1feeccd7dad&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 9999.99,
       "min_price": 9999.99,
@@ -278,6 +286,10 @@
         },
         {
           "date": "2026-10-25",
+          "price": 9999.99
+        },
+        {
+          "date": "2026-10-26",
           "price": 9999.99
         }
       ]

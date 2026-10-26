@@ -11,7 +11,7 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/dp/B0GKQTTCMM?th=1&tag=producttrac0c-20",
       "has_affiliate": true,
-      "current_price": 7124.05,
+      "current_price": 6999.0,
       "min_price": 6649.05,
       "min_price_at": "2026-10-22",
       "monitored_since": "2026-09-20",
@@ -159,6 +159,10 @@
         {
           "date": "2026-10-25",
           "price": 6999.0
+        },
+        {
+          "date": "2026-10-26",
+          "price": 6999.0
         }
       ]
     },
@@ -178,6 +182,10 @@
         },
         {
           "date": "2026-10-25",
+          "price": 11789.1
+        },
+        {
+          "date": "2026-10-26",
           "price": 11789.1
         }
       ]

@@ -9,7 +9,7 @@
     {
       "marketplace": "shopee",
       "label": "Shopee",
-      "link": "https://s.shopee.com.br/AAIB24dvrd",
+      "link": "https://s.shopee.com.br/2gCDg4iJee",
       "has_affiliate": true,
       "current_price": 3649.0,
       "min_price": 3649.0,
@@ -22,6 +22,10 @@
         },
         {
           "date": "2026-10-25",
+          "price": 3649.0
+        },
+        {
+          "date": "2026-10-26",
           "price": 3649.0
         }
       ]
@@ -43,6 +47,10 @@
         {
           "date": "2026-10-25",
           "price": 2418.69
+        },
+        {
+          "date": "2026-10-26",
+          "price": 2418.69
         }
       ]
     },
@@ -63,6 +71,10 @@
         {
           "date": "2026-10-25",
           "price": 5729.99
+        },
+        {
+          "date": "2026-10-26",
+          "price": 5729.99
         }
       ]
     },
@@ -82,6 +94,10 @@
         },
         {
           "date": "2026-10-25",
+          "price": 4741.16
+        },
+        {
+          "date": "2026-10-26",
           "price": 4741.16
         }
       ]

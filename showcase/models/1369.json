@@ -23,13 +23,17 @@
         {
           "date": "2026-10-25",
           "price": 2379.15
+        },
+        {
+          "date": "2026-10-26",
+          "price": 2379.15
         }
       ]
     },
     {
       "marketplace": "shopee",
       "label": "Shopee",
-      "link": "https://s.shopee.com.br/1W0Cdq4SHp",
+      "link": "https://s.shopee.com.br/8pmqpoTURc",
       "has_affiliate": true,
       "current_price": 3815.11,
       "min_price": 3815.11,
@@ -42,6 +46,10 @@
         },
         {
           "date": "2026-10-25",
+          "price": 3815.11
+        },
+        {
+          "date": "2026-10-26",
           "price": 3815.11
         }
       ]

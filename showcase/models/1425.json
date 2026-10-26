@@ -11,7 +11,7 @@
       "label": "Mercado Livre",
       "link": "https://www.mercadolivre.com.br/p/MLB41975964?matt_word=balu1353476&matt_tool=29239275",
       "has_affiliate": true,
-      "current_price": 5200.0,
+      "current_price": 7999.0,
       "min_price": 5200.0,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -23,6 +23,10 @@
         {
           "date": "2026-10-25",
           "price": 5200.0
+        },
+        {
+          "date": "2026-10-26",
+          "price": 7999.0
         }
       ]
     },
@@ -267,13 +271,17 @@
         {
           "date": "2026-10-25",
           "price": 7499.0
+        },
+        {
+          "date": "2026-10-26",
+          "price": 7499.0
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/636960/console-playstation-5-pro-sony-ssd-2tb-com-controle-sem-fio-dualsense-branco-1000046552?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792947180_f32018b483a7fe75b2bdd92688a7d519&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/636960/console-playstation-5-pro-sony-ssd-2tb-com-controle-sem-fio-dualsense-branco-1000046552?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793010670_f9526cfd949e14729134ca82d6f00872&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 7499.0,
       "min_price": 7299.0,
@@ -398,6 +406,10 @@
         },
         {
           "date": "2026-10-25",
+          "price": 7499.0
+        },
+        {
+          "date": "2026-10-26",
           "price": 7499.0
         }
       ]

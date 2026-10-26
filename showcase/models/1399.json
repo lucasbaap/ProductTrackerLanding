@@ -23,13 +23,17 @@
         {
           "date": "2026-10-25",
           "price": 6332.22
+        },
+        {
+          "date": "2026-10-26",
+          "price": 6332.22
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/1016330/iphone-17-256gb-preto?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792949158_00ead3740e061d38f5c1998f5626487c&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/1016330/iphone-17-256gb-preto?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793003060_fb7e474b701e23e38e1ffa276e473eff&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 5699.0,
       "min_price": 5699.0,
@@ -42,6 +46,10 @@
         },
         {
           "date": "2026-10-25",
+          "price": 5699.0
+        },
+        {
+          "date": "2026-10-26",
           "price": 5699.0
         }
       ]

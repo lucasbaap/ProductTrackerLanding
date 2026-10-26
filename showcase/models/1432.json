@@ -23,6 +23,10 @@
         {
           "date": "2026-10-25",
           "price": 651.0
+        },
+        {
+          "date": "2026-10-26",
+          "price": 651.0
         }
       ]
     },
@@ -31,7 +35,7 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/ASUS-Placa-m%C3%A3e-B550M-K-USB3-2-PROTECTION/dp/B07ML1X93G?tag=producttrac0c-20",
       "has_affiliate": true,
-      "current_price": 588.05,
+      "current_price": 699.0,
       "min_price": 588.05,
       "min_price_at": "2026-10-25",
       "monitored_since": "2026-10-24",
@@ -43,6 +47,10 @@
         {
           "date": "2026-10-25",
           "price": 588.05
+        },
+        {
+          "date": "2026-10-26",
+          "price": 699.0
         }
       ]
     },

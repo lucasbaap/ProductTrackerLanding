@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T11:31:23-03:00",
+  "generated_at": "2026-10-27T17:25:05-03:00",
   "categories": [
     {
       "id": 43,
@@ -1193,7 +1193,7 @@
       "brand": "Intel",
       "image_url": null,
       "position": 29,
-      "price_from": 799.99,
+      "price_from": 749.99,
       "currency": "BRL",
       "model_count": 1
     },
@@ -3848,7 +3848,7 @@
       "slug": "intel-core-ultra-5-245kf",
       "image_url": null,
       "position": 0,
-      "price_from": 799.99,
+      "price_from": 749.99,
       "currency": "BRL",
       "stores": [
         "mercadolibre",

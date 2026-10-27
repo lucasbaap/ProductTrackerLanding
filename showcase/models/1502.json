@@ -11,7 +11,7 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/dp/B097K2WBL3?tag=producttrac0c-20",
       "has_affiliate": true,
-      "current_price": 899.0,
+      "current_price": 999.99,
       "min_price": 845.0,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -27,13 +27,17 @@
         {
           "date": "2026-10-26",
           "price": 899.0
+        },
+        {
+          "date": "2026-10-27",
+          "price": 999.99
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/909720/kingston-kf432c16bbk2-16-kit-de-memorias-de-16gb-2-x-8gb-dimm-ddr4-3200mhz-fury-beast-black-1-35v-1rx8-288-pinos-pa",
+      "link": "https://www.kabum.com.br/produto/909720/kingston-kf432c16bbk2-16-kit-de-memorias-de-16gb-2-x-8gb-dimm-ddr4-3200mhz-fury-beast-black-1-35v-1rx8-288-pinos-pa?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793090488_480b1ecff625707a68454cadc98ae2b5&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 1158.05,
       "min_price": 1158.05,
@@ -50,6 +54,10 @@
         },
         {
           "date": "2026-10-26",
+          "price": 1158.05
+        },
+        {
+          "date": "2026-10-27",
           "price": 1158.05
         }
       ]

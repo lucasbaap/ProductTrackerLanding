@@ -11,7 +11,7 @@
       "label": "Mercado Livre",
       "link": "https://www.mercadolivre.com.br/p/MLB2089094099?matt_word=balu1353476&matt_tool=29239275",
       "has_affiliate": true,
-      "current_price": 702.02,
+      "current_price": 754.75,
       "min_price": 702.02,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -27,6 +27,10 @@
         {
           "date": "2026-10-26",
           "price": 702.02
+        },
+        {
+          "date": "2026-10-27",
+          "price": 754.75
         }
       ]
     },
@@ -51,13 +55,17 @@
         {
           "date": "2026-10-26",
           "price": 1257.0
+        },
+        {
+          "date": "2026-10-27",
+          "price": 1257.0
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/696999/processador-intel-core-ultra-5-225-3-3ghz-4-9ghz-turbo-cache-20mb-10-nucleos-10-threads-lga-1851-com-video-integrado-bx80768225?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792954661_348b391ed450ae31d19d75e38fef0484&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/696999/processador-intel-core-ultra-5-225-3-3ghz-4-9ghz-turbo-cache-20mb-10-nucleos-10-threads-lga-1851-com-video-integrado-bx80768225?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793093937_7c9ce26f79eb81a021378a2511454402&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 1249.99,
       "min_price": 1249.99,
@@ -75,6 +83,10 @@
         {
           "date": "2026-10-26",
           "price": 1249.99
+        },
+        {
+          "date": "2026-10-27",
+          "price": 1249.99
         }
       ]
     },
@@ -83,7 +95,7 @@
       "label": "Terabyte",
       "link": "https://www.terabyteshop.com.br/produto/34576/processador-intel-core-ultra-5-225-33-ghz-49ghz-turbo-serie-2-10-cores-10-threads-lga-1851-bx80768225",
       "has_affiliate": true,
-      "current_price": 1058.81,
+      "current_price": 1529.4,
       "min_price": 1058.81,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -99,6 +111,10 @@
         {
           "date": "2026-10-26",
           "price": 1058.81
+        },
+        {
+          "date": "2026-10-27",
+          "price": 1529.4
         }
       ]
     }

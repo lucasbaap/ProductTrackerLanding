@@ -11,20 +11,25 @@
       "label": "KaBuM!",
       "link": "https://www.kabum.com.br/produto/1032775/processador-intel-core-ultra-7-270k-plus-turbo-ate-5-5ghz-36mb-cache-lga-1851-bx80768270k",
       "has_affiliate": true,
-      "current_price": 3815.78,
-      "min_price": null,
-      "min_price_at": null,
-      "monitored_since": "2026-10-24",
-      "history": []
+      "current_price": 3264.99,
+      "min_price": 3264.99,
+      "min_price_at": "2026-10-27",
+      "monitored_since": "2026-10-27",
+      "history": [
+        {
+          "date": "2026-10-27",
+          "price": 3264.99
+        }
+      ]
     },
     {
       "marketplace": "pichau",
       "label": "Pichau",
       "link": "https://www.pichau.com.br/processador-intel-core-ultra-7-270k-plus-24-core-24-threads-3-7ghz-5-5ghz-turbo-cache-36mb-lga1851-bx80768270k",
       "has_affiliate": true,
-      "current_price": 2635.28,
-      "min_price": 2635.28,
-      "min_price_at": "2026-10-24",
+      "current_price": 2588.22,
+      "min_price": 2588.22,
+      "min_price_at": "2026-10-27",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -38,6 +43,10 @@
         {
           "date": "2026-10-26",
           "price": 2635.28
+        },
+        {
+          "date": "2026-10-27",
+          "price": 2588.22
         }
       ]
     },
@@ -61,6 +70,10 @@
         },
         {
           "date": "2026-10-26",
+          "price": 2623.52
+        },
+        {
+          "date": "2026-10-27",
           "price": 2623.52
         }
       ]

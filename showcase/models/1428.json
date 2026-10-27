@@ -27,13 +27,17 @@
         {
           "date": "2026-10-26",
           "price": 1624.77
+        },
+        {
+          "date": "2026-10-27",
+          "price": 1624.77
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/332861/placa-mae-gigabyte-b550-aorus-elite-v2-amd-am4-atx-ddr4?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792952768_d2dedce1fcfe9ff1092f82fe7f475410&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/332861/placa-mae-gigabyte-b550-aorus-elite-v2-amd-am4-atx-ddr4?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793097465_b00aea9cd8e4ea2a4a63c67b92bc13ea&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 1199.0,
       "min_price": 1199.0,
@@ -50,6 +54,10 @@
         },
         {
           "date": "2026-10-26",
+          "price": 1199.0
+        },
+        {
+          "date": "2026-10-27",
           "price": 1199.0
         }
       ]
@@ -74,6 +82,10 @@
         },
         {
           "date": "2026-10-26",
+          "price": 1329.4
+        },
+        {
+          "date": "2026-10-27",
           "price": 1329.4
         }
       ]

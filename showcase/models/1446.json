@@ -27,6 +27,10 @@
         {
           "date": "2026-10-26",
           "price": 2853.9
+        },
+        {
+          "date": "2026-10-27",
+          "price": 2853.9
         }
       ]
     },
@@ -51,15 +55,19 @@
         {
           "date": "2026-10-26",
           "price": 2283.64
+        },
+        {
+          "date": "2026-10-27",
+          "price": 2283.64
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/677452/placa-mae-asus-tuf-gaming-z890-plus-wifi7-4xddr5-chipset-z890-atx?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792816958_8a8e42c97c1faa3e5e74b2b15451f91c&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/677452/placa-mae-asus-tuf-gaming-z890-plus-wifi7-4xddr5-chipset-z890-atx?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793103434_8666cb602f6ceabfe6c8ee4f631f55c1&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
-      "current_price": 2684.55,
+      "current_price": 2937.5,
       "min_price": 2684.55,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -75,6 +83,10 @@
         {
           "date": "2026-10-26",
           "price": 2684.55
+        },
+        {
+          "date": "2026-10-27",
+          "price": 2937.5
         }
       ]
     },
@@ -99,6 +111,10 @@
         {
           "date": "2026-10-26",
           "price": 2941.16
+        },
+        {
+          "date": "2026-10-27",
+          "price": 2941.16
         }
       ]
     },
@@ -122,6 +138,10 @@
         },
         {
           "date": "2026-10-26",
+          "price": 2823.52
+        },
+        {
+          "date": "2026-10-27",
           "price": 2823.52
         }
       ]

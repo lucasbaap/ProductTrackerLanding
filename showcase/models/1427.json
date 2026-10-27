@@ -11,7 +11,7 @@
       "label": "Mercado Livre",
       "link": "https://www.mercadolivre.com.br/p/MLB37332888?matt_word=balu1353476&matt_tool=29239275",
       "has_affiliate": true,
-      "current_price": 3752.5,
+      "current_price": 3265.0,
       "min_price": 3265.0,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -27,6 +27,10 @@
         {
           "date": "2026-10-26",
           "price": 3752.5
+        },
+        {
+          "date": "2026-10-27",
+          "price": 3265.0
         }
       ]
     },
@@ -51,13 +55,17 @@
         {
           "date": "2026-10-26",
           "price": 4579.0
+        },
+        {
+          "date": "2026-10-27",
+          "price": 4579.0
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/200089/console-microsoft-xbox-series-s-512gb-branco-rrs-00006?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792951844_69177e51413c8f35557accc562c3013a&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/200089/console-microsoft-xbox-series-s-512gb-branco-rrs-00006?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793091221_1066e85aa4bb5204c39a285969df46f7&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 4799.0,
       "min_price": 4799.0,
@@ -74,6 +82,10 @@
         },
         {
           "date": "2026-10-26",
+          "price": 4799.0
+        },
+        {
+          "date": "2026-10-27",
           "price": 4799.0
         }
       ]

@@ -9,7 +9,7 @@
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/1054518/smartphone-motorola-edge-70-fusion-512gb-5g-12gb-ram-12gb-ram-boost-tela-6-8-cam-tripla-selfie-50mp-roxo?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792951754_74e80f040798913a93b351ce2466373d&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/1054518/smartphone-motorola-edge-70-fusion-512gb-5g-12gb-ram-12gb-ram-boost-tela-6-8-cam-tripla-selfie-50mp-roxo?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793098473_b384aa9a88cc5f33ffee83d13df80e68&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 3199.0,
       "min_price": 3199.0,
@@ -26,6 +26,10 @@
         },
         {
           "date": "2026-10-26",
+          "price": 3199.0
+        },
+        {
+          "date": "2026-10-27",
           "price": 3199.0
         }
       ]

@@ -27,6 +27,10 @@
         {
           "date": "2026-10-26",
           "price": 771.0
+        },
+        {
+          "date": "2026-10-27",
+          "price": 771.0
         }
       ]
     },
@@ -35,9 +39,9 @@
       "label": "AliExpress",
       "link": "https://www.aliexpress.com/item/1005012783101673.html",
       "has_affiliate": true,
-      "current_price": 466.88,
-      "min_price": 466.88,
-      "min_price_at": "2026-10-24",
+      "current_price": 461.68,
+      "min_price": 461.68,
+      "min_price_at": "2026-10-27",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -51,13 +55,17 @@
         {
           "date": "2026-10-26",
           "price": 466.88
+        },
+        {
+          "date": "2026-10-27",
+          "price": 461.68
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/957170/ssd-sandisk-plus-500gb-545mb-s-sdssda-500g-g28?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792945558_935cfba32f701bf1cfa5adacaf4c7b2e&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/957170/ssd-sandisk-plus-500gb-545mb-s-sdssda-500g-g28?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793098425_31a827e72df39d09dc4e47808defa293&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 599.75,
       "min_price": 599.75,
@@ -74,6 +82,10 @@
         },
         {
           "date": "2026-10-26",
+          "price": 599.75
+        },
+        {
+          "date": "2026-10-27",
           "price": 599.75
         }
       ]
@@ -99,6 +111,10 @@
         {
           "date": "2026-10-26",
           "price": 717.64
+        },
+        {
+          "date": "2026-10-27",
+          "price": 717.64
         }
       ]
     },
@@ -122,6 +138,10 @@
         },
         {
           "date": "2026-10-26",
+          "price": 823.41
+        },
+        {
+          "date": "2026-10-27",
           "price": 823.41
         }
       ]

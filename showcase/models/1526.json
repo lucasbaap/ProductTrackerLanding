@@ -11,7 +11,7 @@
       "label": "Mercado Livre",
       "link": "https://www.mercadolivre.com.br/p/MLB62060928?matt_word=balu1353476&matt_tool=29239275",
       "has_affiliate": true,
-      "current_price": 889.0,
+      "current_price": 1067.0,
       "min_price": 889.0,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -23,6 +23,10 @@
         {
           "date": "2026-10-25",
           "price": 889.0
+        },
+        {
+          "date": "2026-10-27",
+          "price": 1067.0
         }
       ]
     },
@@ -47,6 +51,10 @@
         {
           "date": "2026-10-26",
           "price": 889.0
+        },
+        {
+          "date": "2026-10-27",
+          "price": 889.0
         }
       ]
     },
@@ -55,9 +63,9 @@
       "label": "AliExpress",
       "link": "https://www.aliexpress.com/item/1005006272586809.html",
       "has_affiliate": true,
-      "current_price": 440.99,
-      "min_price": 440.99,
-      "min_price_at": "2026-10-24",
+      "current_price": 435.99,
+      "min_price": 435.99,
+      "min_price_at": "2026-10-27",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -71,13 +79,17 @@
         {
           "date": "2026-10-26",
           "price": 440.99
+        },
+        {
+          "date": "2026-10-27",
+          "price": 435.99
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/904676/ssd-sandisk-plus-sata-1tb-leitura-545mb-s-gravacao-515mb-s-sdssda-1t00-g28?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793008856_d7c55fcc589f49c764469abc65d1186d&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/904676/ssd-sandisk-plus-sata-1tb-leitura-545mb-s-gravacao-515mb-s-sdssda-1t00-g28?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793100751_d0acc44bbc651de189d33055321d20b3&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 1599.99,
       "min_price": 1599.99,
@@ -94,6 +106,10 @@
         },
         {
           "date": "2026-10-26",
+          "price": 1599.99
+        },
+        {
+          "date": "2026-10-27",
           "price": 1599.99
         }
       ]

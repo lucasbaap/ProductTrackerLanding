@@ -27,6 +27,10 @@
         {
           "date": "2026-10-26",
           "price": 1180.0
+        },
+        {
+          "date": "2026-10-27",
+          "price": 1180.0
         }
       ]
     },
@@ -35,7 +39,7 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/dp/B0CQ3142LB?tag=producttrac0c-20",
       "has_affiliate": true,
-      "current_price": 1152.93,
+      "current_price": 1340.0,
       "min_price": 1152.93,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -51,13 +55,17 @@
         {
           "date": "2026-10-26",
           "price": 1152.93
+        },
+        {
+          "date": "2026-10-27",
+          "price": 1340.0
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/904658/processador-intel-core-i5-14400f-2-5ghz-4-70-ghz-max-turbo-cache-20mb-10-nucleos-16-threads-lga-1700-sem-video-integrado-bx8071514400f?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792952844_8010aab8924def6e5b7d7ebd7aff3b8a&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/904658/processador-intel-core-i5-14400f-2-5ghz-4-70-ghz-max-turbo-cache-20mb-10-nucleos-16-threads-lga-1700-sem-video-integrado-bx8071514400f?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793103324_9f7b4a3bb7eb75787402140c60cd6048&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 1199.99,
       "min_price": 1199.99,
@@ -74,6 +82,10 @@
         },
         {
           "date": "2026-10-26",
+          "price": 1199.99
+        },
+        {
+          "date": "2026-10-27",
           "price": 1199.99
         }
       ]
@@ -114,6 +126,10 @@
         },
         {
           "date": "2026-10-26",
+          "price": 1411.75
+        },
+        {
+          "date": "2026-10-27",
           "price": 1411.75
         }
       ]

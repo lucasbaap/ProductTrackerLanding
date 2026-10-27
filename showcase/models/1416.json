@@ -27,13 +27,17 @@
         {
           "date": "2026-10-26",
           "price": 1583.33
+        },
+        {
+          "date": "2026-10-27",
+          "price": 1583.33
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/1038266/smartphone-motorola-moto-g47-5g-rosa-tela-de-6-7-256gb-4gb-ram-e-camera-de-50-mp-sony-lytia-600-bivolt?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792942867_25b807aa4db3cb594187f40b124155aa&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/1038266/smartphone-motorola-moto-g47-5g-rosa-tela-de-6-7-256gb-4gb-ram-e-camera-de-50-mp-sony-lytia-600-bivolt?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793092185_ed45a07fbdc11195f8041b8c579f7895&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 2098.95,
       "min_price": 2098.95,
@@ -50,6 +54,10 @@
         },
         {
           "date": "2026-10-26",
+          "price": 2098.95
+        },
+        {
+          "date": "2026-10-27",
           "price": 2098.95
         }
       ]

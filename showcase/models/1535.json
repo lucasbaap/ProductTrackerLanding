@@ -27,6 +27,10 @@
         {
           "date": "2026-10-26",
           "price": 1449.99
+        },
+        {
+          "date": "2026-10-27",
+          "price": 1449.99
         }
       ]
     },
@@ -51,6 +55,10 @@
         {
           "date": "2026-10-26",
           "price": 1899.0
+        },
+        {
+          "date": "2026-10-27",
+          "price": 1899.0
         }
       ]
     },
@@ -59,9 +67,9 @@
       "label": "AliExpress",
       "link": "https://www.aliexpress.com/item/1005009445384546.html",
       "has_affiliate": true,
-      "current_price": 1030.84,
-      "min_price": 1030.84,
-      "min_price_at": "2026-10-24",
+      "current_price": 1018.99,
+      "min_price": 1018.99,
+      "min_price_at": "2026-10-27",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -75,6 +83,10 @@
         {
           "date": "2026-10-26",
           "price": 1030.84
+        },
+        {
+          "date": "2026-10-27",
+          "price": 1018.99
         }
       ]
     },
@@ -98,6 +110,10 @@
         },
         {
           "date": "2026-10-26",
+          "price": 1482.34
+        },
+        {
+          "date": "2026-10-27",
           "price": 1482.34
         }
       ]

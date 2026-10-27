@@ -27,6 +27,10 @@
         {
           "date": "2026-10-26",
           "price": 1017.0
+        },
+        {
+          "date": "2026-10-27",
+          "price": 1017.0
         }
       ]
     },
@@ -47,13 +51,17 @@
         {
           "date": "2026-10-25",
           "price": 1413.25
+        },
+        {
+          "date": "2026-10-27",
+          "price": 1413.25
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/904655/processador-intel-core-i3-14100-3-5ghz-4-70-ghz-max-turbo-cache-12mb-4-nucleos-8-threads-lga-1700-com-video-integrado-bx8071514100-?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792942892_0097b8abccf341a0eaff7e08bc7249c8&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/904655/processador-intel-core-i3-14100-3-5ghz-4-70-ghz-max-turbo-cache-12mb-4-nucleos-8-threads-lga-1700-com-video-integrado-bx8071514100-?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793104163_5a505c134c760a6a76c5f3435c8fda68&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 899.99,
       "min_price": 899.99,
@@ -70,6 +78,10 @@
         },
         {
           "date": "2026-10-26",
+          "price": 899.99
+        },
+        {
+          "date": "2026-10-27",
           "price": 899.99
         }
       ]
@@ -94,6 +106,10 @@
         },
         {
           "date": "2026-10-26",
+          "price": 1035.28
+        },
+        {
+          "date": "2026-10-27",
           "price": 1035.28
         }
       ]

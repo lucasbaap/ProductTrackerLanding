@@ -9,7 +9,7 @@
     {
       "marketplace": "shopee",
       "label": "Shopee",
-      "link": "https://s.shopee.com.br/AUv40rdSwo",
+      "link": "https://s.shopee.com.br/6VOxoVo88M",
       "has_affiliate": true,
       "current_price": 1529.38,
       "min_price": 1529.38,
@@ -27,13 +27,17 @@
         {
           "date": "2026-10-26",
           "price": 1529.38
+        },
+        {
+          "date": "2026-10-27",
+          "price": 1529.38
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/872628/ssd-sandisk-wd-green-sata-500gb-2-5-leitura-545mb-s-gravacao-430mb-s-wds500g5g0a?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792945373_50483b464d1a749d799f3fa8d882d71f&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/872628/ssd-sandisk-wd-green-sata-500gb-2-5-leitura-545mb-s-gravacao-430mb-s-wds500g5g0a?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793103306_8fc0fa5a06e5c3eef770997516ce95fb&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 599.99,
       "min_price": 599.99,
@@ -50,6 +54,10 @@
         },
         {
           "date": "2026-10-26",
+          "price": 599.99
+        },
+        {
+          "date": "2026-10-27",
           "price": 599.99
         }
       ]

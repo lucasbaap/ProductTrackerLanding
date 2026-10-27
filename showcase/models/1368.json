@@ -27,13 +27,17 @@
         {
           "date": "2026-10-26",
           "price": 6113.14
+        },
+        {
+          "date": "2026-10-27",
+          "price": 6113.14
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/1065989/celular-samsung-galaxy-z-flip8-256gb-12gb-ram-preto-6-9-cam-dupla-50mp-o-flip-mais-leve-do-mundo?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792946299_1df06dce42da7d8d844385f36314ccec&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/1065989/celular-samsung-galaxy-z-flip8-256gb-12gb-ram-preto-6-9-cam-dupla-50mp-o-flip-mais-leve-do-mundo?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793098414_9ba313057e1c059a108127041bf57394&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 7739.1,
       "min_price": 7739.1,
@@ -50,6 +54,10 @@
         },
         {
           "date": "2026-10-26",
+          "price": 7739.1
+        },
+        {
+          "date": "2026-10-27",
           "price": 7739.1
         }
       ]

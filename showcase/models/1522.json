@@ -11,7 +11,7 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/dp/B08QBMD6P4?tag=producttrac0c-20",
       "has_affiliate": true,
-      "current_price": 1786.57,
+      "current_price": 1928.62,
       "min_price": 1786.57,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -27,17 +27,21 @@
         {
           "date": "2026-10-26",
           "price": 1786.57
+        },
+        {
+          "date": "2026-10-27",
+          "price": 1928.62
         }
       ]
     },
     {
       "marketplace": "aliexpress",
       "label": "AliExpress",
-      "link": "https://s.click.aliexpress.com/s/fwx308cRD9Eny963e3KDdYxyIpNj8TXVr7saiF9Um5rMUg1kZtJALLnfa2LNXtiVgnxdD8Og6MmvwBoxhnSYQGM6r0c08U4TfX8DFGo7vviCuu3q62Q60OAhRZcqm3G8PtwM69xY7TOEWRrvulP5ukZQ4uQbBBtaVsdr6EffAqVmp3O5GyUANU2DoA3dJufNhDfh7KOlLgKIvRVhDxRESHLmea6fTE26gLUqKEUuuizJiLENrCbax94DZHDu8WhaXMN8fDE1HOLt4j1KZUcj471WKjwUetlj4ZWgS3yWx6lzuERHNTI3Zmy1QdFvD0l5CGMrCHZlk71ZjQXrOO2WJnsyGqPVjwtGB8JidzbLxmaDHrfftjMhQbptxaPaFKbMG7wkkkvr0p3c8PdsP7WJxSLE8SGdJgeDREE3UXWEdazxk5lLaufVVBXYN2us2gV4lKLE0lmeXIqDgxpJgsAKwKs1HSr0KzRIt0bBNMRjLJ9R31RlDpqw8t16AuwmSO4UAO7Ta4goLtwhYvi98Z7MpgNb1CtYimeuHqz5MnuRMmJ8cmrmjVABFNXPVnXjwHsfStQCaq1aIrN25NibljfxfxAXmnK8E1RIPiLUsYotEVzOW2BPeZ5qnbnnFROOLrJQUmqmoxM5YepKq2Xecn8HoptoxuqixUnjY13eQlfNuoLE9JFSwky6SOVYt6kJAGwwOOljig2QFzinVQSOszzC8INzyVL98G3kXwDHeHXOLnfchy925R8TZvEIZvGX1ncYXRJL52JUt6urWnfA9S5H8yQ33tkWTo2sm2Q1pDBSo9kBOKkJoz0cQflJoF6L4KHeHFr5PwxUr1h1PizAvVqzk4VEXahJS13XXyunW7qUSSkg0Zm1GmUzb3iXVMNSFFoPWtYvFY9u2vfzzbQ7vScb9irha8TUGsiJfwvyqMo82MkPib3Qv06egmr774mouXnOW24dDqPS2zh1phaEIJ",
+      "link": "https://s.click.aliexpress.com/s/fwx308cRD9Eny963e3KDdYxyIpNj8TXVr7saiF9Um5rMUg1kZtJALLnfa2LNXtiVgnxdD8Og6MmvwBoxhnSYQGM6r0c08U4TfX8DFGo7vviCuu3q62Q60OAhRZcqm3G8PtwM69xY7TOEWRrvulP5ukZQ4uQbBBtaVsdr6EffAqVmp3O5GyUANU2DoA3dJufNhDfh7KOlLgKIvRVhDxRESHLmea6fTE26gLUqKEUuuizJiLENrCbax94DZHDu8WhaXMN8fDE1HOLt4j1KZUcj471WKjwUetlj4ZWgS3yWx6lzuERHNTI3Zmy1QdFvD0l5CGMrCHZlk71ZjQXrOO2WJnsyGqPVjwtGB8JidzbLxmaDHrfftjMhQbptxaPaFKbMG7wkkkvr0p3c8PdsP7WJxSLE8SGdJgeDREE3UXWEdazxk5lLaufVVBXYN2us2gV4lKLE0lmeXIqDgxpJgsAKwKs1HSr0KzRIt0bBNMRjLJ9R31RlDpqw8t16AuwmSO4UAO7SzWcOFLZ0VPKFKLS7aCC4F5cThiB071MdlbukdGUWkJR9NnJsXiI0OJ1KnYH3g94oDllevLzC3FjnV40pn237HhTS5YZZhNfptxVYDDs8ZoEqtEi8hqynC01i2Nc1uKpNXO8aI3g4tiaaPWMkr1FQcEATA1clZ9bzAwfdOS4Z4Jie6oVJ6MTiIxXZvQqKUFQiIz9AdpDDcsCFsDu4ObnSJVOefh6isETi06jyEPHs0NCY01UHwz8JOaAn8vIw2OLAmyXmsDTsW1iwaMGG9m34PReHYctlJxPjbm7ogHTM0kDlcyFHVhOKngEFjZ76brsuKz62Ehasq3bzvdxkyt6z34JqKd8FsYgZGnxm41zIBIGkaZPJkPUcWfIlBl8vpqS37LOIEntZR4E1RkjxlyXAlGMQTqyIXAfSOZLs47KxXZVzLGDd5zoZ8x0QSbwVqCsSHrjMSM9Cfp9Io3",
       "has_affiliate": true,
-      "current_price": 321.56,
-      "min_price": 321.56,
-      "min_price_at": "2026-10-24",
+      "current_price": 317.98,
+      "min_price": 317.98,
+      "min_price_at": "2026-10-27",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -51,13 +55,17 @@
         {
           "date": "2026-10-26",
           "price": 321.56
+        },
+        {
+          "date": "2026-10-27",
+          "price": 317.98
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/647831/ssd-500gb-2-5-sata-3-870-evo-560mb-s-leit-530mb-s-grav-mz-77e500b-eu-samsung?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792954497_ca1f453d90e2d12c933fec34d974abb4&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/647831/ssd-500gb-2-5-sata-3-870-evo-560mb-s-leit-530mb-s-grav-mz-77e500b-eu-samsung?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793096567_f5eaef25b16680296bfad3f8637e59c3&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 862.83,
       "min_price": 862.83,
@@ -74,6 +82,10 @@
         },
         {
           "date": "2026-10-26",
+          "price": 862.83
+        },
+        {
+          "date": "2026-10-27",
           "price": 862.83
         }
       ]

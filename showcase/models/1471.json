@@ -27,6 +27,10 @@
         {
           "date": "2026-10-26",
           "price": 2352.93
+        },
+        {
+          "date": "2026-10-27",
+          "price": 2352.93
         }
       ]
     },
@@ -51,13 +55,17 @@
         {
           "date": "2026-10-26",
           "price": 2719.9
+        },
+        {
+          "date": "2026-10-27",
+          "price": 2719.9
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/645178/processador-intel-core-ultra-7-265k-3-9ghz-5-5ghz-turbo-cache-30mb-20-nucleos-20-threads-lga-1851-com-video-integrado-bx80768265k?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792944637_d5f311805179e4fedcea3e1f14977f74&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/645178/processador-intel-core-ultra-7-265k-3-9ghz-5-5ghz-turbo-cache-30mb-20-nucleos-20-threads-lga-1851-com-video-integrado-bx80768265k?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793093876_7b9b16665da03a1ddc934c106d4db3fc&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 1999.99,
       "min_price": 1999.99,
@@ -74,6 +82,10 @@
         },
         {
           "date": "2026-10-26",
+          "price": 1999.99
+        },
+        {
+          "date": "2026-10-27",
           "price": 1999.99
         }
       ]
@@ -92,11 +104,11 @@
     {
       "marketplace": "aliexpress",
       "label": "AliExpress",
-      "link": "https://s.click.aliexpress.com/s/NdpwztbAIgDMmxGbP8fFks7yUFfsHjzlImSYmA68h7xlMRgzueFsRgokQ9f9hcpVKttxtQE2VzIoqkXJXrpOr6uR3zv7mP4CDO9CddoFf4t0QE5DXPy8Pgjhz4irfQSEjEGUmy5yF3A5gJ9h3NYjLMgqIMqa3zcpq5E2BC3W5EbV40Dm9buQxWpZzw1lbX8Zm2kZtNIa4KyDieNjsH7IU6Yv8StELKVvT9r4eFAaXPGhwHsgaDqdNcmY116r3GC2YvmvR57S69fGyn8Tt4pCtmLccxQz3g0L1ZKu00BPwYOT3BF4QZOqRqMDB0DHu4eJY7J1Y0PlKerFtw2iSIVLy8uU7dweBkjLgum3QJcrsubwW9bbZGnyZbWlt2oxpFSbrphTQrwGUl8EVT7pDHKDtUtDhLRkNTpZvHitmVD5pvbtu2bukxBh4wTEYiYG9pdFgwjFb046e4FUtYAbGAcpIIIh24WhzCsDJ20hv8HjMQRjB9tYNQ86O3ZQUm601uowrnFXZelMW7BXHTiHQFDA3MBnv3LPN4pC3R5cDNA9X5HJI8EncmgoGXh99UATiH2RWXgALpLRQt1LiF6AWw4tLqyyql3Dwl5hldI6utdBtTYB5slKMuKHh2w3b5FzSnZrfpqmZ2AOMk5cgecOdOQ4rlVfZ76TLhe348UHWZWA5vuv209rRZouc1dLMQazEgKoaX1fKPN5EC8LEq2oJsQF9y2kZx989PHvMr1WSUUf2ACdJJwjfQJZCuX6zQ7D6NrG23GehrUA35xUujAF7dNUv7oNPP8dlr1BexUjidWmaSTIW3zkN29SWTTf1xHj7vMmd68AVtuxd2H3fuiSjss6wLC0O9wN365AWa43VQrpyZHHd811acJiAl66uliOPMHe0QBF8Jdj7HZHX5FdYQTj5DQD2pykKB1PhZSE2djq2azzhQn8TCgwQFQdcDQ8gaTRKdHPmVQycTdEuGuJVT4SMnRCFmjwEAarlyFavLjJIoLq3",
+      "link": "https://s.click.aliexpress.com/s/NdpwztbAIgDMmxGbP8fFks7yUFfsHjzlImSYmA68h7xlMRgzueFsRgokQ9f9hcpVKttxtQE2VzIoqkXJXrpOr6uR3zv7mP4CDO9CddoFf4t0QE5DXPy8Pgjhz4irfQSEjEGUmy5yF3A5gJ9h3NYjLMgqIMqa3zcpq5E2BC3W5EbV40Dm9buQxWpZzw1lbX8Zm2kZtNIa4KyDieNjsH7IU6Yv8StELKVvT9r4eFAaXPGhwHsgaDqdNcmY116r3GC2YvmvR57S69fGyn8Tt4pCtmLccxQz3g0L1ZKu00BPwYOT3BF4QZOqRqMDB0DHu4eJY7J1Y0PlKerFtw2iSIVLy8uU7dweBkjLgum3QJcrsubwW9bbZGnyZbWlt2oxpFSbrphTQrwGUl8EVT7pDHKDtUtDhLRkNTpZvHitmVD5pvbtu2bukxBh4wTEYiYG9pdFgwjFb046e4FUtYAbGAcpIIIh24WhzCsDJ20hv8HjMQRjB9tYNQ86O3ZQUm601uowrnFX8Ya58MNNgqaRYVdsn60f4SPMIGdWVr4FXJbr9xvYY3tYJWy6KwB603NX5P0xxJXhmEey7nxAirQU3YGStmpoxYwmEBrP9SFzPqVCbicWWtgTN7d3DP7DeIcQsafQEMsMCRHTPLNiXl2YLx0w7taSa3wix0ppxrZ9cAl8ikHTcrzCUBiByOcqmxTLXuxhBnFmzfEKYH71ZPpViEHtYBD06nhGB2kKUGW4ijEEoZUKYx2488xQhH1Jxshvra5cB3UztSMXPS1RGlFOCrurRw4p0JOLxHNeIKtmPZ8Rz87cRGvklCP4lqZUZa9qR7IWpVZLTxSdz8NwCjIQYP0ttwrBE4GMqrzSsC9HqWPsXuufXiH8nJk6LeBeJaPCKBldmVniitLD6qBRO6dxMyPiU54hICnVlp2ZJwYLtHRBSCcYrKrZaO2sMQZ7P1F4MKBPfeugoKuTRrr0lzFWnLv0gzoqW8Ao6WA2T6pAAc92LdlDZ",
       "has_affiliate": true,
-      "current_price": 2354.11,
-      "min_price": 2354.11,
-      "min_price_at": "2026-10-24",
+      "current_price": 2327.9,
+      "min_price": 2327.9,
+      "min_price_at": "2026-10-27",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -110,6 +122,10 @@
         {
           "date": "2026-10-26",
           "price": 2354.11
+        },
+        {
+          "date": "2026-10-27",
+          "price": 2327.9
         }
       ]
     }

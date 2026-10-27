@@ -27,6 +27,10 @@
         {
           "date": "2026-10-26",
           "price": 841.0
+        },
+        {
+          "date": "2026-10-27",
+          "price": 841.0
         }
       ]
     },
@@ -35,7 +39,7 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/MSI-B550M-PRO-VDH-ProSeries-Micro-ATX/dp/B089D1YG11?tag=producttrac0c-20",
       "has_affiliate": true,
-      "current_price": 759.99,
+      "current_price": 816.11,
       "min_price": 759.99,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -51,17 +55,21 @@
         {
           "date": "2026-10-26",
           "price": 759.99
+        },
+        {
+          "date": "2026-10-27",
+          "price": 816.11
         }
       ]
     },
     {
       "marketplace": "aliexpress",
       "label": "AliExpress",
-      "link": "https://s.click.aliexpress.com/s/fwx308cRD9Eny963e3KDdYxyIpNj8TXVr7saiF9Um5rMUg1kZtJALLnfa2LNXtiVgnxdD8Og6MmvwBoxhnSYQGM6r0c08U4TfX8DFGo7vviCuu3q62Q60OAhRZcqm3G8PtwM69xY7TOEWRrvulP5ukZQ4uQbBBtaVsdr6EffAqVmp3O5GyUANU2DoA3dJufNhDfh7KOlLgKIvRVhDxRESHLmea6fTE26gLUqKEUuuizJiLENrCbax94DZHDu8WhaXMN8fDE1HOLt4j1KZUcj471WKjwUetlj4ZWgS3yWx6lzuERHNTI3Zmy1QdFv50p1dw6hj0SltZKgU8qEo5UEkRjecJQJ74CfBePQYOV157kxzTCkmXiSRwsGglzSiBBsYwgikw1ceiCL83RlmoBk1e2h6wI39gfrjkrYadYPbZxeSWT5q4DXTUSsLtFE9je96NrHpMwXnWfDRQJE9g9LNPGNjqDOuIbHZ1SIOBY5lfI7bGuNmCYxpaSDj6ExlwO40QL0IytYvwjNUS1eu0OTK88HdobhyJirnn3OJYmQazVy1chskjJvVRHJ6fLFDNnnuLxix2C0oWJR2t0MDZYV2Un8oqdSRHMabbWn3Mb0kcKrApJ4oujwaf6HiyPP485XWspNWMEiHSWQdalwGdeorNVT0AFUTsMTGjY3S9wQFuQxcqboK43kIxzfEYgi3TskO9zGlJPUr1aINYQPMwFtfgNEbDDkvcohahgpii8Ye41U5SHoyGvrMzAcaixcwc3n7RC0lH6LKvkMU7ATG2GLQkRcFaqZsU4HN2eeXDarIpDKo5b2DBgSh6wNtw0UBn5WAGQxoaNBrOm1K8nliqdtd7PZF913JxcM8Q73YElS8JLoBAqhgEJ1PjP4em5RWywY1Lw0d2DFnvjem9fQvmL2v2G6tdWAcziKnSIwkOBVBWmqkzT72PoDxPJSjLBKrWztZWAFCGsEOuByoLT3Fd",
+      "link": "https://s.click.aliexpress.com/s/fwx308cRD9Eny963e3KDdYxyIpNj8TXVr7saiF9Um5rMUg1kZtJALLnfa2LNXtiVgnxdD8Og6MmvwBoxhnSYQGM6r0c08U4TfX8DFGo7vviCuu3q62Q60OAhRZcqm3G8PtwM69xY7TOEWRrvulP5ukZQ4uQbBBtaVsdr6EffAqVmp3O5GyUANU2DoA3dJufNhDfh7KOlLgKIvRVhDxRESHLmea6fTE26gLUqKEUuuizJiLENrCbax94DZHDu8WhaXMN8fDE1HOLt4j1KZUcj471WKjwUetlj4ZWgS3yWx6lzuERHNTI3Zmy1QdFv50p1dw6hj0SltZKgU8qEo5UEkRjecJQJ74CfBePQYOV157kxzTCkmXiSRwsGglzSiBBsYwgikw1ceiCL83RlmoBk1e2h6wI39gfrjkrYadYPbZxeSWT5q4DXTUSsLtFE9je96NrHpMwXnWfDRQJE9g9LNPGNjqDOuIbHZ1SIOBY5lfI7bGuNmCYxpaSDj6ExlwO40QL0PVIoFwjCgn7C5TbBA5QFMo3R6XFTGWQLLhH2Obv50OoaDouB1kipk7tI468HC3ttyS8Bsag4X8cPEdWrYEv64GE0LKg8O5ja2kGBQmHS072rJvkuumgfHdLBEjncgY40MesYwmcJQt2h0KKNYH0ZPUERybb59V1u1LLoXPGJdw9OUmr89QiJiNgw6P4ddzPcGYDC6QdY6KDAmTy5G0Oj2mJSYlaHvjNh9G8T57Nv1clXVVH7E9LPIrYNUkd90wkpyC5r983t0coXtjSjP0oMn2HNa2aOVmwQKuirEmMKMNIWxeOMViAjAwgPGTuSh5I84Ac7zhqqWslmjjnBvYdEA12hIDMELpCvNzQJ4ueMD6xjm9PWNnCuRaEdhXObnBi7CCb5wut6I0GCeIdtYNeqm9D9PV3inmz4XVp8IBSzpZiYJuiCvaufJ2NcnlnIXyKyp3DmeuRDzxNNyf",
       "has_affiliate": true,
-      "current_price": 578.67,
-      "min_price": 578.67,
-      "min_price_at": "2026-10-24",
+      "current_price": 572.14,
+      "min_price": 572.14,
+      "min_price_at": "2026-10-27",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -75,19 +83,28 @@
         {
           "date": "2026-10-26",
           "price": 578.67
+        },
+        {
+          "date": "2026-10-27",
+          "price": 572.14
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/114338/placa-mae-msi-b550m-pro-vdh-wifi-amd-am4-matx-ddr4-preto-b550m-pro-vdh-wifi?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792816469_763163bc48c93faed846a17496bcddc3&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/114338/placa-mae-msi-b550m-pro-vdh-wifi-amd-am4-matx-ddr4-preto-b550m-pro-vdh-wifi?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793101574_9e0b98e141d918b9154271ce9e2f04ac&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 929.99,
-      "min_price": null,
-      "min_price_at": null,
-      "monitored_since": "2026-10-24",
-      "history": []
+      "min_price": 929.99,
+      "min_price_at": "2026-10-27",
+      "monitored_since": "2026-10-27",
+      "history": [
+        {
+          "date": "2026-10-27",
+          "price": 929.99
+        }
+      ]
     },
     {
       "marketplace": "pichau",

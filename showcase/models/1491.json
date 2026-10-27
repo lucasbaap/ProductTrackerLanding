@@ -27,13 +27,17 @@
         {
           "date": "2026-10-26",
           "price": 2790.0
+        },
+        {
+          "date": "2026-10-27",
+          "price": 2790.0
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/904660/processador-intel-core-i7-14700f-2-1ghz-5-40-ghz-max-turbo-cache-33mb-20-nucleos-28-threads-lga-1700-sem-video-integrado-bx8071514700f?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792944701_f01f5d3a910eae1f99a5b1be2b7b4784&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/904660/processador-intel-core-i7-14700f-2-1ghz-5-40-ghz-max-turbo-cache-33mb-20-nucleos-28-threads-lga-1700-sem-video-integrado-bx8071514700f?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793102626_fe28fd68d2d16e2d7173ce5666eb0585&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 1999.99,
       "min_price": 1999.99,
@@ -50,6 +54,10 @@
         },
         {
           "date": "2026-10-26",
+          "price": 1999.99
+        },
+        {
+          "date": "2026-10-27",
           "price": 1999.99
         }
       ]
@@ -74,6 +82,10 @@
         },
         {
           "date": "2026-10-26",
+          "price": 2317.63
+        },
+        {
+          "date": "2026-10-27",
           "price": 2317.63
         }
       ]

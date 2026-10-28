@@ -31,6 +31,10 @@
         {
           "date": "2026-10-27",
           "price": 715.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 715.0
         }
       ]
     },
@@ -39,7 +43,7 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/B550M-DS3H-AC-R2-DisplayPort/dp/B0F2H4JLJM?tag=producttra043-20",
       "has_affiliate": true,
-      "current_price": 675.99,
+      "current_price": 751.1,
       "min_price": 675.98,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -59,6 +63,10 @@
         {
           "date": "2026-10-27",
           "price": 675.99
+        },
+        {
+          "date": "2026-10-28",
+          "price": 751.1
         }
       ]
     },
@@ -81,7 +89,7 @@
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/875852/placa-mae-gigabyte-b550m-ds3h-ac-r2-amd-am4-micro-atx-ddr4-rgb-wi-fi-bluetooth-preto-b550m-ds3h-ac-r2?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793095788_88a3333bf792a5bd8d16d60b9e3df1d2&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/875852/placa-mae-gigabyte-b550m-ds3h-ac-r2-amd-am4-micro-atx-ddr4-rgb-wi-fi-bluetooth-preto-b550m-ds3h-ac-r2?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793195708_66f7bf324b1356e2a8f94ce13c07c4de&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 675.99,
       "min_price": 675.99,
@@ -102,6 +110,10 @@
         },
         {
           "date": "2026-10-27",
+          "price": 675.99
+        },
+        {
+          "date": "2026-10-28",
           "price": 675.99
         }
       ]
@@ -130,6 +142,10 @@
         },
         {
           "date": "2026-10-27",
+          "price": 823.52
+        },
+        {
+          "date": "2026-10-28",
           "price": 823.52
         }
       ]

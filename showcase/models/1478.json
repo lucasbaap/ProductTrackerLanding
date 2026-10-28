@@ -31,6 +31,10 @@
         {
           "date": "2026-10-27",
           "price": 1596.46
+        },
+        {
+          "date": "2026-10-28",
+          "price": 1596.46
         }
       ]
     },
@@ -39,9 +43,9 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/dp/B0GMKXVVJQ?tag=producttra043-20",
       "has_affiliate": true,
-      "current_price": 2204.99,
-      "min_price": 2198.98,
-      "min_price_at": "2026-10-25",
+      "current_price": 2025.0,
+      "min_price": 2025.0,
+      "min_price_at": "2026-10-28",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -59,13 +63,17 @@
         {
           "date": "2026-10-27",
           "price": 2204.99
+        },
+        {
+          "date": "2026-10-28",
+          "price": 2025.0
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/1026649/processador-intel-core-ultra-5-250k-4-2ghz-5-3ghz-turbo-cache-30mb-18-nucleos-18-threads-lga-1851-com-video-integrado-bx80768250k?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792944688_6c7378b613a17e0cbcc8bb048c7d05e4&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/1026649/processador-intel-core-ultra-5-250k-4-2ghz-5-3ghz-turbo-cache-30mb-18-nucleos-18-threads-lga-1851-com-video-integrado-bx80768250k?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793183684_c374cbe817052f331e42ac7c85c41664&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 1499.99,
       "min_price": 1499.99,
@@ -86,6 +94,10 @@
         },
         {
           "date": "2026-10-27",
+          "price": 1499.99
+        },
+        {
+          "date": "2026-10-28",
           "price": 1499.99
         }
       ]
@@ -115,6 +127,10 @@
         {
           "date": "2026-10-27",
           "price": 1623.52
+        },
+        {
+          "date": "2026-10-28",
+          "price": 1623.52
         }
       ]
     },
@@ -142,6 +158,10 @@
         },
         {
           "date": "2026-10-27",
+          "price": 1623.52
+        },
+        {
+          "date": "2026-10-28",
           "price": 1623.52
         }
       ]

@@ -31,6 +31,10 @@
         {
           "date": "2026-10-27",
           "price": 4530.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 4530.0
         }
       ]
     },
@@ -59,13 +63,17 @@
         {
           "date": "2026-10-27",
           "price": 4999.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 4999.0
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/1029130/iphone-17e-256gb-branco?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793094758_369cf5554cf5f50564b2d24458b306ea&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/1029130/iphone-17e-256gb-branco?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793191189_9f97695587d3dfcade7cae91da851eba&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 4499.1,
       "min_price": 4499.1,
@@ -86,6 +94,10 @@
         },
         {
           "date": "2026-10-27",
+          "price": 4499.1
+        },
+        {
+          "date": "2026-10-28",
           "price": 4499.1
         }
       ]

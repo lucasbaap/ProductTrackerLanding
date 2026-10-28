@@ -9,16 +9,20 @@
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/1032775/processador-intel-core-ultra-7-270k-plus-turbo-ate-5-5ghz-36mb-cache-lga-1851-bx80768270k",
+      "link": "https://www.kabum.com.br/produto/1032775/processador-intel-core-ultra-7-270k-plus-turbo-ate-5-5ghz-36mb-cache-lga-1851-bx80768270k?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793188391_eb621260585091d3a88aad308ef7e162&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
-      "current_price": 3264.99,
-      "min_price": 3264.99,
-      "min_price_at": "2026-10-27",
+      "current_price": 2564.99,
+      "min_price": 2564.99,
+      "min_price_at": "2026-10-28",
       "monitored_since": "2026-10-27",
       "history": [
         {
           "date": "2026-10-27",
           "price": 3264.99
+        },
+        {
+          "date": "2026-10-28",
+          "price": 2564.99
         }
       ]
     },
@@ -47,6 +51,10 @@
         {
           "date": "2026-10-27",
           "price": 2588.22
+        },
+        {
+          "date": "2026-10-28",
+          "price": 2588.22
         }
       ]
     },
@@ -74,6 +82,10 @@
         },
         {
           "date": "2026-10-27",
+          "price": 2623.52
+        },
+        {
+          "date": "2026-10-28",
           "price": 2623.52
         }
       ]

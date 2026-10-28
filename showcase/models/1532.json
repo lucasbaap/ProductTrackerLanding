@@ -11,9 +11,9 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/dp/B09K7F5VJQ?tag=producttra043-20",
       "has_affiliate": true,
-      "current_price": 1930.0,
-      "min_price": 1930.0,
-      "min_price_at": "2026-10-27",
+      "current_price": 1899.0,
+      "min_price": 1899.0,
+      "min_price_at": "2026-10-28",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -31,15 +31,19 @@
         {
           "date": "2026-10-27",
           "price": 1930.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 1899.0
         }
       ]
     },
     {
       "marketplace": "aliexpress",
       "label": "AliExpress",
-      "link": "https://s.click.aliexpress.com/e/_c36kyZ47",
+      "link": "https://s.click.aliexpress.com/e/_c3pYwX2b",
       "has_affiliate": true,
-      "current_price": 665.99,
+      "current_price": 713.87,
       "min_price": 654.06,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -59,6 +63,10 @@
         {
           "date": "2026-10-27",
           "price": 665.99
+        },
+        {
+          "date": "2026-10-28",
+          "price": 713.87
         }
       ]
     }

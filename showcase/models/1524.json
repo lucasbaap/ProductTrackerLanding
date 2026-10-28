@@ -31,6 +31,10 @@
         {
           "date": "2026-10-27",
           "price": 1080.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 1080.0
         }
       ]
     },
@@ -59,13 +63,17 @@
         {
           "date": "2026-10-27",
           "price": 949.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 949.0
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/167492/ssd-crucial-bx500-1tb-sata-6gb-s-2-5-leitura-540-mb-s-escrita-500-mb-s-preto-ct1000bx500ssd1?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793091278_4a3bbb1c7561fd638c05c24fc888df87&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/167492/ssd-crucial-bx500-1tb-sata-6gb-s-2-5-leitura-540-mb-s-escrita-500-mb-s-preto-ct1000bx500ssd1?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793178076_93a33227d989bc1f28682c7531f55cc3&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 1077.0,
       "min_price": 999.0,
@@ -86,6 +94,10 @@
         },
         {
           "date": "2026-10-27",
+          "price": 1077.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 1077.0
         }
       ]
@@ -114,6 +126,10 @@
         },
         {
           "date": "2026-10-27",
+          "price": 1164.69
+        },
+        {
+          "date": "2026-10-28",
           "price": 1164.69
         }
       ]

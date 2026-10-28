@@ -31,13 +31,17 @@
         {
           "date": "2026-10-27",
           "price": 2564.05
+        },
+        {
+          "date": "2026-10-28",
+          "price": 2564.05
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/1012766/smartphone-motorola-edge-70-5g-256gb-bronze-green-24gb-8gb-ram-16gb-ram-boost-3-cameras-50mp-tela-de-6-7-?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793009905_a5134a7dc650017a6b565696b5c2d7dd&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/1012766/smartphone-motorola-edge-70-5g-256gb-bronze-green-24gb-8gb-ram-16gb-ram-boost-3-cameras-50mp-tela-de-6-7-?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793180629_d2fc58550fe54bdabd1641c130435911&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 2429.1,
       "min_price": 2429.1,
@@ -58,6 +62,10 @@
         },
         {
           "date": "2026-10-27",
+          "price": 2429.1
+        },
+        {
+          "date": "2026-10-28",
           "price": 2429.1
         }
       ]

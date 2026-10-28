@@ -11,7 +11,7 @@
       "label": "Mercado Livre",
       "link": "https://www.mercadolivre.com.br/p/MLB65041642?matt_word=balu1353476&matt_tool=29239275",
       "has_affiliate": true,
-      "current_price": 979.93,
+      "current_price": 998.89,
       "min_price": 979.93,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -31,6 +31,10 @@
         {
           "date": "2026-10-27",
           "price": 979.93
+        },
+        {
+          "date": "2026-10-28",
+          "price": 998.89
         }
       ]
     },
@@ -59,13 +63,17 @@
         {
           "date": "2026-10-27",
           "price": 949.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 949.0
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/1007603/smartphone-motorola-moto-g17-128gb-roxo-12gb-4gb-ram-8gb-ram-boost-camera-50mp-e-tela-6-7-?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793093144_b073b862c8803a13845bd05099332ea1&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/1007603/smartphone-motorola-moto-g17-128gb-roxo-12gb-4gb-ram-8gb-ram-boost-camera-50mp-e-tela-6-7-?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793186469_a84fd9dbb20f8688d706d7a3e909d9a4&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 899.1,
       "min_price": 899.1,
@@ -86,6 +94,10 @@
         },
         {
           "date": "2026-10-27",
+          "price": 899.1
+        },
+        {
+          "date": "2026-10-28",
           "price": 899.1
         }
       ]

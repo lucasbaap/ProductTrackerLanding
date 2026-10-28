@@ -11,7 +11,7 @@
       "label": "Mercado Livre",
       "link": "https://www.mercadolivre.com.br/p/MLB35333268?matt_word=balu1353476&matt_tool=29239275",
       "has_affiliate": true,
-      "current_price": 991.98,
+      "current_price": 1458.8,
       "min_price": 991.98,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -31,6 +31,10 @@
         {
           "date": "2026-10-27",
           "price": 991.98
+        },
+        {
+          "date": "2026-10-28",
+          "price": 1458.8
         }
       ]
     },
@@ -39,7 +43,7 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/ASRock-B760M-Pro-Motherboard-DisplayPort/dp/B0C2C96LDL?tag=producttra043-20",
       "has_affiliate": true,
-      "current_price": 1128.76,
+      "current_price": 1111.03,
       "min_price": 1058.74,
       "min_price_at": "2026-10-25",
       "monitored_since": "2026-10-24",
@@ -59,13 +63,17 @@
         {
           "date": "2026-10-27",
           "price": 1128.76
+        },
+        {
+          "date": "2026-10-28",
+          "price": 1111.03
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/546541/placa-mae-asrock-b760m-pro-rs-intel-lga-1700-ddr4?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793098276_7eed12e0d75c0a55799c6b9cf333cbe0&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/546541/placa-mae-asrock-b760m-pro-rs-intel-lga-1700-ddr4?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793198695_41e641a186f89ee3ebe5131583787a33&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 1084.99,
       "min_price": 859.9,
@@ -86,6 +94,10 @@
         },
         {
           "date": "2026-10-27",
+          "price": 1084.99
+        },
+        {
+          "date": "2026-10-28",
           "price": 1084.99
         }
       ]
@@ -114,6 +126,10 @@
         },
         {
           "date": "2026-10-27",
+          "price": 999.99
+        },
+        {
+          "date": "2026-10-28",
           "price": 999.99
         }
       ]

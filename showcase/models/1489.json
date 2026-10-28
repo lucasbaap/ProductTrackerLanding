@@ -11,7 +11,7 @@
       "label": "Mercado Livre",
       "link": "https://www.mercadolivre.com.br/p/MLB2058924123?matt_word=balu1353476&matt_tool=29239275",
       "has_affiliate": true,
-      "current_price": 2390.01,
+      "current_price": 2350.47,
       "min_price": 2223.06,
       "min_price_at": "2026-10-25",
       "monitored_since": "2026-10-24",
@@ -31,13 +31,17 @@
         {
           "date": "2026-10-27",
           "price": 2390.01
+        },
+        {
+          "date": "2026-10-28",
+          "price": 2350.47
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/497577/processador-intel-core-i7-14700kf-3-4ghz-5-6-ghz-max-turbo-cache-33mb-20-nucleos-28-threads-lga-1700-sem-video-integrado-bx8071514700kf",
+      "link": "https://www.kabum.com.br/produto/497577/processador-intel-core-i7-14700kf-3-4ghz-5-6-ghz-max-turbo-cache-33mb-20-nucleos-28-threads-lga-1700-sem-video-integrado-bx8071514700kf?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793195681_a05625a1068b87e8a0ada7c17eab23ee&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 2099.99,
       "min_price": 2099.99,
@@ -59,6 +63,10 @@
         {
           "date": "2026-10-27",
           "price": 2099.99
+        },
+        {
+          "date": "2026-10-28",
+          "price": 2099.99
         }
       ]
     },
@@ -67,9 +75,9 @@
       "label": "Pichau",
       "link": "https://www.pichau.com.br/processador-intel-core-i7-14700kf-20-core-28-threads-3-4ghz-5-6ghz-turbo-cache-33mb-lga1700-bx8071514700kf",
       "has_affiliate": true,
-      "current_price": 2470.58,
-      "min_price": 2470.58,
-      "min_price_at": "2026-10-24",
+      "current_price": 2435.28,
+      "min_price": 2435.28,
+      "min_price_at": "2026-10-28",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -87,6 +95,10 @@
         {
           "date": "2026-10-27",
           "price": 2470.58
+        },
+        {
+          "date": "2026-10-28",
+          "price": 2435.28
         }
       ]
     }

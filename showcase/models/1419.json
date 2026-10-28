@@ -11,7 +11,7 @@
       "label": "Mercado Livre",
       "link": "https://www.mercadolivre.com.br/p/MLB49200061?matt_word=balu1353476&matt_tool=29239275",
       "has_affiliate": true,
-      "current_price": 3056.46,
+      "current_price": 3005.9,
       "min_price": 2842.96,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -31,6 +31,10 @@
         {
           "date": "2026-10-27",
           "price": 3056.46
+        },
+        {
+          "date": "2026-10-28",
+          "price": 3005.9
         }
       ]
     },
@@ -39,7 +43,7 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/dp/B0F6D7MQQB?tag=producttra043-20",
       "has_affiliate": true,
-      "current_price": 3963.99,
+      "current_price": 4325.26,
       "min_price": 3949.01,
       "min_price_at": "2026-10-26",
       "monitored_since": "2026-10-24",
@@ -59,15 +63,19 @@
         {
           "date": "2026-10-27",
           "price": 3963.99
+        },
+        {
+          "date": "2026-10-28",
+          "price": 4325.26
         }
       ]
     },
     {
       "marketplace": "shopee",
       "label": "Shopee",
-      "link": "https://s.shopee.com.br/7Ky3DeGGEM",
+      "link": "https://s.shopee.com.br/3VlNyInK7X",
       "has_affiliate": true,
-      "current_price": 4148.0,
+      "current_price": 4049.0,
       "min_price": 3990.0,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -87,13 +95,17 @@
         {
           "date": "2026-10-27",
           "price": 4148.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 4049.0
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/777177/console-nintendo-switch-2-256gb-preto-azul-e-vermelho?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793008891_8db47ea11a04356b649cc163edffdc0f&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/777177/console-nintendo-switch-2-256gb-preto-azul-e-vermelho?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793191102_b719f3b1fea66c0ce9f9e7e374f012f4&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 4499.0,
       "min_price": 4499.0,
@@ -114,6 +126,10 @@
         },
         {
           "date": "2026-10-27",
+          "price": 4499.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 4499.0
         }
       ]

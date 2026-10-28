@@ -11,9 +11,9 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/dp/B0GQW2J4SK?tag=producttra043-20",
       "has_affiliate": true,
-      "current_price": 6332.22,
-      "min_price": 6332.22,
-      "min_price_at": "2026-10-24",
+      "current_price": 5979.0,
+      "min_price": 5979.0,
+      "min_price_at": "2026-10-28",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -31,15 +31,19 @@
         {
           "date": "2026-10-27",
           "price": 6332.22
+        },
+        {
+          "date": "2026-10-28",
+          "price": 5979.0
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/1016330/iphone-17-256gb-preto?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793093947_edcf5960545df309a0141902e361f1d1&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/1016330/iphone-17-256gb-preto?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793179645_a18cebfc0692c0ca3b449897654bd276&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
-      "current_price": 5699.0,
+      "current_price": 5799.0,
       "min_price": 5699.0,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -59,6 +63,10 @@
         {
           "date": "2026-10-27",
           "price": 5699.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 5799.0
         }
       ]
     }

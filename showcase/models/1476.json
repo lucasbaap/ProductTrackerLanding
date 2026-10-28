@@ -11,7 +11,7 @@
       "label": "Mercado Livre",
       "link": "https://www.mercadolivre.com.br/p/MLB2065041734?matt_word=balu1353476&matt_tool=29239275",
       "has_affiliate": true,
-      "current_price": 1445.84,
+      "current_price": 1421.92,
       "min_price": 1344.85,
       "min_price_at": "2026-10-26",
       "monitored_since": "2026-10-24",
@@ -31,6 +31,10 @@
         {
           "date": "2026-10-27",
           "price": 1445.84
+        },
+        {
+          "date": "2026-10-28",
+          "price": 1421.92
         }
       ]
     },
@@ -59,13 +63,17 @@
         {
           "date": "2026-10-27",
           "price": 1388.22
+        },
+        {
+          "date": "2026-10-28",
+          "price": 1388.22
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/645180/processador-intel-core-ultra-5-245k-4-2ghz-5-2ghz-turbo-cache-24mb-14-nucleos-14-threads-lga-1851-com-video-integrado-bx80768245k?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792944551_d7ee6492e9fc135771fb7a6049ad744a&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/645180/processador-intel-core-ultra-5-245k-4-2ghz-5-2ghz-turbo-cache-24mb-14-nucleos-14-threads-lga-1851-com-video-integrado-bx80768245k?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793188511_97b40b10578512152c1d67a5176db4d0&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 1199.99,
       "min_price": 1199.99,
@@ -87,6 +95,10 @@
         {
           "date": "2026-10-27",
           "price": 1199.99
+        },
+        {
+          "date": "2026-10-28",
+          "price": 1199.99
         }
       ]
     },
@@ -95,7 +107,7 @@
       "label": "Pichau",
       "link": "https://www.pichau.com.br/processador-intel-core-ultra-5-245k-14-core-14-threads-4-2ghz-5-2ghz-turbo-cache-24mb-lga1851-bx80768245k",
       "has_affiliate": true,
-      "current_price": 1388.22,
+      "current_price": 3176.46,
       "min_price": 1388.22,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -115,6 +127,10 @@
         {
           "date": "2026-10-27",
           "price": 1388.22
+        },
+        {
+          "date": "2026-10-28",
+          "price": 3176.46
         }
       ]
     },
@@ -142,6 +158,10 @@
         },
         {
           "date": "2026-10-27",
+          "price": 1388.22
+        },
+        {
+          "date": "2026-10-28",
           "price": 1388.22
         }
       ]

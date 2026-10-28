@@ -31,6 +31,10 @@
         {
           "date": "2026-10-27",
           "price": 2180.5
+        },
+        {
+          "date": "2026-10-28",
+          "price": 2180.5
         }
       ]
     },
@@ -59,13 +63,17 @@
         {
           "date": "2026-10-27",
           "price": 2235.28
+        },
+        {
+          "date": "2026-10-28",
+          "price": 2235.28
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/1015546/placa-mae-b850-aorus-elite-wifi7-amd-am5-atx-ddr5-pcie-5-0?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792915691_672594fb21582aba02cf82b44a473a64&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/1015546/placa-mae-b850-aorus-elite-wifi7-amd-am5-atx-ddr5-pcie-5-0?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793191983_8f0b84aa79fd338413dec22111dec717&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 2149.99,
       "min_price": 2034.99,
@@ -86,6 +94,10 @@
         },
         {
           "date": "2026-10-27",
+          "price": 2149.99
+        },
+        {
+          "date": "2026-10-28",
           "price": 2149.99
         }
       ]
@@ -115,6 +127,10 @@
         {
           "date": "2026-10-27",
           "price": 2199.99
+        },
+        {
+          "date": "2026-10-28",
+          "price": 2199.99
         }
       ]
     },
@@ -142,6 +158,10 @@
         },
         {
           "date": "2026-10-27",
+          "price": 2235.28
+        },
+        {
+          "date": "2026-10-28",
           "price": 2235.28
         }
       ]

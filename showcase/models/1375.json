@@ -25,7 +25,7 @@
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/924097/smartphone-samsung-galaxy-a17-4g-256gb-sm-a175fzkmzto-preto?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793095723_e232704ebeea8fb2b6d1dbea6c772b91&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/924097/smartphone-samsung-galaxy-a17-4g-256gb-sm-a175fzkmzto-preto?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793175046_97d8e6667312b2971ff392f99591a0b7&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 1349.1,
       "min_price": 1349.1,
@@ -46,6 +46,10 @@
         },
         {
           "date": "2026-10-27",
+          "price": 1349.1
+        },
+        {
+          "date": "2026-10-28",
           "price": 1349.1
         }
       ]

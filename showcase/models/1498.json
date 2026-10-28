@@ -11,7 +11,7 @@
       "label": "Mercado Livre",
       "link": "https://www.mercadolivre.com.br/p/MLB2031074195?matt_word=balu1353476&matt_tool=29239275",
       "has_affiliate": true,
-      "current_price": 872.52,
+      "current_price": 858.09,
       "min_price": 811.57,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -31,13 +31,17 @@
         {
           "date": "2026-10-27",
           "price": 872.52
+        },
+        {
+          "date": "2026-10-28",
+          "price": 858.09
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/524589/processador-intel-core-i3-14100f-14-geracao-3-5-ghz-4-7-ghz-turbo-cache-12mb-lga-1700-sem-video-bx8071514100f?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793090563_62c3643b3949e83c7369a9b3e61f9bbe&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/524589/processador-intel-core-i3-14100f-14-geracao-3-5-ghz-4-7-ghz-turbo-cache-12mb-lga-1700-sem-video-bx8071514100f?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793175064_b9980731afa30f7b6af03df5bb1bf921&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 752.74,
       "min_price": 752.74,
@@ -58,6 +62,10 @@
         },
         {
           "date": "2026-10-27",
+          "price": 752.74
+        },
+        {
+          "date": "2026-10-28",
           "price": 752.74
         }
       ]
@@ -87,6 +95,10 @@
         {
           "date": "2026-10-27",
           "price": 776.46
+        },
+        {
+          "date": "2026-10-28",
+          "price": 776.46
         }
       ]
     },
@@ -114,6 +126,10 @@
         },
         {
           "date": "2026-10-27",
+          "price": 1049.83
+        },
+        {
+          "date": "2026-10-28",
           "price": 1049.83
         }
       ]

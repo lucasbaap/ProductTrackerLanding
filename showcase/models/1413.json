@@ -31,13 +31,17 @@
         {
           "date": "2026-10-27",
           "price": 1799.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 1799.0
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/1050738/smartphone-motorola-moto-g-max-5g-256gb-azul-claro-24gb-8gb-ram-16gb-ram-boost-camera-200mp-e-tela-6-8-?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793093942_2025c034f7e11d6cb48dc8891c366006&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/1050738/smartphone-motorola-moto-g-max-5g-256gb-azul-claro-24gb-8gb-ram-16gb-ram-boost-camera-200mp-e-tela-6-8-?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793186451_9b5baf55e7e1b5becd46af099ed4f31c&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 2465.25,
       "min_price": 2465.25,
@@ -58,6 +62,10 @@
         },
         {
           "date": "2026-10-27",
+          "price": 2465.25
+        },
+        {
+          "date": "2026-10-28",
           "price": 2465.25
         }
       ]

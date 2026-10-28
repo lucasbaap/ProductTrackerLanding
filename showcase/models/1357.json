@@ -11,7 +11,7 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/dp/B0GKQTCXL8?ref=cm_sw_r_cso_cp_apan_dp_LIGHTSABER16JX9JABPU&ref_=cm_sw_r_cso_cp_apan_dp_LIGHTSABER16JX9JABPU&social_share=cm_sw_r_cso_cp_apan_dp_LIGHTSABER16JX9JABPU&th=1&tag=producttra043-20",
       "has_affiliate": true,
-      "current_price": 5065.61,
+      "current_price": 5332.22,
       "min_price": 4166.99,
       "min_price_at": "2026-10-22",
       "monitored_since": "2026-09-09",
@@ -211,13 +211,17 @@
         {
           "date": "2026-10-27",
           "price": 5065.61
+        },
+        {
+          "date": "2026-10-28",
+          "price": 5065.61
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/1007597/smartphone-samsung-galaxy-s26-5g-256gb-12gb-ram-tela-6-3-120hz-camera-50mp-preto-sm-s942bzkszto?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792915743_e699df0391b1bbaf0a03b3f1ef7e2481&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/1007597/smartphone-samsung-galaxy-s26-5g-256gb-12gb-ram-tela-6-3-120hz-camera-50mp-preto-sm-s942bzkszto?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793183735_2bee991d955d48f8a4b7a872ec7c9856&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 4799.0,
       "min_price": 4799.0,
@@ -239,15 +243,19 @@
         {
           "date": "2026-10-27",
           "price": 4799.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 4799.0
         }
       ]
     },
     {
       "marketplace": "shopee",
       "label": "Shopee",
-      "link": "https://s.shopee.com.br/3VlJT2ThxE",
+      "link": "https://s.shopee.com.br/5fpsV7s2xq",
       "has_affiliate": true,
-      "current_price": 5332.23,
+      "current_price": 5332.22,
       "min_price": 5332.22,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -267,6 +275,10 @@
         {
           "date": "2026-10-27",
           "price": 5332.23
+        },
+        {
+          "date": "2026-10-28",
+          "price": 5332.22
         }
       ]
     }

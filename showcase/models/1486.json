@@ -31,6 +31,10 @@
         {
           "date": "2026-10-27",
           "price": 4331.43
+        },
+        {
+          "date": "2026-10-28",
+          "price": 4331.43
         }
       ]
     },
@@ -59,13 +63,17 @@
         {
           "date": "2026-10-27",
           "price": 3529.4
+        },
+        {
+          "date": "2026-10-28",
+          "price": 3529.4
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/904661/processador-intel-core-i9-14900-2-0ghz-5-80-ghz-max-turbo-cache-36mb-24-nucleos-32-threads-lga-1700-com-video-integrado-bx8071514900?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793093053_078e405d06cf97de250b7b129021a66f&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/904661/processador-intel-core-i9-14900-2-0ghz-5-80-ghz-max-turbo-cache-36mb-24-nucleos-32-threads-lga-1700-com-video-integrado-bx8071514900?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793189370_162dceece88cad7e9b765b755620e19b&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 2999.99,
       "min_price": 2999.99,
@@ -86,6 +94,10 @@
         },
         {
           "date": "2026-10-27",
+          "price": 2999.99
+        },
+        {
+          "date": "2026-10-28",
           "price": 2999.99
         }
       ]

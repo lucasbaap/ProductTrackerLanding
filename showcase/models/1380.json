@@ -11,7 +11,7 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/dp/B0DSYJCY45?ref=cm_sw_r_cso_cp_apan_ct_BV8ZR00FQV1XP53SR1P6&ref_=cm_sw_r_cso_cp_apan_ct_BV8ZR00FQV1XP53SR1P6&social_share=cm_sw_r_cso_cp_apan_ct_BV8ZR00FQV1XP53SR1P6&th=1&tag=producttra043-20",
       "has_affiliate": true,
-      "current_price": 5998.89,
+      "current_price": 5999.0,
       "min_price": 4873.78,
       "min_price_at": "2026-10-03",
       "monitored_since": "2026-09-24",
@@ -87,13 +87,17 @@
         {
           "date": "2026-10-27",
           "price": 5998.89
+        },
+        {
+          "date": "2026-10-28",
+          "price": 5999.0
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/703062/smartphone-samsung-galaxy-s25-ultra-256gb-5g-titanio-azul-com-caneta-s-pen-galaxy-ai-camera-quadrupla-200mp-selfie-12mp-ram-12gb-tela-6-9-?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792941889_3392dbc315b984c86cff5c2abfaf18c9&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/703062/smartphone-samsung-galaxy-s25-ultra-256gb-5g-titanio-azul-com-caneta-s-pen-galaxy-ai-camera-quadrupla-200mp-selfie-12mp-ram-12gb-tela-6-9-?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793198732_831f78745f571c33a9ebb8e666a1389f&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 5799.0,
       "min_price": 5799.0,
@@ -115,13 +119,17 @@
         {
           "date": "2026-10-27",
           "price": 5799.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 5799.0
         }
       ]
     },
     {
       "marketplace": "shopee",
       "label": "Shopee",
-      "link": "https://s.shopee.com.br/1LgqDD8egA",
+      "link": "https://s.shopee.com.br/40heGpNx0U",
       "has_affiliate": true,
       "current_price": 9221.12,
       "min_price": 9221.12,
@@ -142,6 +150,10 @@
         },
         {
           "date": "2026-10-27",
+          "price": 9221.12
+        },
+        {
+          "date": "2026-10-28",
           "price": 9221.12
         }
       ]

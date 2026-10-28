@@ -31,6 +31,10 @@
         {
           "date": "2026-10-27",
           "price": 771.0
+        },
+        {
+          "date": "2026-10-28",
+          "price": 771.0
         }
       ]
     },
@@ -39,7 +43,7 @@
       "label": "AliExpress",
       "link": "https://www.aliexpress.com/item/1005012783101673.html",
       "has_affiliate": true,
-      "current_price": 461.68,
+      "current_price": 494.98,
       "min_price": 461.68,
       "min_price_at": "2026-10-27",
       "monitored_since": "2026-10-24",
@@ -59,13 +63,17 @@
         {
           "date": "2026-10-27",
           "price": 461.68
+        },
+        {
+          "date": "2026-10-28",
+          "price": 494.98
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/957170/ssd-sandisk-plus-500gb-545mb-s-sdssda-500g-g28?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793098425_31a827e72df39d09dc4e47808defa293&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/957170/ssd-sandisk-plus-500gb-545mb-s-sdssda-500g-g28?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793190303_d35b59049cc8c0106d96630bb4b20772&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 599.75,
       "min_price": 599.75,
@@ -86,6 +94,10 @@
         },
         {
           "date": "2026-10-27",
+          "price": 599.75
+        },
+        {
+          "date": "2026-10-28",
           "price": 599.75
         }
       ]
@@ -115,6 +127,10 @@
         {
           "date": "2026-10-27",
           "price": 717.64
+        },
+        {
+          "date": "2026-10-28",
+          "price": 717.64
         }
       ]
     },
@@ -142,6 +158,10 @@
         },
         {
           "date": "2026-10-27",
+          "price": 823.41
+        },
+        {
+          "date": "2026-10-28",
           "price": 823.41
         }
       ]

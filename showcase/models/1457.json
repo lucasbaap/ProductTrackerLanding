@@ -9,7 +9,7 @@
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/951846/processador-amd-ryzen-5-9600?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793103426_8aac0037b209c7344a167d2acbaf0526&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/951846/processador-amd-ryzen-5-9600?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793188367_b4691f6d1b72acdc97ac18938f307b5c&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 1445.54,
       "min_price": 1445.54,
@@ -31,6 +31,10 @@
         {
           "date": "2026-10-27",
           "price": 1445.54
+        },
+        {
+          "date": "2026-10-28",
+          "price": 1445.54
         }
       ]
     },
@@ -39,7 +43,7 @@
       "label": "Mercado Livre",
       "link": "https://www.mercadolivre.com.br/p/MLB50742489?matt_word=balu1353476&matt_tool=29239275",
       "has_affiliate": true,
-      "current_price": 1349.99,
+      "current_price": 2200.0,
       "min_price": 1349.99,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -59,6 +63,10 @@
         {
           "date": "2026-10-27",
           "price": 1349.99
+        },
+        {
+          "date": "2026-10-28",
+          "price": 2200.0
         }
       ]
     }

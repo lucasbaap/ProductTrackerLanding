@@ -31,6 +31,10 @@
         {
           "date": "2026-10-27",
           "price": 6599.99
+        },
+        {
+          "date": "2026-10-28",
+          "price": 6599.99
         }
       ]
     },
@@ -39,7 +43,7 @@
       "label": "Pichau",
       "link": "https://www.pichau.com.br/processador-amd-ryzen-9-9950x3d2-dual-edition-16-core-32-threads-4-3ghz-5-6ghz-turbo-cache-208mb-am5-100-100001978wof",
       "has_affiliate": true,
-      "current_price": 7411.75,
+      "current_price": 7529.4,
       "min_price": 7411.75,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -59,6 +63,10 @@
         {
           "date": "2026-10-27",
           "price": 7411.75
+        },
+        {
+          "date": "2026-10-28",
+          "price": 7529.4
         }
       ]
     },
@@ -86,6 +94,10 @@
         },
         {
           "date": "2026-10-27",
+          "price": 7349.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 7349.0
         }
       ]

@@ -31,13 +31,17 @@
         {
           "date": "2026-10-27",
           "price": 4115.61
+        },
+        {
+          "date": "2026-10-28",
+          "price": 4115.61
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/703055/smartphone-samsung-galaxy-s25-camera-tripla-256-gb-5g-azul-marinho-s931b?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792943880_29f68d50c711ec35c0f34a5e9c879c0a&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/703055/smartphone-samsung-galaxy-s25-camera-tripla-256-gb-5g-azul-marinho-s931b?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793188496_5522bab626af15d91b62bb5963634fae&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 3899.0,
       "min_price": 3899.0,
@@ -58,6 +62,10 @@
         },
         {
           "date": "2026-10-27",
+          "price": 3899.0
+        },
+        {
+          "date": "2026-10-28",
           "price": 3899.0
         }
       ]

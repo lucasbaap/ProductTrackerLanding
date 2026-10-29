@@ -11,9 +11,9 @@
       "label": "Mercado Livre",
       "link": "https://www.mercadolivre.com.br/p/MLB41975964?matt_word=balu1353476&matt_tool=29239275",
       "has_affiliate": true,
-      "current_price": 7999.0,
-      "min_price": 5200.0,
-      "min_price_at": "2026-10-24",
+      "current_price": 3322.21,
+      "min_price": 3322.21,
+      "min_price_at": "2026-10-29",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -35,6 +35,10 @@
         {
           "date": "2026-10-28",
           "price": 7999.0
+        },
+        {
+          "date": "2026-10-29",
+          "price": 3322.21
         }
       ]
     },
@@ -291,13 +295,17 @@
         {
           "date": "2026-10-28",
           "price": 7599.0
+        },
+        {
+          "date": "2026-10-29",
+          "price": 6885.08
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/636960/console-playstation-5-pro-sony-ssd-2tb-com-controle-sem-fio-dualsense-branco-1000046552?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793194999_cd03fd1738b2a70c4affc13e0766baac&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/636960/console-playstation-5-pro-sony-ssd-2tb-com-controle-sem-fio-dualsense-branco-1000046552?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793272118_08acecba03c5a47ab6b308e34ba62040&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 6991.08,
       "min_price": 6991.08,
@@ -434,6 +442,10 @@
         },
         {
           "date": "2026-10-28",
+          "price": 6991.08
+        },
+        {
+          "date": "2026-10-29",
           "price": 6991.08
         }
       ]

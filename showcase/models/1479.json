@@ -35,6 +35,10 @@
         {
           "date": "2026-10-28",
           "price": 1475.33
+        },
+        {
+          "date": "2026-10-29",
+          "price": 1475.33
         }
       ]
     },
@@ -67,13 +71,17 @@
         {
           "date": "2026-10-28",
           "price": 1645.34
+        },
+        {
+          "date": "2026-10-29",
+          "price": 1645.34
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/1026650/processador-intel-core-ultra-5-250kf-4-2ghz-5-3ghz-turbo-cache-30mb-18-nucleos-18-threads-lga-1851-sem-video-integrado-bx80768250kf?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793184544_7f4cd0d77858cf41449d75d9e505349e&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/1026650/processador-intel-core-ultra-5-250kf-4-2ghz-5-3ghz-turbo-cache-30mb-18-nucleos-18-threads-lga-1851-sem-video-integrado-bx80768250kf?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793264919_3285956265c3c51b377115dcd32537c1&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 1299.99,
       "min_price": 1299.99,
@@ -98,6 +106,10 @@
         },
         {
           "date": "2026-10-28",
+          "price": 1299.99
+        },
+        {
+          "date": "2026-10-29",
           "price": 1299.99
         }
       ]
@@ -131,6 +143,10 @@
         {
           "date": "2026-10-28",
           "price": 1435.28
+        },
+        {
+          "date": "2026-10-29",
+          "price": 1435.28
         }
       ]
     },
@@ -162,6 +178,10 @@
         },
         {
           "date": "2026-10-28",
+          "price": 1529.4
+        },
+        {
+          "date": "2026-10-29",
           "price": 1529.4
         }
       ]

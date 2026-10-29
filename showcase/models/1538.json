@@ -35,13 +35,17 @@
         {
           "date": "2026-10-28",
           "price": 3319.0
+        },
+        {
+          "date": "2026-10-29",
+          "price": 3319.0
         }
       ]
     },
     {
       "marketplace": "shopee",
       "label": "Shopee",
-      "link": "https://s.shopee.com.br/6q1pjKyquF",
+      "link": "https://s.shopee.com.br/3VlPZEmLQq",
       "has_affiliate": true,
       "current_price": 3749.0,
       "min_price": 3749.0,
@@ -67,13 +71,17 @@
         {
           "date": "2026-10-28",
           "price": 3749.0
+        },
+        {
+          "date": "2026-10-29",
+          "price": 3749.0
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/395319/ssd-kingston-kc3000-2tb-m-2-2280-pcie-nvme-leitura-7000mb-s-e-gravacao-7000mb-s-para-pc-e-ps5-skc3000d-2048g?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793180707_cab6a0e3d2930d6230bdfd23c13c3a9c&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/395319/ssd-kingston-kc3000-2tb-m-2-2280-pcie-nvme-leitura-7000mb-s-e-gravacao-7000mb-s-para-pc-e-ps5-skc3000d-2048g?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793280512_42ad02ceb974ca135271849c50da2475&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 3609.05,
       "min_price": 3609.05,
@@ -98,6 +106,10 @@
         },
         {
           "date": "2026-10-28",
+          "price": 3609.05
+        },
+        {
+          "date": "2026-10-29",
           "price": 3609.05
         }
       ]
@@ -130,6 +142,10 @@
         },
         {
           "date": "2026-10-28",
+          "price": 4694.11
+        },
+        {
+          "date": "2026-10-29",
           "price": 4694.11
         }
       ]

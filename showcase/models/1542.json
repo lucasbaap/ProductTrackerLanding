@@ -51,6 +51,10 @@
         {
           "date": "2026-10-28",
           "price": 1999.0
+        },
+        {
+          "date": "2026-10-29",
+          "price": 1999.0
         }
       ]
     },
@@ -59,7 +63,7 @@
       "label": "AliExpress",
       "link": "https://www.aliexpress.com/item/1005009921672679.html",
       "has_affiliate": true,
-      "current_price": 1740.68,
+      "current_price": 1734.99,
       "min_price": 1623.99,
       "min_price_at": "2026-10-27",
       "monitored_since": "2026-10-24",
@@ -83,17 +87,21 @@
         {
           "date": "2026-10-28",
           "price": 1740.68
+        },
+        {
+          "date": "2026-10-29",
+          "price": 1734.99
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/905491/ssd-m-2-nvme-gen5-1tb-14-700mb-s-samsung-9100-pro-1tb-pc-ps5-playstation-5-ssd-pcie-5-0-gen-5-mz-vap1t0bam?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793197527_2db185ef2112ef7a25a117ee7cf5de39&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/905491/ssd-m-2-nvme-gen5-1tb-14-700mb-s-samsung-9100-pro-1tb-pc-ps5-playstation-5-ssd-pcie-5-0-gen-5-mz-vap1t0bam?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793265017_80ba0a0531dbfe3a56232acd822110b0&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
-      "current_price": 2469.05,
-      "min_price": 2469.05,
-      "min_price_at": "2026-10-24",
+      "current_price": 2395.0,
+      "min_price": 2395.0,
+      "min_price_at": "2026-10-29",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -115,6 +123,10 @@
         {
           "date": "2026-10-28",
           "price": 2469.05
+        },
+        {
+          "date": "2026-10-29",
+          "price": 2395.0
         }
       ]
     }

@@ -11,9 +11,9 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/dp/B0GVSYZJ4W?tag=producttra043-20",
       "has_affiliate": true,
-      "current_price": 1989.0,
-      "min_price": 1989.0,
-      "min_price_at": "2026-10-24",
+      "current_price": 1988.99,
+      "min_price": 1988.99,
+      "min_price_at": "2026-10-29",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -35,13 +35,17 @@
         {
           "date": "2026-10-28",
           "price": 1989.0
+        },
+        {
+          "date": "2026-10-29",
+          "price": 1988.99
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/1032832/smartphone-galaxy-a37-256gb-6-7-8gb-camera-tripla-samsung?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793184503_0c5c654e3d46eeae9973fe97dd7aa89e&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/1032832/smartphone-galaxy-a37-256gb-6-7-8gb-camera-tripla-samsung?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793286794_9087871ab3e96ec245237d89717f5d3f&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 1989.0,
       "min_price": 1989.0,
@@ -66,6 +70,10 @@
         },
         {
           "date": "2026-10-28",
+          "price": 1989.0
+        },
+        {
+          "date": "2026-10-29",
           "price": 1989.0
         }
       ]

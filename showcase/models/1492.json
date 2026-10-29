@@ -35,6 +35,10 @@
         {
           "date": "2026-10-28",
           "price": 1900.0
+        },
+        {
+          "date": "2026-10-29",
+          "price": 1900.0
         }
       ]
     },
@@ -43,7 +47,7 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/dp/B0CHBGVFHP?tag=producttra043-20",
       "has_affiliate": true,
-      "current_price": 2855.03,
+      "current_price": 2772.67,
       "min_price": 1952.92,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -67,13 +71,17 @@
         {
           "date": "2026-10-28",
           "price": 2855.03
+        },
+        {
+          "date": "2026-10-29",
+          "price": 2772.67
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/497578/processador-intel-core-i5-14600k-3-5ghz-5-3-ghz-max-turbo-cache-24mb-14-nucleos-20-threads-lga-1700-com-video-integrado-bx8071514600k?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793193208_a7d98f902953eb641cbd1f6c86b78fa0&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/497578/processador-intel-core-i5-14600k-3-5ghz-5-3-ghz-max-turbo-cache-24mb-14-nucleos-20-threads-lga-1700-com-video-integrado-bx8071514600k?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793264941_316a3f210ee66c952cc0d7842aceedbc&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 1678.99,
       "min_price": 1678.99,
@@ -98,6 +106,10 @@
         },
         {
           "date": "2026-10-28",
+          "price": 1678.99
+        },
+        {
+          "date": "2026-10-29",
           "price": 1678.99
         }
       ]
@@ -130,6 +142,10 @@
         },
         {
           "date": "2026-10-28",
+          "price": 1952.92
+        },
+        {
+          "date": "2026-10-29",
           "price": 1952.92
         }
       ]

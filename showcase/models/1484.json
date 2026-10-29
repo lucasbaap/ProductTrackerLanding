@@ -35,6 +35,10 @@
         {
           "date": "2026-10-28",
           "price": 4009.0
+        },
+        {
+          "date": "2026-10-29",
+          "price": 4009.0
         }
       ]
     },
@@ -43,9 +47,9 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/dp/B0CHBJXG7G?tag=producttra043-20",
       "has_affiliate": true,
-      "current_price": 3411.75,
-      "min_price": 3411.75,
-      "min_price_at": "2026-10-24",
+      "current_price": 3399.0,
+      "min_price": 3399.0,
+      "min_price_at": "2026-10-29",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -67,13 +71,17 @@
         {
           "date": "2026-10-28",
           "price": 3411.75
+        },
+        {
+          "date": "2026-10-29",
+          "price": 3399.0
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/497574/processador-intel-core-i9-14900kf-3-2ghz-6ghz-max-turbo-cache-36mb-24-nucleos-32-threads-lga-1700-sem-video-integrado-bx8071514900kf?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793181684_5aadf9c1138f8365865af8d3a7bde6b1&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/497574/processador-intel-core-i9-14900kf-3-2ghz-6ghz-max-turbo-cache-36mb-24-nucleos-32-threads-lga-1700-sem-video-integrado-bx8071514900kf?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793277631_c9936799b069b6d102a0e24112f769c9&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 3299.99,
       "min_price": 3299.99,
@@ -98,6 +106,10 @@
         },
         {
           "date": "2026-10-28",
+          "price": 3299.99
+        },
+        {
+          "date": "2026-10-29",
           "price": 3299.99
         }
       ]
@@ -130,6 +142,10 @@
         },
         {
           "date": "2026-10-28",
+          "price": 3411.75
+        },
+        {
+          "date": "2026-10-29",
           "price": 3411.75
         }
       ]

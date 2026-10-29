@@ -171,13 +171,17 @@
         {
           "date": "2026-10-28",
           "price": 7099.0
+        },
+        {
+          "date": "2026-10-29",
+          "price": 7099.0
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/1007598/smartphone-samsung-galaxy-s26-ultra-5g-256gb-preto-12gb-ram?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793187614_744d7fa2709d48b98b22f81d9221f29f&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/1007598/smartphone-samsung-galaxy-s26-ultra-5g-256gb-preto-12gb-ram?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793286746_ca401fd985c982a36a795f571a27b41e&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 11789.1,
       "min_price": 11789.1,
@@ -202,6 +206,10 @@
         },
         {
           "date": "2026-10-28",
+          "price": 11789.1
+        },
+        {
+          "date": "2026-10-29",
           "price": 11789.1
         }
       ]

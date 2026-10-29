@@ -35,6 +35,10 @@
         {
           "date": "2026-10-28",
           "price": 628.54
+        },
+        {
+          "date": "2026-10-29",
+          "price": 628.54
         }
       ]
     },
@@ -67,15 +71,19 @@
         {
           "date": "2026-10-28",
           "price": 529.0
+        },
+        {
+          "date": "2026-10-29",
+          "price": 529.0
         }
       ]
     },
     {
       "marketplace": "aliexpress",
       "label": "AliExpress",
-      "link": "https://s.click.aliexpress.com/s/fwx308cRD9Eny963e3KDdYxyIpNj8TXVr7saiF9Um5rMUg1kZtJALLnfa2LNXtiVgnxdD8Og6MmvwBoxhnSYQGM6r0c08U4TfX8DFGo7vviCuu3q62Q60OAhRZcqm3G8PtwM69xY7TOEWRrvulP5ukZQ4uQbBBtaVsdr6EffAqVmp3O5GyUANU2DoA3dJufNhDfh7KOlLgKIvRVhDxRESHLmea6fTE26gLUqKEUuuizJiLENrCbax94DZHDu8WhaXMN8fDE1HOLt4j1KZUcj471WKjwUetlj4ZWgS3yWx6lzuERHNTI3Zmy1QdFfd8GooZdwLiaiF6ANvoZBAqfevU6wUHkGpl2qcC5SvINZfj9tjaKuDnOJgPdKhNv3U6Lqv4EHwnE7RyIjvz7gL6ZxCANoOzx7owdrJQefrH90cfxZtL6iOYdAWIBtdWuDLKsiZOlDggc8A1GmcJOnpyJHQIAYvKsMZtjIoqomNjFboJPfnB2pIIbOt7YOE9loF3My5ZaWxwgGWdKFjg2IMPGk5bYh1yM8LB77LZtSY5wgf5MsS1DmIPdJyAq2X7qHxFTShTYrqRj5sM6iHiUdeimfbMz4MbfT1hRRfAY0ooFPuUV30ICUjKMzfFL2jEbGxh0kQHitGkSkK87u7SRaKCJc2t63dqA0SyH9YkbLVRyt8k0MMvGKRGnHoQcCrS8jYI4QzvqF7SHczcTEGoWqGpDAZJ6D10QHLq7uWDGGZXxCV15hCBV118OLSLDMPFcLvAwk0MDwKo6fJwiHQF3UlEe6YqiTpKZZjwc0l2nYIRBgpymcrHqaJkOuxkMFh8gWy7EScix9FiGuVP1EAXfxFGiOETgnnDp6RnAr5bXxRFii2KQXICqrT6VhXS1rhxNyGU37yg6gRcg9kCmKSkg7sEm60uFHh8hNHGIuZ6sTdwx3NLz7SEAu0FjjaW9LJJ7PoJrGv2dEnjwWEq4KCV8EKf",
+      "link": "https://s.click.aliexpress.com/s/fwx308cRD9Eny963e3KDdYxyIpNj8TXVr7saiF9Um5rMUg1kZtJALLnfa2LNXtiVgnxdD8Og6MmvwBoxhnSYQGM6r0c08U4TfX8DFGo7vviCuu3q62Q60OAhRZcqm3G8PtwM69xY7TOEWRrvulP5ukZQ4uQbBBtaVsdr6EffAqVmp3O5GyUANU2DoA3dJufNhDfh7KOlLgKIvRVhDxRESHLmea6fTE26gLUqKEUuuizJiLENrCbax94DZHDu8WhaXMN8fDE1HOLt4j1KZUcj471WKjwUetlj4ZWgS3yWx6lzuERHNTI3Zmy1QdFfd8GooZdwLiaiF6ANvoZBAqfevU6wUHkGpl2qcC5SvINZfj9tjaKuDnOJgPdKhNv3U6Lqv4EHwnE7RyIjvz7gL6ZxCANoOzx7owdrJQefrH90cfxZtL6iOYdAWIBtdWuDLKsiZOlDggc8A1GmcJOnpyJHQIAYvKsMZtjIoqomNjFboJPfnB2pIIbOt7YOE9loF3My5ZaXKoL7pqSQrpw3MlkyRyQj9rr9gxMFnwlJtSkS2y7R2knR5MBECCUl4k7AvmiYg6o9T80KFLZeEBUHfdeeIlF2wE0KWglZbRXVxiooLHEnomTNoHVTmASeXmxdPF5ESE5sG1Zq2rnrg5f40TF1Im77g0ABHlUVUiweCI8Izl6B6XU9s64m8VXTf9bB2bhPaxYiJ4TClbWH0g8ZZ7xzhJWkjTQSAmLr899su8nK8OHDUpftKaCV8Het9hfcLEqPQ7JUgwtMIxn6HWXTwpvyFy0CsqXXkfg4rDrJnHnrvK6oCutWk3Eh1uljfR18v956MMOVoVxwvpNvZUVyZsRRQztqx1MobaXibHKTTX7nQElDlEI5o2bEaqTEVzmNs4LprQRbBC9pBLWyf5McWP7j5lohMrOCplLHztbOgDXFXznCb8FqRek1N1BdpOWFFb7EFHeSjHFITtOgeAMyHl",
       "has_affiliate": true,
-      "current_price": 223.77,
+      "current_price": 223.08,
       "min_price": 208.79,
       "min_price_at": "2026-10-27",
       "monitored_since": "2026-10-24",
@@ -99,13 +107,17 @@
         {
           "date": "2026-10-28",
           "price": 223.77
+        },
+        {
+          "date": "2026-10-29",
+          "price": 223.08
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/85198/ssd-kingston-a400-480gb-sata-iii-2-5-leitura-500mb-s-gravacao-450mb-s-preto-sa400s37-480g?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793185547_e9a4b0b175034723d7a4744b3882dae0&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/85198/ssd-kingston-a400-480gb-sata-iii-2-5-leitura-500mb-s-gravacao-450mb-s-preto-sa400s37-480g?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793273152_9677a01facc7b5bd426fdb7c92586717&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 659.99,
       "min_price": 659.99,
@@ -130,6 +142,10 @@
         },
         {
           "date": "2026-10-28",
+          "price": 659.99
+        },
+        {
+          "date": "2026-10-29",
           "price": 659.99
         }
       ]
@@ -163,6 +179,10 @@
         {
           "date": "2026-10-28",
           "price": 670.58
+        },
+        {
+          "date": "2026-10-29",
+          "price": 670.58
         }
       ]
     },
@@ -194,6 +214,10 @@
         },
         {
           "date": "2026-10-28",
+          "price": 670.47
+        },
+        {
+          "date": "2026-10-29",
           "price": 670.47
         }
       ]

@@ -35,15 +35,19 @@
         {
           "date": "2026-10-28",
           "price": 858.09
+        },
+        {
+          "date": "2026-10-29",
+          "price": 858.09
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/524589/processador-intel-core-i3-14100f-14-geracao-3-5-ghz-4-7-ghz-turbo-cache-12mb-lga-1700-sem-video-bx8071514100f?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793175064_b9980731afa30f7b6af03df5bb1bf921&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/524589/processador-intel-core-i3-14100f-14-geracao-3-5-ghz-4-7-ghz-turbo-cache-12mb-lga-1700-sem-video-bx8071514100f?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793278742_68e9de403a6617f6d8f31db5f5d18dc8&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
-      "current_price": 752.74,
+      "current_price": 755.73,
       "min_price": 752.74,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -67,6 +71,10 @@
         {
           "date": "2026-10-28",
           "price": 752.74
+        },
+        {
+          "date": "2026-10-29",
+          "price": 755.73
         }
       ]
     },
@@ -99,6 +107,10 @@
         {
           "date": "2026-10-28",
           "price": 776.46
+        },
+        {
+          "date": "2026-10-29",
+          "price": 776.46
         }
       ]
     },
@@ -130,6 +142,10 @@
         },
         {
           "date": "2026-10-28",
+          "price": 1049.83
+        },
+        {
+          "date": "2026-10-29",
           "price": 1049.83
         }
       ]

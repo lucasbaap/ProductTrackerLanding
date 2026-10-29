@@ -9,7 +9,7 @@
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/422164/processador-amd-ryzen-5-7600-4-00ghz-6-core-38mb-am5?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793196767_e9142260f4b47e5e83ad5da7599cb1cb&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/422164/processador-amd-ryzen-5-7600-4-00ghz-6-core-38mb-am5?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793285847_cc654ff9a12e6428805e17965c9b01f3&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 1759.9,
       "min_price": 1759.9,
@@ -34,6 +34,10 @@
         },
         {
           "date": "2026-10-28",
+          "price": 1759.9
+        },
+        {
+          "date": "2026-10-29",
           "price": 1759.9
         }
       ]
@@ -67,6 +71,10 @@
         {
           "date": "2026-10-28",
           "price": 1176.46
+        },
+        {
+          "date": "2026-10-29",
+          "price": 1176.46
         }
       ]
     },
@@ -99,13 +107,17 @@
         {
           "date": "2026-10-28",
           "price": 1529.4
+        },
+        {
+          "date": "2026-10-29",
+          "price": 1529.4
         }
       ]
     },
     {
       "marketplace": "shopee",
       "label": "Shopee",
-      "link": "https://s.shopee.com.br/4fxLQVM4lc",
+      "link": "https://s.shopee.com.br/5fptvTEc8J",
       "has_affiliate": true,
       "current_price": 1554.99,
       "min_price": 1554.99,
@@ -131,15 +143,19 @@
         {
           "date": "2026-10-28",
           "price": 1554.99
+        },
+        {
+          "date": "2026-10-29",
+          "price": 1554.99
         }
       ]
     },
     {
       "marketplace": "aliexpress",
       "label": "AliExpress",
-      "link": "https://s.click.aliexpress.com/s/fwx308cRD9Eny963e3KDdYxyIpNj8TXVr7saiF9Um5rMUg1kZtJALLnfa2LNXtiVgnxdD8Og6MmvwBoxhnSYQGM6r0c08U4TfX8DFGo7vviCuu3q62Q60OAhRZcqm3G8PtwM69xY7TOEWRrvulP5ukZQ4uQbBBtaVsdr6EffAqVmp3O5GyUANU2DoA3dJufNhDfh7KOlLgKIvRVhDxRESHLmea6fTE26gLUqKEUuuizJiLENrCbax94DZHDu8WhaXMN8fDE1HOLt4j1KZUcj471WKjwUetlj4ZWgS3yWx6lzuERHNTI3Zmy1QdFGmOrUpflNthqjRMyGbRR2yx4lVC7lpoHLywxEdqq8B9qXTIp4KoHLCdVWIv7c5uVNuObuYyMRMKuINYIlDgBv0LXmC08wFk4rwnqqAen0xci4UkcyHsO4E8ytTbgxzHM3plLLQHwAS8iGfhNLJqJ7qYMon1krIVaxYDMZGyW0RIl1OBS7GE4wMeY63u7MIVNZM5OSgrzRE3ZIMh1a6RUjgqHx3zKeZuH8gp4a0loNWoVRR6d0wbiNrYMrFuAd2s5lBSa1SQmFrTnysBu7WuTCSFOgAJUeM3tiFWtL8iOaqI4MEFoJXJ5cC9M4JPj6RYXtozIcH2rVtwPlZ3uWv5uRav9LDvu0zvraSYMzN8tYh95dFGJLmTYN30deprUHNhICpzoPghIuJphdfovfCgiECuXqBcSLFXHkGxABH8LWHBDE2JUTtwpx3fUi0mA4i12lbCiVWI2Z3CCW39jg93YOLbMdFBIgKS1MQtagNdRS2L0UeBt3JmJGhDDJCrptTx5PShvP6WgnO6yH4gNtygkEAWYJVqb4V0PZE0MnL0hizLjlHT1DNtozGTBpYtokO3xHUVGTnfAwIRMLHJLJhrIyOST074fTHqkUkjXVMGVb4hgbYBtoYJKFLXNBTcA7lPwogJigSIRaoCr380Tb5OUn2L",
+      "link": "https://s.click.aliexpress.com/e/_c2uocrCX",
       "has_affiliate": true,
-      "current_price": 257.38,
+      "current_price": 256.7,
       "min_price": 242.77,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -163,6 +179,10 @@
         {
           "date": "2026-10-28",
           "price": 257.38
+        },
+        {
+          "date": "2026-10-29",
+          "price": 256.7
         }
       ]
     }

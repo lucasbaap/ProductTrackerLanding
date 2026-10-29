@@ -35,6 +35,10 @@
         {
           "date": "2026-10-28",
           "price": 4299.0
+        },
+        {
+          "date": "2026-10-29",
+          "price": 4299.0
         }
       ]
     },
@@ -67,13 +71,17 @@
         {
           "date": "2026-10-28",
           "price": 4999.0
+        },
+        {
+          "date": "2026-10-29",
+          "price": 4999.0
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/1050570/console-sony-playstation-5-edicao-digital-slim-ssd-825gb-controle-dualsense-astro-s-playroom-branco-cfi-2114b?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793194132_4e13792f6435ef499e9969d2ad3a22ff&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/1050570/console-sony-playstation-5-edicao-digital-slim-ssd-825gb-controle-dualsense-astro-s-playroom-branco-cfi-2114b?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793282091_a22de8442acba76606e180b76a7d17a9&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 4370.07,
       "min_price": 4370.07,
@@ -98,6 +106,10 @@
         },
         {
           "date": "2026-10-28",
+          "price": 4370.07
+        },
+        {
+          "date": "2026-10-29",
           "price": 4370.07
         }
       ]
@@ -130,6 +142,10 @@
         },
         {
           "date": "2026-10-28",
+          "price": 5599.0
+        },
+        {
+          "date": "2026-10-29",
           "price": 5599.0
         }
       ]
@@ -190,6 +206,10 @@
         },
         {
           "date": "2026-10-28",
+          "price": 6188.22
+        },
+        {
+          "date": "2026-10-29",
           "price": 6188.22
         }
       ]

@@ -35,13 +35,17 @@
         {
           "date": "2026-10-28",
           "price": 1342.0
+        },
+        {
+          "date": "2026-10-29",
+          "price": 1342.0
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/1020444/ssd-nvme-wd-blue-sn570-1tb-m-2-2280-pcie-3-0-3500mb-s-wd?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793182506_ff01efa9833f094401b9f232963c4fb6&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/1020444/ssd-nvme-wd-blue-sn570-1tb-m-2-2280-pcie-3-0-3500mb-s-wd?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793268415_42114a183ecdc696509e6c81c290be2d&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 1218.38,
       "min_price": 1218.38,
@@ -66,6 +70,10 @@
         },
         {
           "date": "2026-10-28",
+          "price": 1218.38
+        },
+        {
+          "date": "2026-10-29",
           "price": 1218.38
         }
       ]

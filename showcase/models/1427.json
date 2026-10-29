@@ -35,6 +35,10 @@
         {
           "date": "2026-10-28",
           "price": 3752.5
+        },
+        {
+          "date": "2026-10-29",
+          "price": 3752.5
         }
       ]
     },
@@ -67,13 +71,17 @@
         {
           "date": "2026-10-28",
           "price": 4579.0
+        },
+        {
+          "date": "2026-10-29",
+          "price": 4579.0
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/200089/console-microsoft-xbox-series-s-512gb-branco-rrs-00006?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793196688_05d410a2350799483cfe1d94c69f601d&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/200089/console-microsoft-xbox-series-s-512gb-branco-rrs-00006?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793279404_715d24099d088bf02a34697e222c667b&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 4799.0,
       "min_price": 4799.0,
@@ -98,6 +106,10 @@
         },
         {
           "date": "2026-10-28",
+          "price": 4799.0
+        },
+        {
+          "date": "2026-10-29",
           "price": 4799.0
         }
       ]

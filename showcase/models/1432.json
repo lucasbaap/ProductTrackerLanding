@@ -35,6 +35,10 @@
         {
           "date": "2026-10-28",
           "price": 651.0
+        },
+        {
+          "date": "2026-10-29",
+          "price": 651.0
         }
       ]
     },
@@ -67,13 +71,17 @@
         {
           "date": "2026-10-28",
           "price": 699.0
+        },
+        {
+          "date": "2026-10-29",
+          "price": 699.0
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/992806/placa-mae-asus-prime-b550m-k-am4-ddr4-hdmi-display-port-micro-atx-argb-90mb1gc0-m0eay0?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793187578_6b0528735f2bb45317218fcb6c773061&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/992806/placa-mae-asus-prime-b550m-k-am4-ddr4-hdmi-display-port-micro-atx-argb-90mb1gc0-m0eay0?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793273963_abe41c640fbadc9ae4a931cb53f34c18&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 547.0,
       "min_price": 547.0,
@@ -94,6 +102,10 @@
         },
         {
           "date": "2026-10-28",
+          "price": 547.0
+        },
+        {
+          "date": "2026-10-29",
           "price": 547.0
         }
       ]

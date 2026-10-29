@@ -35,6 +35,10 @@
         {
           "date": "2026-10-28",
           "price": 2099.99
+        },
+        {
+          "date": "2026-10-29",
+          "price": 2099.99
         }
       ]
     },
@@ -43,7 +47,7 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/Placa-m%C3%A3e-B860-Tomahawk-WiFi-processadores/dp/B0DQBJ64KH?tag=producttra043-20",
       "has_affiliate": true,
-      "current_price": 1814.27,
+      "current_price": 3219.42,
       "min_price": 1814.27,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -51,13 +55,17 @@
         {
           "date": "2026-10-24",
           "price": 1814.27
+        },
+        {
+          "date": "2026-10-29",
+          "price": 3219.42
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/902507/placa-mae-msi-mag-b860-tomahawk-wifi-7-lga-1851-4xddr5-chipset-intel-b860-atx?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793192105_20edd1ee8c39f6c248393fb5bf3f8689&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/902507/placa-mae-msi-mag-b860-tomahawk-wifi-7-lga-1851-4xddr5-chipset-intel-b860-atx?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793269250_6267ef5a1cc9b9143eef78a74bcf3ab4&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 2259.0,
       "min_price": 2259.0,
@@ -82,6 +90,10 @@
         },
         {
           "date": "2026-10-28",
+          "price": 2259.0
+        },
+        {
+          "date": "2026-10-29",
           "price": 2259.0
         }
       ]
@@ -114,6 +126,10 @@
         },
         {
           "date": "2026-10-28",
+          "price": 2235.28
+        },
+        {
+          "date": "2026-10-29",
           "price": 2235.28
         }
       ]

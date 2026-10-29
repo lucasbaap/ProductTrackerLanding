@@ -11,7 +11,7 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/dp/B0GVTB7BGQ?tag=producttra043-20",
       "has_affiliate": true,
-      "current_price": 2398.0,
+      "current_price": 2665.56,
       "min_price": 2398.0,
       "min_price_at": "2026-10-28",
       "monitored_since": "2026-10-24",
@@ -35,13 +35,17 @@
         {
           "date": "2026-10-28",
           "price": 2398.0
+        },
+        {
+          "date": "2026-10-29",
+          "price": 2665.56
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/1032833/smartphone-samsung-galaxy-a57-5g-256gb-8gb-ram-azul-escuro?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793180783_d826708a066ff3ebbb958c7d8f7ee856&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/1032833/smartphone-samsung-galaxy-a57-5g-256gb-8gb-ram-azul-escuro?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793271153_4cca66768f7a7f5a633ef1353d4e46c5&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 2399.0,
       "min_price": 2399.0,
@@ -66,6 +70,10 @@
         },
         {
           "date": "2026-10-28",
+          "price": 2399.0
+        },
+        {
+          "date": "2026-10-29",
           "price": 2399.0
         }
       ]

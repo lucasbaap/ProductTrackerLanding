@@ -35,6 +35,10 @@
         {
           "date": "2026-10-28",
           "price": 2599.0
+        },
+        {
+          "date": "2026-10-29",
+          "price": 2599.0
         }
       ]
     },
@@ -67,6 +71,10 @@
         {
           "date": "2026-10-28",
           "price": 2250.0
+        },
+        {
+          "date": "2026-10-29",
+          "price": 2250.0
         }
       ]
     },
@@ -86,9 +94,9 @@
       "label": "Magalu",
       "link": "https://m.magazineluiza.com.br/console-nintendo-switch-oled-64gb-edicao-super-mario-bros-wonder/p/fh937be7ka/ga/coni/?partner_id=3440&promoter_id=5820501&utm_source=divulgador&utm_medium=magalu&utm_campaign=5820501",
       "has_affiliate": true,
-      "current_price": 2700.0,
-      "min_price": 2700.0,
-      "min_price_at": "2026-10-24",
+      "current_price": 2499.0,
+      "min_price": 2499.0,
+      "min_price_at": "2026-10-29",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -110,6 +118,10 @@
         {
           "date": "2026-10-28",
           "price": 2700.0
+        },
+        {
+          "date": "2026-10-29",
+          "price": 2499.0
         }
       ]
     }

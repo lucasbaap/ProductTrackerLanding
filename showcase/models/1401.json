@@ -11,7 +11,7 @@
       "label": "Mercado Livre",
       "link": "https://www.mercadolivre.com.br/p/MLB1055308605?matt_word=balu1353476&matt_tool=29239275",
       "has_affiliate": true,
-      "current_price": 10748.95,
+      "current_price": 10799.0,
       "min_price": 9748.3,
       "min_price_at": "2026-10-08",
       "monitored_since": "2026-10-01",
@@ -107,6 +107,10 @@
         {
           "date": "2026-10-28",
           "price": 10748.95
+        },
+        {
+          "date": "2026-10-29",
+          "price": 10799.0
         }
       ]
     },
@@ -211,13 +215,17 @@
         {
           "date": "2026-10-28",
           "price": 10748.95
+        },
+        {
+          "date": "2026-10-29",
+          "price": 10748.95
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/928991/apple-iphone-17-pro-max-256gb-laranja-cosmico?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793198730_8677495ef92c850d2321b78e9aa4b487&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/928991/apple-iphone-17-pro-max-256gb-laranja-cosmico?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793285922_a89e1fc8271ff37acce6a7564d97bacd&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 9999.99,
       "min_price": 9999.99,
@@ -314,6 +322,10 @@
         },
         {
           "date": "2026-10-28",
+          "price": 9999.99
+        },
+        {
+          "date": "2026-10-29",
           "price": 9999.99
         }
       ]

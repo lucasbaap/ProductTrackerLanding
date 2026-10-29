@@ -35,6 +35,10 @@
         {
           "date": "2026-10-28",
           "price": 1299.0
+        },
+        {
+          "date": "2026-10-29",
+          "price": 1299.0
         }
       ]
     },
@@ -67,13 +71,17 @@
         {
           "date": "2026-10-28",
           "price": 1259.9
+        },
+        {
+          "date": "2026-10-29",
+          "price": 1259.9
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/523145/placa-mae-asus-tuf-gaming-b650m-e-wifi-amd-am5-b650-ddr5-preto-90mb1fv0-m0eay0?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793176053_76d5190a231cc5b066d554e6c69a7e7f&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/523145/placa-mae-asus-tuf-gaming-b650m-e-wifi-amd-am5-b650-ddr5-preto-90mb1fv0-m0eay0?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793280517_213ac57775622d937c57ae0a54130c82&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 1149.99,
       "min_price": 1149.99,
@@ -98,6 +106,10 @@
         },
         {
           "date": "2026-10-28",
+          "price": 1149.99
+        },
+        {
+          "date": "2026-10-29",
           "price": 1149.99
         }
       ]
@@ -131,6 +143,10 @@
         {
           "date": "2026-10-28",
           "price": 1352.93
+        },
+        {
+          "date": "2026-10-29",
+          "price": 1352.93
         }
       ]
     },
@@ -162,6 +178,10 @@
         },
         {
           "date": "2026-10-28",
+          "price": 1352.93
+        },
+        {
+          "date": "2026-10-29",
           "price": 1352.93
         }
       ]

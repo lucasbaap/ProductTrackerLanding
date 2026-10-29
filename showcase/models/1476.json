@@ -11,7 +11,7 @@
       "label": "Mercado Livre",
       "link": "https://www.mercadolivre.com.br/p/MLB2065041734?matt_word=balu1353476&matt_tool=29239275",
       "has_affiliate": true,
-      "current_price": 1421.92,
+      "current_price": 1435.21,
       "min_price": 1344.85,
       "min_price_at": "2026-10-26",
       "monitored_since": "2026-10-24",
@@ -35,6 +35,10 @@
         {
           "date": "2026-10-28",
           "price": 1421.92
+        },
+        {
+          "date": "2026-10-29",
+          "price": 1435.21
         }
       ]
     },
@@ -66,6 +70,10 @@
         },
         {
           "date": "2026-10-28",
+          "price": 1388.22
+        },
+        {
+          "date": "2026-10-29",
           "price": 1388.22
         }
       ]
@@ -99,6 +107,10 @@
         {
           "date": "2026-10-28",
           "price": 1199.99
+        },
+        {
+          "date": "2026-10-29",
+          "price": 1199.99
         }
       ]
     },
@@ -107,7 +119,7 @@
       "label": "Pichau",
       "link": "https://www.pichau.com.br/processador-intel-core-ultra-5-245k-14-core-14-threads-4-2ghz-5-2ghz-turbo-cache-24mb-lga1851-bx80768245k",
       "has_affiliate": true,
-      "current_price": 3176.46,
+      "current_price": 1388.22,
       "min_price": 1388.22,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -131,6 +143,10 @@
         {
           "date": "2026-10-28",
           "price": 3176.46
+        },
+        {
+          "date": "2026-10-29",
+          "price": 1388.22
         }
       ]
     },
@@ -162,6 +178,10 @@
         },
         {
           "date": "2026-10-28",
+          "price": 1388.22
+        },
+        {
+          "date": "2026-10-29",
           "price": 1388.22
         }
       ]

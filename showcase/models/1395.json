@@ -35,6 +35,10 @@
         {
           "date": "2026-10-28",
           "price": 9810.87
+        },
+        {
+          "date": "2026-10-29",
+          "price": 9810.87
         }
       ]
     },
@@ -43,7 +47,7 @@
       "label": "KaBuM!",
       "link": "https://www.kabum.com.br/produto/1072459/iphone-18-pro-max-apple-256gb-camera-de-48mp-a20-pro-tela-6-9-super-retina-xdr-bordo?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793183639_ee24957ba71e247138349a414b526eaf&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
-      "current_price": 11699.99,
+      "current_price": 12999.0,
       "min_price": 11699.1,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -67,13 +71,17 @@
         {
           "date": "2026-10-28",
           "price": 11699.99
+        },
+        {
+          "date": "2026-10-29",
+          "price": 12999.0
         }
       ]
     },
     {
       "marketplace": "shopee",
       "label": "Shopee",
-      "link": "https://s.shopee.com.br/8fTTzCOyMH",
+      "link": "https://s.shopee.com.br/7puOZRuFZI",
       "has_affiliate": true,
       "current_price": 12999.0,
       "min_price": 12999.0,
@@ -98,6 +106,10 @@
         },
         {
           "date": "2026-10-28",
+          "price": 12999.0
+        },
+        {
+          "date": "2026-10-29",
           "price": 12999.0
         }
       ]

@@ -9,7 +9,7 @@
     {
       "marketplace": "shopee",
       "label": "Shopee",
-      "link": "https://s.shopee.com.br/6L5Z7NnDV2",
+      "link": "https://s.shopee.com.br/7fayXnizTG",
       "has_affiliate": true,
       "current_price": 3649.0,
       "min_price": 3649.0,
@@ -35,6 +35,10 @@
         {
           "date": "2026-10-28",
           "price": 3649.0
+        },
+        {
+          "date": "2026-10-29",
+          "price": 3649.0
         }
       ]
     },
@@ -43,7 +47,7 @@
       "label": "AliExpress",
       "link": "https://www.aliexpress.com/item/1005012700854316.html",
       "has_affiliate": true,
-      "current_price": 2563.99,
+      "current_price": 2557.46,
       "min_price": 2391.76,
       "min_price_at": "2026-10-27",
       "monitored_since": "2026-10-24",
@@ -67,13 +71,17 @@
         {
           "date": "2026-10-28",
           "price": 2563.99
+        },
+        {
+          "date": "2026-10-29",
+          "price": 2557.46
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/991966/ssd-m-2-2tb-kingston-fury-renegade-nvme-leitura-14-700mb-s-gravacao-14-000mb-s-sfyr2s-2t0?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793095776_d3cabecf515156e63166fbd72ff2308a&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/991966/ssd-m-2-2tb-kingston-fury-renegade-nvme-leitura-14-700mb-s-gravacao-14-000mb-s-sfyr2s-2t0?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793271120_32bf9db0587184992666f3cfeda12317&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 5729.99,
       "min_price": 5729.99,
@@ -98,6 +106,10 @@
         },
         {
           "date": "2026-10-28",
+          "price": 5729.99
+        },
+        {
+          "date": "2026-10-29",
           "price": 5729.99
         }
       ]
@@ -130,6 +142,10 @@
         },
         {
           "date": "2026-10-28",
+          "price": 4741.16
+        },
+        {
+          "date": "2026-10-29",
           "price": 4741.16
         }
       ]

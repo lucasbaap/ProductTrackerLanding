@@ -35,13 +35,17 @@
         {
           "date": "2026-10-28",
           "price": 1727.0
+        },
+        {
+          "date": "2026-10-29",
+          "price": 1727.0
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/497579/processador-intel-core-i5-14600kf-3-5ghz-5-3-ghz-max-turbo-cache-24mb-14-nucleos-20-threads-lga-1700-sem-video-integrado-bx8071514600kf?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793187442_84665d582e7ed1bcb3b467bf566e4c05&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/497579/processador-intel-core-i5-14600kf-3-5ghz-5-3-ghz-max-turbo-cache-24mb-14-nucleos-20-threads-lga-1700-sem-video-integrado-bx8071514600kf?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793280602_516bc9ca9f9c9979cef99acfc46acd40&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 1499.99,
       "min_price": 1499.99,
@@ -66,6 +70,10 @@
         },
         {
           "date": "2026-10-28",
+          "price": 1499.99
+        },
+        {
+          "date": "2026-10-29",
           "price": 1499.99
         }
       ]
@@ -99,6 +107,10 @@
         {
           "date": "2026-10-28",
           "price": 1741.16
+        },
+        {
+          "date": "2026-10-29",
+          "price": 1741.16
         }
       ]
     },
@@ -107,7 +119,7 @@
       "label": "Magalu",
       "link": "https://m.magazineluiza.com.br/processador-intel-core-i5-14600kf-14a-geracao-3-5-ghz-5-3-ghz-turbo-cache-24mb-lga1700-bx8071514600kf/p/ab5g7g07a1/in/prsd/?partner_id=3440&promoter_id=5820501&utm_source=divulgador&utm_medium=magalu&utm_campaign=5820501",
       "has_affiliate": true,
-      "current_price": 2513.9,
+      "current_price": 2284.9,
       "min_price": 2284.9,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -131,6 +143,10 @@
         {
           "date": "2026-10-28",
           "price": 2513.9
+        },
+        {
+          "date": "2026-10-29",
+          "price": 2284.9
         }
       ]
     }

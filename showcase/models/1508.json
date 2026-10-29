@@ -9,7 +9,7 @@
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/677473/memoria-ram-xpg-lancer-blade-16gb-rgb-ddr5-6000mhz-single-tray-cl48-preto-ax5u6000c4816g-slabrbk?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793183586_44c2c6a4fb831bcb53fb6a03c23296d1&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/677473/memoria-ram-xpg-lancer-blade-16gb-rgb-ddr5-6000mhz-single-tray-cl48-preto-ax5u6000c4816g-slabrbk?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793272115_1154464efbfc56ad55976c6dd65e6297&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 2079.99,
       "min_price": 2079.99,
@@ -34,6 +34,10 @@
         },
         {
           "date": "2026-10-28",
+          "price": 2079.99
+        },
+        {
+          "date": "2026-10-29",
           "price": 2079.99
         }
       ]

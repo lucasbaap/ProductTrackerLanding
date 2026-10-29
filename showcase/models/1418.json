@@ -35,6 +35,10 @@
         {
           "date": "2026-10-28",
           "price": 998.89
+        },
+        {
+          "date": "2026-10-29",
+          "price": 998.89
         }
       ]
     },
@@ -67,13 +71,17 @@
         {
           "date": "2026-10-28",
           "price": 949.0
+        },
+        {
+          "date": "2026-10-29",
+          "price": 949.0
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/1007603/smartphone-motorola-moto-g17-128gb-roxo-12gb-4gb-ram-8gb-ram-boost-camera-50mp-e-tela-6-7-?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793186469_a84fd9dbb20f8688d706d7a3e909d9a4&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/1007603/smartphone-motorola-moto-g17-128gb-roxo-12gb-4gb-ram-8gb-ram-boost-camera-50mp-e-tela-6-7-?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793264885_e3fc0ee79aa67272278858d7932f016a&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 899.1,
       "min_price": 899.1,
@@ -98,6 +106,10 @@
         },
         {
           "date": "2026-10-28",
+          "price": 899.1
+        },
+        {
+          "date": "2026-10-29",
           "price": 899.1
         }
       ]

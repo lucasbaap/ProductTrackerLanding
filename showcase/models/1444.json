@@ -39,6 +39,10 @@
         {
           "date": "2026-10-29",
           "price": 1824.57
+        },
+        {
+          "date": "2026-10-30",
+          "price": 1824.57
         }
       ]
     },
@@ -74,6 +78,10 @@
         },
         {
           "date": "2026-10-29",
+          "price": 1990.0
+        },
+        {
+          "date": "2026-10-30",
           "price": 1990.0
         }
       ]
@@ -111,6 +119,10 @@
         {
           "date": "2026-10-29",
           "price": 1959.0
+        },
+        {
+          "date": "2026-10-30",
+          "price": 1959.0
         }
       ]
     },
@@ -147,9 +159,9 @@
       "label": "Pichau",
       "link": "https://www.pichau.com.br/placa-mae-asus-tuf-gaming-b860m-plus-wifi-ddr5-lga1851-m-atx-chipset-intel-b860-tuf-gaming-b860m-plus-wifi",
       "has_affiliate": true,
-      "current_price": 2070.58,
-      "min_price": 2070.58,
-      "min_price_at": "2026-10-24",
+      "current_price": 1999.99,
+      "min_price": 1999.99,
+      "min_price_at": "2026-10-30",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -175,6 +187,10 @@
         {
           "date": "2026-10-29",
           "price": 2070.58
+        },
+        {
+          "date": "2026-10-30",
+          "price": 1999.99
         }
       ]
     }

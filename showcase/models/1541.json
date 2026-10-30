@@ -39,6 +39,10 @@
         {
           "date": "2026-10-29",
           "price": 2690.9
+        },
+        {
+          "date": "2026-10-30",
+          "price": 2690.9
         }
       ]
     },
@@ -75,13 +79,17 @@
         {
           "date": "2026-10-29",
           "price": 2799.0
+        },
+        {
+          "date": "2026-10-30",
+          "price": 2799.0
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/752217/ssd-kingston-fury-renegade-1024gb-g5-pcie-m-2-nvme-leitura-14-200mb-s-e-gravacao-11-000mb-s-compativel-com-ps5-sfyr2s-1t0?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793184680_a899c3f31e4ca2032fc708642c6890b6&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/752217/ssd-kingston-fury-renegade-1024gb-g5-pcie-m-2-nvme-leitura-14-200mb-s-e-gravacao-11-000mb-s-compativel-com-ps5-sfyr2s-1t0?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793355927_9c3bb98dcc55819d9e20ffcabbc311a8&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 2599.99,
       "min_price": 2599.99,
@@ -110,6 +118,10 @@
         },
         {
           "date": "2026-10-29",
+          "price": 2599.99
+        },
+        {
+          "date": "2026-10-30",
           "price": 2599.99
         }
       ]
@@ -142,6 +154,10 @@
         },
         {
           "date": "2026-10-29",
+          "price": 3529.4
+        },
+        {
+          "date": "2026-10-30",
           "price": 3529.4
         }
       ]

@@ -39,6 +39,10 @@
         {
           "date": "2026-10-29",
           "price": 7350.0
+        },
+        {
+          "date": "2026-10-30",
+          "price": 7350.0
         }
       ]
     },
@@ -75,13 +79,17 @@
         {
           "date": "2026-10-29",
           "price": 9099.0
+        },
+        {
+          "date": "2026-10-30",
+          "price": 9099.0
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/928625/apple-iphone-air-256gb-azul-ceu?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793278631_386eee4b6651b85f0b9d8fc924d33565&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/928625/apple-iphone-air-256gb-azul-ceu?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793363725_53190e18b49fa1ecbdf9e8f455242f1c&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 9799.0,
       "min_price": 9799.0,
@@ -110,6 +118,10 @@
         },
         {
           "date": "2026-10-29",
+          "price": 9799.0
+        },
+        {
+          "date": "2026-10-30",
           "price": 9799.0
         }
       ]

@@ -11,7 +11,7 @@
       "label": "Mercado Livre",
       "link": "https://www.mercadolivre.com.br/p/MLB2089094099?matt_word=balu1353476&matt_tool=29239275",
       "has_affiliate": true,
-      "current_price": 742.26,
+      "current_price": 749.2,
       "min_price": 702.02,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -39,6 +39,10 @@
         {
           "date": "2026-10-29",
           "price": 742.26
+        },
+        {
+          "date": "2026-10-30",
+          "price": 749.2
         }
       ]
     },
@@ -75,13 +79,17 @@
         {
           "date": "2026-10-29",
           "price": 1249.0
+        },
+        {
+          "date": "2026-10-30",
+          "price": 1249.0
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/696999/processador-intel-core-ultra-5-225-3-3ghz-4-9ghz-turbo-cache-20mb-10-nucleos-10-threads-lga-1851-com-video-integrado-bx80768225?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793093937_7c9ce26f79eb81a021378a2511454402&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/696999/processador-intel-core-ultra-5-225-3-3ghz-4-9ghz-turbo-cache-20mb-10-nucleos-10-threads-lga-1851-com-video-integrado-bx80768225?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793358709_46aa8924558cda047f5172a66ed584c8&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 1249.99,
       "min_price": 1249.99,
@@ -110,6 +118,10 @@
         },
         {
           "date": "2026-10-29",
+          "price": 1249.99
+        },
+        {
+          "date": "2026-10-30",
           "price": 1249.99
         }
       ]
@@ -146,6 +158,10 @@
         },
         {
           "date": "2026-10-29",
+          "price": 1529.4
+        },
+        {
+          "date": "2026-10-30",
           "price": 1529.4
         }
       ]

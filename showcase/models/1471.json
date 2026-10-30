@@ -39,6 +39,10 @@
         {
           "date": "2026-10-29",
           "price": 2352.93
+        },
+        {
+          "date": "2026-10-30",
+          "price": 2352.93
         }
       ]
     },
@@ -47,9 +51,9 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/dp/B0DFK2MH2D?tag=producttra043-20",
       "has_affiliate": true,
-      "current_price": 2719.9,
-      "min_price": 2719.9,
-      "min_price_at": "2026-10-24",
+      "current_price": 2329.0,
+      "min_price": 2329.0,
+      "min_price_at": "2026-10-30",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -71,13 +75,17 @@
         {
           "date": "2026-10-28",
           "price": 2719.9
+        },
+        {
+          "date": "2026-10-30",
+          "price": 2329.0
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/645178/processador-intel-core-ultra-7-265k-3-9ghz-5-5ghz-turbo-cache-30mb-20-nucleos-20-threads-lga-1851-com-video-integrado-bx80768265k?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793269349_fd05f83663f2f536f69ef8af4ac2eddb&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/645178/processador-intel-core-ultra-7-265k-3-9ghz-5-5ghz-turbo-cache-30mb-20-nucleos-20-threads-lga-1851-com-video-integrado-bx80768265k?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793349768_3308478e59d364c266f5668b070bac06&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 1999.99,
       "min_price": 1999.99,
@@ -107,6 +115,10 @@
         {
           "date": "2026-10-29",
           "price": 1999.99
+        },
+        {
+          "date": "2026-10-30",
+          "price": 1999.99
         }
       ]
     },
@@ -124,9 +136,9 @@
     {
       "marketplace": "aliexpress",
       "label": "AliExpress",
-      "link": "https://s.click.aliexpress.com/s/NdpwztbAIgDMmxGbP8fFks7yUFfsHjzlImSYmA68h7xlMRgzueFsRgokQ9f9hcpVKttxtQE2VzIoqkXJXrpOr6uR3zv7mP4CDO9CddoFf4t0QE5DXPy8Pgjhz4irfQSEjEGUmy5yF3A5gJ9h3NYjLMgqIMqa3zcpq5E2BC3W5EbV40Dm9buQxWpZzw1lbX8Zm2kZtNIa4KyDieNjsH7IU6Yv8StELKVvT9r4eFAaXPGhwHsgaDqdNcmY116r3GC2YvmvR57S69fGyn8Tt4pCtmLccxQz3g0L1ZKu00BPwYOT3BF4QZOqRqMDB0DHu4eJY7J1Y0PlKerFtw2iSIVLy8uU7dweBkjLgum3QJcrsubwW9bbZGnyZbWlt2oxpFSbrphTQrwGUl8EVT7pDHKDtUtDhLRkNTpZvHitmVD5pvbtu2bukxBh4wTEYiYG9pdFgwjFb046e4FUtYAbGAcpIIIh24WhzCsDJ20hv8HjMQRjB9tYNQ86O3ZQUm601uowrnFX84H5tnblg3T90HCGlcmsNTLJgfEZDOFqQeB9HMZIwlqZH2Kw4v8MvLOElGrkb3o8lHXh1CPAVb5YxLOzioKXfnUHsZTxGcezVlCNXbOI3aKJ0uHztcCgAgiR8mBU7kGN1gVbPvJEDOz51fxZ9KiM3yRBgh4HBf89J1vGyo4hlvts0kWl6yQ39iNt89TbIJnQwORVNwSxCSdhapR6cIpNxlewbLoUqo5C0tGDPXr6s7LN1SZKRRQlcgFo0lRoOc8sEbNF7NJRfpUHDYkxMpEeWwa2QmY3mWQRxVH8LvpYalMArfL4xbFdeNm5yqnM0DkaqACGfTj7ZEROMFkaD0ucqPH2rsSmmaT1Ks8dLaFQ3Vcy77x3hOszQgN9lLQpJsLcRbZyGsUpvbcnZvvbTuTK3mwsf0uYvpjQI4gY8DJbRRwSZ7NefXGS2Ijm1rq5H96l6cjb8l5Ugl565qpzRvKrC3yRiPEB0oiCcNjuTrbph",
+      "link": "https://s.click.aliexpress.com/s/NdpwztbAIgDMmxGbP8fFks7yUFfsHjzlImSYmA68h7xlMRgzueFsRgokQ9f9hcpVKttxtQE2VzIoqkXJXrpOr6uR3zv7mP4CDO9CddoFf4t0QE5DXPy8Pgjhz4irfQSEjEGUmy5yF3A5gJ9h3NYjLMgqIMqa3zcpq5E2BC3W5EbV40Dm9buQxWpZzw1lbX8Zm2kZtNIa4KyDieNjsH7IU6Yv8StELKVvT9r4eFAaXPGhwHsgaDqdNcmY116r3GC2YvmvR57S69fGyn8Tt4pCtmLccxQz3g0L1ZKu00BPwYOT3BF4QZOqRqMDB0DHu4eJY7J1Y0PlKerFtw2iSIVLy8uU7dweBkjLgum3QJcrsubwW9bbZGnyZbWlt2oxpFSbrphTQrwGUl8EVT7pDHKDtUtDhLRkNTpZvHitmVD5pvbtu2bukxBh4wTEYiYG9pdFgwjFb046e4FUtYAbGAcpIIIh24WhzCsDJ20hv8HjMQRjB9tYNQ86O3ZQUm601uowrnFXtfxRuDPnZMpfV8l6cYBVoiCB0q9iNXwYjn4OV5JruDkXIFqgxzXkuL61wsTQHmbTXduXknJ39U9pPbEUcnbIyQYzd80FKI4YAWk6iMlmeVRxxSQBGK1zr9mlO89ywpgu8GeETf6BVRw3229U4wgv9ovemFqwL3p0Z2FY52ljgCmsbWsQBLygIT3krFbEaQKA96nwfeZXvtRdnYya8BXmvjiR0v8Nmfo2u9EWjduF5VKrHG7KHvEpsXfRdycy2Srn2xcZTGeratjFzqQZH42LVhMQ7BsOPssT1nYfKIJdOCzYGFQK8O7WuqqQJK5bg5GqOEplxwqd4jvs8pdjzPZ0JK9RivUjicX3LB7PKwrZUIUCvsWsWAJcXgyqRoMfU39aVfyRznXOzIShfnGD5qnpEruQP0CoJgP42nmL7fG14B8i406UW6xZpzNHWXqmaYAiQbIiztUlPUp0j8GE3qTL1OtVlcwf1F5DeG5qzWiNV",
       "has_affiliate": true,
-      "current_price": 2489.18,
+      "current_price": 2545.34,
       "min_price": 2327.9,
       "min_price_at": "2026-10-27",
       "monitored_since": "2026-10-24",
@@ -154,6 +166,10 @@
         {
           "date": "2026-10-29",
           "price": 2489.18
+        },
+        {
+          "date": "2026-10-30",
+          "price": 2545.34
         }
       ]
     }

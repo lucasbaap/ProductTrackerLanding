@@ -39,13 +39,17 @@
         {
           "date": "2026-10-29",
           "price": 1351.08
+        },
+        {
+          "date": "2026-10-30",
+          "price": 1351.08
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/523144/placa-mae-asus-tuf-gaming-b760m-plus-wifi-ii-intel-ddr5-preto-90mb1he0-m0eay0?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793194871_e711bf0327767d31637c40d1003963c9&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/523144/placa-mae-asus-tuf-gaming-b760m-plus-wifi-ii-intel-ddr5-preto-90mb1he0-m0eay0?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793358870_0fbbb58bf9996af7600bb72030d1d251&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 1255.99,
       "min_price": 1255.99,
@@ -74,6 +78,10 @@
         },
         {
           "date": "2026-10-29",
+          "price": 1255.99
+        },
+        {
+          "date": "2026-10-30",
           "price": 1255.99
         }
       ]
@@ -111,6 +119,10 @@
         {
           "date": "2026-10-29",
           "price": 1352.93
+        },
+        {
+          "date": "2026-10-30",
+          "price": 1352.93
         }
       ]
     },
@@ -146,6 +158,10 @@
         },
         {
           "date": "2026-10-29",
+          "price": 1236.46
+        },
+        {
+          "date": "2026-10-30",
           "price": 1236.46
         }
       ]

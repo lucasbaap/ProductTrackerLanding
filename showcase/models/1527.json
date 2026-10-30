@@ -39,6 +39,10 @@
         {
           "date": "2026-10-29",
           "price": 1051.0
+        },
+        {
+          "date": "2026-10-30",
+          "price": 1051.0
         }
       ]
     },
@@ -75,13 +79,17 @@
         {
           "date": "2026-10-29",
           "price": 1051.0
+        },
+        {
+          "date": "2026-10-30",
+          "price": 1051.0
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/995092/ssd-adata-ultimate-su650-1tb-sata-iii-6gb-s-2-5-leitura-ate-520mb-s-gravacao-ate-450mb-s-asu650ss-1tt-r?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793191156_132a9a8c4c5058914fbaa65f154c10a3&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/995092/ssd-adata-ultimate-su650-1tb-sata-iii-6gb-s-2-5-leitura-ate-520mb-s-gravacao-ate-450mb-s-asu650ss-1tt-r?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793352412_a81faabdcef7c4342feffb7202316e2c&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 949.99,
       "min_price": 949.99,
@@ -110,6 +118,10 @@
         },
         {
           "date": "2026-10-29",
+          "price": 949.99
+        },
+        {
+          "date": "2026-10-30",
           "price": 949.99
         }
       ]
@@ -146,6 +158,10 @@
         },
         {
           "date": "2026-10-29",
+          "price": 1199.88
+        },
+        {
+          "date": "2026-10-30",
           "price": 1199.88
         }
       ]

@@ -9,7 +9,7 @@
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/378412/processador-amd-ryzen-9-7900x-4-7ghz-5-6ghz-max-turbo-cache-76mb-12-nucleos-24-threads-am5-com-video-integrado-100-100000589wof-?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793272041_50cc4c2fee08d38226e0b5ac8b8bef7f&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/378412/processador-amd-ryzen-9-7900x-4-7ghz-5-6ghz-max-turbo-cache-76mb-12-nucleos-24-threads-am5-com-video-integrado-100-100000589wof-?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793357841_e41098ed7869332312f75fac20621d53&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 2399.99,
       "min_price": 2399.99,
@@ -38,6 +38,10 @@
         },
         {
           "date": "2026-10-29",
+          "price": 2399.99
+        },
+        {
+          "date": "2026-10-30",
           "price": 2399.99
         }
       ]
@@ -75,6 +79,10 @@
         {
           "date": "2026-10-29",
           "price": 2235.28
+        },
+        {
+          "date": "2026-10-30",
+          "price": 2235.28
         }
       ]
     },
@@ -111,6 +119,10 @@
         {
           "date": "2026-10-29",
           "price": 2235.28
+        },
+        {
+          "date": "2026-10-30",
+          "price": 2235.28
         }
       ]
     },
@@ -146,6 +158,10 @@
         },
         {
           "date": "2026-10-29",
+          "price": 1700.0
+        },
+        {
+          "date": "2026-10-30",
           "price": 1700.0
         }
       ]

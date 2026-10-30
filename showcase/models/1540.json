@@ -39,6 +39,10 @@
         {
           "date": "2026-10-29",
           "price": 3999.0
+        },
+        {
+          "date": "2026-10-30",
+          "price": 3999.0
         }
       ]
     },
@@ -47,7 +51,7 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/dp/B0B7CMZ3QH?tag=producttra043-20",
       "has_affiliate": true,
-      "current_price": 2891.23,
+      "current_price": 2903.91,
       "min_price": 2708.46,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -75,15 +79,19 @@
         {
           "date": "2026-10-29",
           "price": 2891.23
+        },
+        {
+          "date": "2026-10-30",
+          "price": 2903.91
         }
       ]
     },
     {
       "marketplace": "aliexpress",
       "label": "AliExpress",
-      "link": "https://s.click.aliexpress.com/s/NdpwztbAIgDMmxGbP8fFks7yUFfsHjzlImSYmA68h7xlMRgzueFsRgokQ9f9hcpVKttxtQE2VzIoqkXJXrpOr6uR3zv7mP4CDO9CddoFf4t0QE5DXPy8Pgjhz4irfQSEjEGUmy5yF3A5gJ9h3NYjLMgqIMqa3zcpq5E2BC3W5EbV40Dm9buQxWpZzw1lbX8Zm2kZtNIa4KyDieNjsH7IU6Yv8StELKVvT9r4eFAaXPGhwHsgaDqdNcmY116r3GC2YvmvR57S69fGyn8Tt4pCtmLccxQz3g0L1ZKu00BPwYOT3BF4QZOqRqMDB0DIO60HbmzFmww9Fu664ZaTJjILggWMdwQPCH0rpqcsIQfGG8oasP4QI0JNOVDDnqPBSAFH4bEwsw6CCWJ7pVW4oz1RukfXATOIJDE56XaCiv0vzoYhngmAe7mwHAj8HKISTCu1ic6v8yYiZsZqJwQUqcxL8vmGt15UJ7IfOCNOQkGG7VwyVHVU3oHAPSeuutauPAHXXSfFnjx42t0U9xzhwLFEM2tRG559sVXSi01AH7NcWL0QLSaKGtf47t0XjMQUFT33ktPtuDKyJmLAuGCJ4NzYtC8IuixyphJsR2hhhUruYJUr0bp4FjErOQPfP2GectGKc8UG8Eje3nnTFBO1QOYvmIgdMU14bpCetZb4AsVW4JkyOlRZg1NOWSb9R9MPAZvzlGvIxw35qcHxFVBvuhVQNUsSiNVEJv0lvvICmBBJwsLcDcLSKxnkflsy4mlCEJj7QG1ewflX2tFiUo3dNoVeUcMvhIU3Upe3Fr3Rq0CeAHmK2PqHEv2Lj2NBA75BR5px2w9jCrKCtE2pLIopueM1ar3IUNHOfcrFFBTnqzjW68DUXoDtdoHeKtt17gxZ5WPHG6z9c1XFmTdnIjdCpu7zwE9SWCaOpNhYzDQ4ArLEYXPSDFKf0vANf4dv4A6BlLSEgdKmVHIOPXOVPv2PSYXSyhI9tWIwsy4uxwebhTSfRxKdz",
+      "link": "https://s.click.aliexpress.com/e/_c4auwEpz",
       "has_affiliate": true,
-      "current_price": 1629.8,
+      "current_price": 1666.84,
       "min_price": 1524.21,
       "min_price_at": "2026-10-27",
       "monitored_since": "2026-10-24",
@@ -111,6 +119,10 @@
         {
           "date": "2026-10-29",
           "price": 1629.8
+        },
+        {
+          "date": "2026-10-30",
+          "price": 1666.84
         }
       ]
     }

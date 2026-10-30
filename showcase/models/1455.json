@@ -9,11 +9,11 @@
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/623737/processador-amd-ryzen-7-9700x-3-8ghz-5-5ghz-turbo-8-cores-16-threads-am5-40mb-radeon-graphics-sem-cooler-100-100001404wof?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793187342_ea93e37a1f2ab10dbb076b2cb12e7a46&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/623737/processador-amd-ryzen-7-9700x-3-8ghz-5-5ghz-turbo-8-cores-16-threads-am5-40mb-radeon-graphics-sem-cooler-100-100001404wof?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793356033_bd862295c7dc1e2c70c4dfd4525b8f36&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
-      "current_price": 2764.28,
-      "min_price": 2764.28,
-      "min_price_at": "2026-10-24",
+      "current_price": 2666.92,
+      "min_price": 2666.92,
+      "min_price_at": "2026-10-30",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -39,6 +39,10 @@
         {
           "date": "2026-10-29",
           "price": 2764.28
+        },
+        {
+          "date": "2026-10-30",
+          "price": 2666.92
         }
       ]
     },
@@ -74,6 +78,10 @@
         },
         {
           "date": "2026-10-29",
+          "price": 2091.75
+        },
+        {
+          "date": "2026-10-30",
           "price": 2091.75
         }
       ]
@@ -111,6 +119,10 @@
         {
           "date": "2026-10-29",
           "price": 2235.28
+        },
+        {
+          "date": "2026-10-30",
+          "price": 2235.28
         }
       ]
     },
@@ -147,6 +159,10 @@
         {
           "date": "2026-10-29",
           "price": 1894.4
+        },
+        {
+          "date": "2026-10-30",
+          "price": 1894.4
         }
       ]
     },
@@ -182,6 +198,10 @@
         },
         {
           "date": "2026-10-29",
+          "price": 1699.0
+        },
+        {
+          "date": "2026-10-30",
           "price": 1699.0
         }
       ]

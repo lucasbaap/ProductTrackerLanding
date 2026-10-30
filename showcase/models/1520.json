@@ -11,9 +11,9 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/dp/B0F4Y2VR8S?tag=producttra043-20",
       "has_affiliate": true,
-      "current_price": 771.0,
-      "min_price": 680.0,
-      "min_price_at": "2026-10-24",
+      "current_price": 610.76,
+      "min_price": 610.76,
+      "min_price_at": "2026-10-30",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -39,6 +39,10 @@
         {
           "date": "2026-10-29",
           "price": 771.0
+        },
+        {
+          "date": "2026-10-30",
+          "price": 610.76
         }
       ]
     },
@@ -47,7 +51,7 @@
       "label": "AliExpress",
       "link": "https://www.aliexpress.com/item/1005012783101673.html",
       "has_affiliate": true,
-      "current_price": 493.68,
+      "current_price": 504.81,
       "min_price": 461.68,
       "min_price_at": "2026-10-27",
       "monitored_since": "2026-10-24",
@@ -75,13 +79,17 @@
         {
           "date": "2026-10-29",
           "price": 493.68
+        },
+        {
+          "date": "2026-10-30",
+          "price": 504.81
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/957170/ssd-sandisk-plus-500gb-545mb-s-sdssda-500g-g28?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793275037_4e8e8fc5dbe02cdb4696d8f0ad5176af&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/957170/ssd-sandisk-plus-500gb-545mb-s-sdssda-500g-g28?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793351519_561e2686ccd089443ce7f91d2191c9db&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 599.75,
       "min_price": 599.75,
@@ -110,6 +118,10 @@
         },
         {
           "date": "2026-10-29",
+          "price": 599.75
+        },
+        {
+          "date": "2026-10-30",
           "price": 599.75
         }
       ]
@@ -147,6 +159,10 @@
         {
           "date": "2026-10-29",
           "price": 717.64
+        },
+        {
+          "date": "2026-10-30",
+          "price": 717.64
         }
       ]
     },
@@ -182,6 +198,10 @@
         },
         {
           "date": "2026-10-29",
+          "price": 823.41
+        },
+        {
+          "date": "2026-10-30",
           "price": 823.41
         }
       ]

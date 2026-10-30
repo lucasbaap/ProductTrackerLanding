@@ -39,6 +39,10 @@
         {
           "date": "2026-10-29",
           "price": 3344.95
+        },
+        {
+          "date": "2026-10-30",
+          "price": 3344.95
         }
       ]
     },
@@ -75,13 +79,17 @@
         {
           "date": "2026-10-29",
           "price": 3699.0
+        },
+        {
+          "date": "2026-10-30",
+          "price": 3699.0
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/928069/processador-intel-265-core-ultra-7-1851-3-9-ghz-box-turbo-5-5-ghz-bx80768265?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793284889_c5bc4e49c3aa6623e0bcb3b26bb1fe19&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/928069/processador-intel-265-core-ultra-7-1851-3-9-ghz-box-turbo-5-5-ghz-bx80768265?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793351422_da517501dc5dc8e4a80b846f7253e96b&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 3499.0,
       "min_price": 3499.0,
@@ -110,6 +118,10 @@
         },
         {
           "date": "2026-10-29",
+          "price": 3499.0
+        },
+        {
+          "date": "2026-10-30",
           "price": 3499.0
         }
       ]
@@ -142,6 +154,10 @@
         },
         {
           "date": "2026-10-29",
+          "price": 3699.0
+        },
+        {
+          "date": "2026-10-30",
           "price": 3699.0
         }
       ]

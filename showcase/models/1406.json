@@ -11,7 +11,7 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/dp/B0GMKJDHT9?tag=producttra043-20",
       "has_affiliate": true,
-      "current_price": 5889.12,
+      "current_price": 6299.08,
       "min_price": 5799.08,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -39,13 +39,17 @@
         {
           "date": "2026-10-29",
           "price": 5889.12
+        },
+        {
+          "date": "2026-10-30",
+          "price": 6299.08
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/1012762/smartphone-motorola-signature-5g-512gb-preto-24gb-12gb-ram-12gb-ram-boost-camera-50-mp-e-tela-de-6-8-?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793269246_9828cc1583bfe9ede8a97b04cd5f01ac&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/1012762/smartphone-motorola-signature-5g-512gb-preto-24gb-12gb-ram-12gb-ram-boost-camera-50-mp-e-tela-de-6-8-?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793370722_da26c193bb7591eb95e35eec978d1202&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 6299.1,
       "min_price": 6299.1,
@@ -74,6 +78,10 @@
         },
         {
           "date": "2026-10-29",
+          "price": 6299.1
+        },
+        {
+          "date": "2026-10-30",
           "price": 6299.1
         }
       ]

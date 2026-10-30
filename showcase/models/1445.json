@@ -39,6 +39,10 @@
         {
           "date": "2026-10-29",
           "price": 1859.0
+        },
+        {
+          "date": "2026-10-30",
+          "price": 1859.0
         }
       ]
     },
@@ -67,9 +71,9 @@
       "label": "Pichau",
       "link": "https://www.pichau.com.br/placa-mae-gigabyte-b860m-aorus-elite-wifi6e-ddr5-lga1851-m-atx-chipset-intel-b860-b860m-a-elite-wifi6e",
       "has_affiliate": true,
-      "current_price": 1823.52,
-      "min_price": 1823.52,
-      "min_price_at": "2026-10-24",
+      "current_price": 1764.69,
+      "min_price": 1764.69,
+      "min_price_at": "2026-10-30",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -95,6 +99,10 @@
         {
           "date": "2026-10-29",
           "price": 1823.52
+        },
+        {
+          "date": "2026-10-30",
+          "price": 1764.69
         }
       ]
     }

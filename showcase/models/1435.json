@@ -39,6 +39,10 @@
         {
           "date": "2026-10-29",
           "price": 2099.0
+        },
+        {
+          "date": "2026-10-30",
+          "price": 2099.0
         }
       ]
     },
@@ -75,13 +79,17 @@
         {
           "date": "2026-10-29",
           "price": 1839.99
+        },
+        {
+          "date": "2026-10-30",
+          "price": 1839.99
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/777005/placa-mae-asrock-b850-steel-legend-wifi-ryzen-b850-atx-ddr5-90-mxbqs0-a0uayz?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793274980_22d4188671994383c06b5390e7783965&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/777005/placa-mae-asrock-b850-steel-legend-wifi-ryzen-b850-atx-ddr5-90-mxbqs0-a0uayz?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793366295_3acc1e41cee753acd98a8220caf3b0f1&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 1663.99,
       "min_price": 1663.99,
@@ -110,6 +118,10 @@
         },
         {
           "date": "2026-10-29",
+          "price": 1663.99
+        },
+        {
+          "date": "2026-10-30",
           "price": 1663.99
         }
       ]
@@ -146,6 +158,10 @@
         },
         {
           "date": "2026-10-29",
+          "price": 1988.22
+        },
+        {
+          "date": "2026-10-30",
           "price": 1988.22
         }
       ]

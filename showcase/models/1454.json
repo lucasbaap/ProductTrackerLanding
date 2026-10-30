@@ -9,7 +9,7 @@
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/662405/processador-amd-ryzen-7-9800x3d-4-7ghz-5-2ghz-max-turbo-cache-104mb-8-nucleos-16-threads-am5-com-video-integrado-100-100001084wof?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793284907_e86a246f84281dba1fc9cb8fd0c1b623&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/662405/processador-amd-ryzen-7-9800x3d-4-7ghz-5-2ghz-max-turbo-cache-104mb-8-nucleos-16-threads-am5-com-video-integrado-100-100001084wof?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793365533_66b53b03dfc04d7404b002678d281b39&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 2389.99,
       "min_price": 2389.99,
@@ -39,6 +39,10 @@
         {
           "date": "2026-10-29",
           "price": 2389.99
+        },
+        {
+          "date": "2026-10-30",
+          "price": 2389.99
         }
       ]
     },
@@ -47,9 +51,9 @@
       "label": "Pichau",
       "link": "https://www.pichau.com.br/processador-amd-ryzen-7-9800x3d-8-core-16-threads-4-7ghz-5-2ghz-turbo-cache-104mb-am5-100-100001084wof",
       "has_affiliate": true,
-      "current_price": 2588.22,
-      "min_price": 2588.22,
-      "min_price_at": "2026-10-24",
+      "current_price": 2529.4,
+      "min_price": 2529.4,
+      "min_price_at": "2026-10-30",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -75,6 +79,10 @@
         {
           "date": "2026-10-29",
           "price": 2588.22
+        },
+        {
+          "date": "2026-10-30",
+          "price": 2529.4
         }
       ]
     },
@@ -83,9 +91,9 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/dp/B0DKFMSMYK?tag=producttra043-20",
       "has_affiliate": true,
-      "current_price": 2588.22,
-      "min_price": 2588.22,
-      "min_price_at": "2026-10-24",
+      "current_price": 2529.4,
+      "min_price": 2529.4,
+      "min_price_at": "2026-10-30",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -111,6 +119,10 @@
         {
           "date": "2026-10-29",
           "price": 2588.22
+        },
+        {
+          "date": "2026-10-30",
+          "price": 2529.4
         }
       ]
     },
@@ -146,6 +158,10 @@
         },
         {
           "date": "2026-10-29",
+          "price": 2500.0
+        },
+        {
+          "date": "2026-10-30",
           "price": 2500.0
         }
       ]

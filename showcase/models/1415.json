@@ -11,9 +11,9 @@
       "label": "Mercado Livre",
       "link": "https://www.mercadolivre.com.br/p/MLB65319819?matt_word=balu1353476&matt_tool=29239275",
       "has_affiliate": true,
-      "current_price": 1600.0,
-      "min_price": 1600.0,
-      "min_price_at": "2026-10-29",
+      "current_price": 1547.55,
+      "min_price": 1547.55,
+      "min_price_at": "2026-10-30",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -39,6 +39,10 @@
         {
           "date": "2026-10-29",
           "price": 1600.0
+        },
+        {
+          "date": "2026-10-30",
+          "price": 1547.55
         }
       ]
     },
@@ -47,9 +51,9 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/dp/B0GLRY996D?tag=producttra043-20",
       "has_affiliate": true,
-      "current_price": 1539.95,
-      "min_price": 1539.95,
-      "min_price_at": "2026-10-29",
+      "current_price": 1392.78,
+      "min_price": 1392.78,
+      "min_price_at": "2026-10-30",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -75,13 +79,17 @@
         {
           "date": "2026-10-29",
           "price": 1539.95
+        },
+        {
+          "date": "2026-10-30",
+          "price": 1392.78
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/1012769/smartphone-motorola-moto-g67-5g-256gb-verde-claro-12gb-4gb-ram-8gb-ram-boost-camera-50mp-e-tela-6-8-?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793280565_820123847744b45afd585d99524c64b7&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/1012769/smartphone-motorola-moto-g67-5g-256gb-verde-claro-12gb-4gb-ram-8gb-ram-boost-camera-50mp-e-tela-6-8-?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793360793_2d8f6de54b992fdaabb9d638cc89bb45&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 1466.1,
       "min_price": 1466.1,
@@ -110,6 +118,10 @@
         },
         {
           "date": "2026-10-29",
+          "price": 1466.1
+        },
+        {
+          "date": "2026-10-30",
           "price": 1466.1
         }
       ]

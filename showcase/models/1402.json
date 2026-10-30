@@ -39,6 +39,10 @@
         {
           "date": "2026-10-29",
           "price": 8887.78
+        },
+        {
+          "date": "2026-10-30",
+          "price": 8887.78
         }
       ]
     },
@@ -75,13 +79,17 @@
         {
           "date": "2026-10-29",
           "price": 8887.78
+        },
+        {
+          "date": "2026-10-30",
+          "price": 8887.78
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/928994/apple-iphone-17-pro-256gb-prateado?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793181768_f16b7d834444bd99e69ec3d9a93e2ea1&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/928994/apple-iphone-17-pro-256gb-prateado?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793361825_f7a8cd0f4390c53c95f2c25f89a8b677&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 9359.1,
       "min_price": 9359.1,
@@ -110,6 +118,10 @@
         },
         {
           "date": "2026-10-29",
+          "price": 9359.1
+        },
+        {
+          "date": "2026-10-30",
           "price": 9359.1
         }
       ]

@@ -11,7 +11,7 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/ASRock-Z890-Legend-LGA1851RL-ILM-Thunderbolt/dp/B0DJHLSY68?tag=producttra043-20",
       "has_affiliate": true,
-      "current_price": 1916.0,
+      "current_price": 1933.0,
       "min_price": 1866.0,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -39,13 +39,17 @@
         {
           "date": "2026-10-29",
           "price": 1916.0
+        },
+        {
+          "date": "2026-10-30",
+          "price": 1933.0
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/894444/placa-mae-asrock-z890-steel-legend-wifi-intel-lga-1851-atx-wf-blt-ddr5-z890-steel-legend-wifi?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793276848_d2caba9f28b68d24ae97d2f84d850571&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/894444/placa-mae-asrock-z890-steel-legend-wifi-intel-lga-1851-atx-wf-blt-ddr5-z890-steel-legend-wifi?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793368185_5d662316148c5b301880c66bda8f81a3&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 2481.6,
       "min_price": 2481.6,
@@ -74,6 +78,10 @@
         },
         {
           "date": "2026-10-29",
+          "price": 2481.6
+        },
+        {
+          "date": "2026-10-30",
           "price": 2481.6
         }
       ]
@@ -110,6 +118,10 @@
         },
         {
           "date": "2026-10-29",
+          "price": 2705.87
+        },
+        {
+          "date": "2026-10-30",
           "price": 2705.87
         }
       ]

@@ -39,13 +39,17 @@
         {
           "date": "2026-10-29",
           "price": 1699.0
+        },
+        {
+          "date": "2026-10-30",
+          "price": 1699.0
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/410100/nintendo-switch-lite-turquesa-32gb-versao-nacional-tela-5-5polegadas?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793279662_e9457821ae13795fadf9d085f2a7f5be&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/410100/nintendo-switch-lite-turquesa-32gb-versao-nacional-tela-5-5polegadas?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793358009_9da59595ac89d76ebf5da131250eddd7&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 1871.9,
       "min_price": 1710.71,
@@ -74,6 +78,10 @@
         },
         {
           "date": "2026-10-29",
+          "price": 1871.9
+        },
+        {
+          "date": "2026-10-30",
           "price": 1871.9
         }
       ]

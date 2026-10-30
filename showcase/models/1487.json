@@ -11,7 +11,7 @@
       "label": "Mercado Livre",
       "link": "https://www.mercadolivre.com.br/p/MLB2059487784?matt_word=balu1353476&matt_tool=29239275",
       "has_affiliate": true,
-      "current_price": 2150.0,
+      "current_price": 4008.85,
       "min_price": 2150.0,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -39,6 +39,10 @@
         {
           "date": "2026-10-29",
           "price": 2150.0
+        },
+        {
+          "date": "2026-10-30",
+          "price": 4008.85
         }
       ]
     },
@@ -75,13 +79,17 @@
         {
           "date": "2026-10-29",
           "price": 3749.0
+        },
+        {
+          "date": "2026-10-30",
+          "price": 3749.0
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/904662/processador-intel-core-i9-14900f-2-0ghz-5-80-ghz-max-turbo-cache-36mb-24-nucleos-32-threads-lga-1700-sem-video-integrado-bx8071514900f?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793268429_0af2f1891782758757eded43cdb12127&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/904662/processador-intel-core-i9-14900f-2-0ghz-5-80-ghz-max-turbo-cache-36mb-24-nucleos-32-threads-lga-1700-sem-video-integrado-bx8071514900f?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793365403_41040cb9cf287cac5878ff33287ca951&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 2699.99,
       "min_price": 2699.99,
@@ -110,6 +118,10 @@
         },
         {
           "date": "2026-10-29",
+          "price": 2699.99
+        },
+        {
+          "date": "2026-10-30",
           "price": 2699.99
         }
       ]
@@ -146,6 +158,10 @@
         },
         {
           "date": "2026-10-29",
+          "price": 3176.46
+        },
+        {
+          "date": "2026-10-30",
           "price": 3176.46
         }
       ]

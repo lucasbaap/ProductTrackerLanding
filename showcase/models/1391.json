@@ -39,13 +39,17 @@
         {
           "date": "2026-10-29",
           "price": 6454.43
+        },
+        {
+          "date": "2026-10-30",
+          "price": 6454.43
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/905289/samsung-galaxy-z-flip7-5g-jetblack-256gb-12gb-ram-e-camera-dupla-de-50mp-12mp-n-a?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793276892_9668a05e4693fb8c179266aba1243af4&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/905289/samsung-galaxy-z-flip7-5g-jetblack-256gb-12gb-ram-e-camera-dupla-de-50mp-12mp-n-a?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793351486_bb3221a9de5e7ff49bb75590be5e4879&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 6499.0,
       "min_price": 6499.0,
@@ -74,6 +78,10 @@
         },
         {
           "date": "2026-10-29",
+          "price": 6499.0
+        },
+        {
+          "date": "2026-10-30",
           "price": 6499.0
         }
       ]

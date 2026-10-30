@@ -9,7 +9,7 @@
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/609952/processador-amd-ryzen-9-9900x-4-4-ghz-5-6-ghz-max-turbo-cache-76mb-12-nucleos-24-threads-am5-com-video-integrado-100-100000662wof?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793180609_cf868f2df38da3d18dc7fedb75f277d8&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/609952/processador-amd-ryzen-9-9900x-4-4-ghz-5-6-ghz-max-turbo-cache-76mb-12-nucleos-24-threads-am5-com-video-integrado-100-100000662wof?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793368997_31de11e8cd00268d6357de69695e63bc&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 2199.99,
       "min_price": 2199.99,
@@ -38,6 +38,10 @@
         },
         {
           "date": "2026-10-29",
+          "price": 2199.99
+        },
+        {
+          "date": "2026-10-30",
           "price": 2199.99
         }
       ]
@@ -75,6 +79,10 @@
         {
           "date": "2026-10-29",
           "price": 2470.58
+        },
+        {
+          "date": "2026-10-30",
+          "price": 2470.58
         }
       ]
     },
@@ -111,15 +119,19 @@
         {
           "date": "2026-10-29",
           "price": 2588.22
+        },
+        {
+          "date": "2026-10-30",
+          "price": 2588.22
         }
       ]
     },
     {
       "marketplace": "aliexpress",
       "label": "AliExpress",
-      "link": "https://s.click.aliexpress.com/s/NdpwztbAIgDMmxGbP8fFks7yUFfsHjzlImSYmA68h7xlMRgzueFsRgokQ9f9hcpVKttxtQE2VzIoqkXJXrpOr6uR3zv7mP4CDO9CddoFf4t0QE5DXPy8Pgjhz4irfQSEjEGUmy5yF3A5gJ9h3NYjLMgqIMqa3zcpq5E2BC3W5EbV40Dm9buQxWpZzw1lbX8Zm2kZtNIa4KyDieNjsH7IU6Yv8StELKVvT9r4eFAaXPGhwHsgaDqdNcmY116r3GC2YvmvR57S69fGyn8Tt4pCtmLccxQz3g0L1ZKu00BPwYOT3BF4QZOqRqMDB0Dv3LQmIqddL3iHYIDk2y9KVsryHySRkaNVw13FF74fmT76bNTqjGjgin7IKnSjKv9v5Y5KDpa02NitpQdcuFpzYVRFUVJ4wi0zdwo37umv34XvTjj27RVz2u86eVVtxU8ze0GfcApGggZggmoLlJqvnst7SL1KzqS1dbBFGLlVTWiUJa6s1zVHbuyGaSemnzQ8wysenNojnMwPdayGVjD8whAxB24Iju0gnumbs8zwW395pSWyDzPfRSX02Bd89G0rWrf5uohdqhrw854PEId14a4uTZzYzI0BCxzSm1FiCd5d0DNpHymToCJxvTNHaYhbj1DrZx7fUNVdfMuKxuk4sFezasnf6I3VR3StCpldAA6zZ8KmgFmWDxWmL6EE0CSR4D3Fd4bqEwA37hymLELwkjMtM4SJFlyOcSQTZ23zS6kyCKR6bPNhOvylcpPy1lplfqUEO8TkkJk3cekrQAzyVpN7ImauyE1Ct6yYCwJ3gu1ryq4VeOvBT6GfmVBICe0c6BNl3PWF0DgY7G3WH9korDhAUDpK8kbV9MOlK704JYJ5LLjQy2y8N0hbiu35YrKtYWCR58AQNMneRXS8WmYEaLvE0lYPMq70cIC79FbLDp9FB3yqoGmF310VZYBtUrbTG87IVDD6D0w3BhnNVsHQ77DnVHaLHEgfjVxMmB6atakxoKecj",
+      "link": "https://s.click.aliexpress.com/e/_c33frYMb",
       "has_affiliate": true,
-      "current_price": 3069.97,
+      "current_price": 3081.99,
       "min_price": 2873.2,
       "min_price_at": "2026-10-27",
       "monitored_since": "2026-10-24",
@@ -147,6 +159,10 @@
         {
           "date": "2026-10-29",
           "price": 3069.97
+        },
+        {
+          "date": "2026-10-30",
+          "price": 3081.99
         }
       ]
     }

@@ -39,6 +39,10 @@
         {
           "date": "2026-10-29",
           "price": 651.0
+        },
+        {
+          "date": "2026-10-30",
+          "price": 651.0
         }
       ]
     },
@@ -47,7 +51,7 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/ASUS-Placa-m%C3%A3e-B550M-K-USB3-2-PROTECTION/dp/B07ML1X93G?tag=producttra043-20",
       "has_affiliate": true,
-      "current_price": 699.0,
+      "current_price": 619.0,
       "min_price": 588.05,
       "min_price_at": "2026-10-25",
       "monitored_since": "2026-10-24",
@@ -75,17 +79,21 @@
         {
           "date": "2026-10-29",
           "price": 699.0
+        },
+        {
+          "date": "2026-10-30",
+          "price": 619.0
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/992806/placa-mae-asus-prime-b550m-k-am4-ddr4-hdmi-display-port-micro-atx-argb-90mb1gc0-m0eay0?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793273963_abe41c640fbadc9ae4a931cb53f34c18&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/992806/placa-mae-asus-prime-b550m-k-am4-ddr4-hdmi-display-port-micro-atx-argb-90mb1gc0-m0eay0?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793348769_8c582f14d5ae38791cb09ec8e7defa64&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
-      "current_price": 547.0,
-      "min_price": 547.0,
-      "min_price_at": "2026-10-24",
+      "current_price": 539.0,
+      "min_price": 539.0,
+      "min_price_at": "2026-10-30",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -107,6 +115,10 @@
         {
           "date": "2026-10-29",
           "price": 547.0
+        },
+        {
+          "date": "2026-10-30",
+          "price": 539.0
         }
       ]
     }

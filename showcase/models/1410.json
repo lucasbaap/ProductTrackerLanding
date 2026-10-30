@@ -39,13 +39,17 @@
         {
           "date": "2026-10-29",
           "price": 2998.89
+        },
+        {
+          "date": "2026-10-30",
+          "price": 2998.89
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/1020255/smartphone-motorola-edge-70-fusion-5g-256gb-verde-claro-24gb-8gb-ram-16gb-ram-boost-camera-50mp-e-tela-de-6-8-?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793268568_541082db12b7b9e4cfdce681b31aa961&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/1020255/smartphone-motorola-edge-70-fusion-5g-256gb-verde-claro-24gb-8gb-ram-16gb-ram-boost-camera-50mp-e-tela-de-6-8-?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793365452_02a034d3bfba18be9ae1b86c160b9172&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 2687.55,
       "min_price": 2687.55,
@@ -74,6 +78,10 @@
         },
         {
           "date": "2026-10-29",
+          "price": 2687.55
+        },
+        {
+          "date": "2026-10-30",
           "price": 2687.55
         }
       ]

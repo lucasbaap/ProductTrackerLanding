@@ -11,7 +11,7 @@
       "label": "Mercado Livre",
       "link": "https://www.mercadolivre.com.br/p/MLB49200061?matt_word=balu1353476&matt_tool=29239275",
       "has_affiliate": true,
-      "current_price": 3005.9,
+      "current_price": 3033.99,
       "min_price": 2842.96,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -39,6 +39,10 @@
         {
           "date": "2026-10-29",
           "price": 3005.9
+        },
+        {
+          "date": "2026-10-30",
+          "price": 3033.99
         }
       ]
     },
@@ -47,7 +51,7 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/dp/B0F6D7MQQB?tag=producttra043-20",
       "has_affiliate": true,
-      "current_price": 3999.0,
+      "current_price": 4324.39,
       "min_price": 3949.01,
       "min_price_at": "2026-10-26",
       "monitored_since": "2026-10-24",
@@ -75,13 +79,17 @@
         {
           "date": "2026-10-29",
           "price": 3999.0
+        },
+        {
+          "date": "2026-10-30",
+          "price": 4324.39
         }
       ]
     },
     {
       "marketplace": "shopee",
       "label": "Shopee",
-      "link": "https://s.shopee.com.br/6AmAQKx4Pw",
+      "link": "https://s.shopee.com.br/4Vdy2E7bKm",
       "has_affiliate": true,
       "current_price": 4049.0,
       "min_price": 3990.0,
@@ -111,13 +119,17 @@
         {
           "date": "2026-10-29",
           "price": 4049.0
+        },
+        {
+          "date": "2026-10-30",
+          "price": 4049.0
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/777177/console-nintendo-switch-2-256gb-preto-azul-e-vermelho?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793287638_8ff1dd8cd25b9bf0c2c31747c9753943&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/777177/console-nintendo-switch-2-256gb-preto-azul-e-vermelho?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793369771_8ccbc6c2cd1e5a5753c28984761ce869&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 4499.0,
       "min_price": 4499.0,
@@ -146,6 +158,10 @@
         },
         {
           "date": "2026-10-29",
+          "price": 4499.0
+        },
+        {
+          "date": "2026-10-30",
           "price": 4499.0
         }
       ]

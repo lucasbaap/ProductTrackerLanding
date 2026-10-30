@@ -11,7 +11,7 @@
       "label": "Mercado Livre",
       "link": "https://www.mercadolivre.com.br/p/MLB65466400?matt_word=balu1353476&matt_tool=29239275",
       "has_affiliate": true,
-      "current_price": 1849.99,
+      "current_price": 2299.99,
       "min_price": 1779.99,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -39,6 +39,10 @@
         {
           "date": "2026-10-29",
           "price": 1849.99
+        },
+        {
+          "date": "2026-10-30",
+          "price": 2299.99
         }
       ]
     },
@@ -47,7 +51,7 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/dp/B0GLSLLGZL?tag=producttra043-20",
       "has_affiliate": true,
-      "current_price": 1642.55,
+      "current_price": 1729.0,
       "min_price": 1478.29,
       "min_price_at": "2026-10-25",
       "monitored_since": "2026-10-24",
@@ -75,13 +79,17 @@
         {
           "date": "2026-10-29",
           "price": 1642.55
+        },
+        {
+          "date": "2026-10-30",
+          "price": 1729.0
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/1012764/smartphone-motorola-moto-g77-5g-256gb-marrom-24gb-8gb-ram-16gb-ram-boost-camera-108mp-tela-6-8-?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793285869_d9758d01d693cd87580e77b9f087ed38&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/1012764/smartphone-motorola-moto-g77-5g-256gb-marrom-24gb-8gb-ram-16gb-ram-boost-camera-108mp-tela-6-8-?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793360827_c816d35a50f6afff1cc548e0b4131c8f&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 1978.9,
       "min_price": 1556.1,
@@ -110,6 +118,10 @@
         },
         {
           "date": "2026-10-29",
+          "price": 1978.9
+        },
+        {
+          "date": "2026-10-30",
           "price": 1978.9
         }
       ]

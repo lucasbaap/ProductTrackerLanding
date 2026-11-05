@@ -11,9 +11,9 @@
       "label": "Mercado Livre",
       "link": "https://www.mercadolivre.com.br/p/MLB23376752?matt_word=balu1353476&matt_tool=29239275",
       "has_affiliate": true,
-      "current_price": 4139.99,
-      "min_price": 4139.99,
-      "min_price_at": "2026-10-24",
+      "current_price": 3250.0,
+      "min_price": 3250.0,
+      "min_price_at": "2026-11-05",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -43,6 +43,22 @@
         {
           "date": "2026-10-30",
           "price": 4139.99
+        },
+        {
+          "date": "2026-11-02",
+          "price": 4139.99
+        },
+        {
+          "date": "2026-11-03",
+          "price": 4139.99
+        },
+        {
+          "date": "2026-11-04",
+          "price": 3450.0
+        },
+        {
+          "date": "2026-11-05",
+          "price": 3250.0
         }
       ]
     },
@@ -83,15 +99,39 @@
         {
           "date": "2026-10-30",
           "price": 4088.0
+        },
+        {
+          "date": "2026-10-31",
+          "price": 4088.0
+        },
+        {
+          "date": "2026-11-01",
+          "price": 4088.0
+        },
+        {
+          "date": "2026-11-02",
+          "price": 4088.0
+        },
+        {
+          "date": "2026-11-03",
+          "price": 4088.0
+        },
+        {
+          "date": "2026-11-04",
+          "price": 4088.0
+        },
+        {
+          "date": "2026-11-05",
+          "price": 4088.0
         }
       ]
     },
     {
       "marketplace": "aliexpress",
       "label": "AliExpress",
-      "link": "https://s.click.aliexpress.com/s/NdpwztbAIgDMmxGbP8fFks7yUFfsHjzlImSYmA68h7xlMRgzueFsRgokQ9f9hcpVKttxtQE2VzIoqkXJXrpOr6uR3zv7mP4CDO9CddoFf4t0QE5DXPy8Pgjhz4irfQSEjEGUmy5yF3A5gJ9h3NYjLMgqIMqa3zcpq5E2BC3W5EbV40Dm9buQxWpZzw1lbX8Zm2kZtNIa4KyDieNjsH7IU6Yv8StELKVvT9r4eFAaXPGhwHsgaDqdNcmY116r3GC2YvmvR57S69fGyn8Tt4pCtmLccxQz3g0L1ZKu00BPwYOT3BF4QZOqRqMDB0Dyc68BR9rTVa7l6qlZ1ZIfDZdYNqOLdKkJravNrrXbfdmGsi4S2ZtnIk0IN8PVlT7wpyIA3RHIpDbCRyPn6T1cPSHvdSgCx9XvVFYQ3PfTIi05Vuu2Bv0RXmoHPGfOfrIuXns4O3uPIKKbEMsrOmc1HlCMUvHbj9XWQSf97QHl2gtVmRPVrZqYTSiSymOvWbqW5cAH6cqgFuD1fryBxHGGVZxBPTK6sStRUQkpDt7Sgp3a4PIIqikNAZkA7QL4XAZIiXT99NlOIZwIedvKx7Hw7Dw78hlDOCuVfnpZDC0azoA29eZcDeeqDOWgvKaJl0TxasWXA1GREkgA28vHyIZZDhh1Y4rLV9htT4ZQBt01DJOdSTJg5IgTfzTPisHYftjyc89ubY2DfmVxbfSJtW949KtmDCKjBIflVFOP05SS3kGYlmH16LtOTVIg21mmH0muyp0UfbRB26WNKQ0nIvMQZUWO6eShN19lAmC0oQxUth1pAOsu1nqVc7P7bfBdMXLMVwJQE5tT8LXrn8iPnLNU651LVNfjpdFIFgWkLVeWHEkw6Qpff2wTI0aT0ZUnTPQySeAehbpppd7Cy4zIEAWUnZc9pmA7uIZ83sSPSNfwJgEGei4J0n2kr6J4jvrsLwVxRpdlZLIeyUftF2qLfQMkcEBCY6dys4Z1GbDELenehxLBs4SDN",
+      "link": "https://s.click.aliexpress.com/s/NdpwztbAIgDMmxGbP8fFks7yUFfsHjzlImSYmA68h7xlMRgzueFsRgokQ9f9hcpVKttxtQE2VzIoqkXJXrpOr6uR3zv7mP4CDO9CddoFf4t0QE5DXPy8Pgjhz4irfQSEjEGUmy5yF3A5gJ9h3NYjLMgqIMqa3zcpq5E2BC3W5EbV40Dm9buQxWpZzw1lbX8Zm2kZtNIa4KyDieNjsH7IU6Yv8StELKVvT9r4eFAaXPGhwHsgaDqdNcmY116r3GC2YvmvR57S69fGyn8Tt4pCtmLccxQz3g0L1ZKu00BPwYOT3BF4QZOqRqMDB0Dyc68BR9rTVa7l6qlZ1ZIfDZdYNqOLdKkJravNrrXbfdmGsi4S2ZtnIk0IN8PVlT7wpyIA3RHIpDbCRyPn6T1cPSHvdSgCx9XvVFYQ3PfTIi05Vuu2Bv0RXmoHPGfOfrIuXns4O3uPIKKbEMsrOmc1HlCMUvHbj9XWQSf97QHl2gtVmRPVrZqYTSiSymOvWbqW5cAH6cqgapXng4JYSd1f0qxEN6USvaFe6aHOPnspFYYRt6nY5FUOY9m6MaOvxHnnlcrqLrZTqsE7bWxPWG4srhLDEkXLba3RP2ZgDHskUR2vdXR2D9nmgLHg8ESQiS3Gk9ksgT8bkUmqXw72uhpfu77xmFYbXpPSEcqJbC8eLmyjv485FbkENxmxCzkR8VyqvU2EqqdQxhizGOqwM762VGmflja7TKiQ3Y0MhR1EM5d7LM6pFx9NczOEvLeKZNF5UF7MdnDFMDW7QoqIKy1Qyxd80uJQhYPD44PgoR23tNznmjHXThms8x88NwleRH83rl4NFZpbzJmtByKkoGAnCL5zwuL5xKtgdixK2kewDQUArKN3ztm1qJlKryzX0Vkw6Vj5vRdaYEEsucjHU5QqJ55eNYJ8ypvIq1fE14nYD0zL9qqzi2ZLF7fQ9Oigb259cjyjUMOaYA9uHYKFhY2fL34Xzt1K04ZuED1n2wHt3vVhXPaz9",
       "has_affiliate": true,
-      "current_price": 1499.6,
+      "current_price": 1532.76,
       "min_price": 1411.53,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -123,13 +163,37 @@
         {
           "date": "2026-10-30",
           "price": 1499.6
+        },
+        {
+          "date": "2026-10-31",
+          "price": 1526.2
+        },
+        {
+          "date": "2026-11-01",
+          "price": 1525.86
+        },
+        {
+          "date": "2026-11-02",
+          "price": 1525.86
+        },
+        {
+          "date": "2026-11-03",
+          "price": 1529.48
+        },
+        {
+          "date": "2026-11-04",
+          "price": 1584.97
+        },
+        {
+          "date": "2026-11-05",
+          "price": 1532.76
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/576204/ssd-samsung-990-pro-2tb-m-2-nvme-pcie-4-0-leitura-7450mbps-gravacao-6900mbps-mz-v9p2t0bw?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793368028_031d9098d339ac9d98e1bdd7c62785f6&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F576204%2Fssd-samsung-990-pro-2tb-m-2-nvme-pcie-4-0-leitura-7450mbps-gravacao-6900mbps-mz-v9p2t0bw",
       "has_affiliate": true,
       "current_price": 4259.0,
       "min_price": 4119.0,
@@ -162,6 +226,30 @@
         },
         {
           "date": "2026-10-30",
+          "price": 4259.0
+        },
+        {
+          "date": "2026-10-31",
+          "price": 4259.0
+        },
+        {
+          "date": "2026-11-01",
+          "price": 4259.0
+        },
+        {
+          "date": "2026-11-02",
+          "price": 4259.0
+        },
+        {
+          "date": "2026-11-03",
+          "price": 4259.0
+        },
+        {
+          "date": "2026-11-04",
+          "price": 4259.0
+        },
+        {
+          "date": "2026-11-05",
           "price": 4259.0
         }
       ]

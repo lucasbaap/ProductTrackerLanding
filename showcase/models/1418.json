@@ -11,9 +11,9 @@
       "label": "Mercado Livre",
       "link": "https://www.mercadolivre.com.br/p/MLB65041642?matt_word=balu1353476&matt_tool=29239275",
       "has_affiliate": true,
-      "current_price": 998.89,
-      "min_price": 979.93,
-      "min_price_at": "2026-10-24",
+      "current_price": 887.0,
+      "min_price": 887.0,
+      "min_price_at": "2026-11-05",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -43,6 +43,30 @@
         {
           "date": "2026-10-30",
           "price": 998.89
+        },
+        {
+          "date": "2026-10-31",
+          "price": 998.89
+        },
+        {
+          "date": "2026-11-01",
+          "price": 998.89
+        },
+        {
+          "date": "2026-11-02",
+          "price": 998.89
+        },
+        {
+          "date": "2026-11-03",
+          "price": 998.89
+        },
+        {
+          "date": "2026-11-04",
+          "price": 998.89
+        },
+        {
+          "date": "2026-11-05",
+          "price": 887.0
         }
       ]
     },
@@ -51,7 +75,7 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/dp/B0GKD2XXVJ?tag=producttra043-20",
       "has_affiliate": true,
-      "current_price": 949.0,
+      "current_price": 887.0,
       "min_price": 719.9,
       "min_price_at": "2026-10-26",
       "monitored_since": "2026-10-24",
@@ -83,17 +107,41 @@
         {
           "date": "2026-10-30",
           "price": 949.0
+        },
+        {
+          "date": "2026-10-31",
+          "price": 949.0
+        },
+        {
+          "date": "2026-11-01",
+          "price": 949.0
+        },
+        {
+          "date": "2026-11-02",
+          "price": 949.0
+        },
+        {
+          "date": "2026-11-03",
+          "price": 949.0
+        },
+        {
+          "date": "2026-11-04",
+          "price": 949.0
+        },
+        {
+          "date": "2026-11-05",
+          "price": 887.0
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/1007603/smartphone-motorola-moto-g17-128gb-roxo-12gb-4gb-ram-8gb-ram-boost-camera-50mp-e-tela-6-7-?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793367173_2bbd6b10574aca94b60993d314ec9a7a&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F1007603%2Fsmartphone-motorola-moto-g17-128gb-roxo-12gb-4gb-ram-8gb-ram-boost-camera-50mp-e-tela-6-7-",
       "has_affiliate": true,
-      "current_price": 899.1,
-      "min_price": 899.1,
-      "min_price_at": "2026-10-24",
+      "current_price": 854.1,
+      "min_price": 854.1,
+      "min_price_at": "2026-11-04",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -123,6 +171,30 @@
         {
           "date": "2026-10-30",
           "price": 899.1
+        },
+        {
+          "date": "2026-10-31",
+          "price": 899.1
+        },
+        {
+          "date": "2026-11-01",
+          "price": 899.1
+        },
+        {
+          "date": "2026-11-02",
+          "price": 899.1
+        },
+        {
+          "date": "2026-11-03",
+          "price": 899.1
+        },
+        {
+          "date": "2026-11-04",
+          "price": 854.1
+        },
+        {
+          "date": "2026-11-05",
+          "price": 854.1
         }
       ]
     }

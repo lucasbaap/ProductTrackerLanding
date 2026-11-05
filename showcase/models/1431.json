@@ -11,7 +11,7 @@
       "label": "Mercado Livre",
       "link": "https://www.mercadolivre.com.br/p/MLB64984104?matt_word=balu1353476&matt_tool=29239275",
       "has_affiliate": true,
-      "current_price": 628.0,
+      "current_price": 688.7,
       "min_price": 628.0,
       "min_price_at": "2026-10-30",
       "monitored_since": "2026-10-24",
@@ -43,6 +43,30 @@
         {
           "date": "2026-10-30",
           "price": 628.0
+        },
+        {
+          "date": "2026-10-31",
+          "price": 710.0
+        },
+        {
+          "date": "2026-11-01",
+          "price": 710.0
+        },
+        {
+          "date": "2026-11-02",
+          "price": 628.0
+        },
+        {
+          "date": "2026-11-03",
+          "price": 690.0
+        },
+        {
+          "date": "2026-11-04",
+          "price": 690.0
+        },
+        {
+          "date": "2026-11-05",
+          "price": 688.7
         }
       ]
     },
@@ -51,7 +75,7 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/B550M-DS3H-AC-R2-DisplayPort/dp/B0F2H4JLJM?tag=producttra043-20",
       "has_affiliate": true,
-      "current_price": 751.1,
+      "current_price": 738.98,
       "min_price": 675.98,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -83,6 +107,30 @@
         {
           "date": "2026-10-30",
           "price": 751.1
+        },
+        {
+          "date": "2026-10-31",
+          "price": 751.1
+        },
+        {
+          "date": "2026-11-01",
+          "price": 715.0
+        },
+        {
+          "date": "2026-11-02",
+          "price": 751.1
+        },
+        {
+          "date": "2026-11-03",
+          "price": 690.0
+        },
+        {
+          "date": "2026-11-04",
+          "price": 690.0
+        },
+        {
+          "date": "2026-11-05",
+          "price": 738.98
         }
       ]
     },
@@ -105,9 +153,9 @@
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/875852/placa-mae-gigabyte-b550m-ds3h-ac-r2-amd-am4-micro-atx-ddr4-rgb-wi-fi-bluetooth-preto-b550m-ds3h-ac-r2?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793356994_99a8e0f72b303f28b6e5af3f84ee6475&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F875852%2Fplaca-mae-gigabyte-b550m-ds3h-ac-r2-amd-am4-micro-atx-ddr4-rgb-wi-fi-bluetooth-preto-b550m-ds3h-ac-r2",
       "has_affiliate": true,
-      "current_price": 675.99,
+      "current_price": 819.99,
       "min_price": 675.99,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -139,6 +187,30 @@
         {
           "date": "2026-10-30",
           "price": 675.99
+        },
+        {
+          "date": "2026-10-31",
+          "price": 675.99
+        },
+        {
+          "date": "2026-11-01",
+          "price": 675.99
+        },
+        {
+          "date": "2026-11-02",
+          "price": 675.99
+        },
+        {
+          "date": "2026-11-03",
+          "price": 675.99
+        },
+        {
+          "date": "2026-11-04",
+          "price": 675.99
+        },
+        {
+          "date": "2026-11-05",
+          "price": 819.99
         }
       ]
     },
@@ -178,6 +250,30 @@
         },
         {
           "date": "2026-10-30",
+          "price": 823.52
+        },
+        {
+          "date": "2026-10-31",
+          "price": 823.52
+        },
+        {
+          "date": "2026-11-01",
+          "price": 823.52
+        },
+        {
+          "date": "2026-11-02",
+          "price": 823.52
+        },
+        {
+          "date": "2026-11-03",
+          "price": 823.52
+        },
+        {
+          "date": "2026-11-04",
+          "price": 823.52
+        },
+        {
+          "date": "2026-11-05",
           "price": 823.52
         }
       ]

@@ -43,6 +43,30 @@
         {
           "date": "2026-10-30",
           "price": 1299.0
+        },
+        {
+          "date": "2026-10-31",
+          "price": 1299.0
+        },
+        {
+          "date": "2026-11-01",
+          "price": 1967.06
+        },
+        {
+          "date": "2026-11-02",
+          "price": 1967.06
+        },
+        {
+          "date": "2026-11-03",
+          "price": 1967.06
+        },
+        {
+          "date": "2026-11-04",
+          "price": 1299.0
+        },
+        {
+          "date": "2026-11-05",
+          "price": 1299.0
         }
       ]
     },
@@ -83,13 +107,37 @@
         {
           "date": "2026-10-30",
           "price": 1269.0
+        },
+        {
+          "date": "2026-10-31",
+          "price": 1269.0
+        },
+        {
+          "date": "2026-11-01",
+          "price": 1269.0
+        },
+        {
+          "date": "2026-11-02",
+          "price": 1269.0
+        },
+        {
+          "date": "2026-11-03",
+          "price": 1269.0
+        },
+        {
+          "date": "2026-11-04",
+          "price": 1269.0
+        },
+        {
+          "date": "2026-11-05",
+          "price": 1269.0
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/523145/placa-mae-asus-tuf-gaming-b650m-e-wifi-amd-am5-b650-ddr5-preto-90mb1fv0-m0eay0?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793370745_374778e4bdbe3c9e3d5ea208fb4f0498&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F523145%2Fplaca-mae-asus-tuf-gaming-b650m-e-wifi-amd-am5-b650-ddr5-preto-90mb1fv0-m0eay0",
       "has_affiliate": true,
       "current_price": 1149.99,
       "min_price": 1149.99,
@@ -122,6 +170,30 @@
         },
         {
           "date": "2026-10-30",
+          "price": 1149.99
+        },
+        {
+          "date": "2026-10-31",
+          "price": 1149.99
+        },
+        {
+          "date": "2026-11-01",
+          "price": 1149.99
+        },
+        {
+          "date": "2026-11-02",
+          "price": 1149.99
+        },
+        {
+          "date": "2026-11-03",
+          "price": 1149.99
+        },
+        {
+          "date": "2026-11-04",
+          "price": 1149.99
+        },
+        {
+          "date": "2026-11-05",
           "price": 1149.99
         }
       ]
@@ -163,6 +235,30 @@
         {
           "date": "2026-10-30",
           "price": 1352.93
+        },
+        {
+          "date": "2026-10-31",
+          "price": 1352.93
+        },
+        {
+          "date": "2026-11-01",
+          "price": 1352.93
+        },
+        {
+          "date": "2026-11-02",
+          "price": 1352.93
+        },
+        {
+          "date": "2026-11-03",
+          "price": 1352.93
+        },
+        {
+          "date": "2026-11-04",
+          "price": 1352.93
+        },
+        {
+          "date": "2026-11-05",
+          "price": 1352.93
         }
       ]
     },
@@ -171,9 +267,9 @@
       "label": "Pichau",
       "link": "https://www.pichau.com.br/placa-mae-asus-tuf-gaming-b650m-e-wifi-ddr5-socket-amd-am5-m-atx-chipset-amd-b650-tuf-gaming-b650m-e-wifi",
       "has_affiliate": true,
-      "current_price": 1352.93,
-      "min_price": 1352.93,
-      "min_price_at": "2026-10-24",
+      "current_price": 1311.75,
+      "min_price": 1311.75,
+      "min_price_at": "2026-11-05",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -203,6 +299,30 @@
         {
           "date": "2026-10-30",
           "price": 1352.93
+        },
+        {
+          "date": "2026-10-31",
+          "price": 1352.93
+        },
+        {
+          "date": "2026-11-01",
+          "price": 1352.93
+        },
+        {
+          "date": "2026-11-02",
+          "price": 1352.93
+        },
+        {
+          "date": "2026-11-03",
+          "price": 1352.93
+        },
+        {
+          "date": "2026-11-04",
+          "price": 1352.93
+        },
+        {
+          "date": "2026-11-05",
+          "price": 1311.75
         }
       ]
     }

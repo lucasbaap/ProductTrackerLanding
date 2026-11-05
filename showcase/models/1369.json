@@ -11,7 +11,7 @@
       "label": "Mercado Livre",
       "link": "https://www.mercadolivre.com.br/p/MLB70331672?matt_word=balu1353476&matt_tool=29239275",
       "has_affiliate": true,
-      "current_price": 2379.15,
+      "current_price": 2799.0,
       "min_price": 2379.15,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -43,13 +43,37 @@
         {
           "date": "2026-10-30",
           "price": 2379.15
+        },
+        {
+          "date": "2026-10-31",
+          "price": 2729.0
+        },
+        {
+          "date": "2026-11-01",
+          "price": 2729.0
+        },
+        {
+          "date": "2026-11-02",
+          "price": 2799.0
+        },
+        {
+          "date": "2026-11-03",
+          "price": 2799.0
+        },
+        {
+          "date": "2026-11-04",
+          "price": 2799.0
+        },
+        {
+          "date": "2026-11-05",
+          "price": 2799.0
         }
       ]
     },
     {
       "marketplace": "shopee",
       "label": "Shopee",
-      "link": "https://s.shopee.com.br/2BG3dBJYhj",
+      "link": "https://s.shopee.com.br/qkpUZP6H9",
       "has_affiliate": true,
       "current_price": 3815.11,
       "min_price": 3815.11,
@@ -82,6 +106,30 @@
         },
         {
           "date": "2026-10-30",
+          "price": 3815.11
+        },
+        {
+          "date": "2026-10-31",
+          "price": 3815.11
+        },
+        {
+          "date": "2026-11-01",
+          "price": 3815.11
+        },
+        {
+          "date": "2026-11-02",
+          "price": 3815.11
+        },
+        {
+          "date": "2026-11-03",
+          "price": 3815.11
+        },
+        {
+          "date": "2026-11-04",
+          "price": 3815.11
+        },
+        {
+          "date": "2026-11-05",
           "price": 3815.11
         }
       ]

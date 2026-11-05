@@ -9,7 +9,7 @@
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/107340/ssd-kingston-kc600-1tb-sata-iii-2-5-leitura-550mb-s-gravacao-520mb-s-corporativo-preto-skc600-1024g?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793356902_4ec5899d25670118234ad6a88cd6f89e&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F107340%2Fssd-kingston-kc600-1tb-sata-iii-2-5-leitura-550mb-s-gravacao-520mb-s-corporativo-preto-skc600-1024g",
       "has_affiliate": true,
       "current_price": 2199.99,
       "min_price": 2199.99,
@@ -42,6 +42,30 @@
         },
         {
           "date": "2026-10-30",
+          "price": 2199.99
+        },
+        {
+          "date": "2026-10-31",
+          "price": 2199.99
+        },
+        {
+          "date": "2026-11-01",
+          "price": 2199.99
+        },
+        {
+          "date": "2026-11-02",
+          "price": 2199.99
+        },
+        {
+          "date": "2026-11-03",
+          "price": 2199.99
+        },
+        {
+          "date": "2026-11-04",
+          "price": 2199.99
+        },
+        {
+          "date": "2026-11-05",
           "price": 2199.99
         }
       ]

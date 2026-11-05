@@ -9,9 +9,9 @@
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/927089/smartphone-samsung-galaxy-s25-fe-5g-256gb-azul-ram-8gb-camera-50mp-selfie-de-12mp-tela-6-7-?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792815897_52c88fb688853ab44cfb70078dc39272&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/927089/smartphone-samsung-galaxy-s25-fe-5g-256gb-azul-ram-8gb-camera-50mp-selfie-de-12mp-tela-6-7-?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793784343_a415af38b92a6252c063b6f8a4682027&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
-      "current_price": 3689.1,
+      "current_price": 4749.05,
       "min_price": 3689.1,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -19,13 +19,17 @@
         {
           "date": "2026-10-24",
           "price": 3689.1
+        },
+        {
+          "date": "2026-11-04",
+          "price": 4749.05
         }
       ]
     },
     {
       "marketplace": "shopee",
       "label": "Shopee",
-      "link": "https://s.shopee.com.br/1W0MhjhJwP",
+      "link": "https://s.shopee.com.br/5LDEcCHtWF",
       "has_affiliate": true,
       "current_price": 3999.0,
       "min_price": 3999.0,
@@ -58,6 +62,30 @@
         },
         {
           "date": "2026-10-30",
+          "price": 3999.0
+        },
+        {
+          "date": "2026-10-31",
+          "price": 3999.0
+        },
+        {
+          "date": "2026-11-01",
+          "price": 3999.0
+        },
+        {
+          "date": "2026-11-02",
+          "price": 3999.0
+        },
+        {
+          "date": "2026-11-03",
+          "price": 3999.0
+        },
+        {
+          "date": "2026-11-04",
+          "price": 3999.0
+        },
+        {
+          "date": "2026-11-05",
           "price": 3999.0
         }
       ]

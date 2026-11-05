@@ -11,7 +11,7 @@
       "label": "Mercado Livre",
       "link": "https://www.mercadolivre.com.br/p/MLB47692362?matt_word=balu1353476&matt_tool=29239275",
       "has_affiliate": true,
-      "current_price": 2180.5,
+      "current_price": 2397.0,
       "min_price": 2180.5,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -43,6 +43,30 @@
         {
           "date": "2026-10-30",
           "price": 2180.5
+        },
+        {
+          "date": "2026-10-31",
+          "price": 2180.5
+        },
+        {
+          "date": "2026-11-01",
+          "price": 2180.5
+        },
+        {
+          "date": "2026-11-02",
+          "price": 2397.0
+        },
+        {
+          "date": "2026-11-03",
+          "price": 2397.0
+        },
+        {
+          "date": "2026-11-04",
+          "price": 2397.0
+        },
+        {
+          "date": "2026-11-05",
+          "price": 2397.0
         }
       ]
     },
@@ -83,13 +107,37 @@
         {
           "date": "2026-10-30",
           "price": 2294.11
+        },
+        {
+          "date": "2026-10-31",
+          "price": 2294.11
+        },
+        {
+          "date": "2026-11-01",
+          "price": 2294.11
+        },
+        {
+          "date": "2026-11-02",
+          "price": 2294.11
+        },
+        {
+          "date": "2026-11-03",
+          "price": 2294.11
+        },
+        {
+          "date": "2026-11-04",
+          "price": 2294.11
+        },
+        {
+          "date": "2026-11-05",
+          "price": 2294.11
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/1015546/placa-mae-b850-aorus-elite-wifi7-amd-am5-atx-ddr5-pcie-5-0?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793367984_ff35d2e76af239d28ca718e5eb312040&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/1015546/placa-mae-b850-aorus-elite-wifi7-amd-am5-atx-ddr5-pcie-5-0?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793536004_983dfe3aff4883167afcbb43ad5d4838&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 2149.99,
       "min_price": 2034.99,
@@ -122,6 +170,14 @@
         },
         {
           "date": "2026-10-30",
+          "price": 2149.99
+        },
+        {
+          "date": "2026-10-31",
+          "price": 2149.99
+        },
+        {
+          "date": "2026-11-01",
           "price": 2149.99
         }
       ]
@@ -163,6 +219,18 @@
         {
           "date": "2026-10-30",
           "price": 2199.99
+        },
+        {
+          "date": "2026-10-31",
+          "price": 2199.99
+        },
+        {
+          "date": "2026-11-01",
+          "price": 2199.99
+        },
+        {
+          "date": "2026-11-02",
+          "price": 2199.99
         }
       ]
     },
@@ -202,6 +270,30 @@
         },
         {
           "date": "2026-10-30",
+          "price": 2294.11
+        },
+        {
+          "date": "2026-10-31",
+          "price": 2294.11
+        },
+        {
+          "date": "2026-11-01",
+          "price": 2294.11
+        },
+        {
+          "date": "2026-11-02",
+          "price": 2294.11
+        },
+        {
+          "date": "2026-11-03",
+          "price": 2294.11
+        },
+        {
+          "date": "2026-11-04",
+          "price": 2294.11
+        },
+        {
+          "date": "2026-11-05",
           "price": 2294.11
         }
       ]

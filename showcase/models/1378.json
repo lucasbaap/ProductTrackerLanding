@@ -12,8 +12,8 @@
       "link": "https://www.amazon.com.br/dp/B0FPJ6Q4Y1?tag=producttra043-20",
       "has_affiliate": true,
       "current_price": 1049.0,
-      "min_price": 1049.0,
-      "min_price_at": "2026-10-24",
+      "min_price": 858.0,
+      "min_price_at": "2026-11-01",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -43,15 +43,39 @@
         {
           "date": "2026-10-30",
           "price": 1049.0
+        },
+        {
+          "date": "2026-10-31",
+          "price": 1049.0
+        },
+        {
+          "date": "2026-11-01",
+          "price": 858.0
+        },
+        {
+          "date": "2026-11-02",
+          "price": 1049.0
+        },
+        {
+          "date": "2026-11-03",
+          "price": 1049.0
+        },
+        {
+          "date": "2026-11-04",
+          "price": 1049.0
+        },
+        {
+          "date": "2026-11-05",
+          "price": 1049.0
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/921087/smartphone-samsung-galaxy-a07-preto-6-7-256gb-8gb-camera-dupla?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793088741_b3f2d99f8ca15d23e6092cfcd6daae2f&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F921087%2Fsmartphone-samsung-galaxy-a07-preto-6-7-256gb-8gb-camera-dupla",
       "has_affiliate": true,
-      "current_price": 944.1,
+      "current_price": 1300.0,
       "min_price": 944.1,
       "min_price_at": "2026-10-25",
       "monitored_since": "2026-10-25",
@@ -63,6 +87,30 @@
         {
           "date": "2026-10-27",
           "price": 944.1
+        },
+        {
+          "date": "2026-10-31",
+          "price": 1300.0
+        },
+        {
+          "date": "2026-11-01",
+          "price": 1300.0
+        },
+        {
+          "date": "2026-11-02",
+          "price": 944.1
+        },
+        {
+          "date": "2026-11-03",
+          "price": 944.1
+        },
+        {
+          "date": "2026-11-04",
+          "price": 1300.0
+        },
+        {
+          "date": "2026-11-05",
+          "price": 1300.0
         }
       ]
     }

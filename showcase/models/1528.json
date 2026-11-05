@@ -43,6 +43,30 @@
         {
           "date": "2026-10-30",
           "price": 1070.65
+        },
+        {
+          "date": "2026-10-31",
+          "price": 1070.65
+        },
+        {
+          "date": "2026-11-01",
+          "price": 1070.65
+        },
+        {
+          "date": "2026-11-02",
+          "price": 1070.65
+        },
+        {
+          "date": "2026-11-03",
+          "price": 1070.65
+        },
+        {
+          "date": "2026-11-04",
+          "price": 1070.65
+        },
+        {
+          "date": "2026-11-05",
+          "price": 1070.65
         }
       ]
     },
@@ -51,7 +75,7 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/dp/B09YRY5MDC?tag=producttra043-20",
       "has_affiliate": true,
-      "current_price": 1129.0,
+      "current_price": 1410.75,
       "min_price": 1129.0,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -83,13 +107,37 @@
         {
           "date": "2026-10-30",
           "price": 1129.0
+        },
+        {
+          "date": "2026-10-31",
+          "price": 1129.0
+        },
+        {
+          "date": "2026-11-01",
+          "price": 1129.0
+        },
+        {
+          "date": "2026-11-02",
+          "price": 1129.0
+        },
+        {
+          "date": "2026-11-03",
+          "price": 1410.75
+        },
+        {
+          "date": "2026-11-04",
+          "price": 1410.75
+        },
+        {
+          "date": "2026-11-05",
+          "price": 1410.75
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/373624/ssd-adata-1tb-legend-710-m-2-2280-nvme-aleg-710-1tcs?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793362609_43fe1d37dec911bac7be4138d111eda8&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F373624%2Fssd-adata-1tb-legend-710-m-2-2280-nvme-aleg-710-1tcs",
       "has_affiliate": true,
       "current_price": 1342.22,
       "min_price": 1342.22,
@@ -122,6 +170,30 @@
         },
         {
           "date": "2026-10-30",
+          "price": 1342.22
+        },
+        {
+          "date": "2026-10-31",
+          "price": 1342.22
+        },
+        {
+          "date": "2026-11-01",
+          "price": 1342.22
+        },
+        {
+          "date": "2026-11-02",
+          "price": 1342.22
+        },
+        {
+          "date": "2026-11-03",
+          "price": 1342.22
+        },
+        {
+          "date": "2026-11-04",
+          "price": 1342.22
+        },
+        {
+          "date": "2026-11-05",
           "price": 1342.22
         }
       ]
@@ -162,6 +234,30 @@
         },
         {
           "date": "2026-10-30",
+          "price": 1411.65
+        },
+        {
+          "date": "2026-10-31",
+          "price": 1411.65
+        },
+        {
+          "date": "2026-11-01",
+          "price": 1411.65
+        },
+        {
+          "date": "2026-11-02",
+          "price": 1411.65
+        },
+        {
+          "date": "2026-11-03",
+          "price": 1411.65
+        },
+        {
+          "date": "2026-11-04",
+          "price": 1411.65
+        },
+        {
+          "date": "2026-11-05",
           "price": 1411.65
         }
       ]

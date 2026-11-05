@@ -11,7 +11,7 @@
       "label": "Mercado Livre",
       "link": "https://www.mercadolivre.com.br/p/MLB36866100?matt_word=balu1353476&matt_tool=29239275",
       "has_affiliate": true,
-      "current_price": 1508.76,
+      "current_price": 1616.51,
       "min_price": 1508.76,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -43,6 +43,30 @@
         {
           "date": "2026-10-30",
           "price": 1508.76
+        },
+        {
+          "date": "2026-10-31",
+          "price": 1616.51
+        },
+        {
+          "date": "2026-11-01",
+          "price": 1616.51
+        },
+        {
+          "date": "2026-11-02",
+          "price": 1616.51
+        },
+        {
+          "date": "2026-11-03",
+          "price": 1616.51
+        },
+        {
+          "date": "2026-11-04",
+          "price": 1616.51
+        },
+        {
+          "date": "2026-11-05",
+          "price": 1616.51
         }
       ]
     },
@@ -69,7 +93,7 @@
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/692781/placa-mae-gigabyte-b650-gaming-x-ax-v2-rev-1-0-ddr5-am5-atx?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793285906_79bdc5af52381ddb797db3cfde606312&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F692781%2Fplaca-mae-gigabyte-b650-gaming-x-ax-v2-rev-1-0-ddr5-am5-atx",
       "has_affiliate": true,
       "current_price": 1494.99,
       "min_price": 1494.99,
@@ -102,6 +126,30 @@
         },
         {
           "date": "2026-10-30",
+          "price": 1494.99
+        },
+        {
+          "date": "2026-10-31",
+          "price": 1494.99
+        },
+        {
+          "date": "2026-11-01",
+          "price": 1655.1
+        },
+        {
+          "date": "2026-11-02",
+          "price": 1655.1
+        },
+        {
+          "date": "2026-11-03",
+          "price": 1655.1
+        },
+        {
+          "date": "2026-11-04",
+          "price": 1655.1
+        },
+        {
+          "date": "2026-11-05",
           "price": 1494.99
         }
       ]
@@ -142,6 +190,30 @@
         },
         {
           "date": "2026-10-30",
+          "price": 1529.4
+        },
+        {
+          "date": "2026-10-31",
+          "price": 1529.4
+        },
+        {
+          "date": "2026-11-01",
+          "price": 1529.4
+        },
+        {
+          "date": "2026-11-02",
+          "price": 1529.4
+        },
+        {
+          "date": "2026-11-03",
+          "price": 1529.4
+        },
+        {
+          "date": "2026-11-04",
+          "price": 1529.4
+        },
+        {
+          "date": "2026-11-05",
           "price": 1529.4
         }
       ]

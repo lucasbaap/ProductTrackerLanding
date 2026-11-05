@@ -9,9 +9,9 @@
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/390981/processador-amd-ryzen-radeon-9-7950x-2200mhz-cache-80mb-1hexa-core-am5-video-integrado-100-100000514wof?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793368927_3eee4e9b88ed7a80ceff3afba79f3cdc&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F390981%2Fprocessador-amd-ryzen-radeon-9-7950x-2200mhz-cache-80mb-1hexa-core-am5-video-integrado-100-100000514wof",
       "has_affiliate": true,
-      "current_price": 3925.75,
+      "current_price": 4180.09,
       "min_price": 3925.75,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -43,6 +43,30 @@
         {
           "date": "2026-10-30",
           "price": 3925.75
+        },
+        {
+          "date": "2026-10-31",
+          "price": 3925.75
+        },
+        {
+          "date": "2026-11-01",
+          "price": 3925.75
+        },
+        {
+          "date": "2026-11-02",
+          "price": 3925.75
+        },
+        {
+          "date": "2026-11-03",
+          "price": 4750.9
+        },
+        {
+          "date": "2026-11-04",
+          "price": 4180.09
+        },
+        {
+          "date": "2026-11-05",
+          "price": 4180.09
         }
       ]
     },
@@ -82,6 +106,30 @@
         },
         {
           "date": "2026-10-30",
+          "price": 3265.0
+        },
+        {
+          "date": "2026-10-31",
+          "price": 3265.0
+        },
+        {
+          "date": "2026-11-01",
+          "price": 3265.0
+        },
+        {
+          "date": "2026-11-02",
+          "price": 3265.0
+        },
+        {
+          "date": "2026-11-03",
+          "price": 3265.0
+        },
+        {
+          "date": "2026-11-04",
+          "price": 3265.0
+        },
+        {
+          "date": "2026-11-05",
           "price": 3265.0
         }
       ]

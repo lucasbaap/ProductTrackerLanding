@@ -43,17 +43,41 @@
         {
           "date": "2026-10-30",
           "price": 1282.0
+        },
+        {
+          "date": "2026-10-31",
+          "price": 1282.0
+        },
+        {
+          "date": "2026-11-01",
+          "price": 1282.0
+        },
+        {
+          "date": "2026-11-02",
+          "price": 1282.0
+        },
+        {
+          "date": "2026-11-03",
+          "price": 1282.0
+        },
+        {
+          "date": "2026-11-04",
+          "price": 1282.0
+        },
+        {
+          "date": "2026-11-05",
+          "price": 1282.0
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/1020444/ssd-nvme-wd-blue-sn570-1tb-m-2-2280-pcie-3-0-3500mb-s-wd?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793357119_72da586f5405e94c46a177a812898f4a&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F1020444%2Fssd-nvme-wd-blue-sn570-1tb-m-2-2280-pcie-3-0-3500mb-s-wd",
       "has_affiliate": true,
-      "current_price": 1218.38,
-      "min_price": 1218.38,
-      "min_price_at": "2026-10-24",
+      "current_price": 1118.25,
+      "min_price": 1118.25,
+      "min_price_at": "2026-11-04",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -83,6 +107,30 @@
         {
           "date": "2026-10-30",
           "price": 1218.38
+        },
+        {
+          "date": "2026-10-31",
+          "price": 1218.38
+        },
+        {
+          "date": "2026-11-01",
+          "price": 1218.38
+        },
+        {
+          "date": "2026-11-02",
+          "price": 1218.38
+        },
+        {
+          "date": "2026-11-03",
+          "price": 1151.88
+        },
+        {
+          "date": "2026-11-04",
+          "price": 1118.25
+        },
+        {
+          "date": "2026-11-05",
+          "price": 1118.25
         }
       ]
     }

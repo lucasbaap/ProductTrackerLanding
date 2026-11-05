@@ -43,6 +43,30 @@
         {
           "date": "2026-10-30",
           "price": 4199.0
+        },
+        {
+          "date": "2026-10-31",
+          "price": 4199.0
+        },
+        {
+          "date": "2026-11-01",
+          "price": 4199.0
+        },
+        {
+          "date": "2026-11-02",
+          "price": 4199.0
+        },
+        {
+          "date": "2026-11-03",
+          "price": 4199.0
+        },
+        {
+          "date": "2026-11-04",
+          "price": 4199.0
+        },
+        {
+          "date": "2026-11-05",
+          "price": 4199.0
         }
       ]
     },
@@ -83,13 +107,37 @@
         {
           "date": "2026-10-30",
           "price": 3588.22
+        },
+        {
+          "date": "2026-10-31",
+          "price": 3588.22
+        },
+        {
+          "date": "2026-11-01",
+          "price": 3588.22
+        },
+        {
+          "date": "2026-11-02",
+          "price": 3588.22
+        },
+        {
+          "date": "2026-11-03",
+          "price": 3588.22
+        },
+        {
+          "date": "2026-11-04",
+          "price": 3588.22
+        },
+        {
+          "date": "2026-11-05",
+          "price": 3588.22
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/696996/processador-intel-core-ultra-9-285-2-5ghz-5-6ghz-turbo-cache-36mb-24-nucleos-24-threads-lga-1851-com-video-integrado-bx80768285?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793369077_f732524db7a77a9707a781a88ed3d74c&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F696996%2Fprocessador-intel-core-ultra-9-285-2-5ghz-5-6ghz-turbo-cache-36mb-24-nucleos-24-threads-lga-1851-com-video-integrado-bx80768285",
       "has_affiliate": true,
       "current_price": 3049.99,
       "min_price": 3049.99,
@@ -122,6 +170,30 @@
         },
         {
           "date": "2026-10-30",
+          "price": 3049.99
+        },
+        {
+          "date": "2026-10-31",
+          "price": 3049.99
+        },
+        {
+          "date": "2026-11-01",
+          "price": 3049.99
+        },
+        {
+          "date": "2026-11-02",
+          "price": 3049.99
+        },
+        {
+          "date": "2026-11-03",
+          "price": 3049.99
+        },
+        {
+          "date": "2026-11-04",
+          "price": 3049.99
+        },
+        {
+          "date": "2026-11-05",
           "price": 3049.99
         }
       ]
@@ -163,6 +235,30 @@
         {
           "date": "2026-10-30",
           "price": 3588.22
+        },
+        {
+          "date": "2026-10-31",
+          "price": 3588.22
+        },
+        {
+          "date": "2026-11-01",
+          "price": 3588.22
+        },
+        {
+          "date": "2026-11-02",
+          "price": 3588.22
+        },
+        {
+          "date": "2026-11-03",
+          "price": 3588.22
+        },
+        {
+          "date": "2026-11-04",
+          "price": 3588.22
+        },
+        {
+          "date": "2026-11-05",
+          "price": 3588.22
         }
       ]
     },
@@ -202,6 +298,30 @@
         },
         {
           "date": "2026-10-30",
+          "price": 3647.05
+        },
+        {
+          "date": "2026-10-31",
+          "price": 3647.05
+        },
+        {
+          "date": "2026-11-01",
+          "price": 3647.05
+        },
+        {
+          "date": "2026-11-02",
+          "price": 3647.05
+        },
+        {
+          "date": "2026-11-03",
+          "price": 3647.05
+        },
+        {
+          "date": "2026-11-04",
+          "price": 3647.05
+        },
+        {
+          "date": "2026-11-05",
           "price": 3647.05
         }
       ]

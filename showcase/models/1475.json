@@ -9,7 +9,7 @@
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/1032775/processador-intel-core-ultra-7-270k-plus-turbo-ate-5-5ghz-36mb-cache-lga-1851-bx80768270k?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793356025_3b7d19012646d1f9c1ee2e077e29f304&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F1032775%2Fprocessador-intel-core-ultra-7-270k-plus-turbo-ate-5-5ghz-36mb-cache-lga-1851-bx80768270k",
       "has_affiliate": true,
       "current_price": 2564.99,
       "min_price": 2564.99,
@@ -30,6 +30,30 @@
         },
         {
           "date": "2026-10-30",
+          "price": 2564.99
+        },
+        {
+          "date": "2026-10-31",
+          "price": 2564.99
+        },
+        {
+          "date": "2026-11-01",
+          "price": 3241.9
+        },
+        {
+          "date": "2026-11-02",
+          "price": 3241.9
+        },
+        {
+          "date": "2026-11-03",
+          "price": 3241.9
+        },
+        {
+          "date": "2026-11-04",
+          "price": 2564.99
+        },
+        {
+          "date": "2026-11-05",
           "price": 2564.99
         }
       ]
@@ -71,6 +95,30 @@
         {
           "date": "2026-10-30",
           "price": 2588.22
+        },
+        {
+          "date": "2026-10-31",
+          "price": 2588.22
+        },
+        {
+          "date": "2026-11-01",
+          "price": 2588.22
+        },
+        {
+          "date": "2026-11-02",
+          "price": 2588.22
+        },
+        {
+          "date": "2026-11-03",
+          "price": 2588.22
+        },
+        {
+          "date": "2026-11-04",
+          "price": 2588.22
+        },
+        {
+          "date": "2026-11-05",
+          "price": 2588.22
         }
       ]
     },
@@ -110,6 +158,30 @@
         },
         {
           "date": "2026-10-30",
+          "price": 2623.52
+        },
+        {
+          "date": "2026-10-31",
+          "price": 2623.52
+        },
+        {
+          "date": "2026-11-01",
+          "price": 2623.52
+        },
+        {
+          "date": "2026-11-02",
+          "price": 2623.52
+        },
+        {
+          "date": "2026-11-03",
+          "price": 4034.12
+        },
+        {
+          "date": "2026-11-04",
+          "price": 2623.52
+        },
+        {
+          "date": "2026-11-05",
           "price": 2623.52
         }
       ]

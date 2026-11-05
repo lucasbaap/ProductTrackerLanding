@@ -12,8 +12,8 @@
       "link": "https://www.mercadolivre.com.br/p/MLB30856113?matt_word=balu1353476&matt_tool=29239275",
       "has_affiliate": true,
       "current_price": 2790.0,
-      "min_price": 2790.0,
-      "min_price_at": "2026-10-24",
+      "min_price": 2349.0,
+      "min_price_at": "2026-10-31",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -42,6 +42,30 @@
         },
         {
           "date": "2026-10-30",
+          "price": 2790.0
+        },
+        {
+          "date": "2026-10-31",
+          "price": 2349.0
+        },
+        {
+          "date": "2026-11-01",
+          "price": 2790.0
+        },
+        {
+          "date": "2026-11-02",
+          "price": 2790.0
+        },
+        {
+          "date": "2026-11-03",
+          "price": 2790.0
+        },
+        {
+          "date": "2026-11-04",
+          "price": 2790.0
+        },
+        {
+          "date": "2026-11-05",
           "price": 2790.0
         }
       ]
@@ -49,11 +73,11 @@
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/904660/processador-intel-core-i7-14700f-2-1ghz-5-40-ghz-max-turbo-cache-33mb-20-nucleos-28-threads-lga-1700-sem-video-integrado-bx8071514700f?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793368020_a8ce5fce8ef0939eb387bad13c295c65&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F904660%2Fprocessador-intel-core-i7-14700f-2-1ghz-5-40-ghz-max-turbo-cache-33mb-20-nucleos-28-threads-lga-1700-sem-video-integrado-bx8071514700f",
       "has_affiliate": true,
-      "current_price": 1999.99,
-      "min_price": 1999.99,
-      "min_price_at": "2026-10-24",
+      "current_price": 1979.99,
+      "min_price": 1979.99,
+      "min_price_at": "2026-11-05",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -83,6 +107,30 @@
         {
           "date": "2026-10-30",
           "price": 1999.99
+        },
+        {
+          "date": "2026-10-31",
+          "price": 1999.99
+        },
+        {
+          "date": "2026-11-01",
+          "price": 1999.99
+        },
+        {
+          "date": "2026-11-02",
+          "price": 1999.99
+        },
+        {
+          "date": "2026-11-03",
+          "price": 1999.99
+        },
+        {
+          "date": "2026-11-04",
+          "price": 1999.99
+        },
+        {
+          "date": "2026-11-05",
+          "price": 1979.99
         }
       ]
     },
@@ -122,6 +170,30 @@
         },
         {
           "date": "2026-10-30",
+          "price": 2317.63
+        },
+        {
+          "date": "2026-10-31",
+          "price": 2317.63
+        },
+        {
+          "date": "2026-11-01",
+          "price": 2317.63
+        },
+        {
+          "date": "2026-11-02",
+          "price": 2317.63
+        },
+        {
+          "date": "2026-11-03",
+          "price": 2317.63
+        },
+        {
+          "date": "2026-11-04",
+          "price": 2317.63
+        },
+        {
+          "date": "2026-11-05",
           "price": 2317.63
         }
       ]

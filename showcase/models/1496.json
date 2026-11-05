@@ -43,6 +43,30 @@
         {
           "date": "2026-10-30",
           "price": 1180.0
+        },
+        {
+          "date": "2026-10-31",
+          "price": 1180.0
+        },
+        {
+          "date": "2026-11-01",
+          "price": 1180.0
+        },
+        {
+          "date": "2026-11-02",
+          "price": 1180.0
+        },
+        {
+          "date": "2026-11-03",
+          "price": 1180.0
+        },
+        {
+          "date": "2026-11-04",
+          "price": 1180.0
+        },
+        {
+          "date": "2026-11-05",
+          "price": 1180.0
         }
       ]
     },
@@ -51,9 +75,9 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/dp/B0CQ3142LB?tag=producttra043-20",
       "has_affiliate": true,
-      "current_price": 1159.0,
-      "min_price": 1152.93,
-      "min_price_at": "2026-10-24",
+      "current_price": 1126.0,
+      "min_price": 1126.0,
+      "min_price_at": "2026-11-03",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -83,17 +107,41 @@
         {
           "date": "2026-10-30",
           "price": 1159.0
+        },
+        {
+          "date": "2026-10-31",
+          "price": 1159.0
+        },
+        {
+          "date": "2026-11-01",
+          "price": 1159.0
+        },
+        {
+          "date": "2026-11-02",
+          "price": 1159.0
+        },
+        {
+          "date": "2026-11-03",
+          "price": 1126.0
+        },
+        {
+          "date": "2026-11-04",
+          "price": 1126.0
+        },
+        {
+          "date": "2026-11-05",
+          "price": 1126.0
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/904658/processador-intel-core-i5-14400f-2-5ghz-4-70-ghz-max-turbo-cache-20mb-10-nucleos-16-threads-lga-1700-sem-video-integrado-bx8071514400f?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793355086_8ef8ccdabc0fef9a213874d92acc792f&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F904658%2Fprocessador-intel-core-i5-14400f-2-5ghz-4-70-ghz-max-turbo-cache-20mb-10-nucleos-16-threads-lga-1700-sem-video-integrado-bx8071514400f",
       "has_affiliate": true,
-      "current_price": 1199.99,
-      "min_price": 1199.99,
-      "min_price_at": "2026-10-24",
+      "current_price": 1099.99,
+      "min_price": 1099.99,
+      "min_price_at": "2026-11-04",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -123,6 +171,30 @@
         {
           "date": "2026-10-30",
           "price": 1199.99
+        },
+        {
+          "date": "2026-10-31",
+          "price": 1199.99
+        },
+        {
+          "date": "2026-11-01",
+          "price": 1199.99
+        },
+        {
+          "date": "2026-11-02",
+          "price": 1199.99
+        },
+        {
+          "date": "2026-11-03",
+          "price": 1199.99
+        },
+        {
+          "date": "2026-11-04",
+          "price": 1099.99
+        },
+        {
+          "date": "2026-11-05",
+          "price": 1099.99
         }
       ]
     },
@@ -147,9 +219,9 @@
       "label": "Magalu",
       "link": "https://m.magazineluiza.com.br/processador-intel-core-i5-14400f-ate-470-ghz-cache-20mb-nucleos-10-threads-16-bx8071514400f/p/accg73a175/in/prsd/?partner_id=3440&promoter_id=5820501&utm_source=divulgador&utm_medium=magalu&utm_campaign=5820501",
       "has_affiliate": true,
-      "current_price": 1411.75,
-      "min_price": 1411.75,
-      "min_price_at": "2026-10-24",
+      "current_price": 1294.1,
+      "min_price": 1294.1,
+      "min_price_at": "2026-11-04",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -179,6 +251,30 @@
         {
           "date": "2026-10-30",
           "price": 1411.75
+        },
+        {
+          "date": "2026-10-31",
+          "price": 1411.75
+        },
+        {
+          "date": "2026-11-01",
+          "price": 1411.75
+        },
+        {
+          "date": "2026-11-02",
+          "price": 1411.75
+        },
+        {
+          "date": "2026-11-03",
+          "price": 1411.75
+        },
+        {
+          "date": "2026-11-04",
+          "price": 1294.1
+        },
+        {
+          "date": "2026-11-05",
+          "price": 1294.1
         }
       ]
     }

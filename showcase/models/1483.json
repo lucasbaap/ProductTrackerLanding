@@ -9,11 +9,11 @@
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/497573/processador-intel-core-i9-14900k-3-2ghz-6ghz-max-turbo-cache-36mb-24-nucleos-32-threads-lga-1700-com-video-integrado-bx8071514900k?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793367276_d9ee894c2d4d438bcd94a7818dc3e97b&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F497573%2Fprocessador-intel-core-i9-14900k-3-2ghz-6ghz-max-turbo-cache-36mb-24-nucleos-32-threads-lga-1700-com-video-integrado-bx8071514900k",
       "has_affiliate": true,
-      "current_price": 2749.99,
-      "min_price": 2749.99,
-      "min_price_at": "2026-10-24",
+      "current_price": 2699.99,
+      "min_price": 2699.99,
+      "min_price_at": "2026-11-05",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -43,6 +43,30 @@
         {
           "date": "2026-10-30",
           "price": 2749.99
+        },
+        {
+          "date": "2026-10-31",
+          "price": 2749.99
+        },
+        {
+          "date": "2026-11-01",
+          "price": 2749.99
+        },
+        {
+          "date": "2026-11-02",
+          "price": 2749.99
+        },
+        {
+          "date": "2026-11-03",
+          "price": 2749.99
+        },
+        {
+          "date": "2026-11-04",
+          "price": 2749.99
+        },
+        {
+          "date": "2026-11-05",
+          "price": 2699.99
         }
       ]
     },
@@ -82,6 +106,30 @@
         },
         {
           "date": "2026-10-30",
+          "price": 3176.46
+        },
+        {
+          "date": "2026-10-31",
+          "price": 3176.46
+        },
+        {
+          "date": "2026-11-01",
+          "price": 3176.46
+        },
+        {
+          "date": "2026-11-02",
+          "price": 3176.46
+        },
+        {
+          "date": "2026-11-03",
+          "price": 3176.46
+        },
+        {
+          "date": "2026-11-04",
+          "price": 3176.46
+        },
+        {
+          "date": "2026-11-05",
           "price": 3176.46
         }
       ]

@@ -11,7 +11,7 @@
       "label": "Mercado Livre",
       "link": "https://www.mercadolivre.com.br/p/MLB2031074195?matt_word=balu1353476&matt_tool=29239275",
       "has_affiliate": true,
-      "current_price": 840.08,
+      "current_price": 857.19,
       "min_price": 811.57,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -43,17 +43,41 @@
         {
           "date": "2026-10-30",
           "price": 840.08
+        },
+        {
+          "date": "2026-10-31",
+          "price": 847.86
+        },
+        {
+          "date": "2026-11-01",
+          "price": 847.86
+        },
+        {
+          "date": "2026-11-02",
+          "price": 847.86
+        },
+        {
+          "date": "2026-11-03",
+          "price": 875.11
+        },
+        {
+          "date": "2026-11-04",
+          "price": 858.75
+        },
+        {
+          "date": "2026-11-05",
+          "price": 857.19
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/524589/processador-intel-core-i3-14100f-14-geracao-3-5-ghz-4-7-ghz-turbo-cache-12mb-lga-1700-sem-video-bx8071514100f?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793355994_6d72339a117371fd935c84de35032f6f&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F524589%2Fprocessador-intel-core-i3-14100f-14-geracao-3-5-ghz-4-7-ghz-turbo-cache-12mb-lga-1700-sem-video-bx8071514100f",
       "has_affiliate": true,
-      "current_price": 755.73,
-      "min_price": 752.74,
-      "min_price_at": "2026-10-24",
+      "current_price": 731.09,
+      "min_price": 731.09,
+      "min_price_at": "2026-10-31",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -83,6 +107,30 @@
         {
           "date": "2026-10-30",
           "price": 755.73
+        },
+        {
+          "date": "2026-10-31",
+          "price": 731.09
+        },
+        {
+          "date": "2026-11-01",
+          "price": 731.09
+        },
+        {
+          "date": "2026-11-02",
+          "price": 731.09
+        },
+        {
+          "date": "2026-11-03",
+          "price": 731.09
+        },
+        {
+          "date": "2026-11-04",
+          "price": 731.09
+        },
+        {
+          "date": "2026-11-05",
+          "price": 731.09
         }
       ]
     },
@@ -123,6 +171,30 @@
         {
           "date": "2026-10-30",
           "price": 776.46
+        },
+        {
+          "date": "2026-10-31",
+          "price": 776.46
+        },
+        {
+          "date": "2026-11-01",
+          "price": 776.46
+        },
+        {
+          "date": "2026-11-02",
+          "price": 776.46
+        },
+        {
+          "date": "2026-11-03",
+          "price": 776.46
+        },
+        {
+          "date": "2026-11-04",
+          "price": 776.46
+        },
+        {
+          "date": "2026-11-05",
+          "price": 776.46
         }
       ]
     },
@@ -162,6 +234,30 @@
         },
         {
           "date": "2026-10-30",
+          "price": 1049.83
+        },
+        {
+          "date": "2026-10-31",
+          "price": 1049.83
+        },
+        {
+          "date": "2026-11-01",
+          "price": 1049.83
+        },
+        {
+          "date": "2026-11-02",
+          "price": 1049.83
+        },
+        {
+          "date": "2026-11-03",
+          "price": 1049.83
+        },
+        {
+          "date": "2026-11-04",
+          "price": 1049.83
+        },
+        {
+          "date": "2026-11-05",
           "price": 1049.83
         }
       ]

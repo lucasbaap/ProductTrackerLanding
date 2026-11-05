@@ -11,9 +11,9 @@
       "label": "Mercado Livre",
       "link": "https://www.mercadolivre.com.br/p/MLB37332888?matt_word=balu1353476&matt_tool=29239275",
       "has_affiliate": true,
-      "current_price": 3752.5,
-      "min_price": 3265.0,
-      "min_price_at": "2026-10-24",
+      "current_price": 3435.0,
+      "min_price": 3000.0,
+      "min_price_at": "2026-11-02",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -43,6 +43,30 @@
         {
           "date": "2026-10-30",
           "price": 3752.5
+        },
+        {
+          "date": "2026-10-31",
+          "price": 3752.5
+        },
+        {
+          "date": "2026-11-01",
+          "price": 3858.0
+        },
+        {
+          "date": "2026-11-02",
+          "price": 3000.0
+        },
+        {
+          "date": "2026-11-03",
+          "price": 3000.0
+        },
+        {
+          "date": "2026-11-04",
+          "price": 3000.0
+        },
+        {
+          "date": "2026-11-05",
+          "price": 3435.0
         }
       ]
     },
@@ -83,13 +107,37 @@
         {
           "date": "2026-10-30",
           "price": 4579.0
+        },
+        {
+          "date": "2026-10-31",
+          "price": 4579.0
+        },
+        {
+          "date": "2026-11-01",
+          "price": 4579.0
+        },
+        {
+          "date": "2026-11-02",
+          "price": 4579.0
+        },
+        {
+          "date": "2026-11-03",
+          "price": 4579.0
+        },
+        {
+          "date": "2026-11-04",
+          "price": 4579.0
+        },
+        {
+          "date": "2026-11-05",
+          "price": 4579.0
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/200089/console-microsoft-xbox-series-s-512gb-branco-rrs-00006?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793368090_6304131fa5194aefa69589359a5c8060&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F200089%2Fconsole-microsoft-xbox-series-s-512gb-branco-rrs-00006",
       "has_affiliate": true,
       "current_price": 4799.0,
       "min_price": 4799.0,
@@ -122,6 +170,30 @@
         },
         {
           "date": "2026-10-30",
+          "price": 4799.0
+        },
+        {
+          "date": "2026-10-31",
+          "price": 4799.0
+        },
+        {
+          "date": "2026-11-01",
+          "price": 4799.0
+        },
+        {
+          "date": "2026-11-02",
+          "price": 4799.0
+        },
+        {
+          "date": "2026-11-03",
+          "price": 4799.0
+        },
+        {
+          "date": "2026-11-04",
+          "price": 4799.0
+        },
+        {
+          "date": "2026-11-05",
           "price": 4799.0
         }
       ]

@@ -43,6 +43,30 @@
         {
           "date": "2026-10-30",
           "price": 1459.0
+        },
+        {
+          "date": "2026-10-31",
+          "price": 1459.0
+        },
+        {
+          "date": "2026-11-01",
+          "price": 1459.0
+        },
+        {
+          "date": "2026-11-02",
+          "price": 1459.0
+        },
+        {
+          "date": "2026-11-03",
+          "price": 1459.0
+        },
+        {
+          "date": "2026-11-04",
+          "price": 1459.0
+        },
+        {
+          "date": "2026-11-05",
+          "price": 1459.0
         }
       ]
     },
@@ -51,9 +75,9 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/dp/B0CQ3HKJYV?tag=producttra043-20",
       "has_affiliate": true,
-      "current_price": 1168.5,
-      "min_price": 1168.5,
-      "min_price_at": "2026-10-30",
+      "current_price": 1260.0,
+      "min_price": 1126.0,
+      "min_price_at": "2026-11-03",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -83,17 +107,41 @@
         {
           "date": "2026-10-30",
           "price": 1168.5
+        },
+        {
+          "date": "2026-10-31",
+          "price": 1230.0
+        },
+        {
+          "date": "2026-11-01",
+          "price": 1170.17
+        },
+        {
+          "date": "2026-11-02",
+          "price": 1170.17
+        },
+        {
+          "date": "2026-11-03",
+          "price": 1126.0
+        },
+        {
+          "date": "2026-11-04",
+          "price": 1126.0
+        },
+        {
+          "date": "2026-11-05",
+          "price": 1260.0
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/524576/processador-intel-core-i5-14400-14-geracao-3-5-ghz-4-7-ghz-turbo-cache-20mb-lga1700-bx8071514400?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793350575_f60965b8d25ba94d8e72b653b27d43f5&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F524576%2Fprocessador-intel-core-i5-14400-14-geracao-3-5-ghz-4-7-ghz-turbo-cache-20mb-lga1700-bx8071514400",
       "has_affiliate": true,
-      "current_price": 1619.99,
-      "min_price": 1603.73,
-      "min_price_at": "2026-10-24",
+      "current_price": 1537.91,
+      "min_price": 1537.91,
+      "min_price_at": "2026-11-03",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -123,6 +171,26 @@
         {
           "date": "2026-10-30",
           "price": 1619.99
+        },
+        {
+          "date": "2026-10-31",
+          "price": 1619.99
+        },
+        {
+          "date": "2026-11-01",
+          "price": 1619.99
+        },
+        {
+          "date": "2026-11-03",
+          "price": 1537.91
+        },
+        {
+          "date": "2026-11-04",
+          "price": 1537.91
+        },
+        {
+          "date": "2026-11-05",
+          "price": 1537.91
         }
       ]
     },
@@ -162,6 +230,30 @@
         },
         {
           "date": "2026-10-30",
+          "price": 1910.9
+        },
+        {
+          "date": "2026-10-31",
+          "price": 1910.9
+        },
+        {
+          "date": "2026-11-01",
+          "price": 1910.9
+        },
+        {
+          "date": "2026-11-02",
+          "price": 1910.9
+        },
+        {
+          "date": "2026-11-03",
+          "price": 1910.9
+        },
+        {
+          "date": "2026-11-04",
+          "price": 1910.9
+        },
+        {
+          "date": "2026-11-05",
           "price": 1910.9
         }
       ]

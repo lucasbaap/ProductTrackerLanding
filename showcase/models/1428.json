@@ -11,9 +11,9 @@
       "label": "Mercado Livre",
       "link": "https://www.mercadolivre.com.br/p/MLB22753413?matt_word=balu1353476&matt_tool=29239275",
       "has_affiliate": true,
-      "current_price": 1624.77,
-      "min_price": 1624.77,
-      "min_price_at": "2026-10-24",
+      "current_price": 1596.77,
+      "min_price": 1596.77,
+      "min_price_at": "2026-11-03",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -43,15 +43,39 @@
         {
           "date": "2026-10-30",
           "price": 1624.77
+        },
+        {
+          "date": "2026-10-31",
+          "price": 1624.77
+        },
+        {
+          "date": "2026-11-01",
+          "price": 1624.77
+        },
+        {
+          "date": "2026-11-02",
+          "price": 1624.77
+        },
+        {
+          "date": "2026-11-03",
+          "price": 1596.77
+        },
+        {
+          "date": "2026-11-04",
+          "price": 1596.77
+        },
+        {
+          "date": "2026-11-05",
+          "price": 1596.77
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/332861/placa-mae-gigabyte-b550-aorus-elite-v2-amd-am4-atx-ddr4?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793178964_46baec44c6e4325a80d58b988307b9f6&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F332861%2Fplaca-mae-gigabyte-b550-aorus-elite-v2-amd-am4-atx-ddr4",
       "has_affiliate": true,
-      "current_price": 1199.0,
+      "current_price": 1495.9,
       "min_price": 1199.0,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -75,6 +99,10 @@
         {
           "date": "2026-10-28",
           "price": 1199.0
+        },
+        {
+          "date": "2026-11-05",
+          "price": 1495.9
         }
       ]
     },

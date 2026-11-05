@@ -11,9 +11,9 @@
       "label": "Mercado Livre",
       "link": "https://www.mercadolivre.com.br/p/MLB45779257?matt_word=balu1353476&matt_tool=29239275",
       "has_affiliate": true,
-      "current_price": 1449.99,
-      "min_price": 1449.99,
-      "min_price_at": "2026-10-24",
+      "current_price": 1406.49,
+      "min_price": 1406.0,
+      "min_price_at": "2026-11-02",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -43,6 +43,26 @@
         {
           "date": "2026-10-30",
           "price": 1449.99
+        },
+        {
+          "date": "2026-10-31",
+          "price": 1449.99
+        },
+        {
+          "date": "2026-11-01",
+          "price": 1449.99
+        },
+        {
+          "date": "2026-11-02",
+          "price": 1406.0
+        },
+        {
+          "date": "2026-11-03",
+          "price": 1406.49
+        },
+        {
+          "date": "2026-11-04",
+          "price": 1406.49
         }
       ]
     },
@@ -83,6 +103,30 @@
         {
           "date": "2026-10-30",
           "price": 1899.0
+        },
+        {
+          "date": "2026-10-31",
+          "price": 1899.0
+        },
+        {
+          "date": "2026-11-01",
+          "price": 1899.0
+        },
+        {
+          "date": "2026-11-02",
+          "price": 1899.0
+        },
+        {
+          "date": "2026-11-03",
+          "price": 1899.0
+        },
+        {
+          "date": "2026-11-04",
+          "price": 1899.0
+        },
+        {
+          "date": "2026-11-05",
+          "price": 1899.0
         }
       ]
     },
@@ -91,7 +135,7 @@
       "label": "AliExpress",
       "link": "https://www.aliexpress.com/item/1005009445384546.html",
       "has_affiliate": true,
-      "current_price": 754.63,
+      "current_price": 761.95,
       "min_price": 751.6,
       "min_price_at": "2026-10-29",
       "monitored_since": "2026-10-24",
@@ -123,6 +167,30 @@
         {
           "date": "2026-10-30",
           "price": 754.63
+        },
+        {
+          "date": "2026-10-31",
+          "price": 766.99
+        },
+        {
+          "date": "2026-11-01",
+          "price": 756.58
+        },
+        {
+          "date": "2026-11-02",
+          "price": 756.58
+        },
+        {
+          "date": "2026-11-03",
+          "price": 757.51
+        },
+        {
+          "date": "2026-11-04",
+          "price": 761.95
+        },
+        {
+          "date": "2026-11-05",
+          "price": 761.95
         }
       ]
     },
@@ -131,7 +199,7 @@
       "label": "Pichau",
       "link": "https://www.pichau.com.br/ssd-lexar-nm790-1tb-m-2-2280-pcie-nvme-leitura-7400mb-s-gravacao-6500mb-s-lnm790x001t-rnnng",
       "has_affiliate": true,
-      "current_price": 1564.69,
+      "current_price": 1529.4,
       "min_price": 1482.34,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -163,6 +231,30 @@
         {
           "date": "2026-10-30",
           "price": 1564.69
+        },
+        {
+          "date": "2026-10-31",
+          "price": 1564.69
+        },
+        {
+          "date": "2026-11-01",
+          "price": 1564.69
+        },
+        {
+          "date": "2026-11-02",
+          "price": 1564.69
+        },
+        {
+          "date": "2026-11-03",
+          "price": 1564.69
+        },
+        {
+          "date": "2026-11-04",
+          "price": 1564.69
+        },
+        {
+          "date": "2026-11-05",
+          "price": 1529.4
         }
       ]
     }

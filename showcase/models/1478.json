@@ -43,6 +43,30 @@
         {
           "date": "2026-10-30",
           "price": 1596.46
+        },
+        {
+          "date": "2026-10-31",
+          "price": 1596.46
+        },
+        {
+          "date": "2026-11-01",
+          "price": 1596.46
+        },
+        {
+          "date": "2026-11-02",
+          "price": 1596.46
+        },
+        {
+          "date": "2026-11-03",
+          "price": 1596.46
+        },
+        {
+          "date": "2026-11-04",
+          "price": 1596.46
+        },
+        {
+          "date": "2026-11-05",
+          "price": 1596.46
         }
       ]
     },
@@ -51,9 +75,9 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/dp/B0GMKXVVJQ?tag=producttra043-20",
       "has_affiliate": true,
-      "current_price": 2025.0,
-      "min_price": 2025.0,
-      "min_price_at": "2026-10-28",
+      "current_price": 1651.24,
+      "min_price": 1651.24,
+      "min_price_at": "2026-10-31",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -83,17 +107,41 @@
         {
           "date": "2026-10-30",
           "price": 2025.0
+        },
+        {
+          "date": "2026-10-31",
+          "price": 1651.24
+        },
+        {
+          "date": "2026-11-01",
+          "price": 1651.24
+        },
+        {
+          "date": "2026-11-02",
+          "price": 1651.24
+        },
+        {
+          "date": "2026-11-03",
+          "price": 1651.24
+        },
+        {
+          "date": "2026-11-04",
+          "price": 1651.24
+        },
+        {
+          "date": "2026-11-05",
+          "price": 1651.24
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/1026649/processador-intel-core-ultra-5-250k-4-2ghz-5-3ghz-turbo-cache-30mb-18-nucleos-18-threads-lga-1851-com-video-integrado-bx80768250k?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793348623_84c96bfd31332343208e3968831f1c1e&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F1026649%2Fprocessador-intel-core-ultra-5-250k-4-2ghz-5-3ghz-turbo-cache-30mb-18-nucleos-18-threads-lga-1851-com-video-integrado-bx80768250k",
       "has_affiliate": true,
-      "current_price": 1499.99,
-      "min_price": 1499.99,
-      "min_price_at": "2026-10-24",
+      "current_price": 1399.99,
+      "min_price": 1399.99,
+      "min_price_at": "2026-11-05",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -123,6 +171,30 @@
         {
           "date": "2026-10-30",
           "price": 1499.99
+        },
+        {
+          "date": "2026-10-31",
+          "price": 1499.99
+        },
+        {
+          "date": "2026-11-01",
+          "price": 1499.99
+        },
+        {
+          "date": "2026-11-02",
+          "price": 1499.99
+        },
+        {
+          "date": "2026-11-03",
+          "price": 1499.99
+        },
+        {
+          "date": "2026-11-04",
+          "price": 1499.99
+        },
+        {
+          "date": "2026-11-05",
+          "price": 1399.99
         }
       ]
     },
@@ -163,6 +235,30 @@
         {
           "date": "2026-10-30",
           "price": 1623.52
+        },
+        {
+          "date": "2026-10-31",
+          "price": 1623.52
+        },
+        {
+          "date": "2026-11-01",
+          "price": 1623.52
+        },
+        {
+          "date": "2026-11-02",
+          "price": 1623.52
+        },
+        {
+          "date": "2026-11-03",
+          "price": 1623.52
+        },
+        {
+          "date": "2026-11-04",
+          "price": 1623.52
+        },
+        {
+          "date": "2026-11-05",
+          "price": 1623.52
         }
       ]
     },
@@ -172,8 +268,8 @@
       "link": "https://www.terabyteshop.com.br/produto/40733/processador-intel-core-ultra-5-250k-plus-otimizado-para-ia-53ghz-turbo-18-cores-18-threads-lga-1851-bx80768250k",
       "has_affiliate": true,
       "current_price": 1623.52,
-      "min_price": 1623.52,
-      "min_price_at": "2026-10-24",
+      "min_price": 1447.05,
+      "min_price_at": "2026-11-04",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -202,6 +298,30 @@
         },
         {
           "date": "2026-10-30",
+          "price": 1623.52
+        },
+        {
+          "date": "2026-10-31",
+          "price": 1623.52
+        },
+        {
+          "date": "2026-11-01",
+          "price": 1623.52
+        },
+        {
+          "date": "2026-11-02",
+          "price": 1623.52
+        },
+        {
+          "date": "2026-11-03",
+          "price": 1623.52
+        },
+        {
+          "date": "2026-11-04",
+          "price": 1447.05
+        },
+        {
+          "date": "2026-11-05",
           "price": 1623.52
         }
       ]

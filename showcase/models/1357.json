@@ -11,7 +11,7 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/dp/B0GKQTCXL8?ref=cm_sw_r_cso_cp_apan_dp_LIGHTSABER16JX9JABPU&ref_=cm_sw_r_cso_cp_apan_dp_LIGHTSABER16JX9JABPU&social_share=cm_sw_r_cso_cp_apan_dp_LIGHTSABER16JX9JABPU&th=1&tag=producttra043-20",
       "has_affiliate": true,
-      "current_price": 4799.0,
+      "current_price": 4501.8,
       "min_price": 4166.99,
       "min_price_at": "2026-10-22",
       "monitored_since": "2026-09-09",
@@ -222,14 +222,38 @@
         },
         {
           "date": "2026-10-30",
-          "price": 4778.1
+          "price": 4501.79
+        },
+        {
+          "date": "2026-10-31",
+          "price": 4501.79
+        },
+        {
+          "date": "2026-11-01",
+          "price": 4501.79
+        },
+        {
+          "date": "2026-11-02",
+          "price": 4799.0
+        },
+        {
+          "date": "2026-11-03",
+          "price": 4799.0
+        },
+        {
+          "date": "2026-11-04",
+          "price": 4501.81
+        },
+        {
+          "date": "2026-11-05",
+          "price": 4501.8
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/1007597/smartphone-samsung-galaxy-s26-5g-256gb-12gb-ram-tela-6-3-120hz-camera-50mp-preto-sm-s942bzkszto?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793270341_9285d826c476f687a7df6e744f15476a&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F1007597%2Fsmartphone-samsung-galaxy-s26-5g-256gb-12gb-ram-tela-6-3-120hz-camera-50mp-preto-sm-s942bzkszto",
       "has_affiliate": true,
       "current_price": 4799.0,
       "min_price": 4799.0,
@@ -263,13 +287,37 @@
         {
           "date": "2026-10-30",
           "price": 4799.0
+        },
+        {
+          "date": "2026-10-31",
+          "price": 4799.0
+        },
+        {
+          "date": "2026-11-01",
+          "price": 4799.0
+        },
+        {
+          "date": "2026-11-02",
+          "price": 4799.0
+        },
+        {
+          "date": "2026-11-03",
+          "price": 4799.0
+        },
+        {
+          "date": "2026-11-04",
+          "price": 4799.0
+        },
+        {
+          "date": "2026-11-05",
+          "price": 4799.0
         }
       ]
     },
     {
       "marketplace": "shopee",
       "label": "Shopee",
-      "link": "https://s.shopee.com.br/5fpu0hTCVy",
+      "link": "https://s.shopee.com.br/9fME6v55Fp",
       "has_affiliate": true,
       "current_price": 5332.22,
       "min_price": 5332.22,
@@ -302,6 +350,30 @@
         },
         {
           "date": "2026-10-30",
+          "price": 5332.22
+        },
+        {
+          "date": "2026-10-31",
+          "price": 5332.22
+        },
+        {
+          "date": "2026-11-01",
+          "price": 5332.22
+        },
+        {
+          "date": "2026-11-02",
+          "price": 5332.22
+        },
+        {
+          "date": "2026-11-03",
+          "price": 5332.22
+        },
+        {
+          "date": "2026-11-04",
+          "price": 5332.22
+        },
+        {
+          "date": "2026-11-05",
           "price": 5332.22
         }
       ]

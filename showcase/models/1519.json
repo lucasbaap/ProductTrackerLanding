@@ -11,7 +11,7 @@
       "label": "Mercado Livre",
       "link": "https://www.mercadolivre.com.br/ssd-kingston-480gb-sata-3-a400-6gbs-sa400s37480g-original/up/MLBU4221898472?matt_word=balu1353476&matt_tool=29239275",
       "has_affiliate": true,
-      "current_price": 599.0,
+      "current_price": 689.96,
       "min_price": 599.0,
       "min_price_at": "2026-10-30",
       "monitored_since": "2026-10-24",
@@ -43,6 +43,30 @@
         {
           "date": "2026-10-30",
           "price": 599.0
+        },
+        {
+          "date": "2026-10-31",
+          "price": 599.0
+        },
+        {
+          "date": "2026-11-01",
+          "price": 689.96
+        },
+        {
+          "date": "2026-11-02",
+          "price": 689.96
+        },
+        {
+          "date": "2026-11-03",
+          "price": 599.0
+        },
+        {
+          "date": "2026-11-04",
+          "price": 599.0
+        },
+        {
+          "date": "2026-11-05",
+          "price": 689.96
         }
       ]
     },
@@ -51,7 +75,7 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/dp/B01N0TQPQB?tag=producttra043-20",
       "has_affiliate": true,
-      "current_price": 529.0,
+      "current_price": 548.0,
       "min_price": 502.55,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -83,15 +107,39 @@
         {
           "date": "2026-10-30",
           "price": 529.0
+        },
+        {
+          "date": "2026-10-31",
+          "price": 559.0
+        },
+        {
+          "date": "2026-11-01",
+          "price": 559.0
+        },
+        {
+          "date": "2026-11-02",
+          "price": 559.0
+        },
+        {
+          "date": "2026-11-03",
+          "price": 548.0
+        },
+        {
+          "date": "2026-11-04",
+          "price": 548.0
+        },
+        {
+          "date": "2026-11-05",
+          "price": 548.0
         }
       ]
     },
     {
       "marketplace": "aliexpress",
       "label": "AliExpress",
-      "link": "https://s.click.aliexpress.com/s/fwx308cRD9Eny963e3KDdYxyIpNj8TXVr7saiF9Um5rMUg1kZtJALLnfa2LNXtiVgnxdD8Og6MmvwBoxhnSYQGM6r0c08U4TfX8DFGo7vviCuu3q62Q60OAhRZcqm3G8PtwM69xY7TOEWRrvulP5ukZQ4uQbBBtaVsdr6EffAqVmp3O5GyUANU2DoA3dJufNhDfh7KOlLgKIvRVhDxRESHLmea6fTE26gLUqKEUuuizJiLENrCbax94DZHDu8WhaXMN8fDE1HOLt4j1KZUcj471WKjwUetlj4ZWgS3yWx6lzuERHNTI3Zmy1QdFfd8GooZdwLiaiF6ANvoZBAqfevU6wUHkGpl2qcC5SvINZfj9tjaKuDnOJgPdKhNv3U6Lqv4EHwnE7RyIjvz7gL6ZxCANoOzx7owdrJQefrH90cfxZtL6iOYdAWIBtdWuDLKsiZOlDggc8A1GmcJOnpyJHQIAYvKsMZtjIoqomNjFboJPfnB2pIIbOt7YOE9loF3My5ZaXCGBmZHpaWUDt473yRVTOb8PdX2Pg6awhWEYl55fT8l1AtBqgOjkGoae6r4U0yUjwTTT5DRxErAZJKJxkpM7Gfa9aBKMCYrjRzKZeVXyvGcohh4KOGjbj1Jz0pDZNtgQbY5trgigy4FHz2rR9leDxJPYqQqoOcfZomwvahj9Pa7sfYCtSLJ8NA04UwNhiz8d2eGUeKBk87FmRBTj1nm8tEV3hRnIloAJTPfTt8uyYGFEbUW9Di6cq1BYZaqfz7ggDzdSTlHp6qFrK6iRgVX8lmrn41PRXMdTbQHBd5Ap6tCnDPMSUl12IhJ08mUU3Siigaeo7NkUbTV8kXjOgtKoMnqs0Q0MEyIHW1rUkmhQ4HmW2CuzezBhU6Os1R11jOyQhKuh9qJfLBVQ3ZEatdiKdfHgUz80OKBOhwoYHvxL1blHJnZV4rRoKYZQFl6OTtutnKpbfCw8I2rUoQR",
+      "link": "https://s.click.aliexpress.com/s/fwx308cRD9Eny963e3KDdYxyIpNj8TXVr7saiF9Um5rMUg1kZtJALLnfa2LNXtiVgnxdD8Og6MmvwBoxhnSYQGM6r0c08U4TfX8DFGo7vviCuu3q62Q60OAhRZcqm3G8PtwM69xY7TOEWRrvulP5ukZQ4uQbBBtaVsdr6EffAqVmp3O5GyUANU2DoA3dJufNhDfh7KOlLgKIvRVhDxRESHLmea6fTE26gLUqKEUuuizJiLENrCbax94DZHDu8WhaXMN8fDE1HOLt4j1KZUcj471WKjwUetlj4ZWgS3yWx6lzuERHNTI3Zmy1QdFfd8GooZdwLiaiF6ANvoZBAqfevU6wUHkGpl2qcC5SvINZfj9tjaKuDnOJgPdKhNv3U6Lqv4EHwnE7RyIjvz7gL6ZxCANoOzx7owdrJQefrH90cfxZtL6iOYdAWIBtdWuDLKsiZOlDggc8A1GmcJOnpyJHQIAYvKsMZtjIoqomNjFboJPfnB2pIIbOt7YOE9loF3My5ZaXFStyXgqmWU2ObJm09Gc0y2EFeLB2Vi1rt1nQxus2v1YHiyyI6PnHmj8Ou9QsnZI5YmUgmTr1qxpAt5vYKqnDFP8LSJLv59hwSjec2GXYQHPfdVruyFEX6f4FjLQ9SXwbaWdtkJ3nIyFBX9yopiFKlXDB2TJVGy9JmLJmhnCt935RqNroQRYsqdOOrmJ8Lk1eIjWcOd60JnNE9P5GggkQEaNpkO94w6wtf7eEsdwH901ySgadYJ6wG9rkhAoXZ4X73MGUNawRRoY7ONqoEraIH0gpJs6miLtK8CbVhC9vyKWNweXYDKFQxkhRGl7ed23VcjK046nKswmiPmwm3kiVtpSp2Gp0MXCAup5stMehvVbCVYeQi7MMlWETi6ch3jqwIefk2uBZvIiPCQ3RIY8LGzecVr9PC77fQdvD4Y0BIOwG9KIQ21YDA3KICyqPSKZnO3N5LnUrKICyen",
       "has_affiliate": true,
-      "current_price": 223.98,
+      "current_price": 217.4,
       "min_price": 208.79,
       "min_price_at": "2026-10-27",
       "monitored_since": "2026-10-24",
@@ -123,13 +171,37 @@
         {
           "date": "2026-10-30",
           "price": 223.98
+        },
+        {
+          "date": "2026-10-31",
+          "price": 227.72
+        },
+        {
+          "date": "2026-11-01",
+          "price": 216.33
+        },
+        {
+          "date": "2026-11-02",
+          "price": 216.33
+        },
+        {
+          "date": "2026-11-03",
+          "price": 216.6
+        },
+        {
+          "date": "2026-11-04",
+          "price": 228.62
+        },
+        {
+          "date": "2026-11-05",
+          "price": 217.4
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/85198/ssd-kingston-a400-480gb-sata-iii-2-5-leitura-500mb-s-gravacao-450mb-s-preto-sa400s37-480g?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793367193_d29c4655fc7e67497de9e55b82820389&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F85198%2Fssd-kingston-a400-480gb-sata-iii-2-5-leitura-500mb-s-gravacao-450mb-s-preto-sa400s37-480g",
       "has_affiliate": true,
       "current_price": 659.99,
       "min_price": 659.99,
@@ -162,6 +234,30 @@
         },
         {
           "date": "2026-10-30",
+          "price": 659.99
+        },
+        {
+          "date": "2026-10-31",
+          "price": 659.99
+        },
+        {
+          "date": "2026-11-01",
+          "price": 659.99
+        },
+        {
+          "date": "2026-11-02",
+          "price": 659.99
+        },
+        {
+          "date": "2026-11-03",
+          "price": 659.99
+        },
+        {
+          "date": "2026-11-04",
+          "price": 659.99
+        },
+        {
+          "date": "2026-11-05",
           "price": 659.99
         }
       ]
@@ -203,6 +299,30 @@
         {
           "date": "2026-10-30",
           "price": 670.58
+        },
+        {
+          "date": "2026-10-31",
+          "price": 670.58
+        },
+        {
+          "date": "2026-11-01",
+          "price": 670.58
+        },
+        {
+          "date": "2026-11-02",
+          "price": 670.58
+        },
+        {
+          "date": "2026-11-03",
+          "price": 670.58
+        },
+        {
+          "date": "2026-11-04",
+          "price": 670.58
+        },
+        {
+          "date": "2026-11-05",
+          "price": 670.58
         }
       ]
     },
@@ -212,8 +332,8 @@
       "link": "https://www.terabyteshop.com.br/produto/19382/ssd-kingston-a400-480gb-sata-iii-leitura-500mbs-gravacao-450mbs-sa400s37480g-imp",
       "has_affiliate": true,
       "current_price": 670.47,
-      "min_price": 670.47,
-      "min_price_at": "2026-10-24",
+      "min_price": 611.75,
+      "min_price_at": "2026-11-04",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -242,6 +362,30 @@
         },
         {
           "date": "2026-10-30",
+          "price": 670.47
+        },
+        {
+          "date": "2026-10-31",
+          "price": 670.47
+        },
+        {
+          "date": "2026-11-01",
+          "price": 670.47
+        },
+        {
+          "date": "2026-11-02",
+          "price": 670.47
+        },
+        {
+          "date": "2026-11-03",
+          "price": 670.47
+        },
+        {
+          "date": "2026-11-04",
+          "price": 611.75
+        },
+        {
+          "date": "2026-11-05",
           "price": 670.47
         }
       ]

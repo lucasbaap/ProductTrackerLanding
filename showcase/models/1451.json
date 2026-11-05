@@ -62,7 +62,7 @@
       "label": "Terabyte",
       "link": "https://www.terabyteshop.com.br/produto/34734/processador-amd-ryzen-9-9900x3d-44ghz-55ghz-turbo-12-cores-24-threads-am5-sem-cooler-100-100001368wof",
       "has_affiliate": true,
-      "current_price": 6470.58,
+      "current_price": 3705.87,
       "min_price": 3705.87,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -94,6 +94,30 @@
         {
           "date": "2026-10-30",
           "price": 6470.58
+        },
+        {
+          "date": "2026-10-31",
+          "price": 3705.87
+        },
+        {
+          "date": "2026-11-01",
+          "price": 3705.87
+        },
+        {
+          "date": "2026-11-02",
+          "price": 3705.87
+        },
+        {
+          "date": "2026-11-03",
+          "price": 3705.87
+        },
+        {
+          "date": "2026-11-04",
+          "price": 3705.87
+        },
+        {
+          "date": "2026-11-05",
+          "price": 3705.87
         }
       ]
     },
@@ -134,17 +158,41 @@
         {
           "date": "2026-10-30",
           "price": 3682.4
+        },
+        {
+          "date": "2026-10-31",
+          "price": 3682.4
+        },
+        {
+          "date": "2026-11-01",
+          "price": 3682.4
+        },
+        {
+          "date": "2026-11-02",
+          "price": 3682.4
+        },
+        {
+          "date": "2026-11-03",
+          "price": 3682.4
+        },
+        {
+          "date": "2026-11-04",
+          "price": 3682.4
+        },
+        {
+          "date": "2026-11-05",
+          "price": 3682.4
         }
       ]
     },
     {
       "marketplace": "aliexpress",
       "label": "AliExpress",
-      "link": "https://s.click.aliexpress.com/s/NdpwztbAIgDMmxGbP8fFks7yUFfsHjzlImSYmA68h7xlMRgzueFsRgokQ9f9hcpVKttxtQE2VzIoqkXJXrpOr6uR3zv7mP4CDO9CddoFf4t0QE5DXPy8Pgjhz4irfQSEjEGUmy5yF3A5gJ9h3NYjLMgqIMqa3zcpq5E2BC3W5EbV40Dm9buQxWpZzw1lbX8Zm2kZtNIa4KyDieNjsH7IU6Yv8StELKVvT9r4eFAaXPGhwHsgaDqdNcmY116r3GC2YvmvR57S69fGyn8Tt4pCtmLccxQz3g0L1ZKu00BPwYOT3BF4QZOqRqMDB0DvlAjPvVjxS7leVFHKKt2fhKKaNM3vPVjDZPH5OJcrEeLMY9gXeGLDO2tJZ7yWyAd9Q7nE15MkPKhs1NmHOWqn9F4aQr3Im5p5jzoAFGcxbSSYJm7Zvvonj1TQnx3dcjGtYe0sAGykeqEOBQ038e18RHCFd91LLE3aYEMziGT7uIP84F7zgsl0Fx3LRrFbQWyzlNKCEMHp7hCOoqjzhH5ZtPiH4XKGDudVWnPXw7jHsmBgecgzdMT3OeOerGRlwcPHFG3fOKe6Eg1UTWZOpI7JA1baPB49mKxBVZlyT5q2AXayUQfyoI1IPFusEnmeD3SeiTseQrzlkATBgUx2hrkimDOnwsD1DrglwyHPRuSJ90ZyHKjcnIxdHsRhj6lf6acspTsa4aYSakPkTGvn52WRKtVAwG73puwrIVkMqB7Qob7fhCdIQNkWYikhWrW345IapJ9duJpLToxYwc5zaXDvCrKkVs5mdMG9bVsMGkqdlE0QocFnl764M1sStOQfUZ1P0h4y2VBzLrmzfRd3s9FRDpniV1YYtnMN6GHpG0E8sZhlMsjGMgctFqLuoiTDoAm75bfCXCb7ETftmSrwO5C4QBC6GJLy6rlqwiUTd5MkfFrrqFqNZbMg3UvsvDpzBusZMdaF9kFl5TCRPNdd5GfWStmQOKbki9veLIFT4fjoNlJKhhRXN",
+      "link": "https://s.click.aliexpress.com/s/NdpwztbAIgDMmxGbP8fFks7yUFfsHjzlImSYmA68h7xlMRgzueFsRgokQ9f9hcpVKttxtQE2VzIoqkXJXrpOr6uR3zv7mP4CDO9CddoFf4t0QE5DXPy8Pgjhz4irfQSEjEGUmy5yF3A5gJ9h3NYjLMgqIMqa3zcpq5E2BC3W5EbV40Dm9buQxWpZzw1lbX8Zm2kZtNIa4KyDieNjsH7IU6Yv8StELKVvT9r4eFAaXPGhwHsgaDqdNcmY116r3GC2YvmvR57S69fGyn8Tt4pCtmLccxQz3g0L1ZKu00BPwYOT3BF4QZOqRqMDB0DvlAjPvVjxS7leVFHKKt2fhKKaNM3vPVjDZPH5OJcrEeLMY9gXeGLDO2tJZ7yWyAd9Q7nE15MkPKhs1NmHOWqn9F4aQr3Im5p5jzoAFGcxbSSYJm7Zvvonj1TQnx3dcjGtYe0sAGykeqEOBQ038e18RHCFd91LLE3aYEMziGT7uIP84F7zgsl0Fx3LRrFbQWyzlNKCEMHp7FxmXLVHcRpv00VfphYla3QvZcPgkSoUWn4iZQLVEnm4b5kCICfksziX6nY2SwPJAGZrXsqTQ85kmjR6JTajs6qhiAjTBmgqhWL9o3qcWM3YmbC3ZmhDeuDBrPsoDzTL2dJ2ueF1Qdh3RVtPvBWv2MnY0egxpiP0d6vhSZkugfkZ1BYNoVrET0P4WORDu6HqJ3qPIK85KzqQkW20pq5xZILTlHs0j8egMDapXMOsurQL8gmps7j8NvnitELPvl9IpzWR2vdmXOmiNg8ZffmGGHbfOQ2tsPo77jSykPt3dKuYmXFuSYAI7vaao1yqKdoyAe5XhFT7Q98Qzr4JwXiFQ8kPT53fzTYoB7A7FoP8pwGwQN0G79YWbC2HusEt5VPuD7WHLHMgaXuZjh19V55YnYKOhcNp7lBjgmoOQMrkPNIEAQOh4mvirbmNY01UTtXDbrhFZssjc4eOsnKBbUmfDsFgYeoJGPKFFYW33IQ2P",
       "has_affiliate": true,
-      "current_price": 3700.06,
-      "min_price": 3449.0,
-      "min_price_at": "2026-10-27",
+      "current_price": 3430.72,
+      "min_price": 3414.0,
+      "min_price_at": "2026-11-01",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -174,6 +222,30 @@
         {
           "date": "2026-10-30",
           "price": 3700.06
+        },
+        {
+          "date": "2026-10-31",
+          "price": 3761.81
+        },
+        {
+          "date": "2026-11-01",
+          "price": 3414.0
+        },
+        {
+          "date": "2026-11-02",
+          "price": 3414.0
+        },
+        {
+          "date": "2026-11-03",
+          "price": 3418.19
+        },
+        {
+          "date": "2026-11-04",
+          "price": 3450.64
+        },
+        {
+          "date": "2026-11-05",
+          "price": 3430.72
         }
       ]
     }

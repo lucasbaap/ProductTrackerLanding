@@ -43,6 +43,30 @@
         {
           "date": "2026-10-30",
           "price": 1080.0
+        },
+        {
+          "date": "2026-10-31",
+          "price": 1080.0
+        },
+        {
+          "date": "2026-11-01",
+          "price": 1080.0
+        },
+        {
+          "date": "2026-11-02",
+          "price": 1080.0
+        },
+        {
+          "date": "2026-11-03",
+          "price": 1080.0
+        },
+        {
+          "date": "2026-11-04",
+          "price": 1080.0
+        },
+        {
+          "date": "2026-11-05",
+          "price": 1080.0
         }
       ]
     },
@@ -51,9 +75,9 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/dp/B07YD579WM?tag=producttra043-20",
       "has_affiliate": true,
-      "current_price": 949.0,
-      "min_price": 949.0,
-      "min_price_at": "2026-10-24",
+      "current_price": 947.0,
+      "min_price": 947.0,
+      "min_price_at": "2026-10-31",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -83,17 +107,41 @@
         {
           "date": "2026-10-30",
           "price": 949.0
+        },
+        {
+          "date": "2026-10-31",
+          "price": 947.0
+        },
+        {
+          "date": "2026-11-01",
+          "price": 947.0
+        },
+        {
+          "date": "2026-11-02",
+          "price": 947.0
+        },
+        {
+          "date": "2026-11-03",
+          "price": 947.0
+        },
+        {
+          "date": "2026-11-04",
+          "price": 947.0
+        },
+        {
+          "date": "2026-11-05",
+          "price": 947.0
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/167492/ssd-crucial-bx500-1tb-sata-6gb-s-2-5-leitura-540-mb-s-escrita-500-mb-s-preto-ct1000bx500ssd1?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793363614_1b9dd59d5c5ec1e53d1f8f041381ba45&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F167492%2Fssd-crucial-bx500-1tb-sata-6gb-s-2-5-leitura-540-mb-s-escrita-500-mb-s-preto-ct1000bx500ssd1",
       "has_affiliate": true,
-      "current_price": 981.9,
-      "min_price": 981.9,
-      "min_price_at": "2026-10-29",
+      "current_price": 978.21,
+      "min_price": 883.71,
+      "min_price_at": "2026-11-04",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -123,6 +171,30 @@
         {
           "date": "2026-10-30",
           "price": 981.9
+        },
+        {
+          "date": "2026-10-31",
+          "price": 981.9
+        },
+        {
+          "date": "2026-11-01",
+          "price": 981.9
+        },
+        {
+          "date": "2026-11-02",
+          "price": 981.9
+        },
+        {
+          "date": "2026-11-03",
+          "price": 981.9
+        },
+        {
+          "date": "2026-11-04",
+          "price": 883.71
+        },
+        {
+          "date": "2026-11-05",
+          "price": 978.21
         }
       ]
     },
@@ -131,9 +203,9 @@
       "label": "Pichau",
       "link": "https://www.pichau.com.br/ssd-crucial-bx500-1tb-2-5-sata-iii-6gb-s-leitura-540mb-s-gravac-o-500mb-s-ct1000bx500ssd1",
       "has_affiliate": true,
-      "current_price": 1164.69,
-      "min_price": 1164.69,
-      "min_price_at": "2026-10-24",
+      "current_price": 1129.4,
+      "min_price": 1129.4,
+      "min_price_at": "2026-11-05",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -159,6 +231,30 @@
         {
           "date": "2026-10-30",
           "price": 1164.69
+        },
+        {
+          "date": "2026-10-31",
+          "price": 1164.69
+        },
+        {
+          "date": "2026-11-01",
+          "price": 1164.69
+        },
+        {
+          "date": "2026-11-02",
+          "price": 1164.69
+        },
+        {
+          "date": "2026-11-03",
+          "price": 1164.69
+        },
+        {
+          "date": "2026-11-04",
+          "price": 1164.69
+        },
+        {
+          "date": "2026-11-05",
+          "price": 1129.4
         }
       ]
     }

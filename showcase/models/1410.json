@@ -43,17 +43,41 @@
         {
           "date": "2026-10-30",
           "price": 2998.89
+        },
+        {
+          "date": "2026-10-31",
+          "price": 2998.89
+        },
+        {
+          "date": "2026-11-01",
+          "price": 2998.89
+        },
+        {
+          "date": "2026-11-02",
+          "price": 2998.89
+        },
+        {
+          "date": "2026-11-03",
+          "price": 2998.89
+        },
+        {
+          "date": "2026-11-04",
+          "price": 2998.89
+        },
+        {
+          "date": "2026-11-05",
+          "price": 2998.89
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/1020255/smartphone-motorola-edge-70-fusion-5g-256gb-verde-claro-24gb-8gb-ram-16gb-ram-boost-camera-50mp-e-tela-de-6-8-?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793365452_02a034d3bfba18be9ae1b86c160b9172&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F1020255%2Fsmartphone-motorola-edge-70-fusion-5g-256gb-verde-claro-24gb-8gb-ram-16gb-ram-boost-camera-50mp-e-tela-de-6-8-",
       "has_affiliate": true,
-      "current_price": 2687.55,
-      "min_price": 2687.55,
-      "min_price_at": "2026-10-24",
+      "current_price": 2659.05,
+      "min_price": 2659.05,
+      "min_price_at": "2026-11-05",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -83,6 +107,30 @@
         {
           "date": "2026-10-30",
           "price": 2687.55
+        },
+        {
+          "date": "2026-10-31",
+          "price": 2687.55
+        },
+        {
+          "date": "2026-11-01",
+          "price": 2687.55
+        },
+        {
+          "date": "2026-11-02",
+          "price": 2687.55
+        },
+        {
+          "date": "2026-11-03",
+          "price": 2687.55
+        },
+        {
+          "date": "2026-11-04",
+          "price": 2687.55
+        },
+        {
+          "date": "2026-11-05",
+          "price": 2659.05
         }
       ]
     }

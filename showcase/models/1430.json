@@ -11,9 +11,9 @@
       "label": "Mercado Livre",
       "link": "https://www.mercadolivre.com.br/p/MLB27428538?matt_word=balu1353476&matt_tool=29239275",
       "has_affiliate": true,
-      "current_price": 841.0,
-      "min_price": 841.0,
-      "min_price_at": "2026-10-24",
+      "current_price": 823.0,
+      "min_price": 823.0,
+      "min_price_at": "2026-11-04",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -43,6 +43,30 @@
         {
           "date": "2026-10-30",
           "price": 841.0
+        },
+        {
+          "date": "2026-10-31",
+          "price": 841.0
+        },
+        {
+          "date": "2026-11-01",
+          "price": 841.0
+        },
+        {
+          "date": "2026-11-02",
+          "price": 841.0
+        },
+        {
+          "date": "2026-11-03",
+          "price": 847.0
+        },
+        {
+          "date": "2026-11-04",
+          "price": 823.0
+        },
+        {
+          "date": "2026-11-05",
+          "price": 823.0
         }
       ]
     },
@@ -51,7 +75,7 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/MSI-B550M-PRO-VDH-ProSeries-Micro-ATX/dp/B089D1YG11?tag=producttra043-20",
       "has_affiliate": true,
-      "current_price": 823.52,
+      "current_price": 818.32,
       "min_price": 759.99,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -83,15 +107,39 @@
         {
           "date": "2026-10-30",
           "price": 823.52
+        },
+        {
+          "date": "2026-10-31",
+          "price": 760.0
+        },
+        {
+          "date": "2026-11-01",
+          "price": 759.99
+        },
+        {
+          "date": "2026-11-02",
+          "price": 823.52
+        },
+        {
+          "date": "2026-11-03",
+          "price": 823.52
+        },
+        {
+          "date": "2026-11-04",
+          "price": 818.32
+        },
+        {
+          "date": "2026-11-05",
+          "price": 818.32
         }
       ]
     },
     {
       "marketplace": "aliexpress",
       "label": "AliExpress",
-      "link": "https://s.click.aliexpress.com/s/fwx308cRD9Eny963e3KDdYxyIpNj8TXVr7saiF9Um5rMUg1kZtJALLnfa2LNXtiVgnxdD8Og6MmvwBoxhnSYQGM6r0c08U4TfX8DFGo7vviCuu3q62Q60OAhRZcqm3G8PtwM69xY7TOEWRrvulP5ukZQ4uQbBBtaVsdr6EffAqVmp3O5GyUANU2DoA3dJufNhDfh7KOlLgKIvRVhDxRESHLmea6fTE26gLUqKEUuuizJiLENrCbax94DZHDu8WhaXMN8fDE1HOLt4j1KZUcj471WKjwUetlj4ZWgS3yWx6lzuERHNTI3Zmy1QdFv50p1dw6hj0SltZKgU8qEo5UEkRjecJQJ74CfBePQYOV157kxzTCkmXiSRwsGglzSiBBsYwgikw1ceiCL83RlmoBk1e2h6wI39gfrjkrYadYPbZxeSWT5q4DXTUSsLtFE9je96NrHpMwXnWfDRQJE9g9LNPGNjqDOuIbHZ1SIOBY5lfI7bGuNmCYxpaSDj6ExlwO40QL0vW1o4sbCIbpAo7FCmnVVW8prplhNoHCEsVdbz3JdqAjm5I0C0J7qj01mVr8ukdcod8urxJjkB3eoFL4kOud146wJi1BSYjxNhuetmdoY9r2kBP0sQ2wxD2VWBvWIiSrKMoMjutzRydZ5u8BQGFQDF1VtG6z86azOeX3ryiaNNl1rHWr2dt9BA11nle8uOQaUZZgQUmEtbO2TQ6fMmIz8ZzQa4phVMuucGCbjnsEhRl4R35ITgMCIlY6Yb6Mq4Edtm9vNvEnVAsDg36TJcVTNeaGVaWQALwc6Y779SMJc7ZLXP25DYuVwKPs9lXNjkZI08brCiMTpwEMRhnCQcUtOfYwUfKUMrEDzRqXu6SvSB8EJt84szX4JZSQQfjanLSrHPTLkT6mBIRZnv44QunYk707PsaqAusOrX0f3GRYGwB3hrLplRRmgfQ7b3t7LhPWhuNSGviLKI05ldp",
+      "link": "https://s.click.aliexpress.com/s/fwx308cRD9Eny963e3KDdYxyIpNj8TXVr7saiF9Um5rMUg1kZtJALLnfa2LNXtiVgnxdD8Og6MmvwBoxhnSYQGM6r0c08U4TfX8DFGo7vviCuu3q62Q60OAhRZcqm3G8PtwM69xY7TOEWRrvulP5ukZQ4uQbBBtaVsdr6EffAqVmp3O5GyUANU2DoA3dJufNhDfh7KOlLgKIvRVhDxRESHLmea6fTE26gLUqKEUuuizJiLENrCbax94DZHDu8WhaXMN8fDE1HOLt4j1KZUcj471WKjwUetlj4ZWgS3yWx6lzuERHNTI3Zmy1QdFv50p1dw6hj0SltZKgU8qEo5UEkRjecJQJ74CfBePQYOV157kxzTCkmXiSRwsGglzSiBBsYwgikw1ceiCL83RlmoBk1e2h6wI39gfrjkrYadYPbZxeSWT5q4DXTUSsLtFE9je96NrHpMwXnWfDRQJE9g9LNPGNjqDOuIbHZ1SIOBY5lfI7bGuNmCYxpaSDj6ExlwO40QL0MrCazFXIfpE8JdbTH5YR3XbrYyH4Ep71kjAvvIAyMHKRpZL3VANUBVWqLgIJfZxPbIB51IeKxmsnReFTD8YqCcGBShNX8V1CHfMwz4ea66qShiRxnLbyq0QwE5sbaaPkyFK9BLnp1xyZ0zcIL2UESEN7wJEwFc50mcjw4HadXiTy0WggOktuaeHZiVNMGbb5mZkXbKAxD8o8CwrsAwM6wZg4o5mk2WOoq83W2vauJ5zS4B1DZpL6xoikV2V03zbVfm7qLAG76e1qp1uDRNFb9DPoCN4kkccaiFn7mblUlMGFqFJ0KlXhpFweKBEhYl1iG7hmFpThjE9MZEsVU4TTNUypo6SVuxmjrtwrioxPmfMoMPTB73s6N6Qn0QupWJXoK0amsK5XEc5yhMn6GuKrzMEQ8tf3bswqeU3FSj4ijyVSkzkSm4j8hgUoUjdnu339M6CiIH8l2sofSL",
       "has_affiliate": true,
-      "current_price": 624.03,
+      "current_price": 628.45,
       "min_price": 572.14,
       "min_price_at": "2026-10-27",
       "monitored_since": "2026-10-24",
@@ -123,13 +171,37 @@
         {
           "date": "2026-10-30",
           "price": 624.03
+        },
+        {
+          "date": "2026-10-31",
+          "price": 624.03
+        },
+        {
+          "date": "2026-11-01",
+          "price": 624.03
+        },
+        {
+          "date": "2026-11-02",
+          "price": 624.03
+        },
+        {
+          "date": "2026-11-03",
+          "price": 612.99
+        },
+        {
+          "date": "2026-11-04",
+          "price": 630.72
+        },
+        {
+          "date": "2026-11-05",
+          "price": 628.45
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/114338/placa-mae-msi-b550m-pro-vdh-wifi-amd-am4-matx-ddr4-preto-b550m-pro-vdh-wifi?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793101574_9e0b98e141d918b9154271ce9e2f04ac&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/114338/placa-mae-msi-b550m-pro-vdh-wifi-amd-am4-matx-ddr4-preto-b550m-pro-vdh-wifi?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793520170_f002b18765f93707137a5ecd8ff7f01f&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 929.99,
       "min_price": 929.99,
@@ -138,6 +210,14 @@
       "history": [
         {
           "date": "2026-10-27",
+          "price": 929.99
+        },
+        {
+          "date": "2026-10-31",
+          "price": 929.99
+        },
+        {
+          "date": "2026-11-01",
           "price": 929.99
         }
       ]
@@ -158,6 +238,14 @@
         },
         {
           "date": "2026-10-25",
+          "price": 894.11
+        },
+        {
+          "date": "2026-10-31",
+          "price": 894.11
+        },
+        {
+          "date": "2026-11-01",
           "price": 894.11
         }
       ]

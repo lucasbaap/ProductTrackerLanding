@@ -9,9 +9,9 @@
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/951846/processador-amd-ryzen-5-9600?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793271150_322d218ccd2b6e450c396522c62cc5bd&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F951846%2Fprocessador-amd-ryzen-5-9600",
       "has_affiliate": true,
-      "current_price": 1445.54,
+      "current_price": 1597.91,
       "min_price": 1445.54,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -43,6 +43,30 @@
         {
           "date": "2026-10-30",
           "price": 1445.54
+        },
+        {
+          "date": "2026-10-31",
+          "price": 1748.85
+        },
+        {
+          "date": "2026-11-01",
+          "price": 1748.85
+        },
+        {
+          "date": "2026-11-02",
+          "price": 1748.85
+        },
+        {
+          "date": "2026-11-03",
+          "price": 1748.85
+        },
+        {
+          "date": "2026-11-04",
+          "price": 1597.91
+        },
+        {
+          "date": "2026-11-05",
+          "price": 1597.91
         }
       ]
     },
@@ -51,7 +75,7 @@
       "label": "Mercado Livre",
       "link": "https://www.mercadolivre.com.br/p/MLB50742489?matt_word=balu1353476&matt_tool=29239275",
       "has_affiliate": true,
-      "current_price": 2200.0,
+      "current_price": 1309.49,
       "min_price": 1309.49,
       "min_price_at": "2026-10-29",
       "monitored_since": "2026-10-24",
@@ -83,6 +107,30 @@
         {
           "date": "2026-10-30",
           "price": 2200.0
+        },
+        {
+          "date": "2026-10-31",
+          "price": 2200.0
+        },
+        {
+          "date": "2026-11-01",
+          "price": 2200.0
+        },
+        {
+          "date": "2026-11-02",
+          "price": 2200.0
+        },
+        {
+          "date": "2026-11-03",
+          "price": 1309.49
+        },
+        {
+          "date": "2026-11-04",
+          "price": 1309.49
+        },
+        {
+          "date": "2026-11-05",
+          "price": 1309.49
         }
       ]
     }

@@ -12,8 +12,8 @@
       "link": "https://www.amazon.com.br/dp/B0GYPQBXVX?tag=producttra043-20",
       "has_affiliate": true,
       "current_price": 1365.56,
-      "min_price": 1365.56,
-      "min_price_at": "2026-10-28",
+      "min_price": 1246.24,
+      "min_price_at": "2026-11-01",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -42,6 +42,30 @@
         },
         {
           "date": "2026-10-30",
+          "price": 1365.56
+        },
+        {
+          "date": "2026-10-31",
+          "price": 1365.56
+        },
+        {
+          "date": "2026-11-01",
+          "price": 1246.24
+        },
+        {
+          "date": "2026-11-02",
+          "price": 1246.24
+        },
+        {
+          "date": "2026-11-03",
+          "price": 1365.56
+        },
+        {
+          "date": "2026-11-04",
+          "price": 1365.56
+        },
+        {
+          "date": "2026-11-05",
           "price": 1365.56
         }
       ]

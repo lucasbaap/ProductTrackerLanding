@@ -11,9 +11,9 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/dp/B0FDHZ113J?tag=producttra043-20",
       "has_affiliate": true,
-      "current_price": 10499.0,
-      "min_price": 10499.0,
-      "min_price_at": "2026-10-30",
+      "current_price": 10379.0,
+      "min_price": 10379.0,
+      "min_price_at": "2026-11-04",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -43,17 +43,41 @@
         {
           "date": "2026-10-30",
           "price": 10499.0
+        },
+        {
+          "date": "2026-10-31",
+          "price": 10499.0
+        },
+        {
+          "date": "2026-11-01",
+          "price": 11599.0
+        },
+        {
+          "date": "2026-11-02",
+          "price": 10499.0
+        },
+        {
+          "date": "2026-11-03",
+          "price": 10499.0
+        },
+        {
+          "date": "2026-11-04",
+          "price": 10379.0
+        },
+        {
+          "date": "2026-11-05",
+          "price": 10379.0
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/906006/smartphone-samsung-galaxy-z-fold-7-5g-azul-512gb-16gb-ram-e-camera-tripla-de-200-mp-12mp-10mp-n-a?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793274048_764abb2e77ab5572680f0ab84134bcb8&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F906006%2Fsmartphone-samsung-galaxy-z-fold-7-5g-azul-512gb-16gb-ram-e-camera-tripla-de-200-mp-12mp-10mp-n-a",
       "has_affiliate": true,
-      "current_price": 9974.05,
-      "min_price": 9974.05,
-      "min_price_at": "2026-10-24",
+      "current_price": 9860.05,
+      "min_price": 9860.05,
+      "min_price_at": "2026-11-05",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -83,6 +107,30 @@
         {
           "date": "2026-10-30",
           "price": 9974.05
+        },
+        {
+          "date": "2026-10-31",
+          "price": 9974.05
+        },
+        {
+          "date": "2026-11-01",
+          "price": 9974.05
+        },
+        {
+          "date": "2026-11-02",
+          "price": 9974.05
+        },
+        {
+          "date": "2026-11-03",
+          "price": 9974.05
+        },
+        {
+          "date": "2026-11-04",
+          "price": 9974.05
+        },
+        {
+          "date": "2026-11-05",
+          "price": 9860.05
         }
       ]
     }

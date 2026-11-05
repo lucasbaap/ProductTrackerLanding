@@ -11,9 +11,9 @@
       "label": "Mercado Livre",
       "link": "https://www.mercadolivre.com.br/p/MLB45183886?matt_word=balu1353476&matt_tool=29239275",
       "has_affiliate": true,
-      "current_price": 1845.29,
-      "min_price": 1845.29,
-      "min_price_at": "2026-10-30",
+      "current_price": 1799.0,
+      "min_price": 1799.0,
+      "min_price_at": "2026-11-04",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -43,6 +43,30 @@
         {
           "date": "2026-10-30",
           "price": 1845.29
+        },
+        {
+          "date": "2026-10-31",
+          "price": 1845.29
+        },
+        {
+          "date": "2026-11-01",
+          "price": 1845.29
+        },
+        {
+          "date": "2026-11-02",
+          "price": 1845.29
+        },
+        {
+          "date": "2026-11-03",
+          "price": 1845.29
+        },
+        {
+          "date": "2026-11-04",
+          "price": 1799.0
+        },
+        {
+          "date": "2026-11-05",
+          "price": 1799.0
         }
       ]
     },
@@ -83,13 +107,37 @@
         {
           "date": "2026-10-30",
           "price": 1719.0
+        },
+        {
+          "date": "2026-10-31",
+          "price": 1719.0
+        },
+        {
+          "date": "2026-11-01",
+          "price": 1719.0
+        },
+        {
+          "date": "2026-11-02",
+          "price": 1719.0
+        },
+        {
+          "date": "2026-11-03",
+          "price": 1719.0
+        },
+        {
+          "date": "2026-11-04",
+          "price": 1719.0
+        },
+        {
+          "date": "2026-11-05",
+          "price": 1719.0
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/495667/placa-mae-msi-mag-b760-tomahawk-wifi-intel-lga-1700-atx-12-13-14-geracoes-ddr5-bluetooth-911-7d96-013?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793363745_b3e937354cdff197641bce1a31c35fca&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F495667%2Fplaca-mae-msi-mag-b760-tomahawk-wifi-intel-lga-1700-atx-12-13-14-geracoes-ddr5-bluetooth-911-7d96-013",
       "has_affiliate": true,
       "current_price": 1699.0,
       "min_price": 1699.0,
@@ -122,6 +170,30 @@
         },
         {
           "date": "2026-10-30",
+          "price": 1699.0
+        },
+        {
+          "date": "2026-10-31",
+          "price": 1699.0
+        },
+        {
+          "date": "2026-11-01",
+          "price": 1699.0
+        },
+        {
+          "date": "2026-11-02",
+          "price": 1699.0
+        },
+        {
+          "date": "2026-11-03",
+          "price": 1699.0
+        },
+        {
+          "date": "2026-11-04",
+          "price": 1699.0
+        },
+        {
+          "date": "2026-11-05",
           "price": 1699.0
         }
       ]

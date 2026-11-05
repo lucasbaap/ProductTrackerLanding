@@ -11,7 +11,7 @@
       "label": "Mercado Livre",
       "link": "https://www.mercadolivre.com.br/p/MLB62060928?matt_word=balu1353476&matt_tool=29239275",
       "has_affiliate": true,
-      "current_price": 899.89,
+      "current_price": 999.0,
       "min_price": 889.0,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -39,6 +39,30 @@
         {
           "date": "2026-10-30",
           "price": 899.89
+        },
+        {
+          "date": "2026-10-31",
+          "price": 999.0
+        },
+        {
+          "date": "2026-11-01",
+          "price": 999.0
+        },
+        {
+          "date": "2026-11-02",
+          "price": 999.0
+        },
+        {
+          "date": "2026-11-03",
+          "price": 999.0
+        },
+        {
+          "date": "2026-11-04",
+          "price": 999.0
+        },
+        {
+          "date": "2026-11-05",
+          "price": 999.0
         }
       ]
     },
@@ -79,6 +103,30 @@
         {
           "date": "2026-10-30",
           "price": 889.0
+        },
+        {
+          "date": "2026-10-31",
+          "price": 844.55
+        },
+        {
+          "date": "2026-11-01",
+          "price": 889.0
+        },
+        {
+          "date": "2026-11-02",
+          "price": 889.0
+        },
+        {
+          "date": "2026-11-03",
+          "price": 889.0
+        },
+        {
+          "date": "2026-11-04",
+          "price": 889.0
+        },
+        {
+          "date": "2026-11-05",
+          "price": 889.0
         }
       ]
     },
@@ -87,7 +135,7 @@
       "label": "AliExpress",
       "link": "https://www.aliexpress.com/item/1005006272586809.html",
       "has_affiliate": true,
-      "current_price": 475.84,
+      "current_price": 478.99,
       "min_price": 435.99,
       "min_price_at": "2026-10-27",
       "monitored_since": "2026-10-24",
@@ -119,13 +167,37 @@
         {
           "date": "2026-10-30",
           "price": 475.84
+        },
+        {
+          "date": "2026-10-31",
+          "price": 475.84
+        },
+        {
+          "date": "2026-11-01",
+          "price": 475.84
+        },
+        {
+          "date": "2026-11-02",
+          "price": 476.42
+        },
+        {
+          "date": "2026-11-03",
+          "price": 476.42
+        },
+        {
+          "date": "2026-11-04",
+          "price": 478.99
+        },
+        {
+          "date": "2026-11-05",
+          "price": 478.99
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/904676/ssd-sandisk-plus-sata-1tb-leitura-545mb-s-gravacao-515mb-s-sdssda-1t00-g28?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793362821_b3eb302948350ebf6b3796dfe9f6776e&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F904676%2Fssd-sandisk-plus-sata-1tb-leitura-545mb-s-gravacao-515mb-s-sdssda-1t00-g28",
       "has_affiliate": true,
       "current_price": 1599.99,
       "min_price": 1599.99,
@@ -158,6 +230,30 @@
         },
         {
           "date": "2026-10-30",
+          "price": 1599.99
+        },
+        {
+          "date": "2026-10-31",
+          "price": 1599.99
+        },
+        {
+          "date": "2026-11-01",
+          "price": 1599.99
+        },
+        {
+          "date": "2026-11-02",
+          "price": 1759.9
+        },
+        {
+          "date": "2026-11-03",
+          "price": 1599.99
+        },
+        {
+          "date": "2026-11-04",
+          "price": 1599.99
+        },
+        {
+          "date": "2026-11-05",
           "price": 1599.99
         }
       ]

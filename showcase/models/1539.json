@@ -43,6 +43,30 @@
         {
           "date": "2026-10-30",
           "price": 5700.0
+        },
+        {
+          "date": "2026-10-31",
+          "price": 5700.0
+        },
+        {
+          "date": "2026-11-01",
+          "price": 5700.0
+        },
+        {
+          "date": "2026-11-02",
+          "price": 5700.0
+        },
+        {
+          "date": "2026-11-03",
+          "price": 5700.0
+        },
+        {
+          "date": "2026-11-04",
+          "price": 5700.0
+        },
+        {
+          "date": "2026-11-05",
+          "price": 5700.0
         }
       ]
     },
@@ -51,7 +75,7 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/dp/B0C91X5DZL?tag=producttra043-20",
       "has_affiliate": true,
-      "current_price": 2956.99,
+      "current_price": 3009.66,
       "min_price": 2799.0,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -83,6 +107,30 @@
         {
           "date": "2026-10-30",
           "price": 2956.99
+        },
+        {
+          "date": "2026-10-31",
+          "price": 2956.99
+        },
+        {
+          "date": "2026-11-01",
+          "price": 2956.99
+        },
+        {
+          "date": "2026-11-02",
+          "price": 2956.99
+        },
+        {
+          "date": "2026-11-03",
+          "price": 2956.99
+        },
+        {
+          "date": "2026-11-04",
+          "price": 2956.99
+        },
+        {
+          "date": "2026-11-05",
+          "price": 3009.66
         }
       ]
     },
@@ -91,7 +139,7 @@
       "label": "AliExpress",
       "link": "https://www.aliexpress.com/item/1005009445384546.html",
       "has_affiliate": true,
-      "current_price": 754.63,
+      "current_price": 761.95,
       "min_price": 751.6,
       "min_price_at": "2026-10-29",
       "monitored_since": "2026-10-24",
@@ -123,6 +171,30 @@
         {
           "date": "2026-10-30",
           "price": 754.63
+        },
+        {
+          "date": "2026-10-31",
+          "price": 766.99
+        },
+        {
+          "date": "2026-11-01",
+          "price": 756.58
+        },
+        {
+          "date": "2026-11-02",
+          "price": 756.58
+        },
+        {
+          "date": "2026-11-03",
+          "price": 757.51
+        },
+        {
+          "date": "2026-11-04",
+          "price": 761.95
+        },
+        {
+          "date": "2026-11-05",
+          "price": 761.95
         }
       ]
     }

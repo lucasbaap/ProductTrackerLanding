@@ -11,9 +11,9 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/ASRock-Z890-Legend-LGA1851RL-ILM-Thunderbolt/dp/B0DJHLSY68?tag=producttra043-20",
       "has_affiliate": true,
-      "current_price": 1933.0,
-      "min_price": 1866.0,
-      "min_price_at": "2026-10-24",
+      "current_price": 2199.0,
+      "min_price": 1731.0,
+      "min_price_at": "2026-11-03",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -43,13 +43,37 @@
         {
           "date": "2026-10-30",
           "price": 1933.0
+        },
+        {
+          "date": "2026-10-31",
+          "price": 1933.0
+        },
+        {
+          "date": "2026-11-01",
+          "price": 1933.0
+        },
+        {
+          "date": "2026-11-02",
+          "price": 1933.0
+        },
+        {
+          "date": "2026-11-03",
+          "price": 1731.0
+        },
+        {
+          "date": "2026-11-04",
+          "price": 2199.0
+        },
+        {
+          "date": "2026-11-05",
+          "price": 2199.0
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/894444/placa-mae-asrock-z890-steel-legend-wifi-intel-lga-1851-atx-wf-blt-ddr5-z890-steel-legend-wifi?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793368185_5d662316148c5b301880c66bda8f81a3&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F894444%2Fplaca-mae-asrock-z890-steel-legend-wifi-intel-lga-1851-atx-wf-blt-ddr5-z890-steel-legend-wifi",
       "has_affiliate": true,
       "current_price": 2481.6,
       "min_price": 2481.6,
@@ -82,6 +106,30 @@
         },
         {
           "date": "2026-10-30",
+          "price": 2481.6
+        },
+        {
+          "date": "2026-10-31",
+          "price": 2481.6
+        },
+        {
+          "date": "2026-11-01",
+          "price": 2481.6
+        },
+        {
+          "date": "2026-11-02",
+          "price": 2481.6
+        },
+        {
+          "date": "2026-11-03",
+          "price": 2481.6
+        },
+        {
+          "date": "2026-11-04",
+          "price": 2481.6
+        },
+        {
+          "date": "2026-11-05",
           "price": 2481.6
         }
       ]
@@ -122,6 +170,30 @@
         },
         {
           "date": "2026-10-30",
+          "price": 2705.87
+        },
+        {
+          "date": "2026-10-31",
+          "price": 2705.87
+        },
+        {
+          "date": "2026-11-01",
+          "price": 2705.87
+        },
+        {
+          "date": "2026-11-02",
+          "price": 2705.87
+        },
+        {
+          "date": "2026-11-03",
+          "price": 2705.87
+        },
+        {
+          "date": "2026-11-04",
+          "price": 2705.87
+        },
+        {
+          "date": "2026-11-05",
           "price": 2705.87
         }
       ]

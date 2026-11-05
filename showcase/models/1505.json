@@ -9,7 +9,7 @@
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/480530/memoria-ram-kingston-fury-beast-rgb-32gb-2x16gb-3200mhz-ddr4-cl16-preto-kf432c16bb12ak2-32?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793362812_6764e3c90a6dd9784d03bb10c72905f6&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F480530%2Fmemoria-ram-kingston-fury-beast-rgb-32gb-2x16gb-3200mhz-ddr4-cl16-preto-kf432c16bb12ak2-32",
       "has_affiliate": true,
       "current_price": 3489.99,
       "min_price": 3489.99,
@@ -42,6 +42,30 @@
         },
         {
           "date": "2026-10-30",
+          "price": 3489.99
+        },
+        {
+          "date": "2026-10-31",
+          "price": 3489.99
+        },
+        {
+          "date": "2026-11-01",
+          "price": 3489.99
+        },
+        {
+          "date": "2026-11-02",
+          "price": 3489.99
+        },
+        {
+          "date": "2026-11-03",
+          "price": 3489.99
+        },
+        {
+          "date": "2026-11-04",
+          "price": 3489.99
+        },
+        {
+          "date": "2026-11-05",
           "price": 3489.99
         }
       ]
@@ -82,6 +106,30 @@
         },
         {
           "date": "2026-10-30",
+          "price": 4105.87
+        },
+        {
+          "date": "2026-10-31",
+          "price": 4105.87
+        },
+        {
+          "date": "2026-11-01",
+          "price": 4105.87
+        },
+        {
+          "date": "2026-11-02",
+          "price": 4105.87
+        },
+        {
+          "date": "2026-11-03",
+          "price": 4105.87
+        },
+        {
+          "date": "2026-11-04",
+          "price": 4105.87
+        },
+        {
+          "date": "2026-11-05",
           "price": 4105.87
         }
       ]

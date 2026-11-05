@@ -43,6 +43,30 @@
         {
           "date": "2026-10-30",
           "price": 1475.33
+        },
+        {
+          "date": "2026-10-31",
+          "price": 1475.33
+        },
+        {
+          "date": "2026-11-01",
+          "price": 1475.33
+        },
+        {
+          "date": "2026-11-02",
+          "price": 1475.33
+        },
+        {
+          "date": "2026-11-03",
+          "price": 1475.33
+        },
+        {
+          "date": "2026-11-04",
+          "price": 1475.33
+        },
+        {
+          "date": "2026-11-05",
+          "price": 1475.33
         }
       ]
     },
@@ -51,9 +75,9 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/dp/B0GV7HW854?tag=producttra043-20",
       "has_affiliate": true,
-      "current_price": 1645.34,
-      "min_price": 1645.34,
-      "min_price_at": "2026-10-27",
+      "current_price": 1526.37,
+      "min_price": 1526.37,
+      "min_price_at": "2026-10-31",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -83,13 +107,37 @@
         {
           "date": "2026-10-30",
           "price": 1645.34
+        },
+        {
+          "date": "2026-10-31",
+          "price": 1526.37
+        },
+        {
+          "date": "2026-11-01",
+          "price": 1526.37
+        },
+        {
+          "date": "2026-11-02",
+          "price": 1526.37
+        },
+        {
+          "date": "2026-11-03",
+          "price": 1526.37
+        },
+        {
+          "date": "2026-11-04",
+          "price": 1526.37
+        },
+        {
+          "date": "2026-11-05",
+          "price": 1526.37
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/1026650/processador-intel-core-ultra-5-250kf-4-2ghz-5-3ghz-turbo-cache-30mb-18-nucleos-18-threads-lga-1851-sem-video-integrado-bx80768250kf?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793367111_d4a06f8554e4431603949422119a7a5a&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F1026650%2Fprocessador-intel-core-ultra-5-250kf-4-2ghz-5-3ghz-turbo-cache-30mb-18-nucleos-18-threads-lga-1851-sem-video-integrado-bx80768250kf",
       "has_affiliate": true,
       "current_price": 1299.99,
       "min_price": 1299.99,
@@ -123,6 +171,30 @@
         {
           "date": "2026-10-30",
           "price": 1299.99
+        },
+        {
+          "date": "2026-10-31",
+          "price": 1299.99
+        },
+        {
+          "date": "2026-11-01",
+          "price": 1299.99
+        },
+        {
+          "date": "2026-11-02",
+          "price": 1299.99
+        },
+        {
+          "date": "2026-11-03",
+          "price": 1299.99
+        },
+        {
+          "date": "2026-11-04",
+          "price": 1299.99
+        },
+        {
+          "date": "2026-11-05",
+          "price": 1299.99
         }
       ]
     },
@@ -131,7 +203,7 @@
       "label": "Pichau",
       "link": "https://www.pichau.com.br/processador-intel-core-ultra-5-250kf-plus-18-core-18-threads-4-2ghz-5-3ghz-turbo-cache-30mb-lga1851-bx80768250kf",
       "has_affiliate": true,
-      "current_price": 1435.28,
+      "current_price": 1505.87,
       "min_price": 1435.28,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -163,6 +235,30 @@
         {
           "date": "2026-10-30",
           "price": 1435.28
+        },
+        {
+          "date": "2026-10-31",
+          "price": 1435.28
+        },
+        {
+          "date": "2026-11-01",
+          "price": 1435.28
+        },
+        {
+          "date": "2026-11-02",
+          "price": 1435.28
+        },
+        {
+          "date": "2026-11-03",
+          "price": 1435.28
+        },
+        {
+          "date": "2026-11-04",
+          "price": 1435.28
+        },
+        {
+          "date": "2026-11-05",
+          "price": 1505.87
         }
       ]
     },
@@ -172,8 +268,8 @@
       "link": "https://www.terabyteshop.com.br/produto/40734/processador-intel-core-ultra-5-250kf-plus-otimizado-para-ia-53ghz-turbo-18-cores-18-threads-lga-1851-bx80768250kf",
       "has_affiliate": true,
       "current_price": 1529.4,
-      "min_price": 1529.4,
-      "min_price_at": "2026-10-24",
+      "min_price": 1329.4,
+      "min_price_at": "2026-10-31",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -202,6 +298,30 @@
         },
         {
           "date": "2026-10-30",
+          "price": 1529.4
+        },
+        {
+          "date": "2026-10-31",
+          "price": 1329.4
+        },
+        {
+          "date": "2026-11-01",
+          "price": 1329.4
+        },
+        {
+          "date": "2026-11-02",
+          "price": 2435.28
+        },
+        {
+          "date": "2026-11-03",
+          "price": 1529.4
+        },
+        {
+          "date": "2026-11-04",
+          "price": 1529.4
+        },
+        {
+          "date": "2026-11-05",
           "price": 1529.4
         }
       ]

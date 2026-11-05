@@ -9,7 +9,7 @@
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/378413/processador-amd-ryzen-7-7700x-4-5ghz-5-4ghz-max-turbo-cache-40mb-8-nucleos-16-threads-am5-com-video-integrado-100-100000591wof?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793347781_b48930fa31e29a23b089373f37a2a2cc&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F378413%2Fprocessador-amd-ryzen-7-7700x-4-5ghz-5-4ghz-max-turbo-cache-40mb-8-nucleos-16-threads-am5-com-video-integrado-100-100000591wof",
       "has_affiliate": true,
       "current_price": 1899.99,
       "min_price": 1899.99,
@@ -43,6 +43,30 @@
         {
           "date": "2026-10-30",
           "price": 1899.99
+        },
+        {
+          "date": "2026-10-31",
+          "price": 1899.99
+        },
+        {
+          "date": "2026-11-01",
+          "price": 1899.99
+        },
+        {
+          "date": "2026-11-02",
+          "price": 1899.99
+        },
+        {
+          "date": "2026-11-03",
+          "price": 1899.99
+        },
+        {
+          "date": "2026-11-04",
+          "price": 1899.99
+        },
+        {
+          "date": "2026-11-05",
+          "price": 1899.99
         }
       ]
     },
@@ -51,9 +75,9 @@
       "label": "Pichau",
       "link": "https://www.pichau.com.br/processador-amd-ryzen-7-7700x-8-core-16-threads-4-5ghz-5-4ghz-turbo-cache-40mb-am5-100-100000591wof",
       "has_affiliate": true,
-      "current_price": 1941.17,
-      "min_price": 1941.17,
-      "min_price_at": "2026-10-30",
+      "current_price": 1941.16,
+      "min_price": 1941.16,
+      "min_price_at": "2026-11-05",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -83,6 +107,30 @@
         {
           "date": "2026-10-30",
           "price": 1941.17
+        },
+        {
+          "date": "2026-10-31",
+          "price": 1941.17
+        },
+        {
+          "date": "2026-11-01",
+          "price": 1941.17
+        },
+        {
+          "date": "2026-11-02",
+          "price": 1941.17
+        },
+        {
+          "date": "2026-11-03",
+          "price": 1941.17
+        },
+        {
+          "date": "2026-11-04",
+          "price": 1941.17
+        },
+        {
+          "date": "2026-11-05",
+          "price": 1941.16
         }
       ]
     },
@@ -92,8 +140,8 @@
       "link": "https://www.terabyteshop.com.br/produto/22264/processador-amd-ryzen-7-7700x-45ghz-54ghz-turbo-8-cores-16-threads-am5-100-100000591wof",
       "has_affiliate": true,
       "current_price": 2035.28,
-      "min_price": 1976.46,
-      "min_price_at": "2026-10-24",
+      "min_price": 1882.34,
+      "min_price_at": "2026-10-31",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -122,6 +170,30 @@
         },
         {
           "date": "2026-10-30",
+          "price": 2035.28
+        },
+        {
+          "date": "2026-10-31",
+          "price": 1882.34
+        },
+        {
+          "date": "2026-11-01",
+          "price": 1882.34
+        },
+        {
+          "date": "2026-11-02",
+          "price": 1882.34
+        },
+        {
+          "date": "2026-11-03",
+          "price": 2035.28
+        },
+        {
+          "date": "2026-11-04",
+          "price": 1882.34
+        },
+        {
+          "date": "2026-11-05",
           "price": 2035.28
         }
       ]
@@ -163,6 +235,30 @@
         {
           "date": "2026-10-30",
           "price": 1759.0
+        },
+        {
+          "date": "2026-10-31",
+          "price": 1882.34
+        },
+        {
+          "date": "2026-11-01",
+          "price": 1882.34
+        },
+        {
+          "date": "2026-11-02",
+          "price": 1882.34
+        },
+        {
+          "date": "2026-11-03",
+          "price": 1759.0
+        },
+        {
+          "date": "2026-11-04",
+          "price": 1882.34
+        },
+        {
+          "date": "2026-11-05",
+          "price": 1759.0
         }
       ]
     },
@@ -203,13 +299,37 @@
         {
           "date": "2026-10-30",
           "price": 1710.0
+        },
+        {
+          "date": "2026-10-31",
+          "price": 1710.0
+        },
+        {
+          "date": "2026-11-01",
+          "price": 1710.0
+        },
+        {
+          "date": "2026-11-02",
+          "price": 1710.0
+        },
+        {
+          "date": "2026-11-03",
+          "price": 1710.0
+        },
+        {
+          "date": "2026-11-04",
+          "price": 1710.0
+        },
+        {
+          "date": "2026-11-05",
+          "price": 1710.0
         }
       ]
     },
     {
       "marketplace": "shopee",
       "label": "Shopee",
-      "link": "https://s.shopee.com.br/8VA73XW5KH",
+      "link": "https://s.shopee.com.br/20wmpWLNOU",
       "has_affiliate": true,
       "current_price": 2209.99,
       "min_price": 2209.99,
@@ -243,15 +363,39 @@
         {
           "date": "2026-10-30",
           "price": 2209.99
+        },
+        {
+          "date": "2026-10-31",
+          "price": 2209.99
+        },
+        {
+          "date": "2026-11-01",
+          "price": 2209.99
+        },
+        {
+          "date": "2026-11-02",
+          "price": 2209.99
+        },
+        {
+          "date": "2026-11-03",
+          "price": 2209.99
+        },
+        {
+          "date": "2026-11-04",
+          "price": 2209.99
+        },
+        {
+          "date": "2026-11-05",
+          "price": 2209.99
         }
       ]
     },
     {
       "marketplace": "aliexpress",
       "label": "AliExpress",
-      "link": "https://s.click.aliexpress.com/s/NdpwztbAIgDMmxGbP8fFks7yUFfsHjzlImSYmA68h7xlMRgzueFsRgokQ9f9hcpVKttxtQE2VzIoqkXJXrpOr6uR3zv7mP4CDO9CddoFf4t0QE5DXPy8Pgjhz4irfQSEjEGUmy5yF3A5gJ9h3NYjLMgqIMqa3zcpq5E2BC3W5EbV40Dm9buQxWpZzw1lbX8Zm2kZtNIa4KyDieNjsH7IU6Yv8StELKVvT9r4eFAaXPGhwHsgaDqdNcmY116r3GC2YvmvR57S69fGyn8Tt4pCtmLccxQz3g0L1ZKu00BPwYOT3BF4QZOqRqMDB0DIcpzVKALHyIqFgC4EQJ4jjPZuXVFmDncUKiu3mUM2dOKMNlqYOECq9lgP4GtU5Np0JHypwGrOpVZRJfAczvhbDtcnZFYLE69LevNafPvOPWLnYiokCGYLXca4SIfpm1NeidWSCbDFjvWm9Ndfj2ln6X9VftF34KwGRJYvoEEH56BJXJeUtJC60Jnsatk9VUT888g6iHV9XQ2SWYLE6Oz7hvfgxoO74MZeBjNJOH3GS3Up80XE3tyD9FwujJtxc6i09fsYyQxrQN8givkEJJo76Fc22OHnYc7Z8sTCA8Mv353ajW8fgatAuTTb1RLbUaoPlGVAoH4iRZhhLlkAi1ltUszdaroCYrp9BLI0ea0CO8zO2zBRCePiRe772Z5xRxCPg9SdsURhx1Y1X72ZpYJ23joCnheSJ1zwfzxrVnEBC9CpSphC6BhZHHOo7KGegS5rUlqvT7Vg7gIH0SEOn9JLQwv32EhaBtsCdweOdmxfPMEqv1iudlnAsPK7Q6nH44I641J5db9IwEuv8InIIMdxqTadx2eRrr5pVusRCfwaJbiB8l4BaI6Xz61HNfJy3HUo2hHfmz5bg7CZ17jN5GwlBFfsHjbzSHbgv2oREYPGE6vqTMlKV7VOjagET88vWLPIy7biNqC7DfZe129JE8cixm4AKaqhVVVE1MEw0EiTsPiSe4Bm3",
+      "link": "https://s.click.aliexpress.com/s/NdpwztbAIgDMmxGbP8fFks7yUFfsHjzlImSYmA68h7xlMRgzueFsRgokQ9f9hcpVKttxtQE2VzIoqkXJXrpOr6uR3zv7mP4CDO9CddoFf4t0QE5DXPy8Pgjhz4irfQSEjEGUmy5yF3A5gJ9h3NYjLMgqIMqa3zcpq5E2BC3W5EbV40Dm9buQxWpZzw1lbX8Zm2kZtNIa4KyDieNjsH7IU6Yv8StELKVvT9r4eFAaXPGhwHsgaDqdNcmY116r3GC2YvmvR57S69fGyn8Tt4pCtmLccxQz3g0L1ZKu00BPwYOT3BF4QZOqRqMDB0DIcpzVKALHyIqFgC4EQJ4jjPZuXVFmDncUKiu3mUM2dOKMNlqYOECq9lgP4GtU5Np0JHypwGrOpVZRJfAczvhbDtcnZFYLE69LevNafPvOPWLnYiokCGYLXca4SIfpm1NeidWSCbDFjvWm9Ndfj2ln6X9VftF34KwGRJYvoEEH56BJXJeUtJC60Jnsatk9VUT888g6iHV9PQ8AO17vuYA5FekPzYuJFeYV4AluSOK7MlQamGYEUeW18tdBJkRDdWm3ctJuujaj6B4yk8yMLqByWDLO9yinzY37HKxB6kReK34BImfJxkWQD65oJvwbwofgqimmTev29UrZjxiscQsfDmriWEupjp7Yt3h5gomH5YGDJ721PPY4tecK0nqejl0yT8YiB2Y4UJdVpMnGi6z1h50D1BvMX1d2OfRqzGwUNqikJtH0D2tPmvIEyn2Gais6mbTHsEm7V9yvS4aBNLOM7wbg5B7s70ohgA7vgc9hGGLzmtxpOTWdpfXaXy8mExQZQ0VBVK55tAsXZT4khMcpfkUeOcS0RcBd18frjhVx2lR8ZeMuCSaCSrUYYWgwMVapcY9wAfEw1510jiSeVUZSyU1NGP0OoksrLEJAkLtFlvLP1bookkjLbbTx4WlNrPAfscgDRBCeStYdxuxXRZfKeqh8yZUWnkHNAzGIGgDBBOaJNKz2T",
       "has_affiliate": true,
-      "current_price": 1719.24,
+      "current_price": 1757.26,
       "min_price": 1600.25,
       "min_price_at": "2026-10-27",
       "monitored_since": "2026-10-24",
@@ -283,6 +427,30 @@
         {
           "date": "2026-10-30",
           "price": 1719.24
+        },
+        {
+          "date": "2026-10-31",
+          "price": 1749.73
+        },
+        {
+          "date": "2026-11-01",
+          "price": 1749.34
+        },
+        {
+          "date": "2026-11-02",
+          "price": 1749.34
+        },
+        {
+          "date": "2026-11-03",
+          "price": 1753.49
+        },
+        {
+          "date": "2026-11-04",
+          "price": 1764.18
+        },
+        {
+          "date": "2026-11-05",
+          "price": 1757.26
         }
       ]
     }

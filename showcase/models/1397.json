@@ -43,6 +43,30 @@
         {
           "date": "2026-10-30",
           "price": 11999.0
+        },
+        {
+          "date": "2026-10-31",
+          "price": 11999.0
+        },
+        {
+          "date": "2026-11-01",
+          "price": 11999.0
+        },
+        {
+          "date": "2026-11-02",
+          "price": 11999.0
+        },
+        {
+          "date": "2026-11-03",
+          "price": 11999.0
+        },
+        {
+          "date": "2026-11-04",
+          "price": 11999.0
+        },
+        {
+          "date": "2026-11-05",
+          "price": 11999.0
         }
       ]
     },
@@ -51,7 +75,7 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/dp/B0HJB6FZGB?tag=producttra043-20",
       "has_affiliate": true,
-      "current_price": 11399.05,
+      "current_price": 11444.43,
       "min_price": 10259.14,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -83,17 +107,41 @@
         {
           "date": "2026-10-30",
           "price": 11399.05
+        },
+        {
+          "date": "2026-10-31",
+          "price": 11399.05
+        },
+        {
+          "date": "2026-11-01",
+          "price": 11459.72
+        },
+        {
+          "date": "2026-11-02",
+          "price": 11459.72
+        },
+        {
+          "date": "2026-11-03",
+          "price": 11459.72
+        },
+        {
+          "date": "2026-11-04",
+          "price": 11459.72
+        },
+        {
+          "date": "2026-11-05",
+          "price": 11444.43
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/1075500/iphone-18-pro-256gb-preto?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793348747_93e47f76a1fd7a3ed269d87197675080&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F1075500%2Fiphone-18-pro-256gb-preto",
       "has_affiliate": true,
-      "current_price": 10599.0,
-      "min_price": 10599.0,
-      "min_price_at": "2026-10-24",
+      "current_price": 10439.1,
+      "min_price": 10439.1,
+      "min_price_at": "2026-11-04",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -123,6 +171,30 @@
         {
           "date": "2026-10-30",
           "price": 10599.0
+        },
+        {
+          "date": "2026-10-31",
+          "price": 10799.1
+        },
+        {
+          "date": "2026-11-01",
+          "price": 10799.1
+        },
+        {
+          "date": "2026-11-02",
+          "price": 10799.1
+        },
+        {
+          "date": "2026-11-03",
+          "price": 10799.1
+        },
+        {
+          "date": "2026-11-04",
+          "price": 10439.1
+        },
+        {
+          "date": "2026-11-05",
+          "price": 10439.1
         }
       ]
     }

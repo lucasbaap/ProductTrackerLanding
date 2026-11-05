@@ -11,9 +11,9 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/dp/B0GZQX7CBJ?tag=producttra043-20",
       "has_affiliate": true,
-      "current_price": 1776.67,
-      "min_price": 1776.67,
-      "min_price_at": "2026-10-29",
+      "current_price": 1669.0,
+      "min_price": 1669.0,
+      "min_price_at": "2026-11-05",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -43,17 +43,41 @@
         {
           "date": "2026-10-30",
           "price": 1776.67
+        },
+        {
+          "date": "2026-10-31",
+          "price": 1776.67
+        },
+        {
+          "date": "2026-11-01",
+          "price": 1776.67
+        },
+        {
+          "date": "2026-11-02",
+          "price": 1776.67
+        },
+        {
+          "date": "2026-11-03",
+          "price": 1776.67
+        },
+        {
+          "date": "2026-11-04",
+          "price": 1776.67
+        },
+        {
+          "date": "2026-11-05",
+          "price": 1669.0
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/1050738/smartphone-motorola-moto-g-max-5g-256gb-azul-claro-24gb-8gb-ram-16gb-ram-boost-camera-200mp-e-tela-6-8-?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793186451_9b5baf55e7e1b5becd46af099ed4f31c&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F1050738%2Fsmartphone-motorola-moto-g-max-5g-256gb-azul-claro-24gb-8gb-ram-16gb-ram-boost-camera-200mp-e-tela-6-8-",
       "has_affiliate": true,
-      "current_price": 2465.25,
-      "min_price": 2465.25,
-      "min_price_at": "2026-10-24",
+      "current_price": 1999.0,
+      "min_price": 1999.0,
+      "min_price_at": "2026-11-03",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -83,6 +107,30 @@
         {
           "date": "2026-10-30",
           "price": 2465.25
+        },
+        {
+          "date": "2026-10-31",
+          "price": 2339.1
+        },
+        {
+          "date": "2026-11-01",
+          "price": 2339.1
+        },
+        {
+          "date": "2026-11-02",
+          "price": 2339.1
+        },
+        {
+          "date": "2026-11-03",
+          "price": 1999.0
+        },
+        {
+          "date": "2026-11-04",
+          "price": 1999.0
+        },
+        {
+          "date": "2026-11-05",
+          "price": 1999.0
         }
       ]
     }

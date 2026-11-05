@@ -11,7 +11,7 @@
       "label": "Mercado Livre",
       "link": "https://www.mercadolivre.com.br/p/MLB41975964?matt_word=balu1353476&matt_tool=29239275",
       "has_affiliate": true,
-      "current_price": 3322.21,
+      "current_price": 5308.81,
       "min_price": 3322.21,
       "min_price_at": "2026-10-29",
       "monitored_since": "2026-10-24",
@@ -43,6 +43,30 @@
         {
           "date": "2026-10-30",
           "price": 3322.21
+        },
+        {
+          "date": "2026-10-31",
+          "price": 4799.0
+        },
+        {
+          "date": "2026-11-01",
+          "price": 4799.0
+        },
+        {
+          "date": "2026-11-02",
+          "price": 4799.0
+        },
+        {
+          "date": "2026-11-03",
+          "price": 5122.85
+        },
+        {
+          "date": "2026-11-04",
+          "price": 4322.21
+        },
+        {
+          "date": "2026-11-05",
+          "price": 5308.81
         }
       ]
     },
@@ -51,7 +75,7 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/PlayStation-1000046552-Console-PlayStation%C2%AE5-Pro/dp/B0DH8J5YGH/ref=asc_df_B0DH8J5YGH?mcid=749fb56cd270307794fd8457199e7e8a&tag=producttra043-20&linkCode=df0&hvadid=709884105112&hvpos=&hvnetw=g&hvrand=2894965416453098005&hvpone=&hvptwo=&hvqmt=&hvdev=m&hvdvcmdl=&hvlocint=&hvlocphy=9101322&hvtargid=pla-2365514177910&psc=1&hvocijid=2894965416453098005-B0DH8J5YGH-&hvexpln=0&language=pt_BR",
       "has_affiliate": true,
-      "current_price": 7599.0,
+      "current_price": 7399.0,
       "min_price": 6585.56,
       "min_price_at": "2026-09-02",
       "monitored_since": "2026-08-29",
@@ -307,15 +331,39 @@
         {
           "date": "2026-10-30",
           "price": 7599.0
+        },
+        {
+          "date": "2026-10-31",
+          "price": 7599.0
+        },
+        {
+          "date": "2026-11-01",
+          "price": 7399.0
+        },
+        {
+          "date": "2026-11-02",
+          "price": 7399.0
+        },
+        {
+          "date": "2026-11-03",
+          "price": 7399.0
+        },
+        {
+          "date": "2026-11-04",
+          "price": 7399.0
+        },
+        {
+          "date": "2026-11-05",
+          "price": 7399.0
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/636960/console-playstation-5-pro-sony-ssd-2tb-com-controle-sem-fio-dualsense-branco-1000046552?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793347885_41f2be2819a22bf21e336263abf75b4a&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F636960%2Fconsole-playstation-5-pro-sony-ssd-2tb-com-controle-sem-fio-dualsense-branco-1000046552",
       "has_affiliate": true,
-      "current_price": 6991.08,
+      "current_price": 7399.0,
       "min_price": 6991.08,
       "min_price_at": "2026-10-28",
       "monitored_since": "2026-09-16",
@@ -459,6 +507,30 @@
         {
           "date": "2026-10-30",
           "price": 6991.08
+        },
+        {
+          "date": "2026-10-31",
+          "price": 6991.08
+        },
+        {
+          "date": "2026-11-01",
+          "price": 6991.08
+        },
+        {
+          "date": "2026-11-02",
+          "price": 7399.0
+        },
+        {
+          "date": "2026-11-03",
+          "price": 7399.0
+        },
+        {
+          "date": "2026-11-04",
+          "price": 7399.0
+        },
+        {
+          "date": "2026-11-05",
+          "price": 7399.0
         }
       ]
     }

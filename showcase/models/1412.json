@@ -11,7 +11,7 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/dp/B0GLTJ4MYM?tag=producttra043-20",
       "has_affiliate": true,
-      "current_price": 2564.05,
+      "current_price": 2699.0,
       "min_price": 2564.05,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -43,13 +43,37 @@
         {
           "date": "2026-10-30",
           "price": 2564.05
+        },
+        {
+          "date": "2026-10-31",
+          "price": 2699.0
+        },
+        {
+          "date": "2026-11-01",
+          "price": 2699.0
+        },
+        {
+          "date": "2026-11-02",
+          "price": 2699.0
+        },
+        {
+          "date": "2026-11-03",
+          "price": 2699.0
+        },
+        {
+          "date": "2026-11-04",
+          "price": 2699.0
+        },
+        {
+          "date": "2026-11-05",
+          "price": 2699.0
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/1012766/smartphone-motorola-edge-70-5g-256gb-bronze-green-24gb-8gb-ram-16gb-ram-boost-3-cameras-50mp-tela-de-6-7-?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793361808_9cbd09ee8526891bd5670856ec5f274b&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F1012766%2Fsmartphone-motorola-edge-70-5g-256gb-bronze-green-24gb-8gb-ram-16gb-ram-boost-3-cameras-50mp-tela-de-6-7-",
       "has_affiliate": true,
       "current_price": 2429.1,
       "min_price": 2429.1,
@@ -82,6 +106,30 @@
         },
         {
           "date": "2026-10-30",
+          "price": 2429.1
+        },
+        {
+          "date": "2026-10-31",
+          "price": 2429.1
+        },
+        {
+          "date": "2026-11-01",
+          "price": 2429.1
+        },
+        {
+          "date": "2026-11-02",
+          "price": 2429.1
+        },
+        {
+          "date": "2026-11-03",
+          "price": 2429.1
+        },
+        {
+          "date": "2026-11-04",
+          "price": 2429.1
+        },
+        {
+          "date": "2026-11-05",
           "price": 2429.1
         }
       ]

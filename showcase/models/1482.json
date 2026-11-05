@@ -11,9 +11,9 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/dp/B0DTRMDXJ5?tag=producttra043-20",
       "has_affiliate": true,
-      "current_price": 1002.0,
-      "min_price": 1002.0,
-      "min_price_at": "2026-10-30",
+      "current_price": 588.22,
+      "min_price": 588.22,
+      "min_price_at": "2026-11-05",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -43,17 +43,41 @@
         {
           "date": "2026-10-30",
           "price": 1002.0
+        },
+        {
+          "date": "2026-10-31",
+          "price": 1002.0
+        },
+        {
+          "date": "2026-11-01",
+          "price": 1002.0
+        },
+        {
+          "date": "2026-11-02",
+          "price": 1002.0
+        },
+        {
+          "date": "2026-11-03",
+          "price": 1002.0
+        },
+        {
+          "date": "2026-11-04",
+          "price": 1002.0
+        },
+        {
+          "date": "2026-11-05",
+          "price": 588.22
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/697000/processador-intel-core-ultra-5-225f-3-3ghz-4-9ghz-turbo-cache-20mb-10-nucleos-10-threads-lga-1851-sem-video-integrado-bx80768225f?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793349639_45746c5381eb6376396cd57c1fd2e791&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F697000%2Fprocessador-intel-core-ultra-5-225f-3-3ghz-4-9ghz-turbo-cache-20mb-10-nucleos-10-threads-lga-1851-sem-video-integrado-bx80768225f",
       "has_affiliate": true,
-      "current_price": 579.99,
-      "min_price": 579.99,
-      "min_price_at": "2026-10-24",
+      "current_price": 499.99,
+      "min_price": 499.99,
+      "min_price_at": "2026-11-05",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -83,6 +107,30 @@
         {
           "date": "2026-10-30",
           "price": 579.99
+        },
+        {
+          "date": "2026-10-31",
+          "price": 579.99
+        },
+        {
+          "date": "2026-11-01",
+          "price": 579.99
+        },
+        {
+          "date": "2026-11-02",
+          "price": 579.99
+        },
+        {
+          "date": "2026-11-03",
+          "price": 579.99
+        },
+        {
+          "date": "2026-11-04",
+          "price": 579.99
+        },
+        {
+          "date": "2026-11-05",
+          "price": 499.99
         }
       ]
     },
@@ -122,6 +170,30 @@
         },
         {
           "date": "2026-10-30",
+          "price": 682.34
+        },
+        {
+          "date": "2026-10-31",
+          "price": 682.34
+        },
+        {
+          "date": "2026-11-01",
+          "price": 682.34
+        },
+        {
+          "date": "2026-11-02",
+          "price": 682.34
+        },
+        {
+          "date": "2026-11-03",
+          "price": 682.34
+        },
+        {
+          "date": "2026-11-04",
+          "price": 682.34
+        },
+        {
+          "date": "2026-11-05",
           "price": 682.34
         }
       ]
@@ -163,6 +235,30 @@
         {
           "date": "2026-10-30",
           "price": 705.87
+        },
+        {
+          "date": "2026-10-31",
+          "price": 705.87
+        },
+        {
+          "date": "2026-11-01",
+          "price": 705.87
+        },
+        {
+          "date": "2026-11-02",
+          "price": 705.87
+        },
+        {
+          "date": "2026-11-03",
+          "price": 705.87
+        },
+        {
+          "date": "2026-11-04",
+          "price": 705.87
+        },
+        {
+          "date": "2026-11-05",
+          "price": 705.87
         }
       ]
     },
@@ -202,6 +298,30 @@
         },
         {
           "date": "2026-10-30",
+          "price": 1250.3
+        },
+        {
+          "date": "2026-10-31",
+          "price": 1250.3
+        },
+        {
+          "date": "2026-11-01",
+          "price": 1250.3
+        },
+        {
+          "date": "2026-11-02",
+          "price": 1250.3
+        },
+        {
+          "date": "2026-11-03",
+          "price": 1250.3
+        },
+        {
+          "date": "2026-11-04",
+          "price": 1250.3
+        },
+        {
+          "date": "2026-11-05",
           "price": 1250.3
         }
       ]

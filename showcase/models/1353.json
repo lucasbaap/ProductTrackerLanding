@@ -11,7 +11,7 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/dp/B0GKQTTCMM?th=1&tag=producttra043-20",
       "has_affiliate": true,
-      "current_price": 7099.0,
+      "current_price": 6749.09,
       "min_price": 6649.05,
       "min_price_at": "2026-10-22",
       "monitored_since": "2026-09-20",
@@ -179,13 +179,37 @@
         {
           "date": "2026-10-30",
           "price": 7099.0
+        },
+        {
+          "date": "2026-10-31",
+          "price": 7099.0
+        },
+        {
+          "date": "2026-11-01",
+          "price": 7099.0
+        },
+        {
+          "date": "2026-11-02",
+          "price": 7199.0
+        },
+        {
+          "date": "2026-11-03",
+          "price": 7099.0
+        },
+        {
+          "date": "2026-11-04",
+          "price": 7199.0
+        },
+        {
+          "date": "2026-11-05",
+          "price": 6749.09
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/1007598/smartphone-samsung-galaxy-s26-ultra-5g-256gb-preto-12gb-ram?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793349627_bc1f2ff97923b0fe856b69bd90057ff7&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F1007598%2Fsmartphone-samsung-galaxy-s26-ultra-5g-256gb-preto-12gb-ram",
       "has_affiliate": true,
       "current_price": 11789.1,
       "min_price": 11789.1,
@@ -218,6 +242,30 @@
         },
         {
           "date": "2026-10-30",
+          "price": 11789.1
+        },
+        {
+          "date": "2026-10-31",
+          "price": 11789.1
+        },
+        {
+          "date": "2026-11-01",
+          "price": 11789.1
+        },
+        {
+          "date": "2026-11-02",
+          "price": 11789.1
+        },
+        {
+          "date": "2026-11-03",
+          "price": 11789.1
+        },
+        {
+          "date": "2026-11-04",
+          "price": 11789.1
+        },
+        {
+          "date": "2026-11-05",
           "price": 11789.1
         }
       ]

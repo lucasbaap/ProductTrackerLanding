@@ -11,9 +11,9 @@
       "label": "Mercado Livre",
       "link": "https://www.mercadolivre.com.br/p/MLB17921779?matt_word=balu1353476&matt_tool=29239275",
       "has_affiliate": true,
-      "current_price": 1872.5,
-      "min_price": 1872.5,
-      "min_price_at": "2026-10-26",
+      "current_price": 1600.0,
+      "min_price": 1600.0,
+      "min_price_at": "2026-11-04",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -43,6 +43,30 @@
         {
           "date": "2026-10-30",
           "price": 1872.5
+        },
+        {
+          "date": "2026-10-31",
+          "price": 1872.5
+        },
+        {
+          "date": "2026-11-01",
+          "price": 1872.5
+        },
+        {
+          "date": "2026-11-02",
+          "price": 1998.0
+        },
+        {
+          "date": "2026-11-03",
+          "price": 1852.0
+        },
+        {
+          "date": "2026-11-04",
+          "price": 1600.0
+        },
+        {
+          "date": "2026-11-05",
+          "price": 1600.0
         }
       ]
     },
@@ -83,15 +107,39 @@
         {
           "date": "2026-10-30",
           "price": 1872.5
+        },
+        {
+          "date": "2026-10-31",
+          "price": 1872.5
+        },
+        {
+          "date": "2026-11-01",
+          "price": 1872.5
+        },
+        {
+          "date": "2026-11-02",
+          "price": 1872.5
+        },
+        {
+          "date": "2026-11-03",
+          "price": 1872.5
+        },
+        {
+          "date": "2026-11-04",
+          "price": 1872.5
+        },
+        {
+          "date": "2026-11-05",
+          "price": 1872.5
         }
       ]
     },
     {
       "marketplace": "aliexpress",
       "label": "AliExpress",
-      "link": "https://s.click.aliexpress.com/s/fwx308cRD9Eny963e3KDdYxyIpNj8TXVr7saiF9Um5rMUg1kZtJALLnfa2LNXtiVgnxdD8Og6MmvwBoxhnSYQGM6r0c08U4TfX8DFGo7vviCuu3q62Q60OAhRZcqm3G8PtwM69xY7TOEWRrvulP5ukZQ4uQbBBtaVsdr6EffAqVmp3O5GyUANU2DoA3dJufNhDfh7KOlLgKIvRVhDxRESHLmea6fTE26gLUqKEUuuizJiLENrCbax94DZHDu8WhaXMN8fDE1HOLt4j1KZUcj471WKjwUetlj4ZWgS3yWx6lzuERHNTI3Zmy1QdFuzv60ycglALHOQPfhmhbDqj1lO89BklqNagahO1nCmM9kA9oJ3ykWfVSOwLWHrV9ubGLc4FxvaX3S6aYcf6AIAUIDIlSaacFW41YU2pXjS79nsTSnxGoLh6rNLfP7QnB5R3eiKuTDvtFCTv1OwmKpBQ9X0gUhVbwNmLZLpcnPrd6iqE14fSCvjKSVZYm5pTd9ME0z1aFRhabU6Z2OLJTlmU4RTmo2FCLMUgVAdkbx8115fFIeSOJZnWj4a5rFkxstTaPK4SQy2JUiqbxR9rzO0FmhSpmhIH4gRuP5KDuLkfQtV9R4m9qEUAUP0gUaZYHuVEIq4RyMRZE4NOYmhSBQiotvSz09MVNMmGPomkldv8WhzY1aPStlMAoP0Q8yM3gwmRjFkiMfFrLs5sMLD3qzpnjxWmgXFWnRwkHsa2akXb9lKwNR5yYKCfTVS1aWakl0q8KcE1RnavcluUtnl7QxP4p9Cw8c2y1P8AxCIbACfNgUSoABeNJooO1iFeYKb3KQRUHAUplIrjYUZNT4rcPSefTxsDV4QDlan1MHOHzBiabsFbDKwKDJzGa2v6shVRrFg159Osi1suzdNWJsjICdiOuApEvcjqUttxtKsXlOuFTck74TzYLkaknKlFqyEqBv1CPbhqiQcUYQ1ecB9vgPWj",
+      "link": "https://s.click.aliexpress.com/s/fwx308cRD9Eny963e3KDdYxyIpNj8TXVr7saiF9Um5rMUg1kZtJALLnfa2LNXtiVgnxdD8Og6MmvwBoxhnSYQGM6r0c08U4TfX8DFGo7vviCuu3q62Q60OAhRZcqm3G8PtwM69xY7TOEWRrvulP5ukZQ4uQbBBtaVsdr6EffAqVmp3O5GyUANU2DoA3dJufNhDfh7KOlLgKIvRVhDxRESHLmea6fTE26gLUqKEUuuizJiLENrCbax94DZHDu8WhaXMN8fDE1HOLt4j1KZUcj471WKjwUetlj4ZWgS3yWx6lzuERHNTI3Zmy1QdFuzv60ycglALHOQPfhmhbDqj1lO89BklqNagahO1nCmM9kA9oJ3ykWfVSOwLWHrV9ubGLc4FxvaX3S6aYcf6AIAUIDIlSaacFW41YU2pXjS79nsTSnxGoLh6rNLfP7QnB5R3eiKuTDvtFCTv1OwmKpBQ9X0gUhVbwNmLZLpcnPrd6iqE14fSCvjKSVZYm5pTd9ME0z1akaaZ0BE8sqmGmBLKr1AaLVwVLNvzUryxXrgt6CsW3IDHg1G0D172pMiJNysmo8aM2wC5R18Erpi5sFV7nDzUwfYLRmK1VcF6SruXfhfFZ4CgXFFJDdc0X6oV2LX3s264geF0p6bPvPwSUx3RvnWMSmpixMK7dzfs7UtjBnSbx4go5eUwueKoK0BtIvgou6dohl2njWXFHMvJgjx73GgCm9C29m9vvAF7TVpEUVIgi545lH62Io4L3TcuqdqY3w3Z3cI2gJKlmga5qEWM5ZVek6WYZgNFYuA6o75NzYmKwmi4h7COKSSY6JelZbeuuYEtgrPKUMw0bozBvS7gkaWOzNCaGyTwAqt0B55u2X2EA1roTbfd3SsYCf4lqEbT0NI6bnSnsHyAiLxz6jUHSdycnS7Au0kUkRBovQ6yUyXp02UbbSVVRnPoy01CjrOzQ0DIjUiBtddOYGVdm0pH",
       "has_affiliate": true,
-      "current_price": 311.41,
+      "current_price": 318.3,
       "min_price": 289.87,
       "min_price_at": "2026-10-27",
       "monitored_since": "2026-10-24",
@@ -123,13 +171,37 @@
         {
           "date": "2026-10-30",
           "price": 311.41
+        },
+        {
+          "date": "2026-10-31",
+          "price": 326.45
+        },
+        {
+          "date": "2026-11-01",
+          "price": 316.86
+        },
+        {
+          "date": "2026-11-02",
+          "price": 316.86
+        },
+        {
+          "date": "2026-11-03",
+          "price": 317.62
+        },
+        {
+          "date": "2026-11-04",
+          "price": 319.55
+        },
+        {
+          "date": "2026-11-05",
+          "price": 318.3
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/351998/ssd-samsung-870-evo-1tb-sata-mz-77e1t0b-am?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793364628_862fb7537c6c2bcb3e1ff2fac3cbd6a7&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F351998%2Fssd-samsung-870-evo-1tb-sata-mz-77e1t0b-am",
       "has_affiliate": true,
       "current_price": 1685.25,
       "min_price": 1685.25,
@@ -162,6 +234,30 @@
         },
         {
           "date": "2026-10-30",
+          "price": 1685.25
+        },
+        {
+          "date": "2026-10-31",
+          "price": 1685.25
+        },
+        {
+          "date": "2026-11-01",
+          "price": 1685.25
+        },
+        {
+          "date": "2026-11-02",
+          "price": 1685.25
+        },
+        {
+          "date": "2026-11-03",
+          "price": 1685.25
+        },
+        {
+          "date": "2026-11-04",
+          "price": 1685.25
+        },
+        {
+          "date": "2026-11-05",
           "price": 1685.25
         }
       ]

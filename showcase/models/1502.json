@@ -11,7 +11,7 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/dp/B097K2WBL3?tag=producttra043-20",
       "has_affiliate": true,
-      "current_price": 979.99,
+      "current_price": 989.99,
       "min_price": 845.0,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -43,13 +43,37 @@
         {
           "date": "2026-10-30",
           "price": 979.99
+        },
+        {
+          "date": "2026-10-31",
+          "price": 979.99
+        },
+        {
+          "date": "2026-11-01",
+          "price": 979.99
+        },
+        {
+          "date": "2026-11-02",
+          "price": 979.99
+        },
+        {
+          "date": "2026-11-03",
+          "price": 950.9
+        },
+        {
+          "date": "2026-11-04",
+          "price": 989.99
+        },
+        {
+          "date": "2026-11-05",
+          "price": 989.99
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/909720/kingston-kf432c16bbk2-16-kit-de-memorias-de-16gb-2-x-8gb-dimm-ddr4-3200mhz-fury-beast-black-1-35v-1rx8-288-pinos-pa?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793280493_66b172c4bb8c65ac422d3de1d644403f&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.kabum.com.br/produto/909720/kingston-kf432c16bbk2-16-kit-de-memorias-de-16gb-2-x-8gb-dimm-ddr4-3200mhz-fury-beast-black-1-35v-1rx8-288-pinos-pa?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793542605_da78be6336b87c946e04512bc5cc31bf&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
       "has_affiliate": true,
       "current_price": 1158.05,
       "min_price": 1158.05,
@@ -82,6 +106,18 @@
         },
         {
           "date": "2026-10-30",
+          "price": 1158.05
+        },
+        {
+          "date": "2026-10-31",
+          "price": 1158.05
+        },
+        {
+          "date": "2026-11-01",
+          "price": 1158.05
+        },
+        {
+          "date": "2026-11-02",
           "price": 1158.05
         }
       ]

@@ -43,17 +43,41 @@
         {
           "date": "2026-10-30",
           "price": 1351.08
+        },
+        {
+          "date": "2026-10-31",
+          "price": 1351.08
+        },
+        {
+          "date": "2026-11-01",
+          "price": 1351.08
+        },
+        {
+          "date": "2026-11-02",
+          "price": 1351.08
+        },
+        {
+          "date": "2026-11-03",
+          "price": 1351.08
+        },
+        {
+          "date": "2026-11-04",
+          "price": 1351.08
+        },
+        {
+          "date": "2026-11-05",
+          "price": 1351.08
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/523144/placa-mae-asus-tuf-gaming-b760m-plus-wifi-ii-intel-ddr5-preto-90mb1he0-m0eay0?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793358870_0fbbb58bf9996af7600bb72030d1d251&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F523144%2Fplaca-mae-asus-tuf-gaming-b760m-plus-wifi-ii-intel-ddr5-preto-90mb1he0-m0eay0",
       "has_affiliate": true,
-      "current_price": 1255.99,
-      "min_price": 1255.99,
-      "min_price_at": "2026-10-24",
+      "current_price": 879.99,
+      "min_price": 879.99,
+      "min_price_at": "2026-11-04",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -83,6 +107,30 @@
         {
           "date": "2026-10-30",
           "price": 1255.99
+        },
+        {
+          "date": "2026-10-31",
+          "price": 1255.99
+        },
+        {
+          "date": "2026-11-01",
+          "price": 1255.99
+        },
+        {
+          "date": "2026-11-02",
+          "price": 1255.99
+        },
+        {
+          "date": "2026-11-03",
+          "price": 1255.99
+        },
+        {
+          "date": "2026-11-04",
+          "price": 879.99
+        },
+        {
+          "date": "2026-11-05",
+          "price": 879.99
         }
       ]
     },
@@ -123,6 +171,30 @@
         {
           "date": "2026-10-30",
           "price": 1352.93
+        },
+        {
+          "date": "2026-10-31",
+          "price": 1352.93
+        },
+        {
+          "date": "2026-11-01",
+          "price": 1352.93
+        },
+        {
+          "date": "2026-11-02",
+          "price": 1352.93
+        },
+        {
+          "date": "2026-11-03",
+          "price": 1352.93
+        },
+        {
+          "date": "2026-11-04",
+          "price": 1352.93
+        },
+        {
+          "date": "2026-11-05",
+          "price": 1352.93
         }
       ]
     },
@@ -162,6 +234,30 @@
         },
         {
           "date": "2026-10-30",
+          "price": 1236.46
+        },
+        {
+          "date": "2026-10-31",
+          "price": 1236.46
+        },
+        {
+          "date": "2026-11-01",
+          "price": 1236.46
+        },
+        {
+          "date": "2026-11-02",
+          "price": 1236.46
+        },
+        {
+          "date": "2026-11-03",
+          "price": 1236.46
+        },
+        {
+          "date": "2026-11-04",
+          "price": 1236.46
+        },
+        {
+          "date": "2026-11-05",
           "price": 1236.46
         }
       ]

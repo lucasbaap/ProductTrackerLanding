@@ -11,7 +11,7 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/dp/B0HD116CHT?tag=producttra043-20",
       "has_affiliate": true,
-      "current_price": 6327.99,
+      "current_price": 6136.97,
       "min_price": 6113.14,
       "min_price_at": "2026-10-25",
       "monitored_since": "2026-10-24",
@@ -43,13 +43,37 @@
         {
           "date": "2026-10-30",
           "price": 6327.99
+        },
+        {
+          "date": "2026-10-31",
+          "price": 6327.99
+        },
+        {
+          "date": "2026-11-01",
+          "price": 6327.99
+        },
+        {
+          "date": "2026-11-02",
+          "price": 6327.99
+        },
+        {
+          "date": "2026-11-03",
+          "price": 6327.99
+        },
+        {
+          "date": "2026-11-04",
+          "price": 6136.97
+        },
+        {
+          "date": "2026-11-05",
+          "price": 6136.97
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/1065989/celular-samsung-galaxy-z-flip8-256gb-12gb-ram-preto-6-9-cam-dupla-50mp-o-flip-mais-leve-do-mundo?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793198758_dc02cfd5f73298442e15cccfd4ac50ad&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F1065989%2Fcelular-samsung-galaxy-z-flip8-256gb-12gb-ram-preto-6-9-cam-dupla-50mp-o-flip-mais-leve-do-mundo",
       "has_affiliate": true,
       "current_price": 7739.1,
       "min_price": 7739.1,
@@ -82,6 +106,30 @@
         },
         {
           "date": "2026-10-30",
+          "price": 7739.1
+        },
+        {
+          "date": "2026-10-31",
+          "price": 7739.1
+        },
+        {
+          "date": "2026-11-01",
+          "price": 7739.1
+        },
+        {
+          "date": "2026-11-02",
+          "price": 7739.1
+        },
+        {
+          "date": "2026-11-03",
+          "price": 7739.1
+        },
+        {
+          "date": "2026-11-04",
+          "price": 7739.1
+        },
+        {
+          "date": "2026-11-05",
           "price": 7739.1
         }
       ]

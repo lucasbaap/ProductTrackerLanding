@@ -27,9 +27,9 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/dp/B0DX2G349M?tag=producttra043-20",
       "has_affiliate": true,
-      "current_price": 1999.0,
-      "min_price": 1999.0,
-      "min_price_at": "2026-10-24",
+      "current_price": 1902.7,
+      "min_price": 1807.56,
+      "min_price_at": "2026-11-04",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -59,6 +59,30 @@
         {
           "date": "2026-10-30",
           "price": 1999.0
+        },
+        {
+          "date": "2026-10-31",
+          "price": 1999.0
+        },
+        {
+          "date": "2026-11-01",
+          "price": 1999.0
+        },
+        {
+          "date": "2026-11-02",
+          "price": 1999.0
+        },
+        {
+          "date": "2026-11-03",
+          "price": 2376.45
+        },
+        {
+          "date": "2026-11-04",
+          "price": 1807.56
+        },
+        {
+          "date": "2026-11-05",
+          "price": 1902.7
         }
       ]
     },
@@ -67,7 +91,7 @@
       "label": "AliExpress",
       "link": "https://www.aliexpress.com/item/1005009921672679.html",
       "has_affiliate": true,
-      "current_price": 1771.45,
+      "current_price": 1783.99,
       "min_price": 1623.99,
       "min_price_at": "2026-10-27",
       "monitored_since": "2026-10-24",
@@ -99,13 +123,37 @@
         {
           "date": "2026-10-30",
           "price": 1771.45
+        },
+        {
+          "date": "2026-10-31",
+          "price": 1771.45
+        },
+        {
+          "date": "2026-11-01",
+          "price": 1771.45
+        },
+        {
+          "date": "2026-11-02",
+          "price": 1771.45
+        },
+        {
+          "date": "2026-11-03",
+          "price": 1773.63
+        },
+        {
+          "date": "2026-11-04",
+          "price": 1790.47
+        },
+        {
+          "date": "2026-11-05",
+          "price": 1783.99
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/905491/ssd-m-2-nvme-gen5-1tb-14-700mb-s-samsung-9100-pro-1tb-pc-ps5-playstation-5-ssd-pcie-5-0-gen-5-mz-vap1t0bam?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793366226_38fa5bbfaca5c6295a2797a6813cb60e&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F905491%2Fssd-m-2-nvme-gen5-1tb-14-700mb-s-samsung-9100-pro-1tb-pc-ps5-playstation-5-ssd-pcie-5-0-gen-5-mz-vap1t0bam",
       "has_affiliate": true,
       "current_price": 2636.0,
       "min_price": 2395.0,
@@ -138,6 +186,30 @@
         },
         {
           "date": "2026-10-30",
+          "price": 2636.0
+        },
+        {
+          "date": "2026-10-31",
+          "price": 2636.0
+        },
+        {
+          "date": "2026-11-01",
+          "price": 2636.0
+        },
+        {
+          "date": "2026-11-02",
+          "price": 2636.0
+        },
+        {
+          "date": "2026-11-03",
+          "price": 2636.0
+        },
+        {
+          "date": "2026-11-04",
+          "price": 2636.0
+        },
+        {
+          "date": "2026-11-05",
           "price": 2636.0
         }
       ]

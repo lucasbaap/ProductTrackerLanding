@@ -11,9 +11,9 @@
       "label": "Mercado Livre",
       "link": "https://www.mercadolivre.com.br/p/MLB54963150?matt_word=balu1353476&matt_tool=29239275",
       "has_affiliate": true,
-      "current_price": 4299.0,
-      "min_price": 4299.0,
-      "min_price_at": "2026-10-24",
+      "current_price": 4199.0,
+      "min_price": 4199.0,
+      "min_price_at": "2026-11-01",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -43,6 +43,30 @@
         {
           "date": "2026-10-30",
           "price": 4299.0
+        },
+        {
+          "date": "2026-10-31",
+          "price": 4299.0
+        },
+        {
+          "date": "2026-11-01",
+          "price": 4199.0
+        },
+        {
+          "date": "2026-11-02",
+          "price": 4199.0
+        },
+        {
+          "date": "2026-11-03",
+          "price": 4199.0
+        },
+        {
+          "date": "2026-11-04",
+          "price": 4199.0
+        },
+        {
+          "date": "2026-11-05",
+          "price": 4199.0
         }
       ]
     },
@@ -83,13 +107,37 @@
         {
           "date": "2026-10-30",
           "price": 4999.0
+        },
+        {
+          "date": "2026-10-31",
+          "price": 4999.0
+        },
+        {
+          "date": "2026-11-01",
+          "price": 4999.0
+        },
+        {
+          "date": "2026-11-02",
+          "price": 4999.0
+        },
+        {
+          "date": "2026-11-03",
+          "price": 4999.0
+        },
+        {
+          "date": "2026-11-04",
+          "price": 4999.0
+        },
+        {
+          "date": "2026-11-05",
+          "price": 4999.0
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/1050570/console-sony-playstation-5-edicao-digital-slim-ssd-825gb-controle-dualsense-astro-s-playroom-branco-cfi-2114b?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793352288_fdaccdeabe7b6f447f28b44e9c40769f&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F1050570%2Fconsole-sony-playstation-5-edicao-digital-slim-ssd-825gb-controle-dualsense-astro-s-playroom-branco-cfi-2114b",
       "has_affiliate": true,
       "current_price": 4370.07,
       "min_price": 4370.07,
@@ -122,6 +170,30 @@
         },
         {
           "date": "2026-10-30",
+          "price": 4370.07
+        },
+        {
+          "date": "2026-10-31",
+          "price": 4370.07
+        },
+        {
+          "date": "2026-11-01",
+          "price": 4370.07
+        },
+        {
+          "date": "2026-11-02",
+          "price": 4370.07
+        },
+        {
+          "date": "2026-11-03",
+          "price": 4370.07
+        },
+        {
+          "date": "2026-11-04",
+          "price": 4370.07
+        },
+        {
+          "date": "2026-11-05",
           "price": 4370.07
         }
       ]
@@ -162,6 +234,30 @@
         },
         {
           "date": "2026-10-30",
+          "price": 5999.0
+        },
+        {
+          "date": "2026-10-31",
+          "price": 5999.0
+        },
+        {
+          "date": "2026-11-01",
+          "price": 5999.0
+        },
+        {
+          "date": "2026-11-02",
+          "price": 5999.0
+        },
+        {
+          "date": "2026-11-03",
+          "price": 5999.0
+        },
+        {
+          "date": "2026-11-04",
+          "price": 5999.0
+        },
+        {
+          "date": "2026-11-05",
           "price": 5999.0
         }
       ]

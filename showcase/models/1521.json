@@ -9,7 +9,7 @@
     {
       "marketplace": "shopee",
       "label": "Shopee",
-      "link": "https://s.shopee.com.br/9pfUnDXXKa",
+      "link": "https://s.shopee.com.br/W7yzbvS3b",
       "has_affiliate": true,
       "current_price": 1529.38,
       "min_price": 1529.38,
@@ -43,13 +43,37 @@
         {
           "date": "2026-10-30",
           "price": 1529.38
+        },
+        {
+          "date": "2026-10-31",
+          "price": 1529.38
+        },
+        {
+          "date": "2026-11-01",
+          "price": 1529.38
+        },
+        {
+          "date": "2026-11-02",
+          "price": 1529.38
+        },
+        {
+          "date": "2026-11-03",
+          "price": 1529.38
+        },
+        {
+          "date": "2026-11-04",
+          "price": 1529.38
+        },
+        {
+          "date": "2026-11-05",
+          "price": 1529.38
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/872628/ssd-sandisk-wd-green-sata-500gb-2-5-leitura-545mb-s-gravacao-430mb-s-wds500g5g0a?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793369063_97fd53f817737c11529d9e9d8095268f&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F872628%2Fssd-sandisk-wd-green-sata-500gb-2-5-leitura-545mb-s-gravacao-430mb-s-wds500g5g0a",
       "has_affiliate": true,
       "current_price": 599.99,
       "min_price": 599.99,
@@ -82,6 +106,30 @@
         },
         {
           "date": "2026-10-30",
+          "price": 599.99
+        },
+        {
+          "date": "2026-10-31",
+          "price": 599.99
+        },
+        {
+          "date": "2026-11-01",
+          "price": 599.99
+        },
+        {
+          "date": "2026-11-02",
+          "price": 599.99
+        },
+        {
+          "date": "2026-11-03",
+          "price": 599.99
+        },
+        {
+          "date": "2026-11-04",
+          "price": 599.99
+        },
+        {
+          "date": "2026-11-05",
           "price": 599.99
         }
       ]

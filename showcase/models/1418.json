@@ -67,6 +67,10 @@
         {
           "date": "2026-11-05",
           "price": 887.0
+        },
+        {
+          "date": "2026-11-06",
+          "price": 887.0
         }
       ]
     },
@@ -131,6 +135,10 @@
         {
           "date": "2026-11-05",
           "price": 887.0
+        },
+        {
+          "date": "2026-11-06",
+          "price": 887.0
         }
       ]
     },
@@ -139,9 +147,9 @@
       "label": "KaBuM!",
       "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F1007603%2Fsmartphone-motorola-moto-g17-128gb-roxo-12gb-4gb-ram-8gb-ram-boost-camera-50mp-e-tela-6-7-",
       "has_affiliate": true,
-      "current_price": 854.1,
-      "min_price": 854.1,
-      "min_price_at": "2026-11-04",
+      "current_price": 798.3,
+      "min_price": 798.3,
+      "min_price_at": "2026-11-06",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -195,6 +203,10 @@
         {
           "date": "2026-11-05",
           "price": 854.1
+        },
+        {
+          "date": "2026-11-06",
+          "price": 798.3
         }
       ]
     }

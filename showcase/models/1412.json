@@ -11,7 +11,7 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/dp/B0GLTJ4MYM?tag=producttra043-20",
       "has_affiliate": true,
-      "current_price": 2699.0,
+      "current_price": 2564.05,
       "min_price": 2564.05,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -67,6 +67,10 @@
         {
           "date": "2026-11-05",
           "price": 2699.0
+        },
+        {
+          "date": "2026-11-06",
+          "price": 2564.05
         }
       ]
     },
@@ -75,7 +79,7 @@
       "label": "KaBuM!",
       "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F1012766%2Fsmartphone-motorola-edge-70-5g-256gb-bronze-green-24gb-8gb-ram-16gb-ram-boost-3-cameras-50mp-tela-de-6-7-",
       "has_affiliate": true,
-      "current_price": 2429.1,
+      "current_price": 3438.05,
       "min_price": 2429.1,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -131,6 +135,10 @@
         {
           "date": "2026-11-05",
           "price": 2429.1
+        },
+        {
+          "date": "2026-11-06",
+          "price": 3438.05
         }
       ]
     }

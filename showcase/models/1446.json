@@ -67,6 +67,10 @@
         {
           "date": "2026-11-05",
           "price": 2853.9
+        },
+        {
+          "date": "2026-11-06",
+          "price": 2853.9
         }
       ]
     },
@@ -130,6 +134,10 @@
         },
         {
           "date": "2026-11-05",
+          "price": 2634.0
+        },
+        {
+          "date": "2026-11-06",
           "price": 2634.0
         }
       ]
@@ -195,6 +203,10 @@
         {
           "date": "2026-11-05",
           "price": 2684.55
+        },
+        {
+          "date": "2026-11-06",
+          "price": 2684.55
         }
       ]
     },
@@ -203,7 +215,7 @@
       "label": "Terabyte",
       "link": "https://www.terabyteshop.com.br/produto/32500/placa-mae-asus-tuf-gaming-z890-plus-wifi-chipset-z890-intel-lga-1851-atx-ddr5",
       "has_affiliate": true,
-      "current_price": 2941.16,
+      "current_price": 4294.11,
       "min_price": 2941.16,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -243,6 +255,10 @@
         {
           "date": "2026-11-02",
           "price": 2941.16
+        },
+        {
+          "date": "2026-11-06",
+          "price": 4294.11
         }
       ]
     },
@@ -251,7 +267,7 @@
       "label": "Pichau",
       "link": "https://www.pichau.com.br/placa-mae-asus-tuf-gaming-z890-plus-wifi-ddr5-lga1851-atx-chipset-intel-z890-tuf-gaming-z890-plus-wifi",
       "has_affiliate": true,
-      "current_price": 2905.87,
+      "current_price": 2823.52,
       "min_price": 2823.52,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -307,6 +323,10 @@
         {
           "date": "2026-11-05",
           "price": 2905.87
+        },
+        {
+          "date": "2026-11-06",
+          "price": 2823.52
         }
       ]
     }

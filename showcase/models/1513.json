@@ -67,6 +67,10 @@
         {
           "date": "2026-11-05",
           "price": 5399.0
+        },
+        {
+          "date": "2026-11-06",
+          "price": 5399.0
         }
       ]
     },
@@ -75,9 +79,9 @@
       "label": "Pichau",
       "link": "https://www.pichau.com.br/memoria-corsair-vengeance-32gb-2x16gb-ddr5-6000mhz-c30-preto-cmk32gx5m2b6000c30",
       "has_affiliate": true,
-      "current_price": 6470.58,
-      "min_price": 6470.58,
-      "min_price_at": "2026-10-24",
+      "current_price": 6352.93,
+      "min_price": 6352.93,
+      "min_price_at": "2026-11-06",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -131,6 +135,10 @@
         {
           "date": "2026-11-05",
           "price": 6470.58
+        },
+        {
+          "date": "2026-11-06",
+          "price": 6352.93
         }
       ]
     },
@@ -194,6 +202,10 @@
         },
         {
           "date": "2026-11-05",
+          "price": 5399.0
+        },
+        {
+          "date": "2026-11-06",
           "price": 5399.0
         }
       ]

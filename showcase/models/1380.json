@@ -11,7 +11,7 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/dp/B0DSYJCY45?ref=cm_sw_r_cso_cp_apan_ct_BV8ZR00FQV1XP53SR1P6&ref_=cm_sw_r_cso_cp_apan_ct_BV8ZR00FQV1XP53SR1P6&social_share=cm_sw_r_cso_cp_apan_ct_BV8ZR00FQV1XP53SR1P6&th=1&tag=producttra043-20",
       "has_affiliate": true,
-      "current_price": 5199.01,
+      "current_price": 5776.67,
       "min_price": 4873.78,
       "min_price_at": "2026-10-03",
       "monitored_since": "2026-09-24",
@@ -123,6 +123,10 @@
         {
           "date": "2026-11-05",
           "price": 5199.01
+        },
+        {
+          "date": "2026-11-06",
+          "price": 5776.67
         }
       ]
     },
@@ -131,7 +135,7 @@
       "label": "KaBuM!",
       "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F703062%2Fsmartphone-samsung-galaxy-s25-ultra-256gb-5g-titanio-azul-com-caneta-s-pen-galaxy-ai-camera-quadrupla-200mp-selfie-12mp-ram-12gb-tela-6-9-",
       "has_affiliate": true,
-      "current_price": 5579.1,
+      "current_price": 5759.1,
       "min_price": 5579.1,
       "min_price_at": "2026-11-02",
       "monitored_since": "2026-10-24",
@@ -187,13 +191,17 @@
         {
           "date": "2026-11-05",
           "price": 5579.1
+        },
+        {
+          "date": "2026-11-06",
+          "price": 5759.1
         }
       ]
     },
     {
       "marketplace": "shopee",
       "label": "Shopee",
-      "link": "https://s.shopee.com.br/LoZ3vSn4s",
+      "link": "https://s.shopee.com.br/5fq6mmd4tU",
       "has_affiliate": true,
       "current_price": 8887.78,
       "min_price": 8887.78,
@@ -250,6 +258,10 @@
         },
         {
           "date": "2026-11-05",
+          "price": 8887.78
+        },
+        {
+          "date": "2026-11-06",
           "price": 8887.78
         }
       ]

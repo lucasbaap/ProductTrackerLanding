@@ -67,6 +67,10 @@
         {
           "date": "2026-11-05",
           "price": 2399.98
+        },
+        {
+          "date": "2026-11-06",
+          "price": 2399.98
         }
       ]
     },
@@ -343,6 +347,10 @@
         {
           "date": "2026-11-05",
           "price": 749.99
+        },
+        {
+          "date": "2026-11-06",
+          "price": 749.99
         }
       ]
     },
@@ -351,7 +359,7 @@
       "label": "Pichau",
       "link": "https://www.pichau.com.br/processador-intel-core-ultra-5-245kf-14-core-14-threads-4-2ghz-5-2ghz-turbo-cache-24mb-lga1851-bx80768245kf",
       "has_affiliate": true,
-      "current_price": 1235.28,
+      "current_price": 882.34,
       "min_price": 882.34,
       "min_price_at": "2026-10-27",
       "monitored_since": "2026-09-17",
@@ -554,7 +562,11 @@
         },
         {
           "date": "2026-11-05",
-          "price": 1235.28
+          "price": 882.34
+        },
+        {
+          "date": "2026-11-06",
+          "price": 882.34
         }
       ]
     },
@@ -618,6 +630,10 @@
         },
         {
           "date": "2026-11-05",
+          "price": 1411.75
+        },
+        {
+          "date": "2026-11-06",
           "price": 1411.75
         }
       ]

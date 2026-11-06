@@ -67,15 +67,19 @@
         {
           "date": "2026-11-05",
           "price": 1832.18
+        },
+        {
+          "date": "2026-11-06",
+          "price": 1832.18
         }
       ]
     },
     {
       "marketplace": "aliexpress",
       "label": "AliExpress",
-      "link": "https://s.click.aliexpress.com/s/fwx308cRD9Eny963e3KDdYxyIpNj8TXVr7saiF9Um5rMUg1kZtJALLnfa2LNXtiVgnxdD8Og6MmvwBoxhnSYQGM6r0c08U4TfX8DFGo7vviCuu3q62Q60OAhRZcqm3G8PtwM69xY7TOEWRrvulP5ukZQ4uQbBBtaVsdr6EffAqVmp3O5GyUANU2DoA3dJufNhDfh7KOlLgKIvRVhDxRESHLmea6fTE26gLUqKEUuuizJiLENrCbax94DZHDu8WhaXMN8fDE1HOLt4j1KZUcj471WKjwUetlj4ZWgS3yWx6lzuERHNTI3Zmy1QdFvD0l5CGMrCHZlk71ZjQXrOO2WJnsyGqPVjwtGB8JidzbLxmaDHrfftjMhQbptxaPaFKbMG7wkkkvr0p3c8PdsP7WJxSLE8SGdJgeDREE3UXWEdazxk5lLaufVVBXYN2us2gV4lKLE0lmeXIqDgxpJgsAKwKs1HSr0KzRIt0bBNMRjLJ9R31RlDpqw8t16AuwmSO4UAO7SgaJLuN4FrS4iG0GLoc8lC9DcvyFUsNQrDPdxFWBIOJGuexakz52dm7f3u1DBEI2XtolN3czuVbitMw77xhm0CQ6nl4L2Cw4juKS2YlWWmI3PpzgnsUagUdbFFmVbMf3Z5ttfXQXYKeWuCQ3T8rZ0H8HM1ucRRI7MjJrY7enGfvUtymD8YhemqrcJg817At0hqOGyA44pPhuGUWWq8rlCG395j32tZzdzzldbvBGC47TfEONDMfK0yxBdspdEjexMPk7ZPybdcb7IjlHk0aOElEkKsVvQqMxjUI2FqtVn4W4OGm1Can2i82drWuA9o3u0rK1WrwKPbPskuJRTYQhS6VBT5EtdR26Z9yzg57obECwCfBNKnh81TaexVnKw9FXuBmOhn8T53QEuShwGD4QoKE9UqCdIA25AO1yuYrkz98zk6ZfzU4mr8gk0WTLjgE70vEhHcvfZYYw1tp",
+      "link": "https://s.click.aliexpress.com/s/fwx308cRD9Eny963e3KDdYxyIpNj8TXVr7saiF9Um5rMUg1kZtJALLnfa2LNXtiVgnxdD8Og6MmvwBoxhnSYQGM6r0c08U4TfX8DFGo7vviCuu3q62Q60OAhRZcqm3G8PtwM69xY7TOEWRrvulP5ukZQ4uQbBBtaVsdr6EffAqVmp3O5GyUANU2DoA3dJufNhDfh7KOlLgKIvRVhDxRESHLmea6fTE26gLUqKEUuuizJiLENrCbax94DZHDu8WhaXMN8fDE1HOLt4j1KZUcj471WKjwUetlj4ZWgS3yWx6lzuERHNTI3Zmy1QdFvD0l5CGMrCHZlk71ZjQXrOO2WJnsyGqPVjwtGB8JidzbLxmaDHrfftjMhQbptxaPaFKbMG7wkkkvr0p3c8PdsP7WJxSLE8SGdJgeDREE3UXWEdazxk5lLaufVVBXYN2us2gV4lKLE0lmeXIqDgxpJgsAKwKs1HSr0KzRIt0bBNMRjLJ9R31RlDpqw8t16AuwmSO4UAO7SQWilImwMVxOJdJUmGm4hlCKjMMSSDnb20VsdO3EWlCEFhZfPuwrXfLtoMFgU3HkII9d9UgfuNgo48iIdcIefMt2Rt5fsASNZjdLanw06EC8o55LNzU8Wo7ns27b8IQvuwlkUPq5eNUnGbivdNAHFHzgUMrmoPUvpLFn24MXimOQ9shFGgEOUUGfqvQ3XZhr9ixpAnMmSW1GZSc9453gjjq2BXiBE3ZQSOgSYQSAtvwwB1mbRF62SCgwPvgCO4fcVfi6xzty8kcHAtmkthnOOM7TjMyEYkqlBgnuRU4bl6hy3S7aG8VfdGjPqJGUyvWcJNr35cX5k3RvwYy8zOptf8Xt8FgXKg6GNYeevdY45cETOCth0aSRPIAue8HfMC3yRAhmyTcCKNXrRSr4IwMYLU2ouijSRNLx0qIeD926nigwQ4fitcEqlT4NmbI9RwmOt6W0o68fKCz1WaJ",
       "has_affiliate": true,
-      "current_price": 324.73,
+      "current_price": 324.18,
       "min_price": 317.98,
       "min_price_at": "2026-10-27",
       "monitored_since": "2026-10-24",
@@ -131,6 +135,10 @@
         {
           "date": "2026-11-05",
           "price": 324.73
+        },
+        {
+          "date": "2026-11-06",
+          "price": 324.18
         }
       ]
     },
@@ -139,7 +147,7 @@
       "label": "KaBuM!",
       "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F647831%2Fssd-500gb-2-5-sata-3-870-evo-560mb-s-leit-530mb-s-grav-mz-77e500b-eu-samsung",
       "has_affiliate": true,
-      "current_price": 862.83,
+      "current_price": 889.83,
       "min_price": 862.83,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -195,6 +203,10 @@
         {
           "date": "2026-11-05",
           "price": 862.83
+        },
+        {
+          "date": "2026-11-06",
+          "price": 889.83
         }
       ]
     }

@@ -67,6 +67,10 @@
         {
           "date": "2026-11-05",
           "price": 2397.0
+        },
+        {
+          "date": "2026-11-06",
+          "price": 2397.0
         }
       ]
     },
@@ -75,9 +79,9 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/Placa-Gigabyte-B850-ELITE-4xDDR5/dp/B0DQM8GPR7?tag=producttra043-20",
       "has_affiliate": true,
-      "current_price": 2294.11,
-      "min_price": 2235.28,
-      "min_price_at": "2026-10-24",
+      "current_price": 2199.99,
+      "min_price": 2199.99,
+      "min_price_at": "2026-11-06",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -131,6 +135,10 @@
         {
           "date": "2026-11-05",
           "price": 2294.11
+        },
+        {
+          "date": "2026-11-06",
+          "price": 2199.99
         }
       ]
     },
@@ -239,9 +247,9 @@
       "label": "Pichau",
       "link": "https://www.pichau.com.br/placa-mae-gigabyte-b850-aorus-elite-wf7-ddr5-socket-amd-am5-atx-chipset-amd-b850-b850-a-elite-wf7",
       "has_affiliate": true,
-      "current_price": 2294.11,
-      "min_price": 2235.28,
-      "min_price_at": "2026-10-24",
+      "current_price": 2199.99,
+      "min_price": 2199.99,
+      "min_price_at": "2026-11-06",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -295,6 +303,10 @@
         {
           "date": "2026-11-05",
           "price": 2294.11
+        },
+        {
+          "date": "2026-11-06",
+          "price": 2199.99
         }
       ]
     }

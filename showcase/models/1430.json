@@ -11,7 +11,7 @@
       "label": "Mercado Livre",
       "link": "https://www.mercadolivre.com.br/p/MLB27428538?matt_word=balu1353476&matt_tool=29239275",
       "has_affiliate": true,
-      "current_price": 823.0,
+      "current_price": 899.0,
       "min_price": 823.0,
       "min_price_at": "2026-11-04",
       "monitored_since": "2026-10-24",
@@ -67,6 +67,10 @@
         {
           "date": "2026-11-05",
           "price": 823.0
+        },
+        {
+          "date": "2026-11-06",
+          "price": 899.0
         }
       ]
     },
@@ -75,7 +79,7 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/MSI-B550M-PRO-VDH-ProSeries-Micro-ATX/dp/B089D1YG11?tag=producttra043-20",
       "has_affiliate": true,
-      "current_price": 818.32,
+      "current_price": 823.52,
       "min_price": 759.99,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -131,15 +135,19 @@
         {
           "date": "2026-11-05",
           "price": 818.32
+        },
+        {
+          "date": "2026-11-06",
+          "price": 823.52
         }
       ]
     },
     {
       "marketplace": "aliexpress",
       "label": "AliExpress",
-      "link": "https://s.click.aliexpress.com/s/fwx308cRD9Eny963e3KDdYxyIpNj8TXVr7saiF9Um5rMUg1kZtJALLnfa2LNXtiVgnxdD8Og6MmvwBoxhnSYQGM6r0c08U4TfX8DFGo7vviCuu3q62Q60OAhRZcqm3G8PtwM69xY7TOEWRrvulP5ukZQ4uQbBBtaVsdr6EffAqVmp3O5GyUANU2DoA3dJufNhDfh7KOlLgKIvRVhDxRESHLmea6fTE26gLUqKEUuuizJiLENrCbax94DZHDu8WhaXMN8fDE1HOLt4j1KZUcj471WKjwUetlj4ZWgS3yWx6lzuERHNTI3Zmy1QdFv50p1dw6hj0SltZKgU8qEo5UEkRjecJQJ74CfBePQYOV157kxzTCkmXiSRwsGglzSiBBsYwgikw1ceiCL83RlmoBk1e2h6wI39gfrjkrYadYPbZxeSWT5q4DXTUSsLtFE9je96NrHpMwXnWfDRQJE9g9LNPGNjqDOuIbHZ1SIOBY5lfI7bGuNmCYxpaSDj6ExlwO40QL0MrCazFXIfpE8JdbTH5YR3XbrYyH4Ep71kjAvvIAyMHKRpZL3VANUBVWqLgIJfZxPbIB51IeKxmsnReFTD8YqCcGBShNX8V1CHfMwz4ea66qShiRxnLbyq0QwE5sbaaPkyFK9BLnp1xyZ0zcIL2UESEN7wJEwFc50mcjw4HadXiTy0WggOktuaeHZiVNMGbb5mZkXbKAxD8o8CwrsAwM6wZg4o5mk2WOoq83W2vauJ5zS4B1DZpL6xoikV2V03zbVfm7qLAG76e1qp1uDRNFb9DPoCN4kkccaiFn7mblUlMGFqFJ0KlXhpFweKBEhYl1iG7hmFpThjE9MZEsVU4TTNUypo6SVuxmjrtwrioxPmfMoMPTB73s6N6Qn0QupWJXoK0amsK5XEc5yhMn6GuKrzMEQ8tf3bswqeU3FSj4ijyVSkzkSm4j8hgUoUjdnu339M6CiIH8l2sofSL",
+      "link": "https://s.click.aliexpress.com/s/fwx308cRD9Eny963e3KDdYxyIpNj8TXVr7saiF9Um5rMUg1kZtJALLnfa2LNXtiVgnxdD8Og6MmvwBoxhnSYQGM6r0c08U4TfX8DFGo7vviCuu3q62Q60OAhRZcqm3G8PtwM69xY7TOEWRrvulP5ukZQ4uQbBBtaVsdr6EffAqVmp3O5GyUANU2DoA3dJufNhDfh7KOlLgKIvRVhDxRESHLmea6fTE26gLUqKEUuuizJiLENrCbax94DZHDu8WhaXMN8fDE1HOLt4j1KZUcj471WKjwUetlj4ZWgS3yWx6lzuERHNTI3Zmy1QdFv50p1dw6hj0SltZKgU8qEo5UEkRjecJQJ74CfBePQYOV157kxzTCkmXiSRwsGglzSiBBsYwgikw1ceiCL83RlmoBk1e2h6wI39gfrjkrYadYPbZxeSWT5q4DXTUSsLtFE9je96NrHpMwXnWfDRQJE9g9LNPGNjqDOuIbHZ1SIOBY5lfI7bGuNmCYxpaSDj6ExlwO40QL0yH0tfy1Xq2SgqcO7NXRjzMAdvLsECoWMFBM6uCi04wBLUHB8SmrmBHXRO6D1RwFT8fpHM8hydySwDVeSarl3OgWoFxxkgL7TsYjRyfNKVlYUkvhOeqDcdGWqd0jm4YWPozUZfzxl1ogBwzWjF4vY1NNYQKsjsQS4R4NuWs7IiszLwIDkfDu53m8ukveXZhpiJISXlsAHFbQABBKCvq5E2u1UtgMVIkpeMOv3tkD1dZjSbVBeaNeBZedzNb9m00Hhf8OWFbt5JPBoe4v5pgl6NmB3w2DfWwYevyAOjy7VZk4ySUUnvaLBH3Ym3UfND8CYkGgwdlqg57xlhwsq8FmczjosnfIeIAZkbfNBQec70KqRisYIPMKXozTdkALmAJ2fg1S4pctYagYYrXna6t8d25aATCw3Nah8EBhQqBzjlFCqC1eKrWmgYlsUQ8NmkEGvVa0oNGXTUOCZkX",
       "has_affiliate": true,
-      "current_price": 628.45,
+      "current_price": 627.09,
       "min_price": 572.14,
       "min_price_at": "2026-10-27",
       "monitored_since": "2026-10-24",
@@ -195,13 +203,17 @@
         {
           "date": "2026-11-05",
           "price": 628.45
+        },
+        {
+          "date": "2026-11-06",
+          "price": 627.09
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/114338/placa-mae-msi-b550m-pro-vdh-wifi-amd-am4-matx-ddr4-preto-b550m-pro-vdh-wifi?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1793520170_f002b18765f93707137a5ecd8ff7f01f&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F114338%2Fplaca-mae-msi-b550m-pro-vdh-wifi-amd-am4-matx-ddr4-preto-b550m-pro-vdh-wifi",
       "has_affiliate": true,
       "current_price": 929.99,
       "min_price": 929.99,
@@ -218,6 +230,10 @@
         },
         {
           "date": "2026-11-01",
+          "price": 929.99
+        },
+        {
+          "date": "2026-11-06",
           "price": 929.99
         }
       ]

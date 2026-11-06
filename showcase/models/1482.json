@@ -67,6 +67,10 @@
         {
           "date": "2026-11-05",
           "price": 588.22
+        },
+        {
+          "date": "2026-11-06",
+          "price": 588.22
         }
       ]
     },
@@ -131,6 +135,10 @@
         {
           "date": "2026-11-05",
           "price": 499.99
+        },
+        {
+          "date": "2026-11-06",
+          "price": 499.99
         }
       ]
     },
@@ -139,9 +147,9 @@
       "label": "Pichau",
       "link": "https://www.pichau.com.br/processador-intel-core-ultra-5-225f-10-core-10-threads-3-3ghz-4-9ghz-turbo-cache-20mb-lga1851-bx80768225f",
       "has_affiliate": true,
-      "current_price": 682.34,
-      "min_price": 682.34,
-      "min_price_at": "2026-10-24",
+      "current_price": 588.22,
+      "min_price": 588.22,
+      "min_price_at": "2026-11-06",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -195,6 +203,10 @@
         {
           "date": "2026-11-05",
           "price": 682.34
+        },
+        {
+          "date": "2026-11-06",
+          "price": 588.22
         }
       ]
     },
@@ -259,6 +271,10 @@
         {
           "date": "2026-11-05",
           "price": 705.87
+        },
+        {
+          "date": "2026-11-06",
+          "price": 705.87
         }
       ]
     },
@@ -322,6 +338,10 @@
         },
         {
           "date": "2026-11-05",
+          "price": 1250.3
+        },
+        {
+          "date": "2026-11-06",
           "price": 1250.3
         }
       ]

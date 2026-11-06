@@ -22,7 +22,7 @@
       "label": "Pichau",
       "link": "https://www.pichau.com.br/processador-amd-ryzen-9-9900x3d-12-core-24-threads-4-4ghz-5-5ghz-turbo-cache-140mb-am5-100-100001368wof",
       "has_affiliate": true,
-      "current_price": 3294.11,
+      "current_price": 3647.05,
       "min_price": 3294.11,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -54,6 +54,10 @@
         {
           "date": "2026-10-30",
           "price": 3294.11
+        },
+        {
+          "date": "2026-11-06",
+          "price": 3647.05
         }
       ]
     },
@@ -117,6 +121,10 @@
         },
         {
           "date": "2026-11-05",
+          "price": 3705.87
+        },
+        {
+          "date": "2026-11-06",
           "price": 3705.87
         }
       ]
@@ -182,13 +190,17 @@
         {
           "date": "2026-11-05",
           "price": 3682.4
+        },
+        {
+          "date": "2026-11-06",
+          "price": 3682.4
         }
       ]
     },
     {
       "marketplace": "aliexpress",
       "label": "AliExpress",
-      "link": "https://s.click.aliexpress.com/s/NdpwztbAIgDMmxGbP8fFks7yUFfsHjzlImSYmA68h7xlMRgzueFsRgokQ9f9hcpVKttxtQE2VzIoqkXJXrpOr6uR3zv7mP4CDO9CddoFf4t0QE5DXPy8Pgjhz4irfQSEjEGUmy5yF3A5gJ9h3NYjLMgqIMqa3zcpq5E2BC3W5EbV40Dm9buQxWpZzw1lbX8Zm2kZtNIa4KyDieNjsH7IU6Yv8StELKVvT9r4eFAaXPGhwHsgaDqdNcmY116r3GC2YvmvR57S69fGyn8Tt4pCtmLccxQz3g0L1ZKu00BPwYOT3BF4QZOqRqMDB0DvlAjPvVjxS7leVFHKKt2fhKKaNM3vPVjDZPH5OJcrEeLMY9gXeGLDO2tJZ7yWyAd9Q7nE15MkPKhs1NmHOWqn9F4aQr3Im5p5jzoAFGcxbSSYJm7Zvvonj1TQnx3dcjGtYe0sAGykeqEOBQ038e18RHCFd91LLE3aYEMziGT7uIP84F7zgsl0Fx3LRrFbQWyzlNKCEMHp7FxmXLVHcRpv00VfphYla3QvZcPgkSoUWn4iZQLVEnm4b5kCICfksziX6nY2SwPJAGZrXsqTQ85kmjR6JTajs6qhiAjTBmgqhWL9o3qcWM3YmbC3ZmhDeuDBrPsoDzTL2dJ2ueF1Qdh3RVtPvBWv2MnY0egxpiP0d6vhSZkugfkZ1BYNoVrET0P4WORDu6HqJ3qPIK85KzqQkW20pq5xZILTlHs0j8egMDapXMOsurQL8gmps7j8NvnitELPvl9IpzWR2vdmXOmiNg8ZffmGGHbfOQ2tsPo77jSykPt3dKuYmXFuSYAI7vaao1yqKdoyAe5XhFT7Q98Qzr4JwXiFQ8kPT53fzTYoB7A7FoP8pwGwQN0G79YWbC2HusEt5VPuD7WHLHMgaXuZjh19V55YnYKOhcNp7lBjgmoOQMrkPNIEAQOh4mvirbmNY01UTtXDbrhFZssjc4eOsnKBbUmfDsFgYeoJGPKFFYW33IQ2P",
+      "link": "https://s.click.aliexpress.com/s/NdpwztbAIgDMmxGbP8fFks7yUFfsHjzlImSYmA68h7xlMRgzueFsRgokQ9f9hcpVKttxtQE2VzIoqkXJXrpOr6uR3zv7mP4CDO9CddoFf4t0QE5DXPy8Pgjhz4irfQSEjEGUmy5yF3A5gJ9h3NYjLMgqIMqa3zcpq5E2BC3W5EbV40Dm9buQxWpZzw1lbX8Zm2kZtNIa4KyDieNjsH7IU6Yv8StELKVvT9r4eFAaXPGhwHsgaDqdNcmY116r3GC2YvmvR57S69fGyn8Tt4pCtmLccxQz3g0L1ZKu00BPwYOT3BF4QZOqRqMDB0DvlAjPvVjxS7leVFHKKt2fhKKaNM3vPVjDZPH5OJcrEeLMY9gXeGLDO2tJZ7yWyAd9Q7nE15MkPKhs1NmHOWqn9F4aQr3Im5p5jzoAFGcxbSSYJm7Zvvonj1TQnx3dcjGtYe0sAGykeqEOBQ038e18RHCFd91LLE3aYEMziGT7uIP84F7zgsl0Fx3LRrFbQWyzlNKCEMHpuodD5oSsa3oDLSYA8zqBCNam2gtVZOn7W1tNwcFpqXqKrbESk2hEyPPEsX33Pwd48Iury5BWWPY88VhmM9hztun65EDFrIb7nfGf2f8zUaVfuvpDbCBsnxoBJpiS9Bu2spNr8isXubK3H963xejk1vg5rIGQFe6w3vGMJe4AjSDbIP9rBAEVGi83ZIQ7XHCVx7NVsq5ndC33mxayuuikX5NgHAl6Qqz7qsxJ5C4aSd0tU0CFVGQZwSwS0m0AYlO68BIZv2yKBYpwjbGOxBljm7MuXhwU6iD27aq2qC4s9vfQCWqHoMqwbqEssbyJASbMsO1Tq59P6wQfGudxfAcgDOOMESj1e5qCGNrupVaejrhnI5x9D3iKXp5iBCEU1Xb8SGgRCAP1M9l2U8EMRTSOaNfjIgWemdGtOvqCjzELuLUO79xgQ3xfIg6Uizz1ySMJB5ZCo1LV2SEfGzpXHTsabgAu7tvHn2v29tEkKVLyX",
       "has_affiliate": true,
       "current_price": 3430.72,
       "min_price": 3414.0,
@@ -245,6 +257,10 @@
         },
         {
           "date": "2026-11-05",
+          "price": 3430.72
+        },
+        {
+          "date": "2026-11-06",
           "price": 3430.72
         }
       ]

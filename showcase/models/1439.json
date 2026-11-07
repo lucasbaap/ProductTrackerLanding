@@ -71,6 +71,10 @@
         {
           "date": "2026-11-06",
           "price": 1351.08
+        },
+        {
+          "date": "2026-11-07",
+          "price": 1351.08
         }
       ]
     },
@@ -139,6 +143,10 @@
         {
           "date": "2026-11-06",
           "price": 879.99
+        },
+        {
+          "date": "2026-11-07",
+          "price": 879.99
         }
       ]
     },
@@ -147,7 +155,7 @@
       "label": "Terabyte",
       "link": "https://www.terabyteshop.com.br/produto/28867/placa-mae-asus-tuf-gaming-b760m-plus-ii-chipset-b760-intel-lga-1700-matx-ddr5-90mb1hd0-m0eay0",
       "has_affiliate": true,
-      "current_price": 1352.93,
+      "current_price": 2435.28,
       "min_price": 1352.93,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -207,6 +215,10 @@
         {
           "date": "2026-11-06",
           "price": 1352.93
+        },
+        {
+          "date": "2026-11-07",
+          "price": 2435.28
         }
       ]
     },
@@ -274,6 +286,10 @@
         },
         {
           "date": "2026-11-06",
+          "price": 1236.46
+        },
+        {
+          "date": "2026-11-07",
           "price": 1236.46
         }
       ]

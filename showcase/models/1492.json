@@ -71,6 +71,10 @@
         {
           "date": "2026-11-06",
           "price": 1900.0
+        },
+        {
+          "date": "2026-11-07",
+          "price": 1900.0
         }
       ]
     },
@@ -79,9 +83,9 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/dp/B0CHBGVFHP?tag=producttra043-20",
       "has_affiliate": true,
-      "current_price": 1952.92,
-      "min_price": 1882.34,
-      "min_price_at": "2026-11-04",
+      "current_price": 1823.52,
+      "min_price": 1823.52,
+      "min_price_at": "2026-11-07",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -139,6 +143,10 @@
         {
           "date": "2026-11-06",
           "price": 1952.92
+        },
+        {
+          "date": "2026-11-07",
+          "price": 1823.52
         }
       ]
     },
@@ -147,9 +155,9 @@
       "label": "KaBuM!",
       "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F497578%2Fprocessador-intel-core-i5-14600k-3-5ghz-5-3-ghz-max-turbo-cache-24mb-14-nucleos-20-threads-lga-1700-com-video-integrado-bx8071514600k",
       "has_affiliate": true,
-      "current_price": 1569.0,
-      "min_price": 1569.0,
-      "min_price_at": "2026-11-05",
+      "current_price": 1549.99,
+      "min_price": 1549.99,
+      "min_price_at": "2026-11-07",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -207,6 +215,10 @@
         {
           "date": "2026-11-06",
           "price": 1569.0
+        },
+        {
+          "date": "2026-11-07",
+          "price": 1549.99
         }
       ]
     },
@@ -274,6 +286,10 @@
         },
         {
           "date": "2026-11-06",
+          "price": 1847.05
+        },
+        {
+          "date": "2026-11-07",
           "price": 1847.05
         }
       ]

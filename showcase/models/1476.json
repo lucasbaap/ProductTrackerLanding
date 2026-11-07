@@ -11,7 +11,7 @@
       "label": "Mercado Livre",
       "link": "https://www.mercadolivre.com.br/p/MLB2065041734?matt_word=balu1353476&matt_tool=29239275",
       "has_affiliate": true,
-      "current_price": 1461.79,
+      "current_price": 1467.05,
       "min_price": 1344.85,
       "min_price_at": "2026-10-26",
       "monitored_since": "2026-10-24",
@@ -71,6 +71,10 @@
         {
           "date": "2026-11-06",
           "price": 1461.79
+        },
+        {
+          "date": "2026-11-07",
+          "price": 1467.05
         }
       ]
     },
@@ -139,6 +143,10 @@
         {
           "date": "2026-11-06",
           "price": 1299.0
+        },
+        {
+          "date": "2026-11-07",
+          "price": 1299.0
         }
       ]
     },
@@ -147,9 +155,9 @@
       "label": "KaBuM!",
       "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F645180%2Fprocessador-intel-core-ultra-5-245k-4-2ghz-5-2ghz-turbo-cache-24mb-14-nucleos-14-threads-lga-1851-com-video-integrado-bx80768245k",
       "has_affiliate": true,
-      "current_price": 1199.99,
-      "min_price": 1199.99,
-      "min_price_at": "2026-10-24",
+      "current_price": 999.99,
+      "min_price": 999.99,
+      "min_price_at": "2026-11-07",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -207,6 +215,10 @@
         {
           "date": "2026-11-06",
           "price": 1199.99
+        },
+        {
+          "date": "2026-11-07",
+          "price": 999.99
         }
       ]
     },
@@ -275,6 +287,10 @@
         {
           "date": "2026-11-06",
           "price": 1317.64
+        },
+        {
+          "date": "2026-11-07",
+          "price": 1317.64
         }
       ]
     },
@@ -342,6 +358,10 @@
         },
         {
           "date": "2026-11-06",
+          "price": 1388.22
+        },
+        {
+          "date": "2026-11-07",
           "price": 1388.22
         }
       ]

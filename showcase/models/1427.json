@@ -71,6 +71,10 @@
         {
           "date": "2026-11-06",
           "price": 3000.0
+        },
+        {
+          "date": "2026-11-07",
+          "price": 3000.0
         }
       ]
     },
@@ -139,6 +143,10 @@
         {
           "date": "2026-11-06",
           "price": 4579.0
+        },
+        {
+          "date": "2026-11-07",
+          "price": 4579.0
         }
       ]
     },
@@ -147,7 +155,7 @@
       "label": "KaBuM!",
       "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F200089%2Fconsole-microsoft-xbox-series-s-512gb-branco-rrs-00006",
       "has_affiliate": true,
-      "current_price": 4799.0,
+      "current_price": 5199.0,
       "min_price": 4799.0,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -207,6 +215,10 @@
         {
           "date": "2026-11-06",
           "price": 4799.0
+        },
+        {
+          "date": "2026-11-07",
+          "price": 5199.0
         }
       ]
     }

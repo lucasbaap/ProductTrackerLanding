@@ -71,6 +71,10 @@
         {
           "date": "2026-11-06",
           "price": 2099.0
+        },
+        {
+          "date": "2026-11-07",
+          "price": 2099.0
         }
       ]
     },
@@ -79,7 +83,7 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/ASRock-B850-Steel-Legend-WiFi/dp/B0DRTTJ5D6?tag=producttra043-20",
       "has_affiliate": true,
-      "current_price": 1848.88,
+      "current_price": 1902.31,
       "min_price": 1754.73,
       "min_price_at": "2026-10-25",
       "monitored_since": "2026-10-24",
@@ -139,6 +143,10 @@
         {
           "date": "2026-11-06",
           "price": 1848.88
+        },
+        {
+          "date": "2026-11-07",
+          "price": 1902.31
         }
       ]
     },
@@ -207,6 +215,10 @@
         {
           "date": "2026-11-06",
           "price": 1663.99
+        },
+        {
+          "date": "2026-11-07",
+          "price": 1663.99
         }
       ]
     },
@@ -274,6 +286,10 @@
         },
         {
           "date": "2026-11-06",
+          "price": 1988.22
+        },
+        {
+          "date": "2026-11-07",
           "price": 1988.22
         }
       ]

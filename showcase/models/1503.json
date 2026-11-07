@@ -71,6 +71,10 @@
         {
           "date": "2026-11-06",
           "price": 2199.0
+        },
+        {
+          "date": "2026-11-07",
+          "price": 2199.0
         }
       ]
     },
@@ -79,9 +83,9 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/dp/B09C5X1T7V?tag=producttra043-20",
       "has_affiliate": true,
-      "current_price": 3010.41,
-      "min_price": 3010.41,
-      "min_price_at": "2026-10-24",
+      "current_price": 2941.16,
+      "min_price": 2941.16,
+      "min_price_at": "2026-11-07",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -139,19 +143,28 @@
         {
           "date": "2026-11-06",
           "price": 3010.41
+        },
+        {
+          "date": "2026-11-07",
+          "price": 2941.16
         }
       ]
     },
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/382749/memoria-ram-corsair-vengeance-rgb-rs-32gb-2x16gb-3200mhz-ddr4-cl16-preto-cmg32gx4m2e3200c16",
+      "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F382749%2Fmemoria-ram-corsair-vengeance-rgb-rs-32gb-2x16gb-3200mhz-ddr4-cl16-preto-cmg32gx4m2e3200c16",
       "has_affiliate": true,
       "current_price": 2494.99,
-      "min_price": null,
-      "min_price_at": null,
-      "monitored_since": "2026-10-24",
-      "history": []
+      "min_price": 2494.99,
+      "min_price_at": "2026-11-07",
+      "monitored_since": "2026-11-07",
+      "history": [
+        {
+          "date": "2026-11-07",
+          "price": 2494.99
+        }
+      ]
     }
   ],
   "cta": {

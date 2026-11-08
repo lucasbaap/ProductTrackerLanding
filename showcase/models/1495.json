@@ -75,6 +75,10 @@
         {
           "date": "2026-11-07",
           "price": 1459.0
+        },
+        {
+          "date": "2026-11-08",
+          "price": 1459.0
         }
       ]
     },
@@ -147,6 +151,10 @@
         {
           "date": "2026-11-07",
           "price": 1126.0
+        },
+        {
+          "date": "2026-11-08",
+          "price": 1126.0
         }
       ]
     },
@@ -155,9 +163,9 @@
       "label": "KaBuM!",
       "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F524576%2Fprocessador-intel-core-i5-14400-14-geracao-3-5-ghz-4-7-ghz-turbo-cache-20mb-lga1700-bx8071514400",
       "has_affiliate": true,
-      "current_price": 1537.91,
-      "min_price": 1537.91,
-      "min_price_at": "2026-11-03",
+      "current_price": 1502.55,
+      "min_price": 1502.55,
+      "min_price_at": "2026-11-08",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -215,6 +223,10 @@
         {
           "date": "2026-11-07",
           "price": 1537.91
+        },
+        {
+          "date": "2026-11-08",
+          "price": 1502.55
         }
       ]
     },
@@ -286,6 +298,10 @@
         },
         {
           "date": "2026-11-07",
+          "price": 1910.9
+        },
+        {
+          "date": "2026-11-08",
           "price": 1910.9
         }
       ]

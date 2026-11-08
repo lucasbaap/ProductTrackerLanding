@@ -75,6 +75,10 @@
         {
           "date": "2026-11-07",
           "price": 2099.0
+        },
+        {
+          "date": "2026-11-08",
+          "price": 2099.0
         }
       ]
     },
@@ -83,7 +87,7 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/ASRock-B850-Steel-Legend-WiFi/dp/B0DRTTJ5D6?tag=producttra043-20",
       "has_affiliate": true,
-      "current_price": 1902.31,
+      "current_price": 1910.23,
       "min_price": 1754.73,
       "min_price_at": "2026-10-25",
       "monitored_since": "2026-10-24",
@@ -147,6 +151,10 @@
         {
           "date": "2026-11-07",
           "price": 1902.31
+        },
+        {
+          "date": "2026-11-08",
+          "price": 1910.23
         }
       ]
     },
@@ -155,7 +163,7 @@
       "label": "KaBuM!",
       "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F777005%2Fplaca-mae-asrock-b850-steel-legend-wifi-ryzen-b850-atx-ddr5-90-mxbqs0-a0uayz",
       "has_affiliate": true,
-      "current_price": 1663.99,
+      "current_price": 1999.99,
       "min_price": 1663.99,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -219,6 +227,10 @@
         {
           "date": "2026-11-07",
           "price": 1663.99
+        },
+        {
+          "date": "2026-11-08",
+          "price": 1999.99
         }
       ]
     },
@@ -290,6 +302,10 @@
         },
         {
           "date": "2026-11-07",
+          "price": 1988.22
+        },
+        {
+          "date": "2026-11-08",
           "price": 1988.22
         }
       ]

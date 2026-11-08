@@ -29,7 +29,7 @@
     {
       "marketplace": "shopee",
       "label": "Shopee",
-      "link": "https://s.shopee.com.br/4VeB4NsUz4",
+      "link": "https://s.shopee.com.br/60T0E5O7o1",
       "has_affiliate": true,
       "current_price": 3999.0,
       "min_price": 3999.0,
@@ -94,6 +94,10 @@
         },
         {
           "date": "2026-11-07",
+          "price": 3999.0
+        },
+        {
+          "date": "2026-11-08",
           "price": 3999.0
         }
       ]

@@ -75,6 +75,10 @@
         {
           "date": "2026-11-07",
           "price": 2058.0
+        },
+        {
+          "date": "2026-11-08",
+          "price": 2058.0
         }
       ]
     },
@@ -83,7 +87,7 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/Placa-m%C3%A3e-B860-Tomahawk-WiFi-processadores/dp/B0DQBJ64KH?tag=producttra043-20",
       "has_affiliate": true,
-      "current_price": 2624.16,
+      "current_price": 2672.52,
       "min_price": 1814.27,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -131,6 +135,10 @@
         {
           "date": "2026-11-07",
           "price": 2624.16
+        },
+        {
+          "date": "2026-11-08",
+          "price": 2672.52
         }
       ]
     },
@@ -202,6 +210,10 @@
         },
         {
           "date": "2026-11-07",
+          "price": 1875.72
+        },
+        {
+          "date": "2026-11-08",
           "price": 1875.72
         }
       ]

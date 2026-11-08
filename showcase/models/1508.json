@@ -11,7 +11,7 @@
       "label": "KaBuM!",
       "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F677473%2Fmemoria-ram-xpg-lancer-blade-16gb-rgb-ddr5-6000mhz-single-tray-cl48-preto-ax5u6000c4816g-slabrbk",
       "has_affiliate": true,
-      "current_price": 2099.99,
+      "current_price": 2199.99,
       "min_price": 2079.99,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -75,6 +75,10 @@
         {
           "date": "2026-11-07",
           "price": 2099.99
+        },
+        {
+          "date": "2026-11-08",
+          "price": 2199.99
         }
       ]
     }

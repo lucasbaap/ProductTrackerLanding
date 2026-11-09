@@ -11,9 +11,9 @@
       "label": "Mercado Livre",
       "link": "https://www.mercadolivre.com.br/p/MLB46255478?matt_word=balu1353476&matt_tool=29239275",
       "has_affiliate": true,
-      "current_price": 1729.4,
-      "min_price": 1729.4,
-      "min_price_at": "2026-11-07",
+      "current_price": 1659.0,
+      "min_price": 1659.0,
+      "min_price_at": "2026-11-09",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -79,6 +79,10 @@
         {
           "date": "2026-11-08",
           "price": 1729.4
+        },
+        {
+          "date": "2026-11-09",
+          "price": 1659.0
         }
       ]
     },
@@ -87,7 +91,7 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/ASUS-Gaming-B860M-PLUS-Mainboard-mem%C3%B3ria/dp/B0DPMRFJGB?tag=producttra043-20",
       "has_affiliate": true,
-      "current_price": 1999.0,
+      "current_price": 1990.0,
       "min_price": 1899.05,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -155,6 +159,10 @@
         {
           "date": "2026-11-08",
           "price": 1999.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 1990.0
         }
       ]
     },
@@ -230,6 +238,10 @@
         },
         {
           "date": "2026-11-08",
+          "price": 1959.0
+        },
+        {
+          "date": "2026-11-09",
           "price": 1959.0
         }
       ]
@@ -334,6 +346,10 @@
         },
         {
           "date": "2026-11-08",
+          "price": 1939.99
+        },
+        {
+          "date": "2026-11-09",
           "price": 1939.99
         }
       ]

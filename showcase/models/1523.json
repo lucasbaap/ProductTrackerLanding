@@ -11,9 +11,9 @@
       "label": "Mercado Livre",
       "link": "https://www.mercadolivre.com.br/p/MLB17921779?matt_word=balu1353476&matt_tool=29239275",
       "has_affiliate": true,
-      "current_price": 1600.0,
-      "min_price": 1600.0,
-      "min_price_at": "2026-11-04",
+      "current_price": 1533.0,
+      "min_price": 1533.0,
+      "min_price_at": "2026-11-09",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -79,6 +79,10 @@
         {
           "date": "2026-11-08",
           "price": 1600.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 1533.0
         }
       ]
     },
@@ -155,15 +159,19 @@
         {
           "date": "2026-11-08",
           "price": 1872.5
+        },
+        {
+          "date": "2026-11-09",
+          "price": 1872.5
         }
       ]
     },
     {
       "marketplace": "aliexpress",
       "label": "AliExpress",
-      "link": "https://s.click.aliexpress.com/s/fwx308cRD9Eny963e3KDdYxyIpNj8TXVr7saiF9Um5rMUg1kZtJALLnfa2LNXtiVgnxdD8Og6MmvwBoxhnSYQGM6r0c08U4TfX8DFGo7vviCuu3q62Q60OAhRZcqm3G8PtwM69xY7TOEWRrvulP5ukZQ4uQbBBtaVsdr6EffAqVmp3O5GyUANU2DoA3dJufNhDfh7KOlLgKIvRVhDxRESHLmea6fTE26gLUqKEUuuizJiLENrCbax94DZHDu8WhaXMN8fDE1HOLt4j1KZUcj471WKjwUetlj4ZWgS3yWx6lzuERHNTI3Zmy1QdFuzv60ycglALHOQPfhmhbDqj1lO89BklqNagahO1nCmM9kA9oJ3ykWfVSOwLWHrV9ubGLc4FxvaX3S6aYcf6AIAUIDIlSaacFW41YU2pXjS79nsTSnxGoLh6rNLfP7QnB5R3eiKuTDvtFCTv1OwmKpBQ9X0gUhVbwNmLZLpcnPrd6iqE14fSCvjKSVZYm5pTd9ME0z1aka3z2unEYZhdnIYNevuQBwfArcDIJwKBqogYHpIQSCBuXV2BKhDjHGj335QDbdWZMfWrSfaG8CSm0c1Hyhr5DK7bKzY85W06VCsoI4UPXCSLc5beB9PXkUO8SV9ukG1WK2tzCF0yJ0teVvoNOGXnYy456ukxrYYSYUZXsoWusmDTCNLAArPBQUIl16o9Lj9hOkFl8wcSoKrUlZhHKfjdVNL6YXRFBJMkylBByeB9d4ISNV0em0qGJX0vSa7oozooZ4XW205htJ2xJSWOo7HJ0o0YhDcDtC8G3yqpEUFNnraIOvdKp4cdksRxzo0WqSC40fI5ROMQ9DNTdGRVhHRo3VBqqFzzsRvXkPkNuP1ZWbz6P41bB5mkod2OuCiifGCvxrVosGmUqfl0jJH89mVbCXK6EwwqeMjiVfstsr1kMX5OMd6JPAX915rD88X1uRb8lu7Ecq74dcYNvVbz",
+      "link": "https://s.click.aliexpress.com/e/_c3RBGRGr",
       "has_affiliate": true,
-      "current_price": 319.95,
+      "current_price": 329.55,
       "min_price": 289.87,
       "min_price_at": "2026-10-27",
       "monitored_since": "2026-10-24",
@@ -231,6 +239,10 @@
         {
           "date": "2026-11-08",
           "price": 319.95
+        },
+        {
+          "date": "2026-11-09",
+          "price": 329.55
         }
       ]
     },
@@ -306,6 +318,10 @@
         },
         {
           "date": "2026-11-08",
+          "price": 1685.25
+        },
+        {
+          "date": "2026-11-09",
           "price": 1685.25
         }
       ]

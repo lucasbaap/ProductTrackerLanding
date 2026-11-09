@@ -79,6 +79,10 @@
         {
           "date": "2026-11-08",
           "price": 4008.85
+        },
+        {
+          "date": "2026-11-09",
+          "price": 4008.85
         }
       ]
     },
@@ -155,6 +159,10 @@
         {
           "date": "2026-11-08",
           "price": 3749.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 3749.0
         }
       ]
     },
@@ -163,7 +171,7 @@
       "label": "KaBuM!",
       "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F904662%2Fprocessador-intel-core-i9-14900f-2-0ghz-5-80-ghz-max-turbo-cache-36mb-24-nucleos-32-threads-lga-1700-sem-video-integrado-bx8071514900f",
       "has_affiliate": true,
-      "current_price": 2699.99,
+      "current_price": 3999.99,
       "min_price": 2699.99,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -231,6 +239,10 @@
         {
           "date": "2026-11-08",
           "price": 2699.99
+        },
+        {
+          "date": "2026-11-09",
+          "price": 3999.99
         }
       ]
     },
@@ -306,6 +318,10 @@
         },
         {
           "date": "2026-11-08",
+          "price": 3176.46
+        },
+        {
+          "date": "2026-11-09",
           "price": 3176.46
         }
       ]

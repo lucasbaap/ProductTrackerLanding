@@ -147,13 +147,17 @@
         {
           "date": "2026-11-08",
           "price": 529.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 529.0
         }
       ]
     },
     {
       "marketplace": "aliexpress",
       "label": "AliExpress",
-      "link": "https://s.click.aliexpress.com/s/fwx308cRD9Eny963e3KDdYxyIpNj8TXVr7saiF9Um5rMUg1kZtJALLnfa2LNXtiVgnxdD8Og6MmvwBoxhnSYQGM6r0c08U4TfX8DFGo7vviCuu3q62Q60OAhRZcqm3G8PtwM69xY7TOEWRrvulP5ukZQ4uQbBBtaVsdr6EffAqVmp3O5GyUANU2DoA3dJufNhDfh7KOlLgKIvRVhDxRESHLmea6fTE26gLUqKEUuuizJiLENrCbax94DZHDu8WhaXMN8fDE1HOLt4j1KZUcj471WKjwUetlj4ZWgS3yWx6lzuERHNTI3Zmy1QdFfd8GooZdwLiaiF6ANvoZBAqfevU6wUHkGpl2qcC5SvINZfj9tjaKuDnOJgPdKhNv3U6Lqv4EHwnE7RyIjvz7gL6ZxCANoOzx7owdrJQefrH90cfxZtL6iOYdAWIBtdWuDLKsiZOlDggc8A1GmcJOnpyJHQIAYvKsMZtjIoqomNjFboJPfnB2pIIbOt7YOE9loF3My5ZaWz9ml9SSbOd53HYYpXSHW9lAy6nyYHmYyIFj2PNLzt3WLEBs2HyWdPsrooGeCL4lQIz19lchjM3L6OEKbrFmaBvo8Yv7IFyQ41fv2ihU4tmFyBCEDsShpddg3tD6xwFHifqydZiw1HsROGqYK8AbOS0Fbt4MjhMArgPrdTyF8oTFyHxpq2VXen7SiFyqvErjzUjVoG1GEm0BwzWnSMkUpv8FTOCVpKZWRjZEEK4NsNpPiuT40bKWLQlOfFlKPPSuGfmzaOcN2wvrXVP2RmSdUB0lBD2aqh7vaKOTPMJ54G9jaBSE1UszWZ7AkjAX4CkNIxdA2BcJbikgQpbx1cCmJw2EfU9p7o0Luy5TrJKZbojQkMF06HIt4S8H804yYELTBHkqOJ6PWczVDhAaAgw8u1bga50lxPsfkazrxJsJoSTBJe98zEPeXaVoqxkSwXuCBrDYHCa0GK0GNOx",
+      "link": "https://s.click.aliexpress.com/s/fwx308cRD9Eny963e3KDdYxyIpNj8TXVr7saiF9Um5rMUg1kZtJALLnfa2LNXtiVgnxdD8Og6MmvwBoxhnSYQGM6r0c08U4TfX8DFGo7vviCuu3q62Q60OAhRZcqm3G8PtwM69xY7TOEWRrvulP5ukZQ4uQbBBtaVsdr6EffAqVmp3O5GyUANU2DoA3dJufNhDfh7KOlLgKIvRVhDxRESHLmea6fTE26gLUqKEUuuizJiLENrCbax94DZHDu8WhaXMN8fDE1HOLt4j1KZUcj471WKjwUetlj4ZWgS3yWx6lzuERHNTI3Zmy1QdFfd8GooZdwLiaiF6ANvoZBAqfevU6wUHkGpl2qcC5SvINZfj9tjaKuDnOJgPdKhNv3U6Lqv4EHwnE7RyIjvz7gL6ZxCANoOzx7owdrJQefrH90cfxZtL6iOYdAWIBtdWuDLKsiZOlDggc8A1GmcJOnpyJHQIAYvKsMZtjIoqomNjFboJPfnB2pIIbOt7YOE9loF3My5ZaXnjKpy14rAbQDiJ5DcL9E6WdxA76WAQ5drJBXCNtzIrAGKCLutjaY9QRQf6fRyx2h45G4A13HT6IevPRn7G2zOt3Cp6Zo3N7AYfemBjyraComCmpbB7LfuPjhrj40X4eoUOpdSS6yTgScCVOIvoO6cQLdpTPIBxIsCvjuiflL3DFiRtDkxFdyftzZYRFhFyH76X0b7IYRdtQA5bvX7tjBJ0c5obIr33LxsrFyTtSRqxjToHLWnU3oMa6S2LNuujIqZXx1bjzWgRZo6LWSE1woVoEFj4wJbssePS7MSAREjKrGy5JdwEVYP64sQykbsxNG2kUyw6tsqpKHyiIr82DldfkLZl3oOt52y2PzwO77aTe8IyCX9djJuFwrcHpi1H70cQq2eWAH7FZ0T3qIS6rOMU42ZjBo3HHA0cwXKvptVNVkM6cXuJSxFPTwYZYJQkkKKZgbuVFVBR0Ewn",
       "has_affiliate": true,
       "current_price": 219.13,
       "min_price": 208.79,
@@ -222,6 +226,10 @@
         },
         {
           "date": "2026-11-08",
+          "price": 219.13
+        },
+        {
+          "date": "2026-11-09",
           "price": 219.13
         }
       ]
@@ -299,6 +307,10 @@
         {
           "date": "2026-11-08",
           "price": 659.99
+        },
+        {
+          "date": "2026-11-09",
+          "price": 659.99
         }
       ]
     },
@@ -375,6 +387,10 @@
         {
           "date": "2026-11-08",
           "price": 670.58
+        },
+        {
+          "date": "2026-11-09",
+          "price": 670.58
         }
       ]
     },
@@ -383,7 +399,7 @@
       "label": "Terabyte",
       "link": "https://www.terabyteshop.com.br/produto/19382/ssd-kingston-a400-480gb-sata-iii-leitura-500mbs-gravacao-450mbs-sa400s37480g-imp",
       "has_affiliate": true,
-      "current_price": 670.47,
+      "current_price": 894.0,
       "min_price": 611.75,
       "min_price_at": "2026-11-04",
       "monitored_since": "2026-10-24",
@@ -451,6 +467,10 @@
         {
           "date": "2026-11-08",
           "price": 670.47
+        },
+        {
+          "date": "2026-11-09",
+          "price": 894.0
         }
       ]
     }

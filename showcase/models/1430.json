@@ -79,6 +79,10 @@
         {
           "date": "2026-11-08",
           "price": 861.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 861.0
         }
       ]
     },
@@ -87,7 +91,7 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/MSI-B550M-PRO-VDH-ProSeries-Micro-ATX/dp/B089D1YG11?tag=producttra043-20",
       "has_affiliate": true,
-      "current_price": 941.06,
+      "current_price": 939.55,
       "min_price": 759.99,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -155,15 +159,19 @@
         {
           "date": "2026-11-08",
           "price": 941.06
+        },
+        {
+          "date": "2026-11-09",
+          "price": 939.55
         }
       ]
     },
     {
       "marketplace": "aliexpress",
       "label": "AliExpress",
-      "link": "https://s.click.aliexpress.com/s/fwx308cRD9Eny963e3KDdYxyIpNj8TXVr7saiF9Um5rMUg1kZtJALLnfa2LNXtiVgnxdD8Og6MmvwBoxhnSYQGM6r0c08U4TfX8DFGo7vviCuu3q62Q60OAhRZcqm3G8PtwM69xY7TOEWRrvulP5ukZQ4uQbBBtaVsdr6EffAqVmp3O5GyUANU2DoA3dJufNhDfh7KOlLgKIvRVhDxRESHLmea6fTE26gLUqKEUuuizJiLENrCbax94DZHDu8WhaXMN8fDE1HOLt4j1KZUcj471WKjwUetlj4ZWgS3yWx6lzuERHNTI3Zmy1QdFv50p1dw6hj0SltZKgU8qEo5UEkRjecJQJ74CfBePQYOV157kxzTCkmXiSRwsGglzSiBBsYwgikw1ceiCL83RlmoBk1e2h6wI39gfrjkrYadYPbZxeSWT5q4DXTUSsLtFE9je96NrHpMwXnWfDRQJE9g9LNPGNjqDOuIbHZ1SIOBY5lfI7bGuNmCYxpaSDj6ExlwO40QL0LjUeNU6GwurweidhZW4b3qapIBXLKpfHPL8YqHA4v3GuR9IfqpbWUzOZesdJbbvYBrrz9yuNeDUPRTkNuqzKGaZJXAfFokxfThCtGFeKoKgZbtkBQxtydotbR5RYITYbjSfJi9cvVPlAkB58tPrSRgPxq6at0rJtaORrKhUCNE2UgdEiPpkjxdqefhsjBuOoDUtI8BnNw5S3UqnaCwxjoXd7g61jwYknVIUmg7i5c1JnYjnsyCoQWDgBYhaBKxYljEHP0Aa5ceB2Xv22ik59rYGfjOfnLDgaYqUSxQb6l9tIazkyaaEfLh96MLIyTCdDdOU33Lwyp2ArjEBOEenptYKWsh1gCGJG32QpcSu6bVRimwgErjlAPEVxrlbzDEq654JKMxuGBIkqy4bXggzVS55ZJn20u4R66v5JxS2EfSSvD5xDsQGcPNKZjQOMQLI1qfAJGkfwpD7iQf",
+      "link": "https://s.click.aliexpress.com/e/_c3aQFNE7",
       "has_affiliate": true,
-      "current_price": 632.09,
+      "current_price": 619.99,
       "min_price": 572.14,
       "min_price_at": "2026-10-27",
       "monitored_since": "2026-10-24",
@@ -231,6 +239,10 @@
         {
           "date": "2026-11-08",
           "price": 632.09
+        },
+        {
+          "date": "2026-11-09",
+          "price": 619.99
         }
       ]
     },

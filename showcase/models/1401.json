@@ -151,6 +151,10 @@
         {
           "date": "2026-11-08",
           "price": 10696.05
+        },
+        {
+          "date": "2026-11-09",
+          "price": 10696.05
         }
       ]
     },
@@ -159,7 +163,7 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/Apple-iPhone-Pro-Max-256/dp/B0FQGTT4V7/ref=sr_1_1_sspa?tag=producttra043-20",
       "has_affiliate": true,
-      "current_price": 10799.0,
+      "current_price": 10696.05,
       "min_price": 8429.99,
       "min_price_at": "2026-10-08",
       "monitored_since": "2026-10-01",
@@ -299,6 +303,10 @@
         {
           "date": "2026-11-08",
           "price": 10799.0
+        },
+        {
+          "date": "2026-11-09",
+          "price": 10696.05
         }
       ]
     },
@@ -446,6 +454,10 @@
         },
         {
           "date": "2026-11-08",
+          "price": 9199.99
+        },
+        {
+          "date": "2026-11-09",
           "price": 9199.99
         }
       ]

@@ -11,7 +11,7 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/dp/B0GKQTCXL8?ref=cm_sw_r_cso_cp_apan_dp_LIGHTSABER16JX9JABPU&ref_=cm_sw_r_cso_cp_apan_dp_LIGHTSABER16JX9JABPU&social_share=cm_sw_r_cso_cp_apan_dp_LIGHTSABER16JX9JABPU&th=1&tag=producttra043-20",
       "has_affiliate": true,
-      "current_price": 4319.1,
+      "current_price": 4319.11,
       "min_price": 4166.99,
       "min_price_at": "2026-10-22",
       "monitored_since": "2026-09-09",
@@ -263,6 +263,10 @@
         {
           "date": "2026-11-09",
           "price": 4319.1
+        },
+        {
+          "date": "2026-11-10",
+          "price": 4319.1
         }
       ]
     },
@@ -343,6 +347,10 @@
         {
           "date": "2026-11-09",
           "price": 4799.0
+        },
+        {
+          "date": "2026-11-10",
+          "price": 4799.0
         }
       ]
     },
@@ -422,6 +430,10 @@
         },
         {
           "date": "2026-11-09",
+          "price": 5332.22
+        },
+        {
+          "date": "2026-11-10",
           "price": 5332.22
         }
       ]

@@ -83,6 +83,10 @@
         {
           "date": "2026-11-09",
           "price": 1080.0
+        },
+        {
+          "date": "2026-11-10",
+          "price": 1080.0
         }
       ]
     },
@@ -91,9 +95,9 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/dp/B07YD579WM?tag=producttra043-20",
       "has_affiliate": true,
-      "current_price": 947.0,
-      "min_price": 947.0,
-      "min_price_at": "2026-10-31",
+      "current_price": 883.8,
+      "min_price": 883.8,
+      "min_price_at": "2026-11-10",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -163,6 +167,10 @@
         {
           "date": "2026-11-09",
           "price": 947.0
+        },
+        {
+          "date": "2026-11-10",
+          "price": 883.8
         }
       ]
     },
@@ -171,7 +179,7 @@
       "label": "KaBuM!",
       "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F167492%2Fssd-crucial-bx500-1tb-sata-6gb-s-2-5-leitura-540-mb-s-escrita-500-mb-s-preto-ct1000bx500ssd1",
       "has_affiliate": true,
-      "current_price": 978.21,
+      "current_price": 1099.0,
       "min_price": 883.71,
       "min_price_at": "2026-11-04",
       "monitored_since": "2026-10-24",
@@ -243,6 +251,10 @@
         {
           "date": "2026-11-09",
           "price": 978.21
+        },
+        {
+          "date": "2026-11-10",
+          "price": 1099.0
         }
       ]
     },
@@ -318,6 +330,10 @@
         },
         {
           "date": "2026-11-09",
+          "price": 1129.4
+        },
+        {
+          "date": "2026-11-10",
           "price": 1129.4
         }
       ]

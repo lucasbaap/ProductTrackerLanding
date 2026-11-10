@@ -83,6 +83,10 @@
         {
           "date": "2026-11-09",
           "price": 3774.0
+        },
+        {
+          "date": "2026-11-10",
+          "price": 3774.0
         }
       ]
     },
@@ -91,7 +95,7 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/dp/B0CHBJXG7G?tag=producttra043-20",
       "has_affiliate": true,
-      "current_price": 3058.81,
+      "current_price": 3399.0,
       "min_price": 3058.81,
       "min_price_at": "2026-11-04",
       "monitored_since": "2026-10-24",
@@ -163,6 +167,10 @@
         {
           "date": "2026-11-09",
           "price": 3058.81
+        },
+        {
+          "date": "2026-11-10",
+          "price": 3399.0
         }
       ]
     },
@@ -243,6 +251,10 @@
         {
           "date": "2026-11-09",
           "price": 2599.99
+        },
+        {
+          "date": "2026-11-10",
+          "price": 2599.99
         }
       ]
     },
@@ -251,9 +263,9 @@
       "label": "Pichau",
       "link": "https://www.pichau.com.br/processador-intel-core-i9-14900kf-24-core-32-threads-3-2ghz-6-0ghz-turbo-cache-36mb-lga1700-bx8071514900kf",
       "has_affiliate": true,
-      "current_price": 3411.75,
-      "min_price": 3411.75,
-      "min_price_at": "2026-10-24",
+      "current_price": 3047.04,
+      "min_price": 3047.04,
+      "min_price_at": "2026-11-10",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -323,6 +335,10 @@
         {
           "date": "2026-11-09",
           "price": 3411.75
+        },
+        {
+          "date": "2026-11-10",
+          "price": 3047.04
         }
       ]
     }

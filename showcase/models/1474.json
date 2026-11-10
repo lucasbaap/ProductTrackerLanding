@@ -83,6 +83,10 @@
         {
           "date": "2026-11-09",
           "price": 2634.99
+        },
+        {
+          "date": "2026-11-10",
+          "price": 2634.99
         }
       ]
     },
@@ -91,7 +95,7 @@
       "label": "Terabyte",
       "link": "https://www.terabyteshop.com.br/produto/36287/processador-intel-core-ultra-7-265f-24ghz-53ghz-turbo-serie-2-20-cores-20-threads-lga-1851-bx80768265f",
       "has_affiliate": true,
-      "current_price": 1858.81,
+      "current_price": 1941.16,
       "min_price": 1858.81,
       "min_price_at": "2026-11-07",
       "monitored_since": "2026-10-24",
@@ -159,6 +163,10 @@
         {
           "date": "2026-11-09",
           "price": 1858.81
+        },
+        {
+          "date": "2026-11-10",
+          "price": 1941.16
         }
       ]
     }

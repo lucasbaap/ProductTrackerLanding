@@ -83,6 +83,10 @@
         {
           "date": "2026-11-09",
           "price": 2853.9
+        },
+        {
+          "date": "2026-11-10",
+          "price": 2853.9
         }
       ]
     },
@@ -91,7 +95,7 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/ASUS-TUF-GAMING-Z890-PLUS-WIFI/dp/B0DGWNVCHL?tag=producttra043-20",
       "has_affiliate": true,
-      "current_price": 2648.0,
+      "current_price": 2671.0,
       "min_price": 2283.64,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -163,6 +167,10 @@
         {
           "date": "2026-11-09",
           "price": 2648.0
+        },
+        {
+          "date": "2026-11-10",
+          "price": 2671.0
         }
       ]
     },
@@ -243,6 +251,10 @@
         {
           "date": "2026-11-09",
           "price": 2684.55
+        },
+        {
+          "date": "2026-11-10",
+          "price": 2684.55
         }
       ]
     },
@@ -306,6 +318,10 @@
         },
         {
           "date": "2026-11-09",
+          "price": 2941.16
+        },
+        {
+          "date": "2026-11-10",
           "price": 2941.16
         }
       ]
@@ -386,6 +402,10 @@
         },
         {
           "date": "2026-11-09",
+          "price": 2823.52
+        },
+        {
+          "date": "2026-11-10",
           "price": 2823.52
         }
       ]

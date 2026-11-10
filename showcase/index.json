@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T11:27:24-03:00",
+  "generated_at": "2026-11-10T11:22:50-03:00",
   "categories": [
     {
       "id": 43,
@@ -53,7 +53,7 @@
       "brand": "Samsung",
       "image_url": null,
       "position": 0,
-      "price_from": 6569.1,
+      "price_from": 7299.0,
       "currency": "BRL",
       "model_count": 2
     },
@@ -65,7 +65,7 @@
       "brand": "Samsung",
       "image_url": null,
       "position": 1,
-      "price_from": 4319.1,
+      "price_from": 4319.11,
       "currency": "BRL",
       "model_count": 2
     },
@@ -77,7 +77,7 @@
       "brand": "Samsung",
       "image_url": null,
       "position": 2,
-      "price_from": 4319.1,
+      "price_from": 4319.11,
       "currency": "BRL",
       "model_count": 2
     },
@@ -89,7 +89,7 @@
       "brand": "Samsung",
       "image_url": null,
       "position": 3,
-      "price_from": 3799.05,
+      "price_from": 3998.97,
       "currency": "BRL",
       "model_count": 4
     },
@@ -137,7 +137,7 @@
       "brand": "Samsung",
       "image_url": null,
       "position": 7,
-      "price_from": 2488.5,
+      "price_from": 2399.0,
       "currency": "BRL",
       "model_count": 2
     },
@@ -197,7 +197,7 @@
       "brand": "Samsung",
       "image_url": null,
       "position": 12,
-      "price_from": 5332.22,
+      "price_from": 4798.8,
       "currency": "BRL",
       "model_count": 2
     },
@@ -221,7 +221,7 @@
       "brand": "Samsung",
       "image_url": null,
       "position": 14,
-      "price_from": 3899.0,
+      "price_from": 3948.3,
       "currency": "BRL",
       "model_count": 2
     },
@@ -293,7 +293,7 @@
       "brand": "Apple",
       "image_url": null,
       "position": 20,
-      "price_from": 9700.0,
+      "price_from": 9500.0,
       "currency": "BRL",
       "model_count": 2
     },
@@ -353,7 +353,7 @@
       "brand": "Apple",
       "image_url": null,
       "position": 25,
-      "price_from": 8909.1,
+      "price_from": 9359.1,
       "currency": "BRL",
       "model_count": 1
     },
@@ -377,7 +377,7 @@
       "brand": "Motorola",
       "image_url": null,
       "position": 27,
-      "price_from": 4164.0,
+      "price_from": 3599.0,
       "currency": "BRL",
       "model_count": 1
     },
@@ -389,7 +389,7 @@
       "brand": "Motorola",
       "image_url": null,
       "position": 28,
-      "price_from": 5998.89,
+      "price_from": 5399.1,
       "currency": "BRL",
       "model_count": 2
     },
@@ -401,7 +401,7 @@
       "brand": "Motorola",
       "image_url": null,
       "position": 29,
-      "price_from": 3913.05,
+      "price_from": 3448.99,
       "currency": "BRL",
       "model_count": 1
     },
@@ -437,7 +437,7 @@
       "brand": "Motorola",
       "image_url": null,
       "position": 32,
-      "price_from": 3248.92,
+      "price_from": 2798.99,
       "currency": "BRL",
       "model_count": 2
     },
@@ -449,7 +449,7 @@
       "brand": "Motorola",
       "image_url": null,
       "position": 33,
-      "price_from": 1799.0,
+      "price_from": 1669.0,
       "currency": "BRL",
       "model_count": 1
     },
@@ -473,7 +473,7 @@
       "brand": "Motorola",
       "image_url": null,
       "position": 35,
-      "price_from": 1713.43,
+      "price_from": 1700.0,
       "currency": "BRL",
       "model_count": 1
     },
@@ -485,7 +485,7 @@
       "brand": "Motorola",
       "image_url": null,
       "position": 36,
-      "price_from": 1332.0,
+      "price_from": 1146.31,
       "currency": "BRL",
       "model_count": 2
     },
@@ -509,7 +509,7 @@
       "brand": "Nintendo",
       "image_url": null,
       "position": 0,
-      "price_from": 3101.36,
+      "price_from": 3118.21,
       "currency": "BRL",
       "model_count": 2
     },
@@ -545,7 +545,7 @@
       "brand": "PlayStation",
       "image_url": null,
       "position": 3,
-      "price_from": 3570.4,
+      "price_from": 4300.0,
       "currency": "BRL",
       "model_count": 1
     },
@@ -581,7 +581,7 @@
       "brand": "Xbox",
       "image_url": null,
       "position": 6,
-      "price_from": 6886.55,
+      "price_from": 7070.0,
       "currency": "BRL",
       "model_count": 1
     },
@@ -629,7 +629,7 @@
       "brand": "MSI",
       "image_url": null,
       "position": 2,
-      "price_from": 619.99,
+      "price_from": 631.91,
       "currency": "BRL",
       "model_count": 1
     },
@@ -653,7 +653,7 @@
       "brand": "ASUS",
       "image_url": null,
       "position": 4,
-      "price_from": 525.46,
+      "price_from": 519.99,
       "currency": "BRL",
       "model_count": 1
     },
@@ -677,7 +677,7 @@
       "brand": "MSI",
       "image_url": null,
       "position": 6,
-      "price_from": 824.76,
+      "price_from": 846.85,
       "currency": "BRL",
       "model_count": 1
     },
@@ -713,7 +713,7 @@
       "brand": "ASUS",
       "image_url": null,
       "position": 9,
-      "price_from": 1149.99,
+      "price_from": 1059.22,
       "currency": "BRL",
       "model_count": 1
     },
@@ -761,7 +761,7 @@
       "brand": "Gigabyte",
       "image_url": null,
       "position": 13,
-      "price_from": 1806.92,
+      "price_from": 1816.74,
       "currency": "BRL",
       "model_count": 1
     },
@@ -821,7 +821,7 @@
       "brand": "ASUS",
       "image_url": null,
       "position": 18,
-      "price_from": 2648.0,
+      "price_from": 2671.0,
       "currency": "BRL",
       "model_count": 1
     },
@@ -857,7 +857,7 @@
       "brand": "AMD",
       "image_url": null,
       "position": 1,
-      "price_from": 4043.07,
+      "price_from": 4041.92,
       "currency": "BRL",
       "model_count": 1
     },
@@ -869,7 +869,7 @@
       "brand": "AMD",
       "image_url": null,
       "position": 2,
-      "price_from": 2687.63,
+      "price_from": 2686.86,
       "currency": "BRL",
       "model_count": 1
     },
@@ -881,7 +881,7 @@
       "brand": "AMD",
       "image_url": null,
       "position": 3,
-      "price_from": 3458.08,
+      "price_from": 3457.09,
       "currency": "BRL",
       "model_count": 1
     },
@@ -905,7 +905,7 @@
       "brand": "AMD",
       "image_url": null,
       "position": 5,
-      "price_from": 2693.26,
+      "price_from": 2692.5,
       "currency": "BRL",
       "model_count": 1
     },
@@ -1013,7 +1013,7 @@
       "brand": "AMD",
       "image_url": null,
       "position": 14,
-      "price_from": 2176.46,
+      "price_from": 2317.4,
       "currency": "BRL",
       "model_count": 1
     },
@@ -1025,7 +1025,7 @@
       "brand": "AMD",
       "image_url": null,
       "position": 15,
-      "price_from": 1700.57,
+      "price_from": 1700.08,
       "currency": "BRL",
       "model_count": 1
     },
@@ -1037,7 +1037,7 @@
       "brand": "AMD",
       "image_url": null,
       "position": 16,
-      "price_from": 1629.99,
+      "price_from": 1610.0,
       "currency": "BRL",
       "model_count": 1
     },
@@ -1061,7 +1061,7 @@
       "brand": "AMD",
       "image_url": null,
       "position": 18,
-      "price_from": 1089.98,
+      "price_from": 1089.99,
       "currency": "BRL",
       "model_count": 1
     },
@@ -1073,7 +1073,7 @@
       "brand": "AMD",
       "image_url": null,
       "position": 19,
-      "price_from": 264.98,
+      "price_from": 265.01,
       "currency": "BRL",
       "model_count": 1
     },
@@ -1085,7 +1085,7 @@
       "brand": "AMD",
       "image_url": null,
       "position": 20,
-      "price_from": 885.85,
+      "price_from": 885.95,
       "currency": "BRL",
       "model_count": 1
     },
@@ -1157,7 +1157,7 @@
       "brand": "Intel",
       "image_url": null,
       "position": 26,
-      "price_from": 1858.81,
+      "price_from": 1941.16,
       "currency": "BRL",
       "model_count": 1
     },
@@ -1229,7 +1229,7 @@
       "brand": "Intel",
       "image_url": null,
       "position": 32,
-      "price_from": 2214.9,
+      "price_from": 2226.94,
       "currency": "BRL",
       "model_count": 1
     },
@@ -1313,7 +1313,7 @@
       "brand": "Intel",
       "image_url": null,
       "position": 39,
-      "price_from": 3176.46,
+      "price_from": 2699.99,
       "currency": "BRL",
       "model_count": 1
     },
@@ -1397,7 +1397,7 @@
       "brand": "Intel",
       "image_url": null,
       "position": 46,
-      "price_from": 1886.18,
+      "price_from": 1896.44,
       "currency": "BRL",
       "model_count": 1
     },
@@ -1457,7 +1457,7 @@
       "brand": "Corsair",
       "image_url": null,
       "position": 0,
-      "price_from": 992.99,
+      "price_from": 1002.92,
       "currency": "BRL",
       "model_count": 1
     },
@@ -1565,7 +1565,7 @@
       "brand": "XPG",
       "image_url": null,
       "position": 9,
-      "price_from": 2199.99,
+      "price_from": 2099.99,
       "currency": "BRL",
       "model_count": 1
     },
@@ -1589,7 +1589,7 @@
       "brand": "Kingston",
       "image_url": null,
       "position": 11,
-      "price_from": 1905.25,
+      "price_from": 1904.71,
       "currency": "BRL",
       "model_count": 1
     },
@@ -1697,7 +1697,7 @@
       "brand": "Kingston",
       "image_url": null,
       "position": 1,
-      "price_from": 219.13,
+      "price_from": 219.07,
       "currency": "BRL",
       "model_count": 1
     },
@@ -1709,7 +1709,7 @@
       "brand": "SanDisk",
       "image_url": null,
       "position": 2,
-      "price_from": 509.61,
+      "price_from": 509.66,
       "currency": "BRL",
       "model_count": 1
     },
@@ -1745,7 +1745,7 @@
       "brand": "Samsung",
       "image_url": null,
       "position": 5,
-      "price_from": 329.55,
+      "price_from": 323.07,
       "currency": "BRL",
       "model_count": 1
     },
@@ -1757,7 +1757,7 @@
       "brand": "Crucial",
       "image_url": null,
       "position": 6,
-      "price_from": 947.0,
+      "price_from": 883.8,
       "currency": "BRL",
       "model_count": 1
     },
@@ -1781,7 +1781,7 @@
       "brand": "SanDisk",
       "image_url": null,
       "position": 8,
-      "price_from": 481.98,
+      "price_from": 481.85,
       "currency": "BRL",
       "model_count": 1
     },
@@ -1793,7 +1793,7 @@
       "brand": "ADATA",
       "image_url": null,
       "position": 9,
-      "price_from": 949.99,
+      "price_from": 963.76,
       "currency": "BRL",
       "model_count": 1
     },
@@ -1817,7 +1817,7 @@
       "brand": "WD",
       "image_url": null,
       "position": 11,
-      "price_from": 1073.25,
+      "price_from": 1019.25,
       "currency": "BRL",
       "model_count": 1
     },
@@ -1829,7 +1829,7 @@
       "brand": "Samsung",
       "image_url": null,
       "position": 12,
-      "price_from": 1283.94,
+      "price_from": 1295.5,
       "currency": "BRL",
       "model_count": 1
     },
@@ -1841,7 +1841,7 @@
       "brand": "Samsung",
       "image_url": null,
       "position": 13,
-      "price_from": 785.84,
+      "price_from": 785.93,
       "currency": "BRL",
       "model_count": 1
     },
@@ -1853,7 +1853,7 @@
       "brand": "Kingston",
       "image_url": null,
       "position": 14,
-      "price_from": 714.43,
+      "price_from": 714.23,
       "currency": "BRL",
       "model_count": 1
     },
@@ -1865,7 +1865,7 @@
       "brand": "WD/SanDisk",
       "image_url": null,
       "position": 15,
-      "price_from": 1461.28,
+      "price_from": 1475.53,
       "currency": "BRL",
       "model_count": 1
     },
@@ -1901,7 +1901,7 @@
       "brand": "Samsung",
       "image_url": null,
       "position": 18,
-      "price_from": 1540.71,
+      "price_from": 1540.87,
       "currency": "BRL",
       "model_count": 1
     },
@@ -1949,7 +1949,7 @@
       "brand": "WD/SanDisk",
       "image_url": null,
       "position": 22,
-      "price_from": 1461.28,
+      "price_from": 1475.53,
       "currency": "BRL",
       "model_count": 1
     },
@@ -1973,7 +1973,7 @@
       "brand": "Samsung",
       "image_url": null,
       "position": 24,
-      "price_from": 1793.99,
+      "price_from": 1793.82,
       "currency": "BRL",
       "model_count": 1
     },
@@ -1985,7 +1985,7 @@
       "brand": "SanDisk/WD",
       "image_url": null,
       "position": 25,
-      "price_from": 2040.94,
+      "price_from": 2039.99,
       "currency": "BRL",
       "model_count": 1
     },
@@ -1997,7 +1997,7 @@
       "brand": "Crucial",
       "image_url": null,
       "position": 26,
-      "price_from": 2165.55,
+      "price_from": 2177.32,
       "currency": "BRL",
       "model_count": 1
     }
@@ -2024,7 +2024,7 @@
       "slug": "samsung-galaxy-s26-ultra-12gb-256gb",
       "image_url": null,
       "position": 1,
-      "price_from": 6569.1,
+      "price_from": 7299.0,
       "currency": "BRL",
       "stores": [
         "amazon",
@@ -2038,7 +2038,7 @@
       "slug": "samsung-galaxy-s26-512gb",
       "image_url": null,
       "position": 0,
-      "price_from": 11299.0,
+      "price_from": 7443.0,
       "currency": "BRL",
       "stores": [
         "mercadolibre"
@@ -2051,7 +2051,7 @@
       "slug": "samsung-galaxy-s26-12gb-256gb",
       "image_url": null,
       "position": 1,
-      "price_from": 4319.1,
+      "price_from": 4319.11,
       "currency": "BRL",
       "stores": [
         "amazon"
@@ -2077,7 +2077,7 @@
       "slug": "samsung-galaxy-s26-2-12gb-256gb",
       "image_url": null,
       "position": 1,
-      "price_from": 4319.1,
+      "price_from": 4319.11,
       "currency": "BRL",
       "stores": [
         "amazon",
@@ -2118,7 +2118,7 @@
       "slug": "samsung-galaxy-s26-fe-8gb-128gb",
       "image_url": null,
       "position": 2,
-      "price_from": 3799.05,
+      "price_from": 3998.97,
       "currency": "BRL",
       "stores": [
         "amazon"
@@ -2223,7 +2223,7 @@
       "slug": "samsung-galaxy-z-flip8-12gb-256gb",
       "image_url": null,
       "position": 1,
-      "price_from": 6214.15,
+      "price_from": 6181.06,
       "currency": "BRL",
       "stores": [
         "amazon",
@@ -2251,7 +2251,7 @@
       "slug": "samsung-galaxy-a57-5g-8gb-256gb",
       "image_url": null,
       "position": 1,
-      "price_from": 2488.5,
+      "price_from": 2399.0,
       "currency": "BRL",
       "stores": [
         "amazon",
@@ -2348,7 +2348,7 @@
       "slug": "samsung-galaxy-a07-256gb",
       "image_url": null,
       "position": 0,
-      "price_from": 1298.87,
+      "price_from": 1049.0,
       "currency": "BRL",
       "stores": [
         "mercadolibre"
@@ -2361,7 +2361,7 @@
       "slug": "samsung-galaxy-a07-8gb-256gb",
       "image_url": null,
       "position": 1,
-      "price_from": 1049.0,
+      "price_from": 1299.0,
       "currency": "BRL",
       "stores": [
         "amazon",
@@ -2388,7 +2388,7 @@
       "slug": "samsung-galaxy-s25-ultra-12gb-256gb",
       "image_url": null,
       "position": 1,
-      "price_from": 5332.22,
+      "price_from": 4798.8,
       "currency": "BRL",
       "stores": [
         "amazon",
@@ -2403,7 +2403,7 @@
       "slug": "samsung-galaxy-s25-512gb",
       "image_url": null,
       "position": 0,
-      "price_from": 6700.0,
+      "price_from": 5399.0,
       "currency": "BRL",
       "stores": [
         "mercadolibre"
@@ -2429,7 +2429,7 @@
       "slug": "samsung-galaxy-s25-2-256gb",
       "image_url": null,
       "position": 0,
-      "price_from": 3949.0,
+      "price_from": 3948.3,
       "currency": "BRL",
       "stores": [
         "mercadolibre",
@@ -2443,7 +2443,7 @@
       "slug": "samsung-galaxy-s25-2-12gb-256gb",
       "image_url": null,
       "position": 1,
-      "price_from": 3899.0,
+      "price_from": 4332.22,
       "currency": "BRL",
       "stores": [
         "amazon",
@@ -2590,7 +2590,7 @@
       "slug": "apple-iphone-18-pro-max-256gb",
       "image_url": null,
       "position": 0,
-      "price_from": 9700.0,
+      "price_from": 9500.0,
       "currency": "BRL",
       "stores": [
         "mercadolibre",
@@ -2690,7 +2690,7 @@
       "slug": "apple-iphone-17-pro-256gb",
       "image_url": null,
       "position": 0,
-      "price_from": 8909.1,
+      "price_from": 9359.1,
       "currency": "BRL",
       "stores": [
         "mercadolibre",
@@ -2720,7 +2720,7 @@
       "slug": "motorola-razr-70-5g-8gb-256gb",
       "image_url": null,
       "position": 0,
-      "price_from": 4164.0,
+      "price_from": 3599.0,
       "currency": "BRL",
       "stores": [
         "mercadolibre",
@@ -2747,7 +2747,7 @@
       "slug": "motorola-signature-5g-24gb-512gb",
       "image_url": null,
       "position": 1,
-      "price_from": 5998.89,
+      "price_from": 5399.1,
       "currency": "BRL",
       "stores": [
         "amazon",
@@ -2761,7 +2761,7 @@
       "slug": "motorola-edge-70-pro-5g-24gb-256gb",
       "image_url": null,
       "position": 0,
-      "price_from": 3913.05,
+      "price_from": 3448.99,
       "currency": "BRL",
       "stores": [
         "amazon",
@@ -2815,7 +2815,7 @@
       "slug": "motorola-edge-70-5g-12gb-512gb",
       "image_url": null,
       "position": 0,
-      "price_from": 5073.83,
+      "price_from": 3699.0,
       "currency": "BRL",
       "stores": [
         "mercadolibre"
@@ -2828,7 +2828,7 @@
       "slug": "motorola-edge-70-5g-24gb-256gb",
       "image_url": null,
       "position": 1,
-      "price_from": 3248.92,
+      "price_from": 2798.99,
       "currency": "BRL",
       "stores": [
         "amazon",
@@ -2842,7 +2842,7 @@
       "slug": "motorola-moto-g-max-5g-g87-24gb-256gb",
       "image_url": null,
       "position": 0,
-      "price_from": 1799.0,
+      "price_from": 1669.0,
       "currency": "BRL",
       "stores": [
         "amazon",
@@ -2871,7 +2871,7 @@
       "slug": "motorola-moto-g67-5g-12gb-256gb",
       "image_url": null,
       "position": 0,
-      "price_from": 1713.43,
+      "price_from": 1700.0,
       "currency": "BRL",
       "stores": [
         "mercadolibre",
@@ -2900,7 +2900,7 @@
       "slug": "motorola-moto-g47-5g-12gb-128gb",
       "image_url": null,
       "position": 1,
-      "price_from": 1332.0,
+      "price_from": 1146.31,
       "currency": "BRL",
       "stores": [
         "amazon"
@@ -2928,7 +2928,7 @@
       "slug": "nintendo-switch-2-avulso",
       "image_url": null,
       "position": 0,
-      "price_from": 3101.36,
+      "price_from": 3118.21,
       "currency": "BRL",
       "stores": [
         "mercadolibre",
@@ -2989,7 +2989,7 @@
       "slug": "playstation-5-slim-c-leitor-1tb-com-leitor-de-disco",
       "image_url": null,
       "position": 0,
-      "price_from": 3570.4,
+      "price_from": 4300.0,
       "currency": "BRL",
       "stores": [
         "mercadolibre",
@@ -3036,7 +3036,7 @@
       "slug": "xbox-series-x-1tb",
       "image_url": null,
       "position": 0,
-      "price_from": 6886.55,
+      "price_from": 7070.0,
       "currency": "BRL",
       "stores": [
         "mercadolibre",
@@ -3092,7 +3092,7 @@
       "slug": "msi-b550m-pro-vdh-wifi",
       "image_url": null,
       "position": 0,
-      "price_from": 619.99,
+      "price_from": 631.91,
       "currency": "BRL",
       "stores": [
         "mercadolibre",
@@ -3127,7 +3127,7 @@
       "slug": "asus-prime-b550m-k",
       "image_url": null,
       "position": 0,
-      "price_from": 525.46,
+      "price_from": 519.99,
       "currency": "BRL",
       "stores": [
         "mercadolibre",
@@ -3158,7 +3158,7 @@
       "slug": "msi-mag-b650-tomahawk-wifi",
       "image_url": null,
       "position": 0,
-      "price_from": 824.76,
+      "price_from": 846.85,
       "currency": "BRL",
       "stores": [
         "mercadolibre",
@@ -3206,7 +3206,7 @@
       "slug": "asus-tuf-gaming-b650m-e-wifi",
       "image_url": null,
       "position": 0,
-      "price_from": 1149.99,
+      "price_from": 1059.22,
       "currency": "BRL",
       "stores": [
         "mercadolibre",
@@ -3270,7 +3270,7 @@
       "slug": "gigabyte-b760-gaming-x-ax",
       "image_url": null,
       "position": 0,
-      "price_from": 1806.92,
+      "price_from": 1816.74,
       "currency": "BRL",
       "stores": [
         "mercadolibre"
@@ -3347,7 +3347,7 @@
       "slug": "asus-tuf-gaming-z890-plus-wifi",
       "image_url": null,
       "position": 0,
-      "price_from": 2648.0,
+      "price_from": 2671.0,
       "currency": "BRL",
       "stores": [
         "mercadolibre",
@@ -3394,7 +3394,7 @@
       "slug": "amd-ryzen-9-9950x3d",
       "image_url": null,
       "position": 0,
-      "price_from": 4043.07,
+      "price_from": 4041.92,
       "currency": "BRL",
       "stores": [
         "kabum",
@@ -3411,7 +3411,7 @@
       "slug": "amd-ryzen-9-9950x",
       "image_url": null,
       "position": 0,
-      "price_from": 2687.63,
+      "price_from": 2686.86,
       "currency": "BRL",
       "stores": [
         "kabum",
@@ -3427,7 +3427,7 @@
       "slug": "amd-ryzen-9-9900x3d",
       "image_url": null,
       "position": 0,
-      "price_from": 3458.08,
+      "price_from": 3457.09,
       "currency": "BRL",
       "stores": [
         "kabum",
@@ -3460,7 +3460,7 @@
       "slug": "amd-ryzen-7-9850x3d",
       "image_url": null,
       "position": 0,
-      "price_from": 2693.26,
+      "price_from": 2692.5,
       "currency": "BRL",
       "stores": [
         "pichau",
@@ -3599,7 +3599,7 @@
       "slug": "amd-ryzen-9-7900",
       "image_url": null,
       "position": 0,
-      "price_from": 2176.46,
+      "price_from": 2317.4,
       "currency": "BRL",
       "stores": [
         "pichau",
@@ -3614,7 +3614,7 @@
       "slug": "amd-ryzen-7-7800x3d",
       "image_url": null,
       "position": 0,
-      "price_from": 1700.57,
+      "price_from": 1700.08,
       "currency": "BRL",
       "stores": [
         "kabum",
@@ -3632,7 +3632,7 @@
       "slug": "amd-ryzen-7-7700x",
       "image_url": null,
       "position": 0,
-      "price_from": 1629.99,
+      "price_from": 1610.0,
       "currency": "BRL",
       "stores": [
         "kabum",
@@ -3669,7 +3669,7 @@
       "slug": "amd-ryzen-5-7600x",
       "image_url": null,
       "position": 0,
-      "price_from": 1089.98,
+      "price_from": 1089.99,
       "currency": "BRL",
       "stores": [
         "kabum",
@@ -3687,7 +3687,7 @@
       "slug": "amd-ryzen-5-7600",
       "image_url": null,
       "position": 0,
-      "price_from": 264.98,
+      "price_from": 265.01,
       "currency": "BRL",
       "stores": [
         "kabum",
@@ -3704,7 +3704,7 @@
       "slug": "amd-ryzen-5-7500f",
       "image_url": null,
       "position": 0,
-      "price_from": 885.85,
+      "price_from": 885.95,
       "currency": "BRL",
       "stores": [
         "amazon",
@@ -3802,7 +3802,7 @@
       "slug": "intel-core-ultra-7-265f",
       "image_url": null,
       "position": 0,
-      "price_from": 1858.81,
+      "price_from": 1941.16,
       "currency": "BRL",
       "stores": [
         "kabum",
@@ -3898,7 +3898,7 @@
       "slug": "intel-core-ultra-5-235",
       "image_url": null,
       "position": 0,
-      "price_from": 2214.9,
+      "price_from": 2226.94,
       "currency": "BRL",
       "stores": [
         "mercadolibre",
@@ -4001,7 +4001,7 @@
       "slug": "intel-core-i9-14900f",
       "image_url": null,
       "position": 0,
-      "price_from": 3176.46,
+      "price_from": 2699.99,
       "currency": "BRL",
       "stores": [
         "mercadolibre",
@@ -4107,7 +4107,7 @@
       "slug": "intel-core-i5-14500",
       "image_url": null,
       "position": 0,
-      "price_from": 1886.18,
+      "price_from": 1896.44,
       "currency": "BRL",
       "stores": [
         "mercadolibre",
@@ -4186,7 +4186,7 @@
       "slug": "corsair-vengeance-lpx-cmk16gx4m2e3200c16-16gb-2x8-ddr4-3200",
       "image_url": null,
       "position": 0,
-      "price_from": 992.99,
+      "price_from": 1002.92,
       "currency": "BRL",
       "stores": [
         "mercadolibre",
@@ -4310,7 +4310,7 @@
       "slug": "xpg-lancer-blade-ax5u6000c4816g-dtlabwh-16gb-1x8-ddr5-6000",
       "image_url": null,
       "position": 0,
-      "price_from": 2199.99,
+      "price_from": 2099.99,
       "currency": "BRL",
       "stores": [
         "kabum"
@@ -4334,7 +4334,7 @@
       "slug": "kingston-fury-beast-expo-kf560c36bbek2-16-16gb-1x16-ddr5-6000-cl36",
       "image_url": null,
       "position": 0,
-      "price_from": 1905.25,
+      "price_from": 1904.71,
       "currency": "BRL",
       "stores": [
         "aliexpress"
@@ -4458,7 +4458,7 @@
       "slug": "kingston-a400-480gb-sata-2-5",
       "image_url": null,
       "position": 0,
-      "price_from": 219.13,
+      "price_from": 219.07,
       "currency": "BRL",
       "stores": [
         "mercadolibre",
@@ -4476,7 +4476,7 @@
       "slug": "sandisk-ssd-plus-500gb-sata-2-5",
       "image_url": null,
       "position": 0,
-      "price_from": 509.61,
+      "price_from": 509.66,
       "currency": "BRL",
       "stores": [
         "amazon",
@@ -4522,7 +4522,7 @@
       "slug": "samsung-870-evo-1tb-sata",
       "image_url": null,
       "position": 0,
-      "price_from": 329.55,
+      "price_from": 323.07,
       "currency": "BRL",
       "stores": [
         "mercadolibre",
@@ -4538,7 +4538,7 @@
       "slug": "crucial-bx500-1tb-sata",
       "image_url": null,
       "position": 0,
-      "price_from": 947.0,
+      "price_from": 883.8,
       "currency": "BRL",
       "stores": [
         "mercadolibre",
@@ -4567,7 +4567,7 @@
       "slug": "sandisk-ssd-plus-1tb-sata",
       "image_url": null,
       "position": 0,
-      "price_from": 481.98,
+      "price_from": 481.85,
       "currency": "BRL",
       "stores": [
         "mercadolibre",
@@ -4583,7 +4583,7 @@
       "slug": "adata-su650-1tb-sata",
       "image_url": null,
       "position": 0,
-      "price_from": 949.99,
+      "price_from": 963.76,
       "currency": "BRL",
       "stores": [
         "mercadolibre",
@@ -4615,7 +4615,7 @@
       "slug": "wd-blue-sn570-1tb-nvme-gen3",
       "image_url": null,
       "position": 0,
-      "price_from": 1073.25,
+      "price_from": 1019.25,
       "currency": "BRL",
       "stores": [
         "amazon",
@@ -4629,7 +4629,7 @@
       "slug": "samsung-980-1tb-nvme-gen3",
       "image_url": null,
       "position": 0,
-      "price_from": 1283.94,
+      "price_from": 1295.5,
       "currency": "BRL",
       "stores": [
         "mercadolibre",
@@ -4643,7 +4643,7 @@
       "slug": "samsung-990-pro-1tb-nvme-gen4",
       "image_url": null,
       "position": 0,
-      "price_from": 785.84,
+      "price_from": 785.93,
       "currency": "BRL",
       "stores": [
         "mercadolibre",
@@ -4659,7 +4659,7 @@
       "slug": "kingston-kc3000-1tb-nvme-gen4",
       "image_url": null,
       "position": 0,
-      "price_from": 714.43,
+      "price_from": 714.23,
       "currency": "BRL",
       "stores": [
         "amazon",
@@ -4673,7 +4673,7 @@
       "slug": "wd-sandisk-black-sn850x-1tb-nvme-gen4",
       "image_url": null,
       "position": 0,
-      "price_from": 1461.28,
+      "price_from": 1475.53,
       "currency": "BRL",
       "stores": [
         "amazon",
@@ -4718,7 +4718,7 @@
       "slug": "samsung-990-pro-2tb-nvme-gen4",
       "image_url": null,
       "position": 0,
-      "price_from": 1540.71,
+      "price_from": 1540.87,
       "currency": "BRL",
       "stores": [
         "mercadolibre",
@@ -4781,7 +4781,7 @@
       "slug": "wd-sandisk-black-sn850x-2tb-nvme-gen4",
       "image_url": null,
       "position": 0,
-      "price_from": 1461.28,
+      "price_from": 1475.53,
       "currency": "BRL",
       "stores": [
         "mercadolibre",
@@ -4812,7 +4812,7 @@
       "slug": "samsung-9100-pro-nvme-gen5",
       "image_url": null,
       "position": 0,
-      "price_from": 1793.99,
+      "price_from": 1793.82,
       "currency": "BRL",
       "stores": [
         "mercadolibre",
@@ -4828,7 +4828,7 @@
       "slug": "sandisk-wd-black-sn8100-nvme-gen5",
       "image_url": null,
       "position": 0,
-      "price_from": 2040.94,
+      "price_from": 2039.99,
       "currency": "BRL",
       "stores": [
         "mercadolibre",
@@ -4842,7 +4842,7 @@
       "slug": "crucial-t705-nvme-gen5",
       "image_url": null,
       "position": 0,
-      "price_from": 2165.55,
+      "price_from": 2177.32,
       "currency": "BRL",
       "stores": [
         "mercadolibre"

@@ -83,6 +83,10 @@
         {
           "date": "2026-11-09",
           "price": 1017.0
+        },
+        {
+          "date": "2026-11-10",
+          "price": 1017.0
         }
       ]
     },
@@ -158,6 +162,10 @@
         },
         {
           "date": "2026-11-09",
+          "price": 1180.0
+        },
+        {
+          "date": "2026-11-10",
           "price": 1180.0
         }
       ]
@@ -239,6 +247,10 @@
         {
           "date": "2026-11-09",
           "price": 829.99
+        },
+        {
+          "date": "2026-11-10",
+          "price": 829.99
         }
       ]
     },
@@ -247,9 +259,9 @@
       "label": "Pichau",
       "link": "https://www.pichau.com.br/processador-intel-core-i3-14100-4-core-8-threads-3-5ghz-4-7ghz-turbo-cache-12mb-lga1700-bx8071514100",
       "has_affiliate": true,
-      "current_price": 988.22,
-      "min_price": 988.22,
-      "min_price_at": "2026-11-04",
+      "current_price": 976.46,
+      "min_price": 976.46,
+      "min_price_at": "2026-11-10",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -319,6 +331,10 @@
         {
           "date": "2026-11-09",
           "price": 988.22
+        },
+        {
+          "date": "2026-11-10",
+          "price": 976.46
         }
       ]
     }

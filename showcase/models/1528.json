@@ -83,6 +83,10 @@
         {
           "date": "2026-11-09",
           "price": 1070.65
+        },
+        {
+          "date": "2026-11-10",
+          "price": 1070.65
         }
       ]
     },
@@ -163,6 +167,10 @@
         {
           "date": "2026-11-09",
           "price": 1410.75
+        },
+        {
+          "date": "2026-11-10",
+          "price": 1410.75
         }
       ]
     },
@@ -171,7 +179,7 @@
       "label": "KaBuM!",
       "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F373624%2Fssd-adata-1tb-legend-710-m-2-2280-nvme-aleg-710-1tcs",
       "has_affiliate": true,
-      "current_price": 1342.22,
+      "current_price": 1361.66,
       "min_price": 1342.22,
       "min_price_at": "2026-10-28",
       "monitored_since": "2026-10-24",
@@ -243,6 +251,10 @@
         {
           "date": "2026-11-09",
           "price": 1342.22
+        },
+        {
+          "date": "2026-11-10",
+          "price": 1361.66
         }
       ]
     },
@@ -322,6 +334,10 @@
         },
         {
           "date": "2026-11-09",
+          "price": 1411.65
+        },
+        {
+          "date": "2026-11-10",
           "price": 1411.65
         }
       ]

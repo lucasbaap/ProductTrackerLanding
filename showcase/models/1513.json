@@ -11,7 +11,7 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/dp/B0C3RYHZJQ?tag=producttra043-20",
       "has_affiliate": true,
-      "current_price": 5399.0,
+      "current_price": 6762.89,
       "min_price": 5399.0,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -83,6 +83,10 @@
         {
           "date": "2026-11-09",
           "price": 5399.0
+        },
+        {
+          "date": "2026-11-10",
+          "price": 6762.89
         }
       ]
     },
@@ -91,7 +95,7 @@
       "label": "Pichau",
       "link": "https://www.pichau.com.br/memoria-corsair-vengeance-32gb-2x16gb-ddr5-6000mhz-c30-preto-cmk32gx5m2b6000c30",
       "has_affiliate": true,
-      "current_price": 6352.93,
+      "current_price": 6470.58,
       "min_price": 6352.93,
       "min_price_at": "2026-11-06",
       "monitored_since": "2026-10-24",
@@ -163,6 +167,10 @@
         {
           "date": "2026-11-09",
           "price": 6352.93
+        },
+        {
+          "date": "2026-11-10",
+          "price": 6470.58
         }
       ]
     },
@@ -242,6 +250,10 @@
         },
         {
           "date": "2026-11-09",
+          "price": 5399.0
+        },
+        {
+          "date": "2026-11-10",
           "price": 5399.0
         }
       ]

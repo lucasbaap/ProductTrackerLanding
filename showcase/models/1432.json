@@ -83,6 +83,10 @@
         {
           "date": "2026-11-09",
           "price": 651.0
+        },
+        {
+          "date": "2026-11-10",
+          "price": 651.0
         }
       ]
     },
@@ -163,6 +167,10 @@
         {
           "date": "2026-11-09",
           "price": 549.0
+        },
+        {
+          "date": "2026-11-10",
+          "price": 549.0
         }
       ]
     },
@@ -171,9 +179,9 @@
       "label": "KaBuM!",
       "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F992806%2Fplaca-mae-asus-prime-b550m-k-am4-ddr4-hdmi-display-port-micro-atx-argb-90mb1gc0-m0eay0",
       "has_affiliate": true,
-      "current_price": 525.46,
-      "min_price": 525.46,
-      "min_price_at": "2026-11-05",
+      "current_price": 519.99,
+      "min_price": 519.99,
+      "min_price_at": "2026-11-10",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -239,6 +247,10 @@
         {
           "date": "2026-11-09",
           "price": 525.46
+        },
+        {
+          "date": "2026-11-10",
+          "price": 519.99
         }
       ]
     }

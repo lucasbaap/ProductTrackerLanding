@@ -87,6 +87,10 @@
         {
           "date": "2026-11-10",
           "price": 1887.78
+        },
+        {
+          "date": "2026-11-11",
+          "price": 1887.78
         }
       ]
     },
@@ -95,7 +99,7 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/dp/B0GLRY996D?tag=producttra043-20",
       "has_affiliate": true,
-      "current_price": 1700.0,
+      "current_price": 1615.0,
       "min_price": 1329.9,
       "min_price_at": "2026-11-04",
       "monitored_since": "2026-10-24",
@@ -171,6 +175,10 @@
         {
           "date": "2026-11-10",
           "price": 1700.0
+        },
+        {
+          "date": "2026-11-11",
+          "price": 1615.0
         }
       ]
     },
@@ -179,7 +187,7 @@
       "label": "KaBuM!",
       "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F1012769%2Fsmartphone-motorola-moto-g67-5g-256gb-verde-claro-12gb-4gb-ram-8gb-ram-boost-camera-50mp-e-tela-6-8-",
       "has_affiliate": true,
-      "current_price": 1713.43,
+      "current_price": 1749.97,
       "min_price": 1466.1,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -255,6 +263,10 @@
         {
           "date": "2026-11-10",
           "price": 1713.43
+        },
+        {
+          "date": "2026-11-11",
+          "price": 1749.97
         }
       ]
     }

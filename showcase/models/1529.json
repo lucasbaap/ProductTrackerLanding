@@ -87,6 +87,10 @@
         {
           "date": "2026-11-10",
           "price": 1282.0
+        },
+        {
+          "date": "2026-11-11",
+          "price": 1282.0
         }
       ]
     },
@@ -95,7 +99,7 @@
       "label": "KaBuM!",
       "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F1020444%2Fssd-nvme-wd-blue-sn570-1tb-m-2-2280-pcie-3-0-3500mb-s-wd",
       "has_affiliate": true,
-      "current_price": 1019.25,
+      "current_price": 1064.25,
       "min_price": 1019.25,
       "min_price_at": "2026-11-10",
       "monitored_since": "2026-10-24",
@@ -171,6 +175,10 @@
         {
           "date": "2026-11-10",
           "price": 1019.25
+        },
+        {
+          "date": "2026-11-11",
+          "price": 1064.25
         }
       ]
     }

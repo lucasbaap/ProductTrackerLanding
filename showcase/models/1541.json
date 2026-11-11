@@ -87,6 +87,10 @@
         {
           "date": "2026-11-10",
           "price": 2690.9
+        },
+        {
+          "date": "2026-11-11",
+          "price": 2690.9
         }
       ]
     },
@@ -166,6 +170,10 @@
         },
         {
           "date": "2026-11-10",
+          "price": 2599.0
+        },
+        {
+          "date": "2026-11-11",
           "price": 2599.0
         }
       ]
@@ -251,6 +259,10 @@
         {
           "date": "2026-11-10",
           "price": 2999.99
+        },
+        {
+          "date": "2026-11-11",
+          "price": 2999.99
         }
       ]
     },
@@ -259,7 +271,7 @@
       "label": "Pichau",
       "link": "https://www.pichau.com.br/ssd-kingston-fury-renegade-g5-1024gb-m-2-2280-pcie-5-0-nvme-leitura-14200mb-s-gravacao-11000mb-s-sfyr2s-1t0",
       "has_affiliate": true,
-      "current_price": 3529.4,
+      "current_price": 3811.75,
       "min_price": 3529.4,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -295,6 +307,10 @@
         {
           "date": "2026-11-01",
           "price": 3529.4
+        },
+        {
+          "date": "2026-11-11",
+          "price": 3811.75
         }
       ]
     }

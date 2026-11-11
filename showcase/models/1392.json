@@ -11,9 +11,9 @@
       "label": "Mercado Livre",
       "link": "https://www.mercadolivre.com.br/p/MLB47114363?matt_word=balu1353476&matt_tool=29239275",
       "has_affiliate": true,
-      "current_price": 2498.86,
-      "min_price": 2498.86,
-      "min_price_at": "2026-11-01",
+      "current_price": 2498.0,
+      "min_price": 2498.0,
+      "min_price_at": "2026-11-11",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -87,6 +87,10 @@
         {
           "date": "2026-11-10",
           "price": 2498.86
+        },
+        {
+          "date": "2026-11-11",
+          "price": 2498.0
         }
       ]
     }

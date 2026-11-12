@@ -91,6 +91,10 @@
         {
           "date": "2026-11-11",
           "price": 1994.99
+        },
+        {
+          "date": "2026-11-12",
+          "price": 1994.99
         }
       ]
     },
@@ -159,7 +163,7 @@
       "label": "KaBuM!",
       "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F902507%2Fplaca-mae-msi-mag-b860-tomahawk-wifi-7-lga-1851-4xddr5-chipset-intel-b860-atx",
       "has_affiliate": true,
-      "current_price": 1875.72,
+      "current_price": 2259.0,
       "min_price": 1875.72,
       "min_price_at": "2026-11-07",
       "monitored_since": "2026-10-24",
@@ -239,6 +243,10 @@
         {
           "date": "2026-11-11",
           "price": 1875.72
+        },
+        {
+          "date": "2026-11-12",
+          "price": 2259.0
         }
       ]
     },

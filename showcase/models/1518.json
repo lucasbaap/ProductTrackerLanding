@@ -91,6 +91,10 @@
         {
           "date": "2026-11-11",
           "price": 599.0
+        },
+        {
+          "date": "2026-11-12",
+          "price": 599.0
         }
       ]
     },
@@ -179,6 +183,10 @@
         {
           "date": "2026-11-11",
           "price": 639.0
+        },
+        {
+          "date": "2026-11-12",
+          "price": 639.0
         }
       ]
     },
@@ -187,7 +195,7 @@
       "label": "KaBuM!",
       "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F404331%2Fssd-sata-500gb-crucial-bx500-ct500bx500ssd1",
       "has_affiliate": true,
-      "current_price": 749.9,
+      "current_price": 693.32,
       "min_price": 529.0,
       "min_price_at": "2026-10-30",
       "monitored_since": "2026-10-24",
@@ -267,6 +275,10 @@
         {
           "date": "2026-11-11",
           "price": 749.9
+        },
+        {
+          "date": "2026-11-12",
+          "price": 693.32
         }
       ]
     },
@@ -275,9 +287,9 @@
       "label": "Pichau",
       "link": "https://www.pichau.com.br/ssd-crucial-bx500-500gb-2-5-sata-iii-6gb-s-leitura-550mb-s-gravac-o-500mb-s-ct500bx500ssd1",
       "has_affiliate": true,
-      "current_price": 835.28,
-      "min_price": 835.28,
-      "min_price_at": "2026-10-24",
+      "current_price": 823.52,
+      "min_price": 823.52,
+      "min_price_at": "2026-11-12",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -355,6 +367,10 @@
         {
           "date": "2026-11-11",
           "price": 835.28
+        },
+        {
+          "date": "2026-11-12",
+          "price": 823.52
         }
       ]
     }

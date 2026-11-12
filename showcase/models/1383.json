@@ -91,6 +91,10 @@
         {
           "date": "2026-11-11",
           "price": 4062.77
+        },
+        {
+          "date": "2026-11-12",
+          "price": 4062.77
         }
       ]
     },
@@ -99,9 +103,9 @@
       "label": "KaBuM!",
       "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F703055%2Fsmartphone-samsung-galaxy-s25-camera-tripla-256-gb-5g-azul-marinho-s931b",
       "has_affiliate": true,
-      "current_price": 3899.0,
-      "min_price": 3899.0,
-      "min_price_at": "2026-10-24",
+      "current_price": 3656.49,
+      "min_price": 3656.49,
+      "min_price_at": "2026-11-12",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -179,6 +183,10 @@
         {
           "date": "2026-11-11",
           "price": 3899.0
+        },
+        {
+          "date": "2026-11-12",
+          "price": 3656.49
         }
       ]
     }

@@ -91,6 +91,10 @@
         {
           "date": "2026-11-11",
           "price": 10379.0
+        },
+        {
+          "date": "2026-11-12",
+          "price": 10379.0
         }
       ]
     },
@@ -99,7 +103,7 @@
       "label": "KaBuM!",
       "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F906006%2Fsmartphone-samsung-galaxy-z-fold-7-5g-azul-512gb-16gb-ram-e-camera-tripla-de-200-mp-12mp-10mp-n-a",
       "has_affiliate": true,
-      "current_price": 9860.05,
+      "current_price": 10439.1,
       "min_price": 9860.05,
       "min_price_at": "2026-11-05",
       "monitored_since": "2026-10-24",
@@ -179,6 +183,10 @@
         {
           "date": "2026-11-11",
           "price": 9860.05
+        },
+        {
+          "date": "2026-11-12",
+          "price": 10439.1
         }
       ]
     }

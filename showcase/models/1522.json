@@ -11,7 +11,7 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/dp/B08QBMD6P4?tag=producttra043-20",
       "has_affiliate": true,
-      "current_price": 1928.62,
+      "current_price": 1951.17,
       "min_price": 1786.57,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -91,15 +91,19 @@
         {
           "date": "2026-11-11",
           "price": 1928.62
+        },
+        {
+          "date": "2026-11-12",
+          "price": 1951.17
         }
       ]
     },
     {
       "marketplace": "aliexpress",
       "label": "AliExpress",
-      "link": "https://s.click.aliexpress.com/s/fwx308cRD9Eny963e3KDdYxyIpNj8TXVr7saiF9Um5rMUg1kZtJALLnfa2LNXtiVgnxdD8Og6MmvwBoxhnSYQGM6r0c08U4TfX8DFGo7vviCuu3q62Q60OAhRZcqm3G8PtwM69xY7TOEWRrvulP5ukZQ4uQbBBtaVsdr6EffAqVmp3O5GyUANU2DoA3dJufNhDfh7KOlLgKIvRVhDxRESHLmea6fTE26gLUqKEUuuizJiLENrCbax94DZHDu8WhaXMN8fDE1HOLt4j1KZUcj471WKjwUetlj4ZWgS3yWx6lzuERHNTI3Zmy1QdFvD0l5CGMrCHZlk71ZjQXrOO2WJnsyGqPVjwtGB8JidzbLxmaDHrfftjMhQbptxaPaFKbMG7wkkkvr0p3c8PdsP7WJxSLE8SGdJgeDREE3UXWEdazxk5lLaufVVBXYN2us2gV4lKLE0lmeXIqDgxpJgsAKwKs1HSr0KzRIt0bBNMRjLJ9R31RlDpqw8t16AuwmSO4UAO7SjjHwDoFDLgesT9I0hvk6dkTrVje1ts1ixOs3PAxZ6d9tDKW80qO4Xum48dcdTZjKKqABhw2MJ8Ceq1YR2PAX4hn7RbS2MblV4W3IMsxqIiI973UqP98HVH1kVB9sF7FztDzVSn3gaL7ymDsaSVvMmxuYS9ACrJG3rrEiizMMy4gPqG5hxmwzeh2W4KVVpzijRCboYCOvDwbjszdFdKanYM1L3Z6HGVPLWmSZwurn7MOJqLbSrWoiq7RRx96eDvaJzZeCyvZTmEQTGl2WKizRfllcjc9xJ9GQE1OmQaMBJWsYi4diprQtyKnNRgQsIVSq5BRYUA3tyXvVmlhZ0zjzQk30vRleZBwlNFdO0QCz5yGdYM0isyf098W6HVvh3DtKDGEbVMjSS787LNIACmBrjMgEzFmQBeSTdeGmalaXrOH3qrH00XTopByjVq8XEVDdryHr1VYh395rnl",
+      "link": "https://s.click.aliexpress.com/e/_c4UMXjE7",
       "has_affiliate": true,
-      "current_price": 322.51,
+      "current_price": 339.58,
       "min_price": 317.98,
       "min_price_at": "2026-10-27",
       "monitored_since": "2026-10-24",
@@ -179,6 +183,10 @@
         {
           "date": "2026-11-11",
           "price": 322.51
+        },
+        {
+          "date": "2026-11-12",
+          "price": 339.58
         }
       ]
     },
@@ -187,7 +195,7 @@
       "label": "KaBuM!",
       "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F647831%2Fssd-500gb-2-5-sata-3-870-evo-560mb-s-leit-530mb-s-grav-mz-77e500b-eu-samsung",
       "has_affiliate": true,
-      "current_price": 848.43,
+      "current_price": 889.83,
       "min_price": 848.43,
       "min_price_at": "2026-11-11",
       "monitored_since": "2026-10-24",
@@ -267,6 +275,10 @@
         {
           "date": "2026-11-11",
           "price": 848.43
+        },
+        {
+          "date": "2026-11-12",
+          "price": 889.83
         }
       ]
     }

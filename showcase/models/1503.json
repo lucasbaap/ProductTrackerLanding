@@ -91,6 +91,10 @@
         {
           "date": "2026-11-11",
           "price": 2199.0
+        },
+        {
+          "date": "2026-11-12",
+          "price": 2199.0
         }
       ]
     },
@@ -179,6 +183,10 @@
         {
           "date": "2026-11-11",
           "price": 2935.28
+        },
+        {
+          "date": "2026-11-12",
+          "price": 2935.28
         }
       ]
     },
@@ -187,9 +195,9 @@
       "label": "KaBuM!",
       "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F382749%2Fmemoria-ram-corsair-vengeance-rgb-rs-32gb-2x16gb-3200mhz-ddr4-cl16-preto-cmg32gx4m2e3200c16",
       "has_affiliate": true,
-      "current_price": 2494.99,
-      "min_price": 2494.99,
-      "min_price_at": "2026-11-07",
+      "current_price": 2493.99,
+      "min_price": 2493.99,
+      "min_price_at": "2026-11-12",
       "monitored_since": "2026-11-07",
       "history": [
         {
@@ -211,6 +219,10 @@
         {
           "date": "2026-11-11",
           "price": 2494.99
+        },
+        {
+          "date": "2026-11-12",
+          "price": 2493.99
         }
       ]
     }

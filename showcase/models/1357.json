@@ -11,7 +11,7 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/dp/B0GKQTCXL8?ref=cm_sw_r_cso_cp_apan_dp_LIGHTSABER16JX9JABPU&ref_=cm_sw_r_cso_cp_apan_dp_LIGHTSABER16JX9JABPU&social_share=cm_sw_r_cso_cp_apan_dp_LIGHTSABER16JX9JABPU&th=1&tag=producttra043-20",
       "has_affiliate": true,
-      "current_price": 5332.22,
+      "current_price": 4776.67,
       "min_price": 4166.99,
       "min_price_at": "2026-10-22",
       "monitored_since": "2026-09-09",
@@ -270,7 +270,11 @@
         },
         {
           "date": "2026-11-11",
-          "price": 5332.22
+          "price": 4776.67
+        },
+        {
+          "date": "2026-11-12",
+          "price": 4776.67
         }
       ]
     },
@@ -279,9 +283,9 @@
       "label": "KaBuM!",
       "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F1007597%2Fsmartphone-samsung-galaxy-s26-5g-256gb-12gb-ram-tela-6-3-120hz-camera-50mp-preto-sm-s942bzkszto",
       "has_affiliate": true,
-      "current_price": 4799.0,
-      "min_price": 4799.0,
-      "min_price_at": "2026-10-24",
+      "current_price": 4299.0,
+      "min_price": 4299.0,
+      "min_price_at": "2026-11-12",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -359,13 +363,17 @@
         {
           "date": "2026-11-11",
           "price": 4799.0
+        },
+        {
+          "date": "2026-11-12",
+          "price": 4299.0
         }
       ]
     },
     {
       "marketplace": "shopee",
       "label": "Shopee",
-      "link": "https://s.shopee.com.br/7Aez9sQB1Q",
+      "link": "https://s.shopee.com.br/70Le0gq1AG",
       "has_affiliate": true,
       "current_price": 5332.22,
       "min_price": 5332.22,
@@ -446,6 +454,10 @@
         },
         {
           "date": "2026-11-11",
+          "price": 5332.22
+        },
+        {
+          "date": "2026-11-12",
           "price": 5332.22
         }
       ]

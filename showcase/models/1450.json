@@ -11,7 +11,7 @@
       "label": "KaBuM!",
       "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F609951%2Fprocessador-amd-ryzen-9-9950x-4-3-ghz-5-7-ghz-max-turbo-cache-80mb-16-nucleos-32-threads-am5-com-video-integrado-100-100001277wof",
       "has_affiliate": true,
-      "current_price": 4073.66,
+      "current_price": 3099.99,
       "min_price": 3099.99,
       "min_price_at": "2026-11-05",
       "monitored_since": "2026-10-24",
@@ -91,6 +91,10 @@
         {
           "date": "2026-11-11",
           "price": 4073.66
+        },
+        {
+          "date": "2026-11-12",
+          "price": 3099.99
         }
       ]
     },
@@ -179,6 +183,10 @@
         {
           "date": "2026-11-11",
           "price": 3647.05
+        },
+        {
+          "date": "2026-11-12",
+          "price": 3647.05
         }
       ]
     },
@@ -187,7 +195,7 @@
       "label": "Mercado Livre",
       "link": "https://www.mercadolivre.com.br/p/MLB40902986?matt_word=balu1353476&matt_tool=29239275",
       "has_affiliate": true,
-      "current_price": 4479.0,
+      "current_price": 3699.0,
       "min_price": 3449.0,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -267,15 +275,19 @@
         {
           "date": "2026-11-11",
           "price": 4479.0
+        },
+        {
+          "date": "2026-11-12",
+          "price": 3699.0
         }
       ]
     },
     {
       "marketplace": "aliexpress",
       "label": "AliExpress",
-      "link": "https://s.click.aliexpress.com/s/NdpwztbAIgDMmxGbP8fFks7yUFfsHjzlImSYmA68h7xlMRgzueFsRgokQ9f9hcpVKttxtQE2VzIoqkXJXrpOr6uR3zv7mP4CDO9CddoFf4t0QE5DXPy8Pgjhz4irfQSEjEGUmy5yF3A5gJ9h3NYjLMgqIMqa3zcpq5E2BC3W5EbV40Dm9buQxWpZzw1lbX8Zm2kZtNIa4KyDieNjsH7IU6Yv8StELKVvT9r4eFAaXPGhwHsgaDqdNcmY116r3GC2YvmvR57S69fGyn8Tt4pCtmLccxQz3g0L1ZKu00BPwYOT3BF4QZOqRqMDB0DRK5qrW4og2RP2SpnSr1cSXmrIlKjRRPvLFHcUPaxWtSqmF6mdd7ElQ1DihUhkpSpLacFtIquIR84lvuEdxjQ5uHjIKTtRs6FIFi7PVDT3FrlKjUwgqCIYulep1VERsVjSJz9wuGUcB4TJutJNW5Fp0Q4HH2Rs14D9797ef1I5XVgPUddMcw0gx12PcIHr2FwvvCZMyV0DNew0gGSzgjPq8Ye2FlT6zuqDLfWMPV0hKbZQ2ZnX0ljMdksuLOQtU63uaedHeIlIp116sgqw6NWbL46Y4XhLGGmxFNjo8x3bxpVM9n3CLSRDVCmKDzZMIucKnOKDuf2KwCSMtYlsN9gjawbdH8Od5tq9vexUYCv4PIA4nfPRkgNl3TktUN7D8cpyOFm9Kie6bpLCMCqKF14aymEYe0QJJZQYVCMsxKfE7v6kZnBSwpYwuDEQCCUbUgVNkr6sDabw7l4lFTRP51IfcSSQOyIaIA6SGoywXQnCdOd60kt7rf4Bj06ZFOfAaUos5gKO7EzpW3qQASba5oThbMl528ktXZ7uB8YuvkRIP4tGrlcbREyb76ghdN0mKTuOyn8eRADhMa3uzOZ1dwtPWtHl7Y5d6mlG5Abyp1CRRzVlkw2lS7NUpyoQe9bKwNJRVLkrlIiLroisZZ2mriuA4UdnvIQt6Lw9gaMdKayt1RTNPDNix",
+      "link": "https://s.click.aliexpress.com/s/NdpwztbAIgDMmxGbP8fFks7yUFfsHjzlImSYmA68h7xlMRgzueFsRgokQ9f9hcpVKttxtQE2VzIoqkXJXrpOr6uR3zv7mP4CDO9CddoFf4t0QE5DXPy8Pgjhz4irfQSEjEGUmy5yF3A5gJ9h3NYjLMgqIMqa3zcpq5E2BC3W5EbV40Dm9buQxWpZzw1lbX8Zm2kZtNIa4KyDieNjsH7IU6Yv8StELKVvT9r4eFAaXPGhwHsgaDqdNcmY116r3GC2YvmvR57S69fGyn8Tt4pCtmLccxQz3g0L1ZKu00BPwYOT3BF4QZOqRqMDB0DRK5qrW4og2RP2SpnSr1cSXmrIlKjRRPvLFHcUPaxWtSqmF6mdd7ElQ1DihUhkpSpLacFtIquIR84lvuEdxjQ5uHjIKTtRs6FIFi7PVDT3FrlKjUwgqCIYulep1VERsVjSJz9wuGUcB4TJutJNW5Fp0Q4HH2Rs14D9797ef1I5XVgPUddMcw0gx12PcIHr2FwvvCZMyV0D5LHfIowzEXSKIs3mKRYe2XRsEE5suokSgiSCH2vYWtf2gT4uH5EqmXZEmbv7V3Z6hg3f5NVT9vYI3DTH9lWh11ovNuG1NKm7KckLB7FRxLCwVZpD8ImYy7cUn1DjekvUOcR8tesG0tfF136VzL7r1IIMX43UaeVTu7uqKoAwh36PrNiVHLDUFU2gdmpt80PwzcELPpzMSPpYPa6Ektuxgt1x2npnwr4ztGVXFJivELYhhH1uGvZGRv4J7maJiaCs1dUsRo6N1NeZocYlWYeJHS60lR762McceTliWIoTIdIlHxh7IZIS01gx7AGxqeS84G0G2LFr31WltnMw8GYAo4VCZ7E9BqECjL9PwmMRZKZch1feeJ9IpDUI2t1JKDkYYMMdnDF6O5zFNFQ51Z97RUNJusWyMlKi0B0q8XJViT2dIw2YXAz3FkeHMJSdP3jWFLpTMFDd8I3b6TGrcuqvRV7tqlH1v6qWSmrjwWCwr",
       "has_affiliate": true,
-      "current_price": 2711.83,
+      "current_price": 2711.95,
       "min_price": 2666.36,
       "min_price_at": "2026-11-06",
       "monitored_since": "2026-10-24",
@@ -355,6 +367,10 @@
         {
           "date": "2026-11-11",
           "price": 2711.83
+        },
+        {
+          "date": "2026-11-12",
+          "price": 2711.95
         }
       ]
     }

@@ -91,6 +91,10 @@
         {
           "date": "2026-11-11",
           "price": 1002.0
+        },
+        {
+          "date": "2026-11-12",
+          "price": 1002.0
         }
       ]
     },
@@ -179,6 +183,10 @@
         {
           "date": "2026-11-11",
           "price": 499.99
+        },
+        {
+          "date": "2026-11-12",
+          "price": 499.99
         }
       ]
     },
@@ -187,9 +195,9 @@
       "label": "Pichau",
       "link": "https://www.pichau.com.br/processador-intel-core-ultra-5-225f-10-core-10-threads-3-3ghz-4-9ghz-turbo-cache-20mb-lga1851-bx80768225f",
       "has_affiliate": true,
-      "current_price": 1847.05,
-      "min_price": 588.22,
-      "min_price_at": "2026-11-06",
+      "current_price": 576.46,
+      "min_price": 576.46,
+      "min_price_at": "2026-11-12",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -267,6 +275,10 @@
         {
           "date": "2026-11-11",
           "price": 1847.05
+        },
+        {
+          "date": "2026-11-12",
+          "price": 576.46
         }
       ]
     },
@@ -275,9 +287,9 @@
       "label": "Terabyte",
       "link": "https://www.terabyteshop.com.br/produto/34633/processador-intel-core-ultra-5-225f-33-ghz-49ghz-turbo-serie-2-10-cores-10-threads-lga-1851-bx80768225f",
       "has_affiliate": true,
-      "current_price": 705.87,
-      "min_price": 705.87,
-      "min_price_at": "2026-10-24",
+      "current_price": 576.46,
+      "min_price": 576.46,
+      "min_price_at": "2026-11-12",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -355,6 +367,10 @@
         {
           "date": "2026-11-11",
           "price": 705.87
+        },
+        {
+          "date": "2026-11-12",
+          "price": 576.46
         }
       ]
     },
@@ -442,6 +458,10 @@
         },
         {
           "date": "2026-11-11",
+          "price": 1250.3
+        },
+        {
+          "date": "2026-11-12",
           "price": 1250.3
         }
       ]

@@ -91,6 +91,10 @@
         {
           "date": "2026-11-11",
           "price": 2790.0
+        },
+        {
+          "date": "2026-11-12",
+          "price": 2790.0
         }
       ]
     },
@@ -179,6 +183,10 @@
         {
           "date": "2026-11-11",
           "price": 1979.99
+        },
+        {
+          "date": "2026-11-12",
+          "price": 1979.99
         }
       ]
     },
@@ -187,7 +195,7 @@
       "label": "Pichau",
       "link": "https://www.pichau.com.br/processador-intel-core-i7-14700f-20-core-28-threads-3-4ghz-5-4ghz-turbo-cache-33mb-lga1700-bx8071514700f",
       "has_affiliate": true,
-      "current_price": 2247.05,
+      "current_price": 2294.1,
       "min_price": 2247.05,
       "min_price_at": "2026-11-10",
       "monitored_since": "2026-10-24",
@@ -267,6 +275,10 @@
         {
           "date": "2026-11-11",
           "price": 2247.05
+        },
+        {
+          "date": "2026-11-12",
+          "price": 2294.1
         }
       ]
     }

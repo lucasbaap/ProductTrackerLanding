@@ -11,7 +11,7 @@
       "label": "Mercado Livre",
       "link": "https://www.mercadolivre.com.br/p/MLB38509494?matt_word=balu1353476&matt_tool=29239275",
       "has_affiliate": true,
-      "current_price": 1259.0,
+      "current_price": 1299.0,
       "min_price": 1259.0,
       "min_price_at": "2026-11-11",
       "monitored_since": "2026-10-24",
@@ -91,6 +91,10 @@
         {
           "date": "2026-11-11",
           "price": 1259.0
+        },
+        {
+          "date": "2026-11-12",
+          "price": 1299.0
         }
       ]
     },
@@ -99,7 +103,7 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/ASUS-Gaming-B650M-PROTECTION-Armoury/dp/B0C6HXLPJP?tag=producttra043-20",
       "has_affiliate": true,
-      "current_price": 1059.22,
+      "current_price": 1094.53,
       "min_price": 1059.22,
       "min_price_at": "2026-11-06",
       "monitored_since": "2026-10-24",
@@ -179,6 +183,10 @@
         {
           "date": "2026-11-11",
           "price": 1059.22
+        },
+        {
+          "date": "2026-11-12",
+          "price": 1094.53
         }
       ]
     },
@@ -187,7 +195,7 @@
       "label": "KaBuM!",
       "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F523145%2Fplaca-mae-asus-tuf-gaming-b650m-e-wifi-amd-am5-b650-ddr5-preto-90mb1fv0-m0eay0",
       "has_affiliate": true,
-      "current_price": 1149.99,
+      "current_price": 1299.99,
       "min_price": 1149.99,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -267,6 +275,10 @@
         {
           "date": "2026-11-11",
           "price": 1149.99
+        },
+        {
+          "date": "2026-11-12",
+          "price": 1299.99
         }
       ]
     },
@@ -355,6 +367,10 @@
         {
           "date": "2026-11-11",
           "price": 1352.93
+        },
+        {
+          "date": "2026-11-12",
+          "price": 1352.93
         }
       ]
     },
@@ -442,6 +458,10 @@
         },
         {
           "date": "2026-11-11",
+          "price": 1294.11
+        },
+        {
+          "date": "2026-11-12",
           "price": 1294.11
         }
       ]

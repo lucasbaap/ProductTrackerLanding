@@ -11,7 +11,7 @@
       "label": "Pichau",
       "link": "https://www.pichau.com.br/processador-amd-ryzen-9-7900-12-core-24-threads-3-7ghz-5-4ghzturbo-cache-76mb-am5-100-100000590wof",
       "has_affiliate": true,
-      "current_price": 2117.63,
+      "current_price": 2176.46,
       "min_price": 2117.63,
       "min_price_at": "2026-11-11",
       "monitored_since": "2026-10-24",
@@ -95,6 +95,10 @@
         {
           "date": "2026-11-12",
           "price": 2117.63
+        },
+        {
+          "date": "2026-11-13",
+          "price": 2176.46
         }
       ]
     },
@@ -187,6 +191,10 @@
         {
           "date": "2026-11-12",
           "price": 2317.4
+        },
+        {
+          "date": "2026-11-13",
+          "price": 2317.4
         }
       ]
     },
@@ -278,6 +286,10 @@
         },
         {
           "date": "2026-11-12",
+          "price": 3764.99
+        },
+        {
+          "date": "2026-11-13",
           "price": 3764.99
         }
       ]

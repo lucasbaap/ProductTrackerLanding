@@ -95,6 +95,10 @@
         {
           "date": "2026-11-12",
           "price": 1844.19
+        },
+        {
+          "date": "2026-11-13",
+          "price": 1844.19
         }
       ]
     },
@@ -103,7 +107,7 @@
       "label": "Pichau",
       "link": "https://www.pichau.com.br/processador-amd-ryzen-5-9600x-6-core-12-threads-3-9ghz-5-4ghz-turbo-cache-38mb-am5-100-100001405wof",
       "has_affiliate": true,
-      "current_price": 1411.75,
+      "current_price": 1352.93,
       "min_price": 1235.28,
       "min_price_at": "2026-11-05",
       "monitored_since": "2026-10-24",
@@ -187,6 +191,10 @@
         {
           "date": "2026-11-12",
           "price": 1411.75
+        },
+        {
+          "date": "2026-11-13",
+          "price": 1352.93
         }
       ]
     },
@@ -195,7 +203,7 @@
       "label": "Terabyte",
       "link": "https://www.terabyteshop.com.br/produto/30040/processador-amd-ryzen-5-9600x-39ghz-54ghz-turbo-6-cores-12-threads-am5-sem-cooler-100-100001405wof",
       "has_affiliate": true,
-      "current_price": 1352.93,
+      "current_price": 1411.75,
       "min_price": 1352.93,
       "min_price_at": "2026-11-12",
       "monitored_since": "2026-10-24",
@@ -279,6 +287,10 @@
         {
           "date": "2026-11-12",
           "price": 1352.93
+        },
+        {
+          "date": "2026-11-13",
+          "price": 1411.75
         }
       ]
     },
@@ -287,7 +299,7 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/dp/B0D6NN6TM7?tag=producttra043-20",
       "has_affiliate": true,
-      "current_price": 1235.28,
+      "current_price": 1352.93,
       "min_price": 1235.28,
       "min_price_at": "2026-11-05",
       "monitored_since": "2026-10-24",
@@ -371,6 +383,10 @@
         {
           "date": "2026-11-12",
           "price": 1235.28
+        },
+        {
+          "date": "2026-11-13",
+          "price": 1352.93
         }
       ]
     },
@@ -463,15 +479,19 @@
         {
           "date": "2026-11-12",
           "price": 1417.18
+        },
+        {
+          "date": "2026-11-13",
+          "price": 1417.18
         }
       ]
     },
     {
       "marketplace": "aliexpress",
       "label": "AliExpress",
-      "link": "https://s.click.aliexpress.com/s/NdpwztbAIgDMmxGbP8fFks7yUFfsHjzlImSYmA68h7xlMRgzueFsRgokQ9f9hcpVKttxtQE2VzIoqkXJXrpOr6uR3zv7mP4CDO9CddoFf4t0QE5DXPy8Pgjhz4irfQSEjEGUmy5yF3A5gJ9h3NYjLMgqIMqa3zcpq5E2BC3W5EbV40Dm9buQxWpZzw1lbX8Zm2kZtNIa4KyDieNjsH7IU6Yv8StELKVvT9r4eFAaXPGhwHsgaDqdNcmY116r3GC2YvmvR57S69fGyn8Tt4pCtmLccxQz3g0L1ZKu00BPwYOT3BF4QZOqRqMDB0DyryhPCaDIOJUFoBMWdUzb07Aaa4pYRKZ30yND1GVSHqNtejH1UsUrCmRQ6Jly1aDOpqgv6BJuuQ6uJ7hZgTzkKPyTK3PUm96TU4dmObcVQi9JOLwoPeNYI9brzPwllMjX4ZLOBaN34bgJL8DZ1AdOWYaI4VO2rAl6LOGJIZ34vDjDLgG31CMRESK0cAW3uHGnVBzZN5JUjGJf4yDxnCr5jab3Ft0Cj26WzlB4aDpgwLdUeF9zwEbhxhhM65fXKWXjKm3rOyc53xUeVpztQKbKxer0jN0lrZi7NMbePOFfsfhsJmNUz2wz6lTOoF7gdyI8xVE5HGxqiZVFfGzmysQDi3a55oPoLUYOqgOEziO20bstCa0jfp91xbj5xRylRPjAxOL9N1torO2fHL24rTdenyf4rjpbAg27cYTscyfgUZ80Lrr10THNS0zSL50VUjcFUG5FdeuKlzPztfdJ2bdfYsg6PBvKXIoHNVBOIbaDxArHPX7BDH8JwZNQNxuBN7kWZHYjhBki1k4XE4Sg93oFWnGUBcaUeUVYgahBPW6kaOtoi63iK5gvT49pzoEdkkMsHFTHfGQqMJ13j9Ko9k1k82hdJ1lYGbZucjUAkCHpknKKxYPzLE4jsXsBQE15kKHkBtcr7LVmzmaMhdBYPfaqk3AQJ5tcHXp34lVqVwU293bkPrfx5",
+      "link": "https://s.click.aliexpress.com/s/NdpwztbAIgDMmxGbP8fFks7yUFfsHjzlImSYmA68h7xlMRgzueFsRgokQ9f9hcpVKttxtQE2VzIoqkXJXrpOr6uR3zv7mP4CDO9CddoFf4t0QE5DXPy8Pgjhz4irfQSEjEGUmy5yF3A5gJ9h3NYjLMgqIMqa3zcpq5E2BC3W5EbV40Dm9buQxWpZzw1lbX8Zm2kZtNIa4KyDieNjsH7IU6Yv8StELKVvT9r4eFAaXPGhwHsgaDqdNcmY116r3GC2YvmvR57S69fGyn8Tt4pCtmLccxQz3g0L1ZKu00BPwYOT3BF4QZOqRqMDB0DyryhPCaDIOJUFoBMWdUzb07Aaa4pYRKZ30yND1GVSHqNtejH1UsUrCmRQ6Jly1aDOpqgv6BJuuQ6uJ7hZgTzkKPyTK3PUm96TU4dmObcVQi9JOLwoPeNYI9brzPwllMjX4ZLOBaN34bgJL8DZ1AdOWYaI4VO2rAl6LOGJIZ34vDjDLgG31CMRESK0cAW3uHGnVBzZN5JUYz3HH0Int2rsQ0kOC2jneyjoZor4LM94GJum1lUH7z0kOr3vHZJAJ7diIGfJMJwpa3iuMFUElpzVHqEdO2R5OoEQXJlQ95YOd9FeeEvEj3m9bll73XAd9WUqsL9xvGhjse9BdYCpgnqksnOMRkBkSI6Jqhbk0LIZfe9Jw2ljSnEf5xFWthf7HKthckOgNxBxzeHN5mFST4IN6D64uBLNyVZ9Y32Qcs0cr5AklFJMjD8oGLMGZru6GAFV8XteTJvneUYdpZ6Efrak1r3YdCm7xiBfKKVYvH1P8F4y2gHm4fTwpTR6yscqCURGQPQPVnpGMQUtHRvwqBBZVnNX0co9Fpngpi9hiPeDdWpENvm3Vpa6i7glUle3ifT7SVap4haN6QhnJgnZrq4uEOWI00D5d7ZcQ3zQutQbcNgUPgUE3rlgxGv6KN06FmhaDLPBCmULg3Z9vb2OYmKTDTBIZyI4s7dmcaoNVxUHDKp7wiZTd",
       "has_affiliate": true,
-      "current_price": 1345.01,
+      "current_price": 1355.95,
       "min_price": 1206.58,
       "min_price_at": "2026-10-26",
       "monitored_since": "2026-10-24",
@@ -551,6 +571,10 @@
         {
           "date": "2026-11-11",
           "price": 1345.01
+        },
+        {
+          "date": "2026-11-13",
+          "price": 1355.95
         }
       ]
     }

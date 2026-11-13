@@ -11,7 +11,7 @@
       "label": "Mercado Livre",
       "link": "https://www.mercadolivre.com.br/p/MLB2031074195?matt_word=balu1353476&matt_tool=29239275",
       "has_affiliate": true,
-      "current_price": 1110.73,
+      "current_price": 1122.66,
       "min_price": 811.57,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -95,6 +95,10 @@
         {
           "date": "2026-11-12",
           "price": 1110.73
+        },
+        {
+          "date": "2026-11-13",
+          "price": 1122.66
         }
       ]
     },
@@ -187,6 +191,10 @@
         {
           "date": "2026-11-12",
           "price": 656.18
+        },
+        {
+          "date": "2026-11-13",
+          "price": 656.18
         }
       ]
     },
@@ -195,7 +203,7 @@
       "label": "Pichau",
       "link": "https://www.pichau.com.br/processador-intel-core-i3-14100f-4-core-8-threads-3-5ghz-4-7ghz-turbo-cache-12mb-lga1700-bx8071514100f",
       "has_affiliate": true,
-      "current_price": 776.46,
+      "current_price": 799.99,
       "min_price": 776.46,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -279,6 +287,10 @@
         {
           "date": "2026-11-12",
           "price": 776.46
+        },
+        {
+          "date": "2026-11-13",
+          "price": 799.99
         }
       ]
     },
@@ -370,6 +382,10 @@
         },
         {
           "date": "2026-11-12",
+          "price": 1049.83
+        },
+        {
+          "date": "2026-11-13",
           "price": 1049.83
         }
       ]

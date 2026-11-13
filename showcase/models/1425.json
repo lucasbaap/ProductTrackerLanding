@@ -95,6 +95,10 @@
         {
           "date": "2026-11-12",
           "price": 7699.0
+        },
+        {
+          "date": "2026-11-13",
+          "price": 7699.0
         }
       ]
     },
@@ -411,6 +415,10 @@
         {
           "date": "2026-11-12",
           "price": 7399.0
+        },
+        {
+          "date": "2026-11-13",
+          "price": 7399.0
         }
       ]
     },
@@ -419,7 +427,7 @@
       "label": "KaBuM!",
       "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F636960%2Fconsole-playstation-5-pro-sony-ssd-2tb-com-controle-sem-fio-dualsense-branco-1000046552",
       "has_affiliate": true,
-      "current_price": 7999.0,
+      "current_price": 7399.0,
       "min_price": 6991.08,
       "min_price_at": "2026-10-28",
       "monitored_since": "2026-09-16",
@@ -615,6 +623,10 @@
         {
           "date": "2026-11-12",
           "price": 7999.0
+        },
+        {
+          "date": "2026-11-13",
+          "price": 7399.0
         }
       ]
     }

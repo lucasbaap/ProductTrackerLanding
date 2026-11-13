@@ -11,7 +11,7 @@
       "label": "Mercado Livre",
       "link": "https://www.mercadolivre.com.br/p/MLB1077872085?matt_word=balu1353476&matt_tool=29239275",
       "has_affiliate": true,
-      "current_price": 11999.0,
+      "current_price": 11998.89,
       "min_price": 11126.19,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -95,6 +95,10 @@
         {
           "date": "2026-11-12",
           "price": 11999.0
+        },
+        {
+          "date": "2026-11-13",
+          "price": 11998.89
         }
       ]
     },
@@ -103,7 +107,7 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/dp/B0HJB6FZGB?tag=producttra043-20",
       "has_affiliate": true,
-      "current_price": 10799.09,
+      "current_price": 10799.1,
       "min_price": 10259.14,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -187,6 +191,10 @@
         {
           "date": "2026-11-12",
           "price": 10799.09
+        },
+        {
+          "date": "2026-11-13",
+          "price": 10799.1
         }
       ]
     },
@@ -195,7 +203,7 @@
       "label": "KaBuM!",
       "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F1075500%2Fiphone-18-pro-256gb-preto",
       "has_affiliate": true,
-      "current_price": 10430.0,
+      "current_price": 10439.1,
       "min_price": 10430.0,
       "min_price_at": "2026-11-11",
       "monitored_since": "2026-10-24",
@@ -279,6 +287,10 @@
         {
           "date": "2026-11-12",
           "price": 10430.0
+        },
+        {
+          "date": "2026-11-13",
+          "price": 10439.1
         }
       ]
     }

@@ -95,6 +95,10 @@
         {
           "date": "2026-11-12",
           "price": 1899.99
+        },
+        {
+          "date": "2026-11-13",
+          "price": 1899.99
         }
       ]
     },
@@ -103,7 +107,7 @@
       "label": "Pichau",
       "link": "https://www.pichau.com.br/processador-amd-ryzen-7-7700-8-core-16-threads-3-8ghz-5-3ghz-turbo-cache-40mb-am5-100-100000592sbx",
       "has_affiliate": true,
-      "current_price": 1882.34,
+      "current_price": 1929.4,
       "min_price": 1882.34,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -187,6 +191,10 @@
         {
           "date": "2026-11-12",
           "price": 1882.34
+        },
+        {
+          "date": "2026-11-13",
+          "price": 1929.4
         }
       ]
     },
@@ -195,9 +203,9 @@
       "label": "Terabyte",
       "link": "https://www.terabyteshop.com.br/produto/40585/processador-amd-ryzen-7-7700-38ghz-53ghz-turbo-8-cores-16-threads-am5-com-cooler-amd-wraith-stealth-100-100000592sbx",
       "has_affiliate": true,
-      "current_price": 1941.16,
-      "min_price": 1941.16,
-      "min_price_at": "2026-10-24",
+      "current_price": 1788.22,
+      "min_price": 1788.22,
+      "min_price_at": "2026-11-13",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -279,6 +287,10 @@
         {
           "date": "2026-11-12",
           "price": 1941.16
+        },
+        {
+          "date": "2026-11-13",
+          "price": 1788.22
         }
       ]
     },
@@ -370,6 +382,10 @@
         },
         {
           "date": "2026-11-12",
+          "price": 1750.0
+        },
+        {
+          "date": "2026-11-13",
           "price": 1750.0
         }
       ]
@@ -463,15 +479,19 @@
         {
           "date": "2026-11-12",
           "price": 2074.99
+        },
+        {
+          "date": "2026-11-13",
+          "price": 2074.99
         }
       ]
     },
     {
       "marketplace": "aliexpress",
       "label": "AliExpress",
-      "link": "https://s.click.aliexpress.com/s/NdpwztbAIgDMmxGbP8fFks7yUFfsHjzlImSYmA68h7xlMRgzueFsRgokQ9f9hcpVKttxtQE2VzIoqkXJXrpOr6uR3zv7mP4CDO9CddoFf4t0QE5DXPy8Pgjhz4irfQSEjEGUmy5yF3A5gJ9h3NYjLMgqIMqa3zcpq5E2BC3W5EbV40Dm9buQxWpZzw1lbX8Zm2kZtNIa4KyDieNjsH7IU6Yv8StELKVvT9r4eFAaXPGhwHsgaDqdNcmY116r3GC2YvmvR57S69fGyn8Tt4pCtmLccxQz3g0L1ZKu00BPwYOT3BF4QZOqRqMDB0DyqT0Y67LO7jpGxrUUE3Rz3GRUNXYn3SLTysEgz4WCHee0SU61nlQ07rdFQFw5GLCvKSoP6WzlNiLpWTMvy0HdwAF2ZqpRQGNdjqRkGeOA35iX4wbwhHPCAfVhsOG49hY7oOBotKaYzClsUXkKYNTt7otlZKy62qSUiXVbfhKuNUoicOtXjwt7gJh3URnJkH5BQa6mtoCKHHVJ5glMXK0yNwi46NK2B6TeRmRQlO1ulWpP1RJnOD6cbI3oNGHaLo9OM0KAUvGdBrvuTFqruHjnCRnJAICCl0V8r2CTQyWYNtSFsQs4u8bEKAQY0nXekUpJvkW5iTL9O7pHnXqg5iCPx0rxObphMeGHgWkcBfuKue8On6VCnLr0oZM0AswBdTs0BBLTXUQEzWbAONO8cq3kuUYUJiFguo0uxXsn4KJDss5gKuI8Z615HsAvFJogvSH5KCruaT2oXLOdyAZZRgiRiLNngzUeUv7ixD28EyMa4KQO8gW0KLu7OjQVdMDIlLg94AWc90WFEkhwwpEjTuKBk0stTZjVoU3lqAudnDj7FCCY43c53OBleVr2qC7KpxAAzFDLqqqXzvCZGVFTjUHTBGrJt4yTi5zYp2ReIB0ijFF7cYkGUGk09yyNlf3EUIZoZBEIAXQYlZJvefSu5r6JHnaT16Pe8sgo6VirnIuurwB7R0aBD",
+      "link": "https://s.click.aliexpress.com/s/NdpwztbAIgDMmxGbP8fFks7yUFfsHjzlImSYmA68h7xlMRgzueFsRgokQ9f9hcpVKttxtQE2VzIoqkXJXrpOr6uR3zv7mP4CDO9CddoFf4t0QE5DXPy8Pgjhz4irfQSEjEGUmy5yF3A5gJ9h3NYjLMgqIMqa3zcpq5E2BC3W5EbV40Dm9buQxWpZzw1lbX8Zm2kZtNIa4KyDieNjsH7IU6Yv8StELKVvT9r4eFAaXPGhwHsgaDqdNcmY116r3GC2YvmvR57S69fGyn8Tt4pCtmLccxQz3g0L1ZKu00BPwYOT3BF4QZOqRqMDB0DyqT0Y67LO7jpGxrUUE3Rz3GRUNXYn3SLTysEgz4WCHee0SU61nlQ07rdFQFw5GLCvKSoP6WzlNiLpWTMvy0HdwAF2ZqpRQGNdjqRkGeOA35iX4wbwhHPCAfVhsOG49hY7oOBotKaYzClsUXkKYNTt7otlZKy62qSUiXVbfhKuNUoicOtXjwt7gJh3URnJkH5BQa6mtoCLejqNKrLhbKQmeocuhWrRQS5v8IfBBKQJfPCL7DiBYNVK2ulouXyJAVytxCxiWERj9P00RIcOg5XV9MTcDCwxn4WK8rNTjcRtxZ6gXt5uNv3r0tEwW1XYfdfLL8ZThBARSHjuTHWxqsLRu1VHeR9NY99a55lgY3SV9P0HHds472pYvuIJIhgVNzvnMpjmSlrWMw7TZqVbfISGMcN0HBCuISNUVsnGdSQ57wp7qL3PRlpTfiDr0DqbKYr2zmWesIeF2uZ6dmVqNuRPnTEjDzzIWw3qGtPLXkFOJXr0f9VFX2oKDUt2e6wHvkeRAJe8s0wTiYHOI4iNgPLYtisSLK6BurVAbWIKZQoRDamvgGS3HFDVLwSD01A9Lm5wjnWyzYW6E4ZqHj6DnkGhviSlUp8Vja7xy3QfxQGFAt5RhU3pJApeRIPUU6fKi6d3No0nBmkz30Mxmkinln5iGEkZPuKJzQyAu6Op8YM7w4G515f7V",
       "has_affiliate": true,
-      "current_price": 1438.08,
+      "current_price": 1449.71,
       "min_price": 1290.0,
       "min_price_at": "2026-10-27",
       "monitored_since": "2026-10-24",
@@ -555,6 +575,10 @@
         {
           "date": "2026-11-12",
           "price": 1438.08
+        },
+        {
+          "date": "2026-11-13",
+          "price": 1449.71
         }
       ]
     }

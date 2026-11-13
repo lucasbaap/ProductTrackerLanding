@@ -95,6 +95,10 @@
         {
           "date": "2026-11-12",
           "price": 5554.0
+        },
+        {
+          "date": "2026-11-13",
+          "price": 5554.0
         }
       ]
     },
@@ -103,7 +107,7 @@
       "label": "KaBuM!",
       "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F1012762%2Fsmartphone-motorola-signature-5g-512gb-preto-24gb-12gb-ram-12gb-ram-boost-camera-50-mp-e-tela-de-6-8-",
       "has_affiliate": true,
-      "current_price": 4998.6,
+      "current_price": 5399.1,
       "min_price": 4998.6,
       "min_price_at": "2026-11-11",
       "monitored_since": "2026-10-24",
@@ -187,6 +191,10 @@
         {
           "date": "2026-11-12",
           "price": 4998.6
+        },
+        {
+          "date": "2026-11-13",
+          "price": 5399.1
         }
       ]
     }

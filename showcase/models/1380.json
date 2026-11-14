@@ -11,7 +11,7 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/dp/B0DSYJCY45?ref=cm_sw_r_cso_cp_apan_ct_BV8ZR00FQV1XP53SR1P6&ref_=cm_sw_r_cso_cp_apan_ct_BV8ZR00FQV1XP53SR1P6&social_share=cm_sw_r_cso_cp_apan_ct_BV8ZR00FQV1XP53SR1P6&th=1&tag=producttra043-20",
       "has_affiliate": true,
-      "current_price": 4798.8,
+      "current_price": 5332.0,
       "min_price": 4798.8,
       "min_price_at": "2026-11-13",
       "monitored_since": "2026-09-24",
@@ -155,6 +155,10 @@
         {
           "date": "2026-11-13",
           "price": 4798.8
+        },
+        {
+          "date": "2026-11-14",
+          "price": 5332.0
         }
       ]
     },
@@ -346,6 +350,10 @@
         },
         {
           "date": "2026-11-13",
+          "price": 8887.78
+        },
+        {
+          "date": "2026-11-14",
           "price": 8887.78
         }
       ]

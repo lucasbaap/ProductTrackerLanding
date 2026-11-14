@@ -99,6 +99,10 @@
         {
           "date": "2026-11-13",
           "price": 1002.0
+        },
+        {
+          "date": "2026-11-14",
+          "price": 1002.0
         }
       ]
     },
@@ -194,6 +198,10 @@
         },
         {
           "date": "2026-11-13",
+          "price": 499.99
+        },
+        {
+          "date": "2026-11-14",
           "price": 499.99
         }
       ]
@@ -291,6 +299,10 @@
         {
           "date": "2026-11-13",
           "price": 576.46
+        },
+        {
+          "date": "2026-11-14",
+          "price": 576.46
         }
       ]
     },
@@ -387,6 +399,10 @@
         {
           "date": "2026-11-13",
           "price": 576.46
+        },
+        {
+          "date": "2026-11-14",
+          "price": 576.46
         }
       ]
     },
@@ -395,9 +411,9 @@
       "label": "Magalu",
       "link": "https://m.magazineluiza.com.br/processador-intel-core-ultra-5-225f-serie2-lga-1851-3-3-ghz-base-4-9-ghz-max-20-mb-cache-10-core-10-threads-bx80768225f/p/cb63b90acg/in/prsd/?partner_id=3440&promoter_id=5820501&utm_source=divulgador&utm_medium=magalu&utm_campaign=5820501",
       "has_affiliate": true,
-      "current_price": 1250.3,
-      "min_price": 1250.3,
-      "min_price_at": "2026-10-24",
+      "current_price": 747.38,
+      "min_price": 747.38,
+      "min_price_at": "2026-11-14",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -483,6 +499,10 @@
         {
           "date": "2026-11-13",
           "price": 1250.3
+        },
+        {
+          "date": "2026-11-14",
+          "price": 747.38
         }
       ]
     }

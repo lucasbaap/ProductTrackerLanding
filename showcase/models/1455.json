@@ -99,6 +99,10 @@
         {
           "date": "2026-11-13",
           "price": 2608.95
+        },
+        {
+          "date": "2026-11-14",
+          "price": 2608.95
         }
       ]
     },
@@ -195,6 +199,10 @@
         {
           "date": "2026-11-13",
           "price": 1999.99
+        },
+        {
+          "date": "2026-11-14",
+          "price": 1999.99
         }
       ]
     },
@@ -203,9 +211,9 @@
       "label": "Terabyte",
       "link": "https://www.terabyteshop.com.br/produto/30039/processador-amd-ryzen-7-9700x-38ghz-55ghz-turbo-8-cores-16-threads-am5-sem-cooler-100-100001404wof",
       "has_affiliate": true,
-      "current_price": 1999.99,
-      "min_price": 1999.99,
-      "min_price_at": "2026-10-31",
+      "current_price": 1882.34,
+      "min_price": 1882.34,
+      "min_price_at": "2026-11-14",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -291,6 +299,10 @@
         {
           "date": "2026-11-13",
           "price": 1999.99
+        },
+        {
+          "date": "2026-11-14",
+          "price": 1882.34
         }
       ]
     },
@@ -299,7 +311,7 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/dp/B0D6NMDNNX?tag=producttra043-20",
       "has_affiliate": true,
-      "current_price": 1999.99,
+      "current_price": 1760.98,
       "min_price": 1760.98,
       "min_price_at": "2026-11-11",
       "monitored_since": "2026-10-24",
@@ -387,6 +399,10 @@
         {
           "date": "2026-11-13",
           "price": 1999.99
+        },
+        {
+          "date": "2026-11-14",
+          "price": 1760.98
         }
       ]
     },
@@ -482,6 +498,10 @@
         },
         {
           "date": "2026-11-13",
+          "price": 1699.0
+        },
+        {
+          "date": "2026-11-14",
           "price": 1699.0
         }
       ]

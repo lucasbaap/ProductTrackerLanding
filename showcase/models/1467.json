@@ -11,9 +11,9 @@
       "label": "KaBuM!",
       "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F422164%2Fprocessador-amd-ryzen-5-7600-4-00ghz-6-core-38mb-am5",
       "has_affiliate": true,
-      "current_price": 1759.9,
-      "min_price": 1759.9,
-      "min_price_at": "2026-10-24",
+      "current_price": 1582.22,
+      "min_price": 1582.22,
+      "min_price_at": "2026-11-14",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -99,6 +99,10 @@
         {
           "date": "2026-11-13",
           "price": 1759.9
+        },
+        {
+          "date": "2026-11-14",
+          "price": 1582.22
         }
       ]
     },
@@ -195,6 +199,10 @@
         {
           "date": "2026-11-13",
           "price": 1176.46
+        },
+        {
+          "date": "2026-11-14",
+          "price": 1176.46
         }
       ]
     },
@@ -203,7 +211,7 @@
       "label": "Terabyte",
       "link": "https://www.terabyteshop.com.br/produto/23415/processador-amd-ryzen-5-7600-38ghz-51ghz-turbo-6-cores-12-threads-am5-com-cooler-amd-wraith-stealth-100-100001015box",
       "has_affiliate": true,
-      "current_price": 1529.4,
+      "current_price": 2399.99,
       "min_price": 1529.4,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -291,6 +299,10 @@
         {
           "date": "2026-11-13",
           "price": 1529.4
+        },
+        {
+          "date": "2026-11-14",
+          "price": 2399.99
         }
       ]
     },
@@ -299,7 +311,7 @@
       "label": "Shopee",
       "link": "https://s.shopee.com.br/6AmX3xOdg7",
       "has_affiliate": true,
-      "current_price": 1554.99,
+      "current_price": 1564.99,
       "min_price": 1554.99,
       "min_price_at": "2026-10-27",
       "monitored_since": "2026-10-24",
@@ -387,15 +399,19 @@
         {
           "date": "2026-11-13",
           "price": 1554.99
+        },
+        {
+          "date": "2026-11-14",
+          "price": 1564.99
         }
       ]
     },
     {
       "marketplace": "aliexpress",
       "label": "AliExpress",
-      "link": "https://s.click.aliexpress.com/s/fwx308cRD9Eny963e3KDdYxyIpNj8TXVr7saiF9Um5rMUg1kZtJALLnfa2LNXtiVgnxdD8Og6MmvwBoxhnSYQGM6r0c08U4TfX8DFGo7vviCuu3q62Q60OAhRZcqm3G8PtwM69xY7TOEWRrvulP5ukZQ4uQbBBtaVsdr6EffAqVmp3O5GyUANU2DoA3dJufNhDfh7KOlLgKIvRVhDxRESHLmea6fTE26gLUqKEUuuizJiLENrCbax94DZHDu8WhaXMN8fDE1HOLt4j1KZUcj471WKjwUetlj4ZWgS3yWx6lzuERHNTI3Zmy1QdFGmOrUpflNthqjRMyGbRR2yx4lVC7lpoHLywxEdqq8B9qXTIp4KoHLCdVWIv7c5uVNuObuYyMRMKuINYIlDgBv0LXmC08wFk4rwnqqAen0xci4UkcyHsO4E8ytTbgxzHM3plLLQHwAS8iGfhNLJqJ7qYMon1krIVaxYDMZGyW0RIl1OBS7GE4wMeY63u7MIVNZM5OSgrzQWDoHwZ6VjbQ77JUyymPy9PIJuAGvzEcxLt8d3Gjw3R1PqEYI4rVfY5rGMflxwMRSoUJBYOhOVM59eKi49Zum2qlJPt3JF4uFJ7fFnQXxJw6reNEtQbQI8gCWQIVPXCE30VLxkCYGAEvD9NlQvqD0EQToai4FqvxdGwTtgsbHsQel5pR8XB9iwZrGGHW7oUzwqS9cit4vYUFyMfpLcMgVigeUPPwxXfpjQqCVDLShsu8z0C34FTikgsLcwAKsd5UmWSlNcsoFLxuOqwNuOdppkh1pqiNFpZFteB6ivGP3xWQjZzDRyt89XMQZtfDSUrAfmfAOqeXA7LyHeYfEQVcZm66QOvXM46xuqp38BPJ2hONZsb6hpF8L2P1VjkBGaR1rImKyRido3LVhTriUvrWBfrGfrzr5epJhsRCMfu1KTsq27QwO7m5S6NcI4H45LfjW9CKmxUMQHwVg0x",
+      "link": "https://s.click.aliexpress.com/s/fwx308cRD9Eny963e3KDdYxyIpNj8TXVr7saiF9Um5rMUg1kZtJALLnfa2LNXtiVgnxdD8Og6MmvwBoxhnSYQGM6r0c08U4TfX8DFGo7vviCuu3q62Q60OAhRZcqm3G8PtwM69xY7TOEWRrvulP5ukZQ4uQbBBtaVsdr6EffAqVmp3O5GyUANU2DoA3dJufNhDfh7KOlLgKIvRVhDxRESHLmea6fTE26gLUqKEUuuizJiLENrCbax94DZHDu8WhaXMN8fDE1HOLt4j1KZUcj471WKjwUetlj4ZWgS3yWx6lzuERHNTI3Zmy1QdFGmOrUpflNthqjRMyGbRR2yx4lVC7lpoHLywxEdqq8B9qXTIp4KoHLCdVWIv7c5uVNuObuYyMRMKuINYIlDgBv0LXmC08wFk4rwnqqAen0xci4UkcyHsO4E8ytTbgxzHM3plLLQHwAS8iGfhNLJqJ7qYMon1krIVaxYDMZGyW0RIl1OBS7GE4wMeY63u7MIVNZM5OSgrzQueoDOjaXrSqcGMwlYL8jEQbGLsICbJiv3NUhPFfXrP7WG4CRFg7M2tNl3Oe27gGmDNB9DzXUo2R4UDinv8FmVwvbDsq6UqRy1pxSbHl066W7R1sbp39eOIzlMSXLMeIF6Wv2sRt3o3MxYUtBRHOVEXE5zvj0zrNJ7yFKl1S9na8TjMV90W7og5mO8ciQ7gKwZNPcsrfGSI6qH8CCX9qotJKHa8xP9Hyd82vLoKCHuLj2WrPTU74Ki8rtFpW3Rfw2zjkfrTqWmBC4N83urx7OPZlMVqlmULQWCvZcxL4CeeySygngotxTE7HdF5VEhU1cQI838utAWqCBPASVV8pm2uBc5SkmPYuD07Fe5vGdPwjvJAu6NEnHo9MiWfohwVqcC3yiDBOe8PFuX8XEMZJrl9rO6iKoUOxzydpvyTNj8FmBRZ6fqPeBkIrpR0o5eCpR5yvfTHO3i196wJ",
       "has_affiliate": true,
-      "current_price": 269.74,
+      "current_price": 272.29,
       "min_price": 242.77,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -483,6 +499,10 @@
         {
           "date": "2026-11-13",
           "price": 269.74
+        },
+        {
+          "date": "2026-11-14",
+          "price": 272.29
         }
       ]
     }

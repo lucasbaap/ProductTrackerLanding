@@ -99,6 +99,10 @@
         {
           "date": "2026-11-13",
           "price": 1070.65
+        },
+        {
+          "date": "2026-11-14",
+          "price": 1070.65
         }
       ]
     },
@@ -194,6 +198,10 @@
         },
         {
           "date": "2026-11-13",
+          "price": 1414.99
+        },
+        {
+          "date": "2026-11-14",
           "price": 1414.99
         }
       ]
@@ -291,6 +299,10 @@
         {
           "date": "2026-11-13",
           "price": 1361.66
+        },
+        {
+          "date": "2026-11-14",
+          "price": 1361.66
         }
       ]
     },
@@ -299,9 +311,9 @@
       "label": "Terabyte",
       "link": "https://www.terabyteshop.com.br/produto/25638/ssd-adata-legend-710-1tb-m2-2280-nvme-leitura-2400mbs-gravacao-1800mbs-aleg-710-1tcs",
       "has_affiliate": true,
-      "current_price": 1411.65,
-      "min_price": 1411.65,
-      "min_price_at": "2026-10-25",
+      "current_price": 1352.82,
+      "min_price": 1352.82,
+      "min_price_at": "2026-11-14",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -387,6 +399,10 @@
         {
           "date": "2026-11-13",
           "price": 1411.65
+        },
+        {
+          "date": "2026-11-14",
+          "price": 1352.82
         }
       ]
     }

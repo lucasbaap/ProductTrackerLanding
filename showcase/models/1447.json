@@ -99,6 +99,10 @@
         {
           "date": "2026-11-13",
           "price": 2199.0
+        },
+        {
+          "date": "2026-11-14",
+          "price": 2199.0
         }
       ]
     },
@@ -195,6 +199,10 @@
         {
           "date": "2026-11-13",
           "price": 2481.6
+        },
+        {
+          "date": "2026-11-14",
+          "price": 2481.6
         }
       ]
     },
@@ -203,7 +211,7 @@
       "label": "Terabyte",
       "link": "https://www.terabyteshop.com.br/produto/32064/placa-mae-asrock-z890-steel-legend-wifi-chipset-z890-intel-lga-1851-atx-ddr5-branco-90-mxbpf0-a0uayz",
       "has_affiliate": true,
-      "current_price": 2588.22,
+      "current_price": 2705.87,
       "min_price": 2588.22,
       "min_price_at": "2026-11-13",
       "monitored_since": "2026-10-24",
@@ -291,6 +299,10 @@
         {
           "date": "2026-11-13",
           "price": 2588.22
+        },
+        {
+          "date": "2026-11-14",
+          "price": 2705.87
         }
       ]
     }

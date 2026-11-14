@@ -11,7 +11,7 @@
       "label": "KaBuM!",
       "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F1028554%2Fprocessador-amd-ryzen-9-9950x3d2-4-3ghz-5-6ghz-max-turbo-cache-208mb-16-nucleos-32-threads-am5-com-video-integrado-100-100001978wof",
       "has_affiliate": true,
-      "current_price": 6499.99,
+      "current_price": 9999.99,
       "min_price": 6399.99,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -95,6 +95,10 @@
         {
           "date": "2026-11-13",
           "price": 6499.99
+        },
+        {
+          "date": "2026-11-14",
+          "price": 9999.99
         }
       ]
     },
@@ -278,6 +282,10 @@
         },
         {
           "date": "2026-11-13",
+          "price": 7099.0
+        },
+        {
+          "date": "2026-11-14",
           "price": 7099.0
         }
       ]

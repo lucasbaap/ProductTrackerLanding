@@ -11,7 +11,7 @@
       "label": "Mercado Livre",
       "link": "https://www.mercadolivre.com.br/p/MLB54963150?matt_word=balu1353476&matt_tool=29239275",
       "has_affiliate": true,
-      "current_price": 7999.0,
+      "current_price": 4599.0,
       "min_price": 4179.0,
       "min_price_at": "2026-11-11",
       "monitored_since": "2026-10-24",
@@ -99,6 +99,10 @@
         {
           "date": "2026-11-13",
           "price": 7999.0
+        },
+        {
+          "date": "2026-11-14",
+          "price": 4599.0
         }
       ]
     },
@@ -287,6 +291,10 @@
         {
           "date": "2026-11-13",
           "price": 4370.07
+        },
+        {
+          "date": "2026-11-14",
+          "price": 4370.07
         }
       ]
     },
@@ -383,6 +391,10 @@
         {
           "date": "2026-11-13",
           "price": 5999.0
+        },
+        {
+          "date": "2026-11-14",
+          "price": 5999.0
         }
       ]
     },
@@ -391,7 +403,7 @@
       "label": "Pichau",
       "link": "https://www.pichau.com.br/console-sony-playstation-5-edicao-digital-ssd-825gb-com-controle-sem-fio-dualsense-branco-1000049907",
       "has_affiliate": true,
-      "current_price": 6188.22,
+      "current_price": 6352.93,
       "min_price": 5635.28,
       "min_price_at": "2026-10-17",
       "monitored_since": "2026-10-17",

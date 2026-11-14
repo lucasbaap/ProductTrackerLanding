@@ -99,6 +99,10 @@
         {
           "date": "2026-11-13",
           "price": 9500.0
+        },
+        {
+          "date": "2026-11-14",
+          "price": 9500.0
         }
       ]
     },
@@ -107,7 +111,7 @@
       "label": "KaBuM!",
       "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F1072459%2Fiphone-18-pro-max-apple-256gb-camera-de-48mp-a20-pro-tela-6-9-super-retina-xdr-bordo",
       "has_affiliate": true,
-      "current_price": 11699.1,
+      "current_price": 12999.0,
       "min_price": 11099.99,
       "min_price_at": "2026-11-01",
       "monitored_since": "2026-10-24",
@@ -195,6 +199,10 @@
         {
           "date": "2026-11-13",
           "price": 11699.1
+        },
+        {
+          "date": "2026-11-14",
+          "price": 12999.0
         }
       ]
     },
@@ -290,6 +298,10 @@
         },
         {
           "date": "2026-11-13",
+          "price": 12999.0
+        },
+        {
+          "date": "2026-11-14",
           "price": 12999.0
         }
       ]

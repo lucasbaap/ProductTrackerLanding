@@ -11,7 +11,7 @@
       "label": "Mercado Livre",
       "link": "https://www.mercadolivre.com.br/p/MLB2031074195?matt_word=balu1353476&matt_tool=29239275",
       "has_affiliate": true,
-      "current_price": 1126.63,
+      "current_price": 923.81,
       "min_price": 811.57,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -103,6 +103,10 @@
         {
           "date": "2026-11-14",
           "price": 1126.63
+        },
+        {
+          "date": "2026-11-15",
+          "price": 923.81
         }
       ]
     },
@@ -111,7 +115,7 @@
       "label": "KaBuM!",
       "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F524589%2Fprocessador-intel-core-i3-14100f-14-geracao-3-5-ghz-4-7-ghz-turbo-cache-12mb-lga-1700-sem-video-bx8071514100f",
       "has_affiliate": true,
-      "current_price": 715.49,
+      "current_price": 714.28,
       "min_price": 656.18,
       "min_price_at": "2026-11-12",
       "monitored_since": "2026-10-24",
@@ -203,6 +207,10 @@
         {
           "date": "2026-11-14",
           "price": 715.49
+        },
+        {
+          "date": "2026-11-15",
+          "price": 714.28
         }
       ]
     },
@@ -303,6 +311,10 @@
         {
           "date": "2026-11-14",
           "price": 799.99
+        },
+        {
+          "date": "2026-11-15",
+          "price": 799.99
         }
       ]
     },
@@ -402,6 +414,10 @@
         },
         {
           "date": "2026-11-14",
+          "price": 1049.83
+        },
+        {
+          "date": "2026-11-15",
           "price": 1049.83
         }
       ]

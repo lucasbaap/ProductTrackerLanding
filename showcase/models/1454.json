@@ -11,7 +11,7 @@
       "label": "KaBuM!",
       "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F662405%2Fprocessador-amd-ryzen-7-9800x3d-4-7ghz-5-2ghz-max-turbo-cache-104mb-8-nucleos-16-threads-am5-com-video-integrado-100-100001084wof",
       "has_affiliate": true,
-      "current_price": 2149.99,
+      "current_price": 2999.99,
       "min_price": 2149.0,
       "min_price_at": "2026-11-04",
       "monitored_since": "2026-10-24",
@@ -103,6 +103,10 @@
         {
           "date": "2026-11-14",
           "price": 2149.99
+        },
+        {
+          "date": "2026-11-15",
+          "price": 2999.99
         }
       ]
     },
@@ -202,6 +206,10 @@
         },
         {
           "date": "2026-11-14",
+          "price": 2529.4
+        },
+        {
+          "date": "2026-11-15",
           "price": 2529.4
         }
       ]
@@ -303,6 +311,10 @@
         {
           "date": "2026-11-14",
           "price": 2388.88
+        },
+        {
+          "date": "2026-11-15",
+          "price": 2388.88
         }
       ]
     },
@@ -402,6 +414,10 @@
         },
         {
           "date": "2026-11-14",
+          "price": 2500.0
+        },
+        {
+          "date": "2026-11-15",
           "price": 2500.0
         }
       ]

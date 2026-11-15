@@ -103,6 +103,10 @@
         {
           "date": "2026-11-14",
           "price": 1582.22
+        },
+        {
+          "date": "2026-11-15",
+          "price": 1582.22
         }
       ]
     },
@@ -203,6 +207,10 @@
         {
           "date": "2026-11-14",
           "price": 1176.46
+        },
+        {
+          "date": "2026-11-15",
+          "price": 1176.46
         }
       ]
     },
@@ -211,7 +219,7 @@
       "label": "Terabyte",
       "link": "https://www.terabyteshop.com.br/produto/23415/processador-amd-ryzen-5-7600-38ghz-51ghz-turbo-6-cores-12-threads-am5-com-cooler-amd-wraith-stealth-100-100001015box",
       "has_affiliate": true,
-      "current_price": 2399.99,
+      "current_price": 1529.4,
       "min_price": 1529.4,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -303,13 +311,17 @@
         {
           "date": "2026-11-14",
           "price": 2399.99
+        },
+        {
+          "date": "2026-11-15",
+          "price": 1529.4
         }
       ]
     },
     {
       "marketplace": "shopee",
       "label": "Shopee",
-      "link": "https://s.shopee.com.br/6AmX3xOdg7",
+      "link": "https://s.shopee.com.br/5Au4inptIK",
       "has_affiliate": true,
       "current_price": 1564.99,
       "min_price": 1554.99,
@@ -403,13 +415,17 @@
         {
           "date": "2026-11-14",
           "price": 1564.99
+        },
+        {
+          "date": "2026-11-15",
+          "price": 1564.99
         }
       ]
     },
     {
       "marketplace": "aliexpress",
       "label": "AliExpress",
-      "link": "https://s.click.aliexpress.com/s/fwx308cRD9Eny963e3KDdYxyIpNj8TXVr7saiF9Um5rMUg1kZtJALLnfa2LNXtiVgnxdD8Og6MmvwBoxhnSYQGM6r0c08U4TfX8DFGo7vviCuu3q62Q60OAhRZcqm3G8PtwM69xY7TOEWRrvulP5ukZQ4uQbBBtaVsdr6EffAqVmp3O5GyUANU2DoA3dJufNhDfh7KOlLgKIvRVhDxRESHLmea6fTE26gLUqKEUuuizJiLENrCbax94DZHDu8WhaXMN8fDE1HOLt4j1KZUcj471WKjwUetlj4ZWgS3yWx6lzuERHNTI3Zmy1QdFGmOrUpflNthqjRMyGbRR2yx4lVC7lpoHLywxEdqq8B9qXTIp4KoHLCdVWIv7c5uVNuObuYyMRMKuINYIlDgBv0LXmC08wFk4rwnqqAen0xci4UkcyHsO4E8ytTbgxzHM3plLLQHwAS8iGfhNLJqJ7qYMon1krIVaxYDMZGyW0RIl1OBS7GE4wMeY63u7MIVNZM5OSgrzQueoDOjaXrSqcGMwlYL8jEQbGLsICbJiv3NUhPFfXrP7WG4CRFg7M2tNl3Oe27gGmDNB9DzXUo2R4UDinv8FmVwvbDsq6UqRy1pxSbHl066W7R1sbp39eOIzlMSXLMeIF6Wv2sRt3o3MxYUtBRHOVEXE5zvj0zrNJ7yFKl1S9na8TjMV90W7og5mO8ciQ7gKwZNPcsrfGSI6qH8CCX9qotJKHa8xP9Hyd82vLoKCHuLj2WrPTU74Ki8rtFpW3Rfw2zjkfrTqWmBC4N83urx7OPZlMVqlmULQWCvZcxL4CeeySygngotxTE7HdF5VEhU1cQI838utAWqCBPASVV8pm2uBc5SkmPYuD07Fe5vGdPwjvJAu6NEnHo9MiWfohwVqcC3yiDBOe8PFuX8XEMZJrl9rO6iKoUOxzydpvyTNj8FmBRZ6fqPeBkIrpR0o5eCpR5yvfTHO3i196wJ",
+      "link": "https://s.click.aliexpress.com/s/fwx308cRD9Eny963e3KDdYxyIpNj8TXVr7saiF9Um5rMUg1kZtJALLnfa2LNXtiVgnxdD8Og6MmvwBoxhnSYQGM6r0c08U4TfX8DFGo7vviCuu3q62Q60OAhRZcqm3G8PtwM69xY7TOEWRrvulP5ukZQ4uQbBBtaVsdr6EffAqVmp3O5GyUANU2DoA3dJufNhDfh7KOlLgKIvRVhDxRESHLmea6fTE26gLUqKEUuuizJiLENrCbax94DZHDu8WhaXMN8fDE1HOLt4j1KZUcj471WKjwUetlj4ZWgS3yWx6lzuERHNTI3Zmy1QdFGmOrUpflNthqjRMyGbRR2yx4lVC7lpoHLywxEdqq8B9qXTIp4KoHLCdVWIv7c5uVNuObuYyMRMKuINYIlDgBv0LXmC08wFk4rwnqqAen0xci4UkcyHsO4E8ytTbgxzHM3plLLQHwAS8iGfhNLJqJ7qYMon1krIVaxYDMZGyW0RIl1OBS7GE4wMeY63u7MIVNZM5OSgrzQZ4kaDfc01nCrEulnTLIuIvGNdKxhsn24RstfXRdaOsSqfuUh7BsfWkKVH4qwJKSLugCZaZgIK2pDE5VjM7pNOmPDC8ujGfZ548kD9mRrK3SgTVKd5Rk6oCQsf3cDNfGDS3BLbAb2lOoxffWLHIK2KEA5gK1H4y35MIinORPgGuYDYlbJi9IusgiN7Oj1Niu4tzkFVVFLkGVfERuXoSMMUkCBpwriycpegraNFgjuEb1wtwY5Qh5wrwoU9ta2ofUw3LyAlpa4KkB491Crhqxa5AxKkfgQzTT109xIU5FwPLyKXjxRebulOqxaPVicr34QgmprIN6UFHfFeABbZqgH7wnzzWGst7oAyamImUSndgGdpW8ADdeviI3pliY2fFOFmvl9tDwaTK3bTF7ygWB1TXEghQqyYsMUuWI4tpiCjZurPzEXsh7QjoGPSVCwCmJPHjUErtxrHTJ8p9",
       "has_affiliate": true,
       "current_price": 272.29,
       "min_price": 242.77,
@@ -502,6 +518,10 @@
         },
         {
           "date": "2026-11-14",
+          "price": 272.29
+        },
+        {
+          "date": "2026-11-15",
           "price": 272.29
         }
       ]

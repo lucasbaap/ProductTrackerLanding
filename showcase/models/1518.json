@@ -103,6 +103,10 @@
         {
           "date": "2026-11-14",
           "price": 549.99
+        },
+        {
+          "date": "2026-11-15",
+          "price": 549.99
         }
       ]
     },
@@ -203,6 +207,10 @@
         {
           "date": "2026-11-14",
           "price": 549.99
+        },
+        {
+          "date": "2026-11-15",
+          "price": 549.99
         }
       ]
     },
@@ -211,7 +219,7 @@
       "label": "KaBuM!",
       "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F404331%2Fssd-sata-500gb-crucial-bx500-ct500bx500ssd1",
       "has_affiliate": true,
-      "current_price": 749.0,
+      "current_price": 693.32,
       "min_price": 529.0,
       "min_price_at": "2026-10-30",
       "monitored_since": "2026-10-24",
@@ -303,6 +311,10 @@
         {
           "date": "2026-11-14",
           "price": 749.0
+        },
+        {
+          "date": "2026-11-15",
+          "price": 693.32
         }
       ]
     },
@@ -402,6 +414,10 @@
         },
         {
           "date": "2026-11-14",
+          "price": 823.52
+        },
+        {
+          "date": "2026-11-15",
           "price": 823.52
         }
       ]

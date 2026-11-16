@@ -107,6 +107,10 @@
         {
           "date": "2026-11-15",
           "price": 3185.63
+        },
+        {
+          "date": "2026-11-16",
+          "price": 3185.63
         }
       ]
     },
@@ -211,13 +215,17 @@
         {
           "date": "2026-11-15",
           "price": 4099.0
+        },
+        {
+          "date": "2026-11-16",
+          "price": 4099.0
         }
       ]
     },
     {
       "marketplace": "shopee",
       "label": "Shopee",
-      "link": "https://s.shopee.com.br/4VeJ027Ng4",
+      "link": "https://s.shopee.com.br/2BGUhsp3kL",
       "has_affiliate": true,
       "current_price": 4173.0,
       "min_price": 3990.0,
@@ -315,6 +323,10 @@
         {
           "date": "2026-11-15",
           "price": 4173.0
+        },
+        {
+          "date": "2026-11-16",
+          "price": 4173.0
         }
       ]
     },
@@ -323,9 +335,9 @@
       "label": "KaBuM!",
       "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F777177%2Fconsole-nintendo-switch-2-256gb-preto-azul-e-vermelho",
       "has_affiliate": true,
-      "current_price": 4499.0,
-      "min_price": 4499.0,
-      "min_price_at": "2026-10-24",
+      "current_price": 4299.0,
+      "min_price": 4299.0,
+      "min_price_at": "2026-11-16",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -387,6 +399,10 @@
         {
           "date": "2026-11-15",
           "price": 4499.0
+        },
+        {
+          "date": "2026-11-16",
+          "price": 4299.0
         }
       ]
     },

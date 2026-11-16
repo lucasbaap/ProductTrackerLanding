@@ -107,6 +107,10 @@
         {
           "date": "2026-11-15",
           "price": 1463.99
+        },
+        {
+          "date": "2026-11-16",
+          "price": 1463.99
         }
       ]
     },
@@ -211,13 +215,17 @@
         {
           "date": "2026-11-15",
           "price": 920.0
+        },
+        {
+          "date": "2026-11-16",
+          "price": 920.0
         }
       ]
     },
     {
       "marketplace": "aliexpress",
       "label": "AliExpress",
-      "link": "https://s.click.aliexpress.com/s/NdpwztbAIgDMmxGbP8fFks7yUFfsHjzlImSYmA68h7xlMRgzueFsRgokQ9f9hcpVKttxtQE2VzIoqkXJXrpOr6uR3zv7mP4CDO9CddoFf4t0QE5DXPy8Pgjhz4irfQSEjEGUmy5yF3A5gJ9h3NYjLMgqIMqa3zcpq5E2BC3W5EbV40Dm9buQxWpZzw1lbX8Zm2kZtNIa4KyDieNjsH7IU6Yv8StELKVvT9r4eFAaXPGhwHsgaDqdNcmY116r3GC2YvmvR57S69fGyn8Tt4pCtmLccxQz3g0L1ZKu00BPwYOT3BF4QZOqRqMDB0DQYqRBMsjrYNzGFGRVKWm1D3BC9FQmLOoSr3wlcYV2d3NRQlD965yHfgfPYHI9Q2mrKQ1kx1BvA2L1AdAmxaiIiybz9DOHW9Nj96rcEm4h8hZbvKUFQycnHcrH7efcbIYmIX5KbSVK2KuPqssEnXzSUGPcd0ysTGVNdc541qbXSJJcTCyNHuIasmKDIEwK9n1ugnXYimaBOzOgpAD6zA1SCuUbdac0c3RzB3mpcsBmttYHgZ1qmEDAnPgVpcaD09P3F3MZCRbvOS64qHOGfPjsiGsZfoW1ERI0ZviKYKfEFlkVd5kHom7w2liUkR5DNjMjYXUzm2fpMTBQrVHDHHuvBMRmvEtzU0GGg1eWUTed66V4Lk5PIo8n4q6x6Hm5TpQwCp4DdCKgY6hcWL8ltNr9UofwJ0u0Waj070oHZ4M8cSZWm9oi71u0awVzBFwSekX2v0zsurw6ZRjPE8bmrJYwwR1UHualC30oMdx7MFJdNbrUluW9fE19RFt8ICQJjmT1CIEMrL7Y7JTAFbjr253c1I2naqsB1wiA7w8Np5prCaj9M4o1gROKNjPXHOPScVa2lMuqrezGAqYPBC2LFMnOTrCCj392sYvEiyamMuLejwI4MK6COza5c4vNS9bYkmUAk0TkfMDdaoB6wRP21sb1VXlJ2yaxSV4uYo4t1QbOOfaYqHKsT",
+      "link": "https://s.click.aliexpress.com/s/NdpwztbAIgDMmxGbP8fFks7yUFfsHjzlImSYmA68h7xlMRgzueFsRgokQ9f9hcpVKttxtQE2VzIoqkXJXrpOr6uR3zv7mP4CDO9CddoFf4t0QE5DXPy8Pgjhz4irfQSEjEGUmy5yF3A5gJ9h3NYjLMgqIMqa3zcpq5E2BC3W5EbV40Dm9buQxWpZzw1lbX8Zm2kZtNIa4KyDieNjsH7IU6Yv8StELKVvT9r4eFAaXPGhwHsgaDqdNcmY116r3GC2YvmvR57S69fGyn8Tt4pCtmLccxQz3g0L1ZKu00BPwYOT3BF4QZOqRqMDB0DQYqRBMsjrYNzGFGRVKWm1D3BC9FQmLOoSr3wlcYV2d3NRQlD965yHfgfPYHI9Q2mrKQ1kx1BvA2L1AdAmxaiIiybz9DOHW9Nj96rcEm4h8hZbvKUFQycnHcrH7efcbIYmIX5KbSVK2KuPqssEnXzSUGPcd0ysTGVNdc541qbXSJJcTCyNHuIasmKDIEwK9n1ugnXYimaBs5M1JXdf0Qz28sJ28p6oLLbjhaXXdx63tByMzYKduB5uxLRwqLPwMRtykQ220ufoc45Ehw0ZhviukgRGgW3EOpYU1aX84OxCAcO6xDP4j0rvqvY8GwaYswBf32P5Ag9GKd4t9NbinG4YwkfpJzvy4u7pXRtPQHNiFBqBPK5Vx617FDrjp0o9XMtc9vuQN0nkuNAfNtJcc54zIcUAMID2PKU8HatWuaY9yRRswPcLeEj7v8vFNDK1kAP0xzfUUwa8jq1dVd3nf3U32mGy9zKs4THs0aue8NwQ1yhROOW4qPl3SMjSxTQQjZTQxFMZpobQyfQpi2pfWgPangKKEEAHPfACasZ8ls41v7UbCPbqTuCYf2Fjm7woLxtDqXDXxc5Nick4OnhO0d4xJqZxebxr9IezBR6zASxa5Z0aQofwWL2A6MpblFnUzzhOnYKjp0JAGeVRQllBjmPipfCaFuuFGGq8cz61S1O8pTyU8Xld1",
       "has_affiliate": true,
       "current_price": 910.27,
       "min_price": 760.32,
@@ -314,6 +322,10 @@
         },
         {
           "date": "2026-11-15",
+          "price": 910.27
+        },
+        {
+          "date": "2026-11-16",
           "price": 910.27
         }
       ]

@@ -95,6 +95,10 @@
         {
           "date": "2026-11-15",
           "price": 689.96
+        },
+        {
+          "date": "2026-11-16",
+          "price": 689.96
         }
       ]
     },
@@ -103,7 +107,7 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/dp/B01N0TQPQB?tag=producttra043-20",
       "has_affiliate": true,
-      "current_price": 529.0,
+      "current_price": 519.0,
       "min_price": 502.55,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -199,13 +203,17 @@
         {
           "date": "2026-11-15",
           "price": 529.0
+        },
+        {
+          "date": "2026-11-16",
+          "price": 519.0
         }
       ]
     },
     {
       "marketplace": "aliexpress",
       "label": "AliExpress",
-      "link": "https://s.click.aliexpress.com/s/fwx308cRD9Eny963e3KDdYxyIpNj8TXVr7saiF9Um5rMUg1kZtJALLnfa2LNXtiVgnxdD8Og6MmvwBoxhnSYQGM6r0c08U4TfX8DFGo7vviCuu3q62Q60OAhRZcqm3G8PtwM69xY7TOEWRrvulP5ukZQ4uQbBBtaVsdr6EffAqVmp3O5GyUANU2DoA3dJufNhDfh7KOlLgKIvRVhDxRESHLmea6fTE26gLUqKEUuuizJiLENrCbax94DZHDu8WhaXMN8fDE1HOLt4j1KZUcj471WKjwUetlj4ZWgS3yWx6lzuERHNTI3Zmy1QdFfd8GooZdwLiaiF6ANvoZBAqfevU6wUHkGpl2qcC5SvINZfj9tjaKuDnOJgPdKhNv3U6Lqv4EHwnE7RyIjvz7gL6ZxCANoOzx7owdrJQefrH90cfxZtL6iOYdAWIBtdWuDLKsiZOlDggc8A1GmcJOnpyJHQIAYvKsMZtjIoqomNjFboJPfnB2pIIbOt7YOE9loF3My5ZaXOMV74FTF61ZBfaG1ZXjTfRutwsNcVNBPqFWzKXU8YIFKaIuotELTD9vXSvZga1UdM5ATWPmQm7vQdMesfMx1T0wUXKMkdHwZ93KR68a6wdlqYy9j8xCn2EcUfyYO4qX131gAtmoPHVn0cptZxEZALwDvvuCJwsvyMXH8coKUMTBCmqQ4g4DsK2fp3p3NOFeLln9qeNQw0o4UKOtzJVogggJNDH9NjX57cJkWS6vgAXJIn9ZXXe7a1LTIamLZwfyYFlna7NvCoZtz9GzRoDcHTehmI9aoygayz4f0U27eX8KGZPHLsaW2hbpToRJVZXiMhf2PzOBlbACJdDXx3uMZ2vQ3p3oY4wy4kFpZegCP6mswAeGht2MBKZuACl0vZJcqKdcGIDBrq8QnNjNScm8l5M8vVBJsHdKMDRZgF5PjkovjssDAIKkB01TPyZ3IGaYJZhPk59UVyS7HL9",
+      "link": "https://s.click.aliexpress.com/s/fwx308cRD9Eny963e3KDdYxyIpNj8TXVr7saiF9Um5rMUg1kZtJALLnfa2LNXtiVgnxdD8Og6MmvwBoxhnSYQGM6r0c08U4TfX8DFGo7vviCuu3q62Q60OAhRZcqm3G8PtwM69xY7TOEWRrvulP5ukZQ4uQbBBtaVsdr6EffAqVmp3O5GyUANU2DoA3dJufNhDfh7KOlLgKIvRVhDxRESHLmea6fTE26gLUqKEUuuizJiLENrCbax94DZHDu8WhaXMN8fDE1HOLt4j1KZUcj471WKjwUetlj4ZWgS3yWx6lzuERHNTI3Zmy1QdFfd8GooZdwLiaiF6ANvoZBAqfevU6wUHkGpl2qcC5SvINZfj9tjaKuDnOJgPdKhNv3U6Lqv4EHwnE7RyIjvz7gL6ZxCANoOzx7owdrJQefrH90cfxZtL6iOYdAWIBtdWuDLKsiZOlDggc8A1GmcJOnpyJHQIAYvKsMZtjIoqomNjFboJPfnB2pIIbOt7YOE9loF3My5ZaXt89mnscvU45OymSkydoxhwNuZcN9YQyP6dAw5DFn97AxmzEMsrlApBl9KQdMijb0inZEU4yjYqtO51KOKpk8i5o3cnGmMhiiopmLVMqiay8e1cWNrrDjVSLMZ1aEZ3FoCvYpMJSUeIE3CmMGHnxcuOnOpuAGZENCyckuAvkT3wwhJRBQXZJybLuClDTZkmU07T4Iw3ERWs3CQPvX8vpinGd7nxj9xpMVLWisGDeFs1kKA2EGmdsKKFSNiDm07gMR7HbFBm0GvFTTacLCjSeppexI9g1lH27cf9LDkFxgowWVx78UWhCKFc6sYGYgDOoIDpNFQVXPlKjDyFQ5yPZgSMSM3Y5Iy4hrKfc7glx7JuRwMvMfkhrqDPUjLf2MnCuPjIb2z8JfU2uWffgxlq5UwrPSExhKUljkfQ96YAKAphdsLv0CwmuN0g6Vc5UXlP9dzZyJu1lOLH9SVl",
       "has_affiliate": true,
       "current_price": 237.05,
       "min_price": 208.79,
@@ -302,6 +310,10 @@
         },
         {
           "date": "2026-11-15",
+          "price": 237.05
+        },
+        {
+          "date": "2026-11-16",
           "price": 237.05
         }
       ]
@@ -407,6 +419,10 @@
         {
           "date": "2026-11-15",
           "price": 659.99
+        },
+        {
+          "date": "2026-11-16",
+          "price": 659.99
         }
       ]
     },
@@ -511,6 +527,10 @@
         {
           "date": "2026-11-15",
           "price": 670.58
+        },
+        {
+          "date": "2026-11-16",
+          "price": 670.58
         }
       ]
     },
@@ -519,7 +539,7 @@
       "label": "Terabyte",
       "link": "https://www.terabyteshop.com.br/produto/19382/ssd-kingston-a400-480gb-sata-iii-leitura-500mbs-gravacao-450mbs-sa400s37480g-imp",
       "has_affiliate": true,
-      "current_price": 611.65,
+      "current_price": 670.47,
       "min_price": 611.65,
       "min_price_at": "2026-11-12",
       "monitored_since": "2026-10-24",
@@ -615,6 +635,10 @@
         {
           "date": "2026-11-15",
           "price": 611.65
+        },
+        {
+          "date": "2026-11-16",
+          "price": 670.47
         }
       ]
     }

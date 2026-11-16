@@ -107,6 +107,10 @@
         {
           "date": "2026-11-15",
           "price": 1299.0
+        },
+        {
+          "date": "2026-11-16",
+          "price": 1299.0
         }
       ]
     },
@@ -115,7 +119,7 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/ASUS-Gaming-B650M-PROTECTION-Armoury/dp/B0C6HXLPJP?tag=producttra043-20",
       "has_affiliate": true,
-      "current_price": 1170.0,
+      "current_price": 1181.93,
       "min_price": 1059.22,
       "min_price_at": "2026-11-06",
       "monitored_since": "2026-10-24",
@@ -211,6 +215,10 @@
         {
           "date": "2026-11-15",
           "price": 1170.0
+        },
+        {
+          "date": "2026-11-16",
+          "price": 1181.93
         }
       ]
     },
@@ -314,6 +322,10 @@
         },
         {
           "date": "2026-11-15",
+          "price": 1078.99
+        },
+        {
+          "date": "2026-11-16",
           "price": 1078.99
         }
       ]
@@ -419,6 +431,10 @@
         {
           "date": "2026-11-15",
           "price": 1352.93
+        },
+        {
+          "date": "2026-11-16",
+          "price": 1352.93
         }
       ]
     },
@@ -522,6 +538,10 @@
         },
         {
           "date": "2026-11-15",
+          "price": 1264.69
+        },
+        {
+          "date": "2026-11-16",
           "price": 1264.69
         }
       ]

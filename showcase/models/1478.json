@@ -111,6 +111,10 @@
         {
           "date": "2026-11-16",
           "price": 1596.46
+        },
+        {
+          "date": "2026-11-17",
+          "price": 1596.46
         }
       ]
     },
@@ -218,6 +222,10 @@
         },
         {
           "date": "2026-11-16",
+          "price": 1654.99
+        },
+        {
+          "date": "2026-11-17",
           "price": 1654.99
         }
       ]
@@ -327,6 +335,10 @@
         {
           "date": "2026-11-16",
           "price": 1399.99
+        },
+        {
+          "date": "2026-11-17",
+          "price": 1399.99
         }
       ]
     },
@@ -415,6 +427,10 @@
         {
           "date": "2026-11-16",
           "price": 1623.52
+        },
+        {
+          "date": "2026-11-17",
+          "price": 1623.52
         }
       ]
     },
@@ -423,7 +439,7 @@
       "label": "Terabyte",
       "link": "https://www.terabyteshop.com.br/produto/40733/processador-intel-core-ultra-5-250k-plus-otimizado-para-ia-53ghz-turbo-18-cores-18-threads-lga-1851-bx80768250k",
       "has_affiliate": true,
-      "current_price": 1294.11,
+      "current_price": 1623.52,
       "min_price": 1294.11,
       "min_price_at": "2026-11-14",
       "monitored_since": "2026-10-24",
@@ -523,6 +539,10 @@
         {
           "date": "2026-11-16",
           "price": 1294.11
+        },
+        {
+          "date": "2026-11-17",
+          "price": 1623.52
         }
       ]
     }

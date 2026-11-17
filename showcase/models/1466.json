@@ -243,6 +243,10 @@
         {
           "date": "2026-11-16",
           "price": 1089.99
+        },
+        {
+          "date": "2026-11-17",
+          "price": 1089.99
         }
       ]
     },
@@ -350,6 +354,10 @@
         },
         {
           "date": "2026-11-16",
+          "price": 1282.34
+        },
+        {
+          "date": "2026-11-17",
           "price": 1282.34
         }
       ]
@@ -459,6 +467,10 @@
         {
           "date": "2026-11-16",
           "price": 1411.75
+        },
+        {
+          "date": "2026-11-17",
+          "price": 1411.75
         }
       ]
     },
@@ -467,7 +479,7 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/dp/B0BBJDS62N?tag=producttra043-20",
       "has_affiliate": true,
-      "current_price": 1089.99,
+      "current_price": 1267.76,
       "min_price": 1089.98,
       "min_price_at": "2026-10-29",
       "monitored_since": "2026-10-24",
@@ -567,6 +579,10 @@
         {
           "date": "2026-11-16",
           "price": 1089.99
+        },
+        {
+          "date": "2026-11-17",
+          "price": 1267.76
         }
       ]
     },
@@ -575,7 +591,7 @@
       "label": "Mercado Livre",
       "link": "https://www.mercadolivre.com.br/p/MLB49466419?matt_word=balu1353476&matt_tool=29239275",
       "has_affiliate": true,
-      "current_price": 1062.57,
+      "current_price": 1096.99,
       "min_price": 1062.57,
       "min_price_at": "2026-11-11",
       "monitored_since": "2026-10-24",
@@ -675,6 +691,10 @@
         {
           "date": "2026-11-16",
           "price": 1062.57
+        },
+        {
+          "date": "2026-11-17",
+          "price": 1096.99
         }
       ]
     },
@@ -683,7 +703,7 @@
       "label": "Shopee",
       "link": "https://s.shopee.com.br/2LZtLc9Prl",
       "has_affiliate": true,
-      "current_price": 1444.99,
+      "current_price": 1489.99,
       "min_price": 1444.99,
       "min_price_at": "2026-11-14",
       "monitored_since": "2026-10-24",
@@ -783,6 +803,10 @@
         {
           "date": "2026-11-16",
           "price": 1444.99
+        },
+        {
+          "date": "2026-11-17",
+          "price": 1489.99
         }
       ]
     }

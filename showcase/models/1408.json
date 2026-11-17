@@ -11,7 +11,7 @@
       "label": "KaBuM!",
       "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F1054518%2Fsmartphone-motorola-edge-70-fusion-512gb-5g-12gb-ram-12gb-ram-boost-tela-6-8-cam-tripla-selfie-50mp-roxo",
       "has_affiliate": true,
-      "current_price": 2699.1,
+      "current_price": 3149.1,
       "min_price": 2699.1,
       "min_price_at": "2026-11-11",
       "monitored_since": "2026-10-24",
@@ -111,6 +111,10 @@
         {
           "date": "2026-11-16",
           "price": 2699.1
+        },
+        {
+          "date": "2026-11-17",
+          "price": 3149.1
         }
       ]
     }

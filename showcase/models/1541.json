@@ -111,6 +111,10 @@
         {
           "date": "2026-11-16",
           "price": 2690.9
+        },
+        {
+          "date": "2026-11-17",
+          "price": 2690.9
         }
       ]
     },
@@ -119,7 +123,7 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/dp/B0F4425DTW?tag=producttra043-20",
       "has_affiliate": true,
-      "current_price": 2300.0,
+      "current_price": 2324.68,
       "min_price": 2300.0,
       "min_price_at": "2026-11-12",
       "monitored_since": "2026-10-24",
@@ -215,6 +219,10 @@
         {
           "date": "2026-11-16",
           "price": 2300.0
+        },
+        {
+          "date": "2026-11-17",
+          "price": 2324.68
         }
       ]
     },
@@ -223,7 +231,7 @@
       "label": "KaBuM!",
       "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F752217%2Fssd-kingston-fury-renegade-1024gb-g5-pcie-m-2-nvme-leitura-14-200mb-s-e-gravacao-11-000mb-s-compativel-com-ps5-sfyr2s-1t0",
       "has_affiliate": true,
-      "current_price": 2399.99,
+      "current_price": 3499.99,
       "min_price": 2399.99,
       "min_price_at": "2026-11-12",
       "monitored_since": "2026-10-24",
@@ -323,6 +331,10 @@
         {
           "date": "2026-11-16",
           "price": 2399.99
+        },
+        {
+          "date": "2026-11-17",
+          "price": 3499.99
         }
       ]
     },
@@ -390,6 +402,10 @@
         },
         {
           "date": "2026-11-16",
+          "price": 3811.75
+        },
+        {
+          "date": "2026-11-17",
           "price": 3811.75
         }
       ]

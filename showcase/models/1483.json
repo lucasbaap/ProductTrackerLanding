@@ -11,7 +11,7 @@
       "label": "KaBuM!",
       "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F497573%2Fprocessador-intel-core-i9-14900k-3-2ghz-6ghz-max-turbo-cache-36mb-24-nucleos-32-threads-lga-1700-com-video-integrado-bx8071514900k",
       "has_affiliate": true,
-      "current_price": 2599.99,
+      "current_price": 2699.99,
       "min_price": 2599.99,
       "min_price_at": "2026-11-14",
       "monitored_since": "2026-10-24",
@@ -111,6 +111,10 @@
         {
           "date": "2026-11-16",
           "price": 2599.99
+        },
+        {
+          "date": "2026-11-17",
+          "price": 2699.99
         }
       ]
     },
@@ -218,6 +222,10 @@
         },
         {
           "date": "2026-11-16",
+          "price": 3176.46
+        },
+        {
+          "date": "2026-11-17",
           "price": 3176.46
         }
       ]

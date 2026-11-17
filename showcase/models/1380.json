@@ -167,6 +167,10 @@
         {
           "date": "2026-11-16",
           "price": 5332.0
+        },
+        {
+          "date": "2026-11-17",
+          "price": 5332.0
         }
       ]
     },
@@ -175,7 +179,7 @@
       "label": "KaBuM!",
       "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F703062%2Fsmartphone-samsung-galaxy-s25-ultra-256gb-5g-titanio-azul-com-caneta-s-pen-galaxy-ai-camera-quadrupla-200mp-selfie-12mp-ram-12gb-tela-6-9-",
       "has_affiliate": true,
-      "current_price": 4798.8,
+      "current_price": 5799.0,
       "min_price": 4798.8,
       "min_price_at": "2026-11-10",
       "monitored_since": "2026-10-24",
@@ -263,6 +267,10 @@
         {
           "date": "2026-11-13",
           "price": 4798.8
+        },
+        {
+          "date": "2026-11-17",
+          "price": 5799.0
         }
       ]
     },
@@ -370,6 +378,10 @@
         },
         {
           "date": "2026-11-16",
+          "price": 8887.78
+        },
+        {
+          "date": "2026-11-17",
           "price": 8887.78
         }
       ]

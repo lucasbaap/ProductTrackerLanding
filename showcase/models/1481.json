@@ -11,7 +11,7 @@
       "label": "Mercado Livre",
       "link": "https://www.mercadolivre.com.br/p/MLB2089094099?matt_word=balu1353476&matt_tool=29239275",
       "has_affiliate": true,
-      "current_price": 2232.96,
+      "current_price": 2276.28,
       "min_price": 702.02,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -111,6 +111,10 @@
         {
           "date": "2026-11-16",
           "price": 2232.96
+        },
+        {
+          "date": "2026-11-17",
+          "price": 2276.28
         }
       ]
     },
@@ -218,6 +222,10 @@
         },
         {
           "date": "2026-11-16",
+          "price": 1249.0
+        },
+        {
+          "date": "2026-11-17",
           "price": 1249.0
         }
       ]
@@ -327,6 +335,10 @@
         {
           "date": "2026-11-16",
           "price": 1249.99
+        },
+        {
+          "date": "2026-11-17",
+          "price": 1249.99
         }
       ]
     },
@@ -335,7 +347,7 @@
       "label": "Terabyte",
       "link": "https://www.terabyteshop.com.br/produto/34576/processador-intel-core-ultra-5-225-33-ghz-49ghz-turbo-serie-2-10-cores-10-threads-lga-1851-bx80768225",
       "has_affiliate": true,
-      "current_price": 1294.11,
+      "current_price": 823.52,
       "min_price": 823.52,
       "min_price_at": "2026-11-11",
       "monitored_since": "2026-10-24",
@@ -435,6 +447,10 @@
         {
           "date": "2026-11-16",
           "price": 1294.11
+        },
+        {
+          "date": "2026-11-17",
+          "price": 823.52
         }
       ]
     }

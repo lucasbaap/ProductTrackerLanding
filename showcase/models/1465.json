@@ -111,6 +111,10 @@
         {
           "date": "2026-11-16",
           "price": 1899.99
+        },
+        {
+          "date": "2026-11-17",
+          "price": 1899.99
         }
       ]
     },
@@ -119,9 +123,9 @@
       "label": "Pichau",
       "link": "https://www.pichau.com.br/processador-amd-ryzen-7-7700-8-core-16-threads-3-8ghz-5-3ghz-turbo-cache-40mb-am5-100-100000592sbx",
       "has_affiliate": true,
-      "current_price": 1929.4,
-      "min_price": 1882.34,
-      "min_price_at": "2026-10-24",
+      "current_price": 1858.81,
+      "min_price": 1858.81,
+      "min_price_at": "2026-11-17",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -219,6 +223,10 @@
         {
           "date": "2026-11-16",
           "price": 1929.4
+        },
+        {
+          "date": "2026-11-17",
+          "price": 1858.81
         }
       ]
     },
@@ -326,6 +334,10 @@
         },
         {
           "date": "2026-11-16",
+          "price": 1882.34
+        },
+        {
+          "date": "2026-11-17",
           "price": 1882.34
         }
       ]
@@ -435,6 +447,10 @@
         {
           "date": "2026-11-16",
           "price": 1750.0
+        },
+        {
+          "date": "2026-11-17",
+          "price": 1750.0
         }
       ]
     },
@@ -443,7 +459,7 @@
       "label": "Shopee",
       "link": "https://s.shopee.com.br/AUvb5Z7h8J",
       "has_affiliate": true,
-      "current_price": 1819.99,
+      "current_price": 2074.99,
       "min_price": 1819.99,
       "min_price_at": "2026-11-14",
       "monitored_since": "2026-10-24",
@@ -543,6 +559,10 @@
         {
           "date": "2026-11-16",
           "price": 1819.99
+        },
+        {
+          "date": "2026-11-17",
+          "price": 2074.99
         }
       ]
     },

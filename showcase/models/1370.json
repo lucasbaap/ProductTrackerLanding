@@ -111,6 +111,10 @@
         {
           "date": "2026-11-16",
           "price": 2665.56
+        },
+        {
+          "date": "2026-11-17",
+          "price": 2665.56
         }
       ]
     },
@@ -119,7 +123,7 @@
       "label": "KaBuM!",
       "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F1032833%2Fsmartphone-samsung-galaxy-a57-5g-256gb-8gb-ram-azul-escuro",
       "has_affiliate": true,
-      "current_price": 2488.5,
+      "current_price": 2498.99,
       "min_price": 2399.0,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -219,6 +223,10 @@
         {
           "date": "2026-11-16",
           "price": 2488.5
+        },
+        {
+          "date": "2026-11-17",
+          "price": 2498.99
         }
       ]
     }

@@ -115,6 +115,10 @@
         {
           "date": "2026-11-17",
           "price": 766.52
+        },
+        {
+          "date": "2026-11-18",
+          "price": 766.52
         }
       ]
     },
@@ -123,7 +127,7 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/B550M-DS3H-AC-R2-DisplayPort/dp/B0F2H4JLJM?tag=producttra043-20",
       "has_affiliate": true,
-      "current_price": 766.72,
+      "current_price": 758.59,
       "min_price": 675.98,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -227,6 +231,10 @@
         {
           "date": "2026-11-17",
           "price": 766.72
+        },
+        {
+          "date": "2026-11-18",
+          "price": 758.59
         }
       ]
     },
@@ -426,6 +434,10 @@
         },
         {
           "date": "2026-11-17",
+          "price": 882.34
+        },
+        {
+          "date": "2026-11-18",
           "price": 882.34
         }
       ]

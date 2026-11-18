@@ -115,6 +115,10 @@
         {
           "date": "2026-11-17",
           "price": 1899.99
+        },
+        {
+          "date": "2026-11-18",
+          "price": 1899.99
         }
       ]
     },
@@ -227,6 +231,10 @@
         {
           "date": "2026-11-17",
           "price": 1858.81
+        },
+        {
+          "date": "2026-11-18",
+          "price": 1858.81
         }
       ]
     },
@@ -235,7 +243,7 @@
       "label": "Terabyte",
       "link": "https://www.terabyteshop.com.br/produto/40585/processador-amd-ryzen-7-7700-38ghz-53ghz-turbo-8-cores-16-threads-am5-com-cooler-amd-wraith-stealth-100-100000592sbx",
       "has_affiliate": true,
-      "current_price": 1882.34,
+      "current_price": 1823.52,
       "min_price": 1788.22,
       "min_price_at": "2026-11-13",
       "monitored_since": "2026-10-24",
@@ -339,6 +347,10 @@
         {
           "date": "2026-11-17",
           "price": 1882.34
+        },
+        {
+          "date": "2026-11-18",
+          "price": 1823.52
         }
       ]
     },
@@ -451,6 +463,10 @@
         {
           "date": "2026-11-17",
           "price": 1750.0
+        },
+        {
+          "date": "2026-11-18",
+          "price": 1750.0
         }
       ]
     },
@@ -562,6 +578,10 @@
         },
         {
           "date": "2026-11-17",
+          "price": 2074.99
+        },
+        {
+          "date": "2026-11-18",
           "price": 2074.99
         }
       ]

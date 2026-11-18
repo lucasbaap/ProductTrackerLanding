@@ -11,7 +11,7 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/dp/B0FPJ6Q4Y1?tag=producttra043-20",
       "has_affiliate": true,
-      "current_price": 1399.0,
+      "current_price": 1499.0,
       "min_price": 858.0,
       "min_price_at": "2026-11-01",
       "monitored_since": "2026-10-24",
@@ -115,6 +115,10 @@
         {
           "date": "2026-11-17",
           "price": 1399.0
+        },
+        {
+          "date": "2026-11-18",
+          "price": 1499.0
         }
       ]
     },
@@ -123,7 +127,7 @@
       "label": "KaBuM!",
       "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F921087%2Fsmartphone-samsung-galaxy-a07-preto-6-7-256gb-8gb-camera-dupla",
       "has_affiliate": true,
-      "current_price": 1478.87,
+      "current_price": 1498.87,
       "min_price": 944.1,
       "min_price_at": "2026-10-25",
       "monitored_since": "2026-10-25",
@@ -207,6 +211,10 @@
         {
           "date": "2026-11-17",
           "price": 1478.87
+        },
+        {
+          "date": "2026-11-18",
+          "price": 1498.87
         }
       ]
     }

@@ -247,6 +247,10 @@
         {
           "date": "2026-11-17",
           "price": 1089.99
+        },
+        {
+          "date": "2026-11-18",
+          "price": 1089.99
         }
       ]
     },
@@ -359,6 +363,10 @@
         {
           "date": "2026-11-17",
           "price": 1282.34
+        },
+        {
+          "date": "2026-11-18",
+          "price": 1282.34
         }
       ]
     },
@@ -367,7 +375,7 @@
       "label": "Terabyte",
       "link": "https://www.terabyteshop.com.br/produto/22262/processador-amd-ryzen-5-7600x-47ghz-53ghz-turbo-6-cores-12-threads-am5-100-100000593wof",
       "has_affiliate": true,
-      "current_price": 1411.75,
+      "current_price": 2729.4,
       "min_price": 1411.75,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -471,6 +479,10 @@
         {
           "date": "2026-11-17",
           "price": 1411.75
+        },
+        {
+          "date": "2026-11-18",
+          "price": 2729.4
         }
       ]
     },
@@ -582,6 +594,10 @@
         },
         {
           "date": "2026-11-17",
+          "price": 1267.76
+        },
+        {
+          "date": "2026-11-18",
           "price": 1267.76
         }
       ]
@@ -695,6 +711,10 @@
         {
           "date": "2026-11-17",
           "price": 1096.99
+        },
+        {
+          "date": "2026-11-18",
+          "price": 1096.99
         }
       ]
     },
@@ -806,6 +826,10 @@
         },
         {
           "date": "2026-11-17",
+          "price": 1489.99
+        },
+        {
+          "date": "2026-11-18",
           "price": 1489.99
         }
       ]

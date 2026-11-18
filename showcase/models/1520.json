@@ -11,7 +11,7 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/dp/B0F4Y2VR8S?tag=producttra043-20",
       "has_affiliate": true,
-      "current_price": 586.49,
+      "current_price": 757.0,
       "min_price": 581.39,
       "min_price_at": "2026-11-02",
       "monitored_since": "2026-10-24",
@@ -115,6 +115,10 @@
         {
           "date": "2026-11-17",
           "price": 586.49
+        },
+        {
+          "date": "2026-11-18",
+          "price": 757.0
         }
       ]
     },
@@ -223,6 +227,10 @@
         {
           "date": "2026-11-17",
           "price": 535.43
+        },
+        {
+          "date": "2026-11-18",
+          "price": 535.43
         }
       ]
     },
@@ -231,7 +239,7 @@
       "label": "KaBuM!",
       "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F957170%2Fssd-sandisk-plus-500gb-545mb-s-sdssda-500g-g28",
       "has_affiliate": true,
-      "current_price": 796.0,
+      "current_price": 726.11,
       "min_price": 599.75,
       "min_price_at": "2026-10-25",
       "monitored_since": "2026-10-24",
@@ -335,6 +343,10 @@
         {
           "date": "2026-11-17",
           "price": 796.0
+        },
+        {
+          "date": "2026-11-18",
+          "price": 726.11
         }
       ]
     },
@@ -447,6 +459,10 @@
         {
           "date": "2026-11-17",
           "price": 717.64
+        },
+        {
+          "date": "2026-11-18",
+          "price": 717.64
         }
       ]
     },
@@ -558,6 +574,10 @@
         },
         {
           "date": "2026-11-17",
+          "price": 823.41
+        },
+        {
+          "date": "2026-11-18",
           "price": 823.41
         }
       ]

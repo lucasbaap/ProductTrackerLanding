@@ -115,6 +115,10 @@
         {
           "date": "2026-11-17",
           "price": 1299.0
+        },
+        {
+          "date": "2026-11-18",
+          "price": 1299.0
         }
       ]
     },
@@ -123,7 +127,7 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/ASUS-Gaming-B650M-PROTECTION-Armoury/dp/B0C6HXLPJP?tag=producttra043-20",
       "has_affiliate": true,
-      "current_price": 1128.56,
+      "current_price": 1194.01,
       "min_price": 1059.22,
       "min_price_at": "2026-11-06",
       "monitored_since": "2026-10-24",
@@ -227,6 +231,10 @@
         {
           "date": "2026-11-17",
           "price": 1128.56
+        },
+        {
+          "date": "2026-11-18",
+          "price": 1194.01
         }
       ]
     },
@@ -338,6 +346,10 @@
         },
         {
           "date": "2026-11-17",
+          "price": 1073.99
+        },
+        {
+          "date": "2026-11-18",
           "price": 1073.99
         }
       ]
@@ -451,6 +463,10 @@
         {
           "date": "2026-11-17",
           "price": 1352.93
+        },
+        {
+          "date": "2026-11-18",
+          "price": 1352.93
         }
       ]
     },
@@ -459,7 +475,7 @@
       "label": "Pichau",
       "link": "https://www.pichau.com.br/placa-mae-asus-tuf-gaming-b650m-e-wifi-ddr5-socket-amd-am5-m-atx-chipset-amd-b650-tuf-gaming-b650m-e-wifi",
       "has_affiliate": true,
-      "current_price": 1264.69,
+      "current_price": 1263.52,
       "min_price": 1245.87,
       "min_price_at": "2026-11-07",
       "monitored_since": "2026-10-24",
@@ -563,6 +579,10 @@
         {
           "date": "2026-11-17",
           "price": 1264.69
+        },
+        {
+          "date": "2026-11-18",
+          "price": 1263.52
         }
       ]
     }

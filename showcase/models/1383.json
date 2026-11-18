@@ -11,7 +11,7 @@
       "label": "Mercado Livre",
       "link": "https://www.mercadolivre.com.br/p/MLB45502223?matt_word=balu1353476&matt_tool=29239275",
       "has_affiliate": true,
-      "current_price": 4062.77,
+      "current_price": 4332.0,
       "min_price": 4062.77,
       "min_price_at": "2026-11-10",
       "monitored_since": "2026-10-24",
@@ -115,6 +115,10 @@
         {
           "date": "2026-11-17",
           "price": 4062.77
+        },
+        {
+          "date": "2026-11-18",
+          "price": 4332.0
         }
       ]
     },
@@ -123,7 +127,7 @@
       "label": "KaBuM!",
       "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F703055%2Fsmartphone-samsung-galaxy-s25-camera-tripla-256-gb-5g-azul-marinho-s931b",
       "has_affiliate": true,
-      "current_price": 3949.0,
+      "current_price": 3899.0,
       "min_price": 3656.49,
       "min_price_at": "2026-11-12",
       "monitored_since": "2026-10-24",
@@ -227,6 +231,10 @@
         {
           "date": "2026-11-17",
           "price": 3949.0
+        },
+        {
+          "date": "2026-11-18",
+          "price": 3899.0
         }
       ]
     }

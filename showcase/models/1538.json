@@ -93,7 +93,7 @@
     {
       "marketplace": "shopee",
       "label": "Shopee",
-      "link": "https://s.shopee.com.br/1BNxRpslwX",
+      "link": "https://s.shopee.com.br/3qOnLTPJ2R",
       "has_affiliate": true,
       "current_price": 3749.0,
       "min_price": 3749.0,
@@ -203,6 +203,10 @@
         {
           "date": "2026-11-18",
           "price": 3749.0
+        },
+        {
+          "date": "2026-11-19",
+          "price": 3749.0
         }
       ]
     },
@@ -251,9 +255,9 @@
       "label": "Pichau",
       "link": "https://www.pichau.com.br/ssd-kingston-kc3000-2tb-m-2-2280-pcie-nvme-leitura-7000mb-s-gravacao-7000mb-s-skc3000d-2048g",
       "has_affiliate": true,
-      "current_price": 4694.11,
-      "min_price": 4694.11,
-      "min_price_at": "2026-10-24",
+      "current_price": 3529.4,
+      "min_price": 3529.4,
+      "min_price_at": "2026-11-19",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -283,6 +287,10 @@
         {
           "date": "2026-10-30",
           "price": 4694.11
+        },
+        {
+          "date": "2026-11-19",
+          "price": 3529.4
         }
       ]
     }

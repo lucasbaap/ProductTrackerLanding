@@ -11,7 +11,7 @@
       "label": "KaBuM!",
       "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F1017997%2Fprocessador-intel-core-ultra-7-265f-2-4-ghz-5-3-ghz-turbo-30mb-bx80768265f",
       "has_affiliate": true,
-      "current_price": 2634.99,
+      "current_price": 2664.99,
       "min_price": 2414.99,
       "min_price_at": "2026-10-30",
       "monitored_since": "2026-10-24",
@@ -119,6 +119,10 @@
         {
           "date": "2026-11-18",
           "price": 2634.99
+        },
+        {
+          "date": "2026-11-19",
+          "price": 2664.99
         }
       ]
     },
@@ -230,6 +234,10 @@
         },
         {
           "date": "2026-11-18",
+          "price": 1941.16
+        },
+        {
+          "date": "2026-11-19",
           "price": 1941.16
         }
       ]

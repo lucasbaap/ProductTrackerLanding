@@ -151,9 +151,9 @@
       "label": "Terabyte",
       "link": "https://www.terabyteshop.com.br/produto/40719/processador-intel-core-ultra-7-270k-plus-otimizado-para-ia-55ghz-turbo-24-cores-24-threads-lga-1851-bx80768270k",
       "has_affiliate": true,
-      "current_price": 2623.52,
-      "min_price": 2623.52,
-      "min_price_at": "2026-10-24",
+      "current_price": 2588.22,
+      "min_price": 2588.22,
+      "min_price_at": "2026-11-19",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -231,6 +231,10 @@
         {
           "date": "2026-11-11",
           "price": 2623.52
+        },
+        {
+          "date": "2026-11-19",
+          "price": 2588.22
         }
       ]
     }

@@ -119,6 +119,10 @@
         {
           "date": "2026-11-18",
           "price": 1299.0
+        },
+        {
+          "date": "2026-11-19",
+          "price": 1299.0
         }
       ]
     },
@@ -127,7 +131,7 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/ASUS-Gaming-B650M-PROTECTION-Armoury/dp/B0C6HXLPJP?tag=producttra043-20",
       "has_affiliate": true,
-      "current_price": 1194.01,
+      "current_price": 1245.46,
       "min_price": 1059.22,
       "min_price_at": "2026-11-06",
       "monitored_since": "2026-10-24",
@@ -235,6 +239,10 @@
         {
           "date": "2026-11-18",
           "price": 1194.01
+        },
+        {
+          "date": "2026-11-19",
+          "price": 1245.46
         }
       ]
     },
@@ -243,9 +251,9 @@
       "label": "KaBuM!",
       "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F523145%2Fplaca-mae-asus-tuf-gaming-b650m-e-wifi-amd-am5-b650-ddr5-preto-90mb1fv0-m0eay0",
       "has_affiliate": true,
-      "current_price": 1073.99,
-      "min_price": 1073.99,
-      "min_price_at": "2026-11-17",
+      "current_price": 1069.99,
+      "min_price": 1069.99,
+      "min_price_at": "2026-11-19",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -351,6 +359,10 @@
         {
           "date": "2026-11-18",
           "price": 1073.99
+        },
+        {
+          "date": "2026-11-19",
+          "price": 1069.99
         }
       ]
     },
@@ -467,6 +479,10 @@
         {
           "date": "2026-11-18",
           "price": 1352.93
+        },
+        {
+          "date": "2026-11-19",
+          "price": 1352.93
         }
       ]
     },
@@ -582,6 +598,10 @@
         },
         {
           "date": "2026-11-18",
+          "price": 1263.52
+        },
+        {
+          "date": "2026-11-19",
           "price": 1263.52
         }
       ]

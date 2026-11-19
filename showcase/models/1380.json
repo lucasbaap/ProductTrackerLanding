@@ -11,7 +11,7 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/dp/B0DSYJCY45?ref=cm_sw_r_cso_cp_apan_ct_BV8ZR00FQV1XP53SR1P6&ref_=cm_sw_r_cso_cp_apan_ct_BV8ZR00FQV1XP53SR1P6&social_share=cm_sw_r_cso_cp_apan_ct_BV8ZR00FQV1XP53SR1P6&th=1&tag=producttra043-20",
       "has_affiliate": true,
-      "current_price": 5332.0,
+      "current_price": 5999.0,
       "min_price": 4798.8,
       "min_price_at": "2026-11-13",
       "monitored_since": "2026-09-24",
@@ -175,6 +175,10 @@
         {
           "date": "2026-11-18",
           "price": 5332.0
+        },
+        {
+          "date": "2026-11-19",
+          "price": 5999.0
         }
       ]
     },
@@ -279,17 +283,21 @@
         {
           "date": "2026-11-18",
           "price": 5799.0
+        },
+        {
+          "date": "2026-11-19",
+          "price": 5799.0
         }
       ]
     },
     {
       "marketplace": "shopee",
       "label": "Shopee",
-      "link": "https://s.shopee.com.br/7Af95QZoht",
+      "link": "https://s.shopee.com.br/1BO2JbkQ1D",
       "has_affiliate": true,
-      "current_price": 8887.78,
-      "min_price": 8887.78,
-      "min_price_at": "2026-10-29",
+      "current_price": 8665.56,
+      "min_price": 8665.56,
+      "min_price_at": "2026-11-19",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -395,6 +403,10 @@
         {
           "date": "2026-11-18",
           "price": 8887.78
+        },
+        {
+          "date": "2026-11-19",
+          "price": 8665.56
         }
       ]
     }

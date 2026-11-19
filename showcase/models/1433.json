@@ -119,6 +119,10 @@
         {
           "date": "2026-11-18",
           "price": 1626.42
+        },
+        {
+          "date": "2026-11-19",
+          "price": 1626.42
         }
       ]
     },
@@ -147,7 +151,7 @@
       "label": "KaBuM!",
       "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F692781%2Fplaca-mae-gigabyte-b650-gaming-x-ax-v2-rev-1-0-ddr5-am5-atx",
       "has_affiliate": true,
-      "current_price": 1494.99,
+      "current_price": 1514.99,
       "min_price": 1494.99,
       "min_price_at": "2026-10-27",
       "monitored_since": "2026-10-24",
@@ -255,6 +259,10 @@
         {
           "date": "2026-11-18",
           "price": 1494.99
+        },
+        {
+          "date": "2026-11-19",
+          "price": 1514.99
         }
       ]
     },
@@ -370,6 +378,10 @@
         },
         {
           "date": "2026-11-18",
+          "price": 1529.4
+        },
+        {
+          "date": "2026-11-19",
           "price": 1529.4
         }
       ]

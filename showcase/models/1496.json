@@ -119,6 +119,10 @@
         {
           "date": "2026-11-18",
           "price": 1180.0
+        },
+        {
+          "date": "2026-11-19",
+          "price": 1180.0
         }
       ]
     },
@@ -234,6 +238,10 @@
         },
         {
           "date": "2026-11-18",
+          "price": 1126.0
+        },
+        {
+          "date": "2026-11-19",
           "price": 1126.0
         }
       ]
@@ -351,6 +359,10 @@
         {
           "date": "2026-11-18",
           "price": 1099.99
+        },
+        {
+          "date": "2026-11-19",
+          "price": 1099.99
         }
       ]
     },
@@ -359,7 +371,7 @@
       "label": "Pichau",
       "link": "https://www.pichau.com.br/processador-intel-core-i5-14400f-10-core-16-threads-3-5ghz-4-7ghz-turbo-cache-20mb-lga1700-bx8071514400f",
       "has_affiliate": true,
-      "current_price": 1152.93,
+      "current_price": 2352.93,
       "min_price": 1152.93,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -419,6 +431,10 @@
         {
           "date": "2026-11-18",
           "price": 1152.93
+        },
+        {
+          "date": "2026-11-19",
+          "price": 2352.93
         }
       ]
     },
@@ -534,6 +550,10 @@
         },
         {
           "date": "2026-11-18",
+          "price": 1294.1
+        },
+        {
+          "date": "2026-11-19",
           "price": 1294.1
         }
       ]

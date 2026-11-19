@@ -9,7 +9,7 @@
     {
       "marketplace": "shopee",
       "label": "Shopee",
-      "link": "https://s.shopee.com.br/8KrBI7c9uR",
+      "link": "https://s.shopee.com.br/2qWGDjNEba",
       "has_affiliate": true,
       "current_price": 3649.0,
       "min_price": 3649.0,
@@ -119,6 +119,10 @@
         {
           "date": "2026-11-18",
           "price": 3649.0
+        },
+        {
+          "date": "2026-11-19",
+          "price": 3649.0
         }
       ]
     },
@@ -127,7 +131,7 @@
       "label": "AliExpress",
       "link": "https://www.aliexpress.com/item/1005012700854316.html",
       "has_affiliate": true,
-      "current_price": 2496.39,
+      "current_price": 2515.83,
       "min_price": 2352.99,
       "min_price_at": "2026-11-01",
       "monitored_since": "2026-10-24",
@@ -235,6 +239,10 @@
         {
           "date": "2026-11-18",
           "price": 2496.39
+        },
+        {
+          "date": "2026-11-19",
+          "price": 2515.83
         }
       ]
     },
@@ -347,6 +355,10 @@
         {
           "date": "2026-11-18",
           "price": 5729.99
+        },
+        {
+          "date": "2026-11-19",
+          "price": 5729.99
         }
       ]
     },
@@ -450,6 +462,10 @@
         },
         {
           "date": "2026-11-18",
+          "price": 4741.16
+        },
+        {
+          "date": "2026-11-19",
           "price": 4741.16
         }
       ]

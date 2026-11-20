@@ -11,7 +11,7 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/dp/B08QBMD6P4?tag=producttra043-20",
       "has_affiliate": true,
-      "current_price": 2594.07,
+      "current_price": 2638.18,
       "min_price": 1786.57,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -123,6 +123,10 @@
         {
           "date": "2026-11-19",
           "price": 2594.07
+        },
+        {
+          "date": "2026-11-20",
+          "price": 2638.18
         }
       ]
     },
@@ -251,7 +255,7 @@
       "label": "KaBuM!",
       "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F647831%2Fssd-500gb-2-5-sata-3-870-evo-560mb-s-leit-530mb-s-grav-mz-77e500b-eu-samsung",
       "has_affiliate": true,
-      "current_price": 848.43,
+      "current_price": 1159.83,
       "min_price": 848.43,
       "min_price_at": "2026-11-11",
       "monitored_since": "2026-10-24",
@@ -363,6 +367,10 @@
         {
           "date": "2026-11-19",
           "price": 848.43
+        },
+        {
+          "date": "2026-11-20",
+          "price": 1159.83
         }
       ]
     }

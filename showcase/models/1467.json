@@ -123,6 +123,10 @@
         {
           "date": "2026-11-19",
           "price": 1582.22
+        },
+        {
+          "date": "2026-11-20",
+          "price": 1582.22
         }
       ]
     },
@@ -131,7 +135,7 @@
       "label": "Pichau",
       "link": "https://www.pichau.com.br/processador-amd-ryzen-5-7600-6-core-12-threads-3-8ghz-5-1ghz-turbo-cache-38mb-am5-100-100001015box",
       "has_affiliate": true,
-      "current_price": 1176.46,
+      "current_price": 1529.4,
       "min_price": 1176.46,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -243,6 +247,10 @@
         {
           "date": "2026-11-19",
           "price": 1176.46
+        },
+        {
+          "date": "2026-11-20",
+          "price": 1529.4
         }
       ]
     },
@@ -362,6 +370,10 @@
         },
         {
           "date": "2026-11-19",
+          "price": 1529.4
+        },
+        {
+          "date": "2026-11-20",
           "price": 1529.4
         }
       ]
@@ -483,15 +495,19 @@
         {
           "date": "2026-11-19",
           "price": 2549.9
+        },
+        {
+          "date": "2026-11-20",
+          "price": 2549.9
         }
       ]
     },
     {
       "marketplace": "aliexpress",
       "label": "AliExpress",
-      "link": "https://s.click.aliexpress.com/s/fwx308cRD9Eny963e3KDdYxyIpNj8TXVr7saiF9Um5rMUg1kZtJALLnfa2LNXtiVgnxdD8Og6MmvwBoxhnSYQGM6r0c08U4TfX8DFGo7vviCuu3q62Q60OAhRZcqm3G8PtwM69xY7TOEWRrvulP5ukZQ4uQbBBtaVsdr6EffAqVmp3O5GyUANU2DoA3dJufNhDfh7KOlLgKIvRVhDxRESHLmea6fTE26gLUqKEUuuizJiLENrCbax94DZHDu8WhaXMN8fDE1HOLt4j1KZUcj471WKjwUetlj4ZWgS3yWx6lzuERHNTI3Zmy1QdFGmOrUpflNthqjRMyGbRR2yx4lVC7lpoHLywxEdqq8B9qXTIp4KoHLCdVWIv7c5uVNuObuYyMRMKuINYIlDgBv0LXmC08wFk4rwnqqAen0xci4UkcyHsO4E8ytTbgxzHM3plLLQHwAS8iGfhNLJqJ7qYMon1krIVaxYDMZGyW0RIl1OBS7GE4wMeY63u7MIVNZM5OSgrzQHnpop5C7fUqnjwGtR0M5pMNHGEIol39NHawvJfYwcSDQcQwr3pukAhV1TfIUbK9SDe5GsPlw3vKlMjQWvoO2J8mVgLGfusD2qEHsmQmUHCgQ5l3zGtvg5tIY3cJlgAZVw5G9i2ESFsi8QpgAFPBV37Ofq3AVMA8iIhTFyPrqyruXXi7FcbYSzNjfO0SBtOH1pC6PSO48vfiAHdZd84R4JkY0rGWqOHHfU2US298psBYSDHf5N2YbDWcLTf7YLyhbI2sz5eMctCbGlJkAGGaDiQI6A5kMtIFaQMftUUkxaMrll9T3Bdpo09wn57rkxtIF5SlcwhCssaa4ShgaWJHBuCkeQDM3RPWraKca18tCFQqrBPIw4d4IHJbbmx7oq6CKeDyGd5YLmAV6bZaox8eXexIFlUh4yMFdlZkNK4RTreNIgp3p0QQYB9JEzLYh72NsyV2MHzbPRCUAmJ",
+      "link": "https://s.click.aliexpress.com/s/fwx308cRD9Eny963e3KDdYxyIpNj8TXVr7saiF9Um5rMUg1kZtJALLnfa2LNXtiVgnxdD8Og6MmvwBoxhnSYQGM6r0c08U4TfX8DFGo7vviCuu3q62Q60OAhRZcqm3G8PtwM69xY7TOEWRrvulP5ukZQ4uQbBBtaVsdr6EffAqVmp3O5GyUANU2DoA3dJufNhDfh7KOlLgKIvRVhDxRESHLmea6fTE26gLUqKEUuuizJiLENrCbax94DZHDu8WhaXMN8fDE1HOLt4j1KZUcj471WKjwUetlj4ZWgS3yWx6lzuERHNTI3Zmy1QdFGmOrUpflNthqjRMyGbRR2yx4lVC7lpoHLywxEdqq8B9qXTIp4KoHLCdVWIv7c5uVNuObuYyMRMKuINYIlDgBv0LXmC08wFk4rwnqqAen0xci4UkcyHsO4E8ytTbgxzHM3plLLQHwAS8iGfhNLJqJ7qYMon1krIVaxYDMZGyW0RIl1OBS7GE4wMeY63u7MIVNZM5OSgrzQVbMDdEWPljG09ngnl1xkhyEx0OHadrugcAjUGOU9GLhkyCpDVDj4Ar6nJmHfhyilfTOSF3W89fUY6vlt5wBloIbe8tbl7bamJeXH8zFCONxCmuMEqvadvcDoqBx872ESR8tmqeemRiBFL12CVhHiKVbdLARo725Gb4LN6Uu3mwn6VB0pGPyAkrYRdF0lgrL30azdgTW7JdSgEveRkWLhkwoVCWhTYbDhb24Iw4MjeU6LqftnjCNxIeMD1RkEjR90S0SnIsOMJnDdLbd2FZU4Y4C0F2y6IptlPs7VIbsosSQAysypCDzaDq5mOfbWzFv0L8945M1SXH5C2Nidm36RqupclJXszGg49gS4Dx8x09eWvBodCEkEHTZjtl2xTHkjfJdfnSTwHFiz4YaI870OQj3V66RReMZY2aNZ2AjDGVUHSjrC1T5dr1fEYNU2dQR6LG8KYajTIzOmJZ",
       "has_affiliate": true,
-      "current_price": 280.58,
+      "current_price": 285.15,
       "min_price": 242.77,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -603,6 +619,10 @@
         {
           "date": "2026-11-19",
           "price": 280.58
+        },
+        {
+          "date": "2026-11-20",
+          "price": 285.15
         }
       ]
     }

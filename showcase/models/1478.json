@@ -123,6 +123,10 @@
         {
           "date": "2026-11-19",
           "price": 1596.46
+        },
+        {
+          "date": "2026-11-20",
+          "price": 1596.46
         }
       ]
     },
@@ -242,6 +246,10 @@
         },
         {
           "date": "2026-11-19",
+          "price": 1670.45
+        },
+        {
+          "date": "2026-11-20",
           "price": 1670.45
         }
       ]
@@ -363,6 +371,10 @@
         {
           "date": "2026-11-19",
           "price": 1399.99
+        },
+        {
+          "date": "2026-11-20",
+          "price": 1399.99
         }
       ]
     },
@@ -371,7 +383,7 @@
       "label": "Pichau",
       "link": "https://www.pichau.com.br/processador-intel-core-ultra-5-250k-plus-18-core-18-threads-4-2ghz-5-3ghz-turbo-cache-30mb-lga1851-bx80768250k",
       "has_affiliate": true,
-      "current_price": 1623.52,
+      "current_price": 1647.05,
       "min_price": 1623.52,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -463,6 +475,10 @@
         {
           "date": "2026-11-19",
           "price": 1623.52
+        },
+        {
+          "date": "2026-11-20",
+          "price": 1647.05
         }
       ]
     },
@@ -471,7 +487,7 @@
       "label": "Terabyte",
       "link": "https://www.terabyteshop.com.br/produto/40733/processador-intel-core-ultra-5-250k-plus-otimizado-para-ia-53ghz-turbo-18-cores-18-threads-lga-1851-bx80768250k",
       "has_affiliate": true,
-      "current_price": 1623.52,
+      "current_price": 1529.4,
       "min_price": 1294.11,
       "min_price_at": "2026-11-14",
       "monitored_since": "2026-10-24",
@@ -583,6 +599,10 @@
         {
           "date": "2026-11-19",
           "price": 1623.52
+        },
+        {
+          "date": "2026-11-20",
+          "price": 1529.4
         }
       ]
     }

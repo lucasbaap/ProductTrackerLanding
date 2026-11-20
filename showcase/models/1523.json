@@ -123,6 +123,10 @@
         {
           "date": "2026-11-19",
           "price": 1600.0
+        },
+        {
+          "date": "2026-11-20",
+          "price": 1600.0
         }
       ]
     },
@@ -243,15 +247,19 @@
         {
           "date": "2026-11-19",
           "price": 1898.5
+        },
+        {
+          "date": "2026-11-20",
+          "price": 1898.5
         }
       ]
     },
     {
       "marketplace": "aliexpress",
       "label": "AliExpress",
-      "link": "https://s.click.aliexpress.com/s/fwx308cRD9Eny963e3KDdYxyIpNj8TXVr7saiF9Um5rMUg1kZtJALLnfa2LNXtiVgnxdD8Og6MmvwBoxhnSYQGM6r0c08U4TfX8DFGo7vviCuu3q62Q60OAhRZcqm3G8PtwM69xY7TOEWRrvulP5ukZQ4uQbBBtaVsdr6EffAqVmp3O5GyUANU2DoA3dJufNhDfh7KOlLgKIvRVhDxRESHLmea6fTE26gLUqKEUuuizJiLENrCbax94DZHDu8WhaXMN8fDE1HOLt4j1KZUcj471WKjwUetlj4ZWgS3yWx6lzuERHNTI3Zmy1QdFuzv60ycglALHOQPfhmhbDqj1lO89BklqNagahO1nCmM9kA9oJ3ykWfVSOwLWHrV9ubGLc4FxvaX3S6aYcf6AIAUIDIlSaacFW41YU2pXjS79nsTSnxGoLh6rNLfP7QnB5R3eiKuTDvtFCTv1OwmKpBQ9X0gUhVbwNmLZLpcnPrd6iqE14fSCvjKSVZYm5pTd9ME0z1akapjz9xM8q9stPlkWnfjkePnaF47yrMpI3EwKlQ7utnIXCXAa814K1Q7WGbnYkqxU5QCe6T8N4ZSEc8MkL8UgeyjCn7JDXdWJMdjZBjyRJpzb4OhCdpNXoP95K1K5XfWu28jTSpVLTVCwmdd9bmhJqC6ex6YedyVB3INADsToBbwLw6hGV8qp9WW74wGyLDQEYfprMDLu6b8zUHgLpnmFUTGJFGHhaXdYF8V3ZJUCttHsPMfjaYbFKBI5B6PwhjJubyTCWw3Fch3LNF5owMZJwbIQg2uTAoOUTq5GoUMRPYc6ZTnsNW7d91TF23KqlNqfThDFJH8M08cFVxcRZmQHUBb919pI0RymrGAyEJnToz93C3P7EL4mrH3NjsB95TRsIIypmtoKAZizeWm42yVxDteHSZWFed8tkd1ce2ZqwA6nHL1PrOHbjc7voTMwo611MSTmJuk4S8F2V2b",
+      "link": "https://s.click.aliexpress.com/s/fwx308cRD9Eny963e3KDdYxyIpNj8TXVr7saiF9Um5rMUg1kZtJALLnfa2LNXtiVgnxdD8Og6MmvwBoxhnSYQGM6r0c08U4TfX8DFGo7vviCuu3q62Q60OAhRZcqm3G8PtwM69xY7TOEWRrvulP5ukZQ4uQbBBtaVsdr6EffAqVmp3O5GyUANU2DoA3dJufNhDfh7KOlLgKIvRVhDxRESHLmea6fTE26gLUqKEUuuizJiLENrCbax94DZHDu8WhaXMN8fDE1HOLt4j1KZUcj471WKjwUetlj4ZWgS3yWx6lzuERHNTI3Zmy1QdFuzv60ycglALHOQPfhmhbDqj1lO89BklqNagahO1nCmM9kA9oJ3ykWfVSOwLWHrV9ubGLc4FxvaX3S6aYcf6AIAUIDIlSaacFW41YU2pXjS79nsTSnxGoLh6rNLfP7QnB5R3eiKuTDvtFCTv1OwmKpBQ9X0gUhVbwNmLZLpcnPrd6iqE14fSCvjKSVZYm5pTd9ME0z1akaonVPAnlBK6ubYfkNN4e2sFSHqUqhVMrJ6P5pkCz94uyL87JTczkFU6k2J94i2VbUAPiibGYxBUpskFqGTRb2uJEHTx48wfd7oqJ6X6R9QCuUQPY3eSCSXzzabrK9SAHDWje1ZmcyREOm5LX0p1OUlg8D3F6Y8nkti8ThP94D80ndEwDhBYPxv3wuQRCx5Rmk9ljrM5EoIHAWPKmHYaU9vh06mSmnUaVmlilHUn9RaxfkfQpyV0yVgYuGMqSB8TQ6AtEGjAgO06mSb3PMj1np7tagaKEFYCzqcrZDxfJZ4R67olebDxxSlipxWK6PnueSKNiFD28sS5DXMtOPvRqgtV0NeYfKfZkvM8Fybkb4vhPcRBguhp93EYWZIVdzMZkJCEEgD9zsTQqAp6pczrwBNgOMqRfp0nFESehnLyBwkBTZYH8JJo2Dun9GFuq7HRnOxmrPha02abIYuT",
       "has_affiliate": true,
-      "current_price": 338.97,
+      "current_price": 317.73,
       "min_price": 289.87,
       "min_price_at": "2026-10-27",
       "monitored_since": "2026-10-24",
@@ -363,6 +371,10 @@
         {
           "date": "2026-11-19",
           "price": 338.97
+        },
+        {
+          "date": "2026-11-20",
+          "price": 317.73
         }
       ]
     },
@@ -371,7 +383,7 @@
       "label": "KaBuM!",
       "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F351998%2Fssd-samsung-870-evo-1tb-sata-mz-77e1t0b-am",
       "has_affiliate": true,
-      "current_price": 1708.65,
+      "current_price": 1978.65,
       "min_price": 1685.25,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -483,6 +495,10 @@
         {
           "date": "2026-11-19",
           "price": 1708.65
+        },
+        {
+          "date": "2026-11-20",
+          "price": 1978.65
         }
       ]
     }

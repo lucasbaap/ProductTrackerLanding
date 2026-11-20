@@ -123,6 +123,10 @@
         {
           "date": "2026-11-19",
           "price": 2399.99
+        },
+        {
+          "date": "2026-11-20",
+          "price": 2399.99
         }
       ]
     },
@@ -131,7 +135,7 @@
       "label": "Pichau",
       "link": "https://www.pichau.com.br/processador-amd-ryzen-9-7900x-12-core-24-threads-4-7ghz-5-6ghz-turbo-cache-76mb-am5-100-100000589wof",
       "has_affiliate": true,
-      "current_price": 2235.28,
+      "current_price": 2670.58,
       "min_price": 2117.64,
       "min_price_at": "2026-11-11",
       "monitored_since": "2026-10-24",
@@ -243,6 +247,10 @@
         {
           "date": "2026-11-19",
           "price": 2235.28
+        },
+        {
+          "date": "2026-11-20",
+          "price": 2670.58
         }
       ]
     },
@@ -363,6 +371,10 @@
         {
           "date": "2026-11-19",
           "price": 2235.28
+        },
+        {
+          "date": "2026-11-20",
+          "price": 2235.28
         }
       ]
     },
@@ -482,6 +494,10 @@
         },
         {
           "date": "2026-11-19",
+          "price": 1700.0
+        },
+        {
+          "date": "2026-11-20",
           "price": 1700.0
         }
       ]

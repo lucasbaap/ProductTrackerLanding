@@ -11,7 +11,7 @@
       "label": "Mercado Livre",
       "link": "https://www.mercadolivre.com.br/p/MLB77855502?matt_word=balu1353476&matt_tool=29239275",
       "has_affiliate": true,
-      "current_price": 7500.0,
+      "current_price": 9500.0,
       "min_price": 7500.0,
       "min_price_at": "2026-11-18",
       "monitored_since": "2026-10-24",
@@ -123,6 +123,10 @@
         {
           "date": "2026-11-19",
           "price": 7500.0
+        },
+        {
+          "date": "2026-11-20",
+          "price": 9500.0
         }
       ]
     },
@@ -243,6 +247,10 @@
         {
           "date": "2026-11-19",
           "price": 11699.1
+        },
+        {
+          "date": "2026-11-20",
+          "price": 11699.1
         }
       ]
     },
@@ -362,6 +370,10 @@
         },
         {
           "date": "2026-11-19",
+          "price": 12999.0
+        },
+        {
+          "date": "2026-11-20",
           "price": 12999.0
         }
       ]

@@ -11,7 +11,7 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/dp/B0F4Y2VR8S?tag=producttra043-20",
       "has_affiliate": true,
-      "current_price": 757.0,
+      "current_price": 586.85,
       "min_price": 581.39,
       "min_price_at": "2026-11-02",
       "monitored_since": "2026-10-24",
@@ -123,6 +123,10 @@
         {
           "date": "2026-11-19",
           "price": 757.0
+        },
+        {
+          "date": "2026-11-20",
+          "price": 586.85
         }
       ]
     },
@@ -131,7 +135,7 @@
       "label": "AliExpress",
       "link": "https://www.aliexpress.com/item/1005012783101673.html",
       "has_affiliate": true,
-      "current_price": 539.59,
+      "current_price": 544.99,
       "min_price": 461.68,
       "min_price_at": "2026-10-27",
       "monitored_since": "2026-10-24",
@@ -239,6 +243,10 @@
         {
           "date": "2026-11-19",
           "price": 539.59
+        },
+        {
+          "date": "2026-11-20",
+          "price": 544.99
         }
       ]
     },
@@ -358,6 +366,10 @@
         },
         {
           "date": "2026-11-19",
+          "price": 694.54
+        },
+        {
+          "date": "2026-11-20",
           "price": 694.54
         }
       ]
@@ -479,6 +491,10 @@
         {
           "date": "2026-11-19",
           "price": 717.64
+        },
+        {
+          "date": "2026-11-20",
+          "price": 717.64
         }
       ]
     },
@@ -598,6 +614,10 @@
         },
         {
           "date": "2026-11-19",
+          "price": 823.41
+        },
+        {
+          "date": "2026-11-20",
           "price": 823.41
         }
       ]

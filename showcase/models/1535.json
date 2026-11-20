@@ -107,6 +107,10 @@
         {
           "date": "2026-11-19",
           "price": 2099.0
+        },
+        {
+          "date": "2026-11-20",
+          "price": 2099.0
         }
       ]
     },
@@ -227,6 +231,10 @@
         {
           "date": "2026-11-19",
           "price": 1899.0
+        },
+        {
+          "date": "2026-11-20",
+          "price": 1899.0
         }
       ]
     },
@@ -235,7 +243,7 @@
       "label": "AliExpress",
       "link": "https://www.aliexpress.com/item/1005009445384546.html",
       "has_affiliate": true,
-      "current_price": 730.66,
+      "current_price": 737.99,
       "min_price": 730.66,
       "min_price_at": "2026-11-19",
       "monitored_since": "2026-10-24",
@@ -347,6 +355,10 @@
         {
           "date": "2026-11-19",
           "price": 730.66
+        },
+        {
+          "date": "2026-11-20",
+          "price": 737.99
         }
       ]
     },
@@ -355,7 +367,7 @@
       "label": "Pichau",
       "link": "https://www.pichau.com.br/ssd-lexar-nm790-1tb-m-2-2280-pcie-nvme-leitura-7400mb-s-gravacao-6500mb-s-lnm790x001t-rnnng",
       "has_affiliate": true,
-      "current_price": 1529.4,
+      "current_price": 1588.22,
       "min_price": 1482.34,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -467,6 +479,10 @@
         {
           "date": "2026-11-19",
           "price": 1529.4
+        },
+        {
+          "date": "2026-11-20",
+          "price": 1588.22
         }
       ]
     }

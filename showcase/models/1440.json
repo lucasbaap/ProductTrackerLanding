@@ -123,6 +123,10 @@
         {
           "date": "2026-11-19",
           "price": 1680.77
+        },
+        {
+          "date": "2026-11-20",
+          "price": 1680.77
         }
       ]
     },
@@ -243,6 +247,10 @@
         {
           "date": "2026-11-19",
           "price": 1222.19
+        },
+        {
+          "date": "2026-11-20",
+          "price": 1222.19
         }
       ]
     },
@@ -251,7 +259,7 @@
       "label": "KaBuM!",
       "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F914296%2Fplaca-mae-gigabyte-b760m-aorus-elite-wifi6e-gen5-intel-lga-1700-matx-ddr5-rgb-pcie-5-0-wi-fi-6e-bluetooth-b760m-a-e-wf6e-gen5",
       "has_affiliate": true,
-      "current_price": 1159.99,
+      "current_price": 1599.99,
       "min_price": 1159.99,
       "min_price_at": "2026-11-05",
       "monitored_since": "2026-10-24",
@@ -363,6 +371,10 @@
         {
           "date": "2026-11-19",
           "price": 1159.99
+        },
+        {
+          "date": "2026-11-20",
+          "price": 1599.99
         }
       ]
     },
@@ -371,9 +383,9 @@
       "label": "Pichau",
       "link": "https://www.pichau.com.br/placa-mae-gigabyte-b760m-aorus-elite-wifi6e-gen5-ddr5-lga1700-m-atx-chipset-intel-b760-b760m-a-e-wf6e-gen5",
       "has_affiliate": true,
-      "current_price": 1364.69,
-      "min_price": 1364.69,
-      "min_price_at": "2026-11-04",
+      "current_price": 1294.11,
+      "min_price": 1294.11,
+      "min_price_at": "2026-11-20",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -483,6 +495,10 @@
         {
           "date": "2026-11-19",
           "price": 1364.69
+        },
+        {
+          "date": "2026-11-20",
+          "price": 1294.11
         }
       ]
     }

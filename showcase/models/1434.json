@@ -127,6 +127,10 @@
         {
           "date": "2026-11-20",
           "price": 1800.0
+        },
+        {
+          "date": "2026-11-21",
+          "price": 1800.0
         }
       ]
     },
@@ -253,13 +257,18 @@
     {
       "marketplace": "kabum",
       "label": "KaBuM!",
-      "link": "https://www.kabum.com.br/produto/392611/placa-mae-b650-msi-mag-tomahawk-wi-fi-amd-am5-atx-ddr5-preto-mag-b650-tomahawk-wifi?aw_affid=2989153&sv1=affiliate&sv_campaign_id=2989153&awc=17729_1792816580_10afd04905079165ce5895df1041960a&utm_source=AWIN&utm_medium=AFILIADOS&utm_content=&utm_term=2989153&sv1=affiliate&sv_campaign_id=2989153",
+      "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F392611%2Fplaca-mae-b650-msi-mag-tomahawk-wi-fi-amd-am5-atx-ddr5-preto-mag-b650-tomahawk-wifi",
       "has_affiliate": true,
       "current_price": 2229.9,
-      "min_price": null,
-      "min_price_at": null,
-      "monitored_since": "2026-10-24",
-      "history": []
+      "min_price": 2229.9,
+      "min_price_at": "2026-11-21",
+      "monitored_since": "2026-11-21",
+      "history": [
+        {
+          "date": "2026-11-21",
+          "price": 2229.9
+        }
+      ]
     }
   ],
   "cta": {

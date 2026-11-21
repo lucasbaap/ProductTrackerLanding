@@ -11,7 +11,7 @@
       "label": "Mercado Livre",
       "link": "https://www.mercadolivre.com.br/p/MLB58623212?matt_word=balu1353476&matt_tool=29239275",
       "has_affiliate": true,
-      "current_price": 1969.0,
+      "current_price": 1999.0,
       "min_price": 1969.0,
       "min_price_at": "2026-11-14",
       "monitored_since": "2026-10-24",
@@ -127,6 +127,10 @@
         {
           "date": "2026-11-20",
           "price": 1969.0
+        },
+        {
+          "date": "2026-11-21",
+          "price": 1999.0
         }
       ]
     },
@@ -251,6 +255,10 @@
         {
           "date": "2026-11-20",
           "price": 2250.0
+        },
+        {
+          "date": "2026-11-21",
+          "price": 2250.0
         }
       ]
     },
@@ -270,7 +278,7 @@
       "label": "Magalu",
       "link": "https://m.magazineluiza.com.br/console-nintendo-switch-oled-64gb-edicao-super-mario-bros-wonder/p/fh937be7ka/ga/coni/?partner_id=3440&promoter_id=5820501&utm_source=divulgador&utm_medium=magalu&utm_campaign=5820501",
       "has_affiliate": true,
-      "current_price": 2099.0,
+      "current_price": 2699.0,
       "min_price": 2099.0,
       "min_price_at": "2026-11-11",
       "monitored_since": "2026-10-24",
@@ -386,6 +394,10 @@
         {
           "date": "2026-11-20",
           "price": 2099.0
+        },
+        {
+          "date": "2026-11-21",
+          "price": 2699.0
         }
       ]
     }

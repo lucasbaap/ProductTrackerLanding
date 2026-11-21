@@ -127,6 +127,10 @@
         {
           "date": "2026-11-20",
           "price": 2399.0
+        },
+        {
+          "date": "2026-11-21",
+          "price": 2399.0
         }
       ]
     },
@@ -135,7 +139,7 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/dp/B0DFK2WHF8?tag=producttra043-20",
       "has_affiliate": true,
-      "current_price": 2562.58,
+      "current_price": 2248.9,
       "min_price": 1882.34,
       "min_price_at": "2026-11-04",
       "monitored_since": "2026-10-24",
@@ -251,6 +255,10 @@
         {
           "date": "2026-11-20",
           "price": 2562.58
+        },
+        {
+          "date": "2026-11-21",
+          "price": 2248.9
         }
       ]
     },
@@ -259,7 +267,7 @@
       "label": "KaBuM!",
       "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F645179%2Fprocessador-intel-core-ultra-7-265kf-3-9ghz-5-5ghz-turbo-cache-30mb-20-nucleos-20-threads-lga-1851-sem-video-integrado-bx80768265kf",
       "has_affiliate": true,
-      "current_price": 1649.99,
+      "current_price": 2942.63,
       "min_price": 1609.99,
       "min_price_at": "2026-10-30",
       "monitored_since": "2026-10-24",
@@ -375,6 +383,10 @@
         {
           "date": "2026-11-20",
           "price": 1649.99
+        },
+        {
+          "date": "2026-11-21",
+          "price": 2942.63
         }
       ]
     },

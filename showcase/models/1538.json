@@ -11,7 +11,7 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/dp/B09K7DRMSC?tag=producttra043-20",
       "has_affiliate": true,
-      "current_price": 3319.0,
+      "current_price": 3459.0,
       "min_price": 3178.0,
       "min_price_at": "2026-11-02",
       "monitored_since": "2026-10-24",
@@ -87,13 +87,17 @@
         {
           "date": "2026-11-10",
           "price": 3319.0
+        },
+        {
+          "date": "2026-11-22",
+          "price": 3459.0
         }
       ]
     },
     {
       "marketplace": "shopee",
       "label": "Shopee",
-      "link": "https://s.shopee.com.br/3qOnLTPJ2R",
+      "link": "https://s.shopee.com.br/60TMpXUXqc",
       "has_affiliate": true,
       "current_price": 3749.0,
       "min_price": 3749.0,
@@ -215,6 +219,10 @@
         {
           "date": "2026-11-21",
           "price": 3749.0
+        },
+        {
+          "date": "2026-11-22",
+          "price": 3749.0
         }
       ]
     },
@@ -306,6 +314,10 @@
         },
         {
           "date": "2026-11-21",
+          "price": 3529.4
+        },
+        {
+          "date": "2026-11-22",
           "price": 3529.4
         }
       ]

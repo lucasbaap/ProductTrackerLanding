@@ -11,7 +11,7 @@
       "label": "Mercado Livre",
       "link": "https://www.mercadolivre.com.br/p/MLB29916394?matt_word=balu1353476&matt_tool=29239275",
       "has_affiliate": true,
-      "current_price": 1359.0,
+      "current_price": 1552.6,
       "min_price": 1359.0,
       "min_price_at": "2026-11-19",
       "monitored_since": "2026-10-24",
@@ -131,6 +131,10 @@
         {
           "date": "2026-11-21",
           "price": 1359.0
+        },
+        {
+          "date": "2026-11-22",
+          "price": 1552.6
         }
       ]
     },
@@ -259,6 +263,10 @@
         {
           "date": "2026-11-21",
           "price": 1540.0
+        },
+        {
+          "date": "2026-11-22",
+          "price": 1540.0
         }
       ]
     },
@@ -267,7 +275,7 @@
       "label": "KaBuM!",
       "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F524576%2Fprocessador-intel-core-i5-14400-14-geracao-3-5-ghz-4-7-ghz-turbo-cache-20mb-lga1700-bx8071514400",
       "has_affiliate": true,
-      "current_price": 1470.26,
+      "current_price": 1436.46,
       "min_price": 1436.46,
       "min_price_at": "2026-11-15",
       "monitored_since": "2026-10-24",
@@ -383,6 +391,10 @@
         {
           "date": "2026-11-21",
           "price": 1470.26
+        },
+        {
+          "date": "2026-11-22",
+          "price": 1436.46
         }
       ]
     },
@@ -510,6 +522,10 @@
         },
         {
           "date": "2026-11-21",
+          "price": 1910.9
+        },
+        {
+          "date": "2026-11-22",
           "price": 1910.9
         }
       ]

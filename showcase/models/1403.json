@@ -135,6 +135,10 @@
         {
           "date": "2026-11-22",
           "price": 4530.0
+        },
+        {
+          "date": "2026-11-23",
+          "price": 4530.0
         }
       ]
     },
@@ -267,6 +271,10 @@
         {
           "date": "2026-11-22",
           "price": 4554.44
+        },
+        {
+          "date": "2026-11-23",
+          "price": 4554.44
         }
       ]
     },
@@ -275,7 +283,7 @@
       "label": "KaBuM!",
       "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F1029130%2Fiphone-17e-256gb-branco",
       "has_affiliate": true,
-      "current_price": 4544.1,
+      "current_price": 4409.1,
       "min_price": 4299.0,
       "min_price_at": "2026-11-11",
       "monitored_since": "2026-10-24",
@@ -399,6 +407,10 @@
         {
           "date": "2026-11-22",
           "price": 4544.1
+        },
+        {
+          "date": "2026-11-23",
+          "price": 4409.1
         }
       ]
     }

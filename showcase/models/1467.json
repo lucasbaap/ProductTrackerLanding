@@ -135,6 +135,10 @@
         {
           "date": "2026-11-22",
           "price": 1582.22
+        },
+        {
+          "date": "2026-11-23",
+          "price": 1582.22
         }
       ]
     },
@@ -143,7 +147,7 @@
       "label": "Pichau",
       "link": "https://www.pichau.com.br/processador-amd-ryzen-5-7600-6-core-12-threads-3-8ghz-5-1ghz-turbo-cache-38mb-am5-100-100001015box",
       "has_affiliate": true,
-      "current_price": 1529.4,
+      "current_price": 1411.75,
       "min_price": 1176.46,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -267,6 +271,10 @@
         {
           "date": "2026-11-22",
           "price": 1529.4
+        },
+        {
+          "date": "2026-11-23",
+          "price": 1411.75
         }
       ]
     },
@@ -527,15 +535,19 @@
         {
           "date": "2026-11-22",
           "price": 2549.9
+        },
+        {
+          "date": "2026-11-23",
+          "price": 2549.9
         }
       ]
     },
     {
       "marketplace": "aliexpress",
       "label": "AliExpress",
-      "link": "https://s.click.aliexpress.com/e/_c3GWEpgp",
+      "link": "https://s.click.aliexpress.com/s/fwx308cRD9Eny963e3KDdYxyIpNj8TXVr7saiF9Um5rMUg1kZtJALLnfa2LNXtiVgnxdD8Og6MmvwBoxhnSYQGM6r0c08U4TfX8DFGo7vviCuu3q62Q60OAhRZcqm3G8PtwM69xY7TOEWRrvulP5ukZQ4uQbBBtaVsdr6EffAqVmp3O5GyUANU2DoA3dJufNhDfh7KOlLgKIvRVhDxRESHLmea6fTE26gLUqKEUuuizJiLENrCbax94DZHDu8WhaXMN8fDE1HOLt4j1KZUcj471WKjwUetlj4ZWgS3yWx6lzuERHNTI3Zmy1QdFGmOrUpflNthqjRMyGbRR2yx4lVC7lpoHLywxEdqq8B9qXTIp4KoHLCdVWIv7c5uVNuObuYyMRMKuINYIlDgBv0LXmC08wFk4rwnqqAen0xci4UkcyHsO4E8ytTbgxzHM3plLLQHwAS8iGfhNLJqJ7qYMon1krIVaxYDMZGyW0RIl1OBS7GE4wMeY63u7MIVNZM5OSgrzRaccllrrqMke8ul2uqMHpdVBu6XrSM7HUtuZYoFmhrkttwvuAIzxVf7ghtYq1Mn04rxizmbQfSnkF8gXCxJfxSAqUeJdibVsXOFTbjKMmsi4LuMzdko9HDlxyNKrCIIeSH0xWm0gibxBcsjIBlf6WpE0UI2ebVBHYRZj1Uc8AcidIvEHMAWwOjJX2nDk1ZdDVjFsSFC4B17Qf2HWsgRwfUHqSIFTZbW6yHB009zQpdL0jZhdnZEgKqo6oP9AODdcrHwWCeczO7qNKiiIMTpKQI8jJ03yRN2GL3kvgesUJh712ucsDAV5Abboco1KYv3UsZCEvsC7vYkXX1k2TQrdEK09grAmR8bty99fpeYlvx3tCuEuk8Y5vbOc2LGlXeqry7C7iF3vwUVhh6JA4tMk1br2ou1Vb07lWdm8sIt5Il64A2xDykSlopSchxEZptOeQO0XFuvoM1MIAx1",
       "has_affiliate": true,
-      "current_price": 284.99,
+      "current_price": 285.12,
       "min_price": 242.77,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -659,6 +671,10 @@
         {
           "date": "2026-11-22",
           "price": 284.99
+        },
+        {
+          "date": "2026-11-23",
+          "price": 285.12
         }
       ]
     }

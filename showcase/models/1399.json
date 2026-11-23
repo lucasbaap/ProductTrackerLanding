@@ -135,6 +135,10 @@
         {
           "date": "2026-11-22",
           "price": 5859.0
+        },
+        {
+          "date": "2026-11-23",
+          "price": 5859.0
         }
       ]
     },
@@ -143,7 +147,7 @@
       "label": "KaBuM!",
       "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F1016330%2Fiphone-17-256gb-preto",
       "has_affiliate": true,
-      "current_price": 5744.0,
+      "current_price": 5599.0,
       "min_price": 5499.0,
       "min_price_at": "2026-11-11",
       "monitored_since": "2026-10-24",
@@ -267,6 +271,10 @@
         {
           "date": "2026-11-22",
           "price": 5744.0
+        },
+        {
+          "date": "2026-11-23",
+          "price": 5599.0
         }
       ]
     }

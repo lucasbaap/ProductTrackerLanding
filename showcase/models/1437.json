@@ -135,6 +135,10 @@
         {
           "date": "2026-11-22",
           "price": 1299.0
+        },
+        {
+          "date": "2026-11-23",
+          "price": 1299.0
         }
       ]
     },
@@ -266,6 +270,10 @@
         },
         {
           "date": "2026-11-22",
+          "price": 1258.81
+        },
+        {
+          "date": "2026-11-23",
           "price": 1258.81
         }
       ]
@@ -399,6 +407,10 @@
         {
           "date": "2026-11-22",
           "price": 1069.99
+        },
+        {
+          "date": "2026-11-23",
+          "price": 1069.99
         }
       ]
     },
@@ -407,7 +419,7 @@
       "label": "Terabyte",
       "link": "https://www.terabyteshop.com.br/produto/27232/placa-mae-asus-tuf-gaming-b650m-e-wifi-chipset-b650-amd-am5-matx-ddr5-90mb1fv0-m0eay0",
       "has_affiliate": true,
-      "current_price": 1352.93,
+      "current_price": 1470.58,
       "min_price": 1352.93,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -531,6 +543,10 @@
         {
           "date": "2026-11-22",
           "price": 1352.93
+        },
+        {
+          "date": "2026-11-23",
+          "price": 1470.58
         }
       ]
     },
@@ -662,6 +678,10 @@
         },
         {
           "date": "2026-11-22",
+          "price": 1258.81
+        },
+        {
+          "date": "2026-11-23",
           "price": 1258.81
         }
       ]

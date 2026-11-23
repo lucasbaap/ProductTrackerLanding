@@ -11,7 +11,7 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/ASRock-Z890-Legend-LGA1851RL-ILM-Thunderbolt/dp/B0DJHLSY68?tag=producttra043-20",
       "has_affiliate": true,
-      "current_price": 2199.0,
+      "current_price": 2799.23,
       "min_price": 1731.0,
       "min_price_at": "2026-11-03",
       "monitored_since": "2026-10-24",
@@ -135,6 +135,10 @@
         {
           "date": "2026-11-22",
           "price": 2199.0
+        },
+        {
+          "date": "2026-11-23",
+          "price": 2799.23
         }
       ]
     },
@@ -267,6 +271,10 @@
         {
           "date": "2026-11-22",
           "price": 2481.6
+        },
+        {
+          "date": "2026-11-23",
+          "price": 2481.6
         }
       ]
     },
@@ -398,6 +406,10 @@
         },
         {
           "date": "2026-11-22",
+          "price": 2705.87
+        },
+        {
+          "date": "2026-11-23",
           "price": 2705.87
         }
       ]

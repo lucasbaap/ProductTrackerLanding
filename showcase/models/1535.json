@@ -119,6 +119,10 @@
         {
           "date": "2026-11-22",
           "price": 2099.0
+        },
+        {
+          "date": "2026-11-23",
+          "price": 2099.0
         }
       ]
     },
@@ -250,6 +254,10 @@
         },
         {
           "date": "2026-11-22",
+          "price": 1899.0
+        },
+        {
+          "date": "2026-11-23",
           "price": 1899.0
         }
       ]
@@ -383,6 +391,10 @@
         {
           "date": "2026-11-22",
           "price": 742.99
+        },
+        {
+          "date": "2026-11-23",
+          "price": 742.99
         }
       ]
     },
@@ -391,7 +403,7 @@
       "label": "Pichau",
       "link": "https://www.pichau.com.br/ssd-lexar-nm790-1tb-m-2-2280-pcie-nvme-leitura-7400mb-s-gravacao-6500mb-s-lnm790x001t-rnnng",
       "has_affiliate": true,
-      "current_price": 1588.22,
+      "current_price": 1529.4,
       "min_price": 1482.34,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -515,6 +527,10 @@
         {
           "date": "2026-11-22",
           "price": 1588.22
+        },
+        {
+          "date": "2026-11-23",
+          "price": 1529.4
         }
       ]
     }

@@ -11,7 +11,7 @@
       "label": "Mercado Livre",
       "link": "https://www.mercadolivre.com.br/p/MLB2089096453?matt_word=balu1353476&matt_tool=29239275",
       "has_affiliate": true,
-      "current_price": 2036.53,
+      "current_price": 2036.59,
       "min_price": 1729.05,
       "min_price_at": "2026-10-24",
       "monitored_since": "2026-10-24",
@@ -135,6 +135,10 @@
         {
           "date": "2026-11-22",
           "price": 2036.53
+        },
+        {
+          "date": "2026-11-23",
+          "price": 2036.59
         }
       ]
     },
@@ -254,6 +258,10 @@
         },
         {
           "date": "2026-11-22",
+          "price": 5819.55
+        },
+        {
+          "date": "2026-11-23",
           "price": 5819.55
         }
       ]

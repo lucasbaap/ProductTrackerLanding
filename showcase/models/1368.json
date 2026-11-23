@@ -11,7 +11,7 @@
       "label": "Amazon",
       "link": "https://www.amazon.com.br/dp/B0HD116CHT?tag=producttra043-20",
       "has_affiliate": true,
-      "current_price": 8599.0,
+      "current_price": 6999.0,
       "min_price": 6113.14,
       "min_price_at": "2026-10-25",
       "monitored_since": "2026-10-24",
@@ -135,6 +135,10 @@
         {
           "date": "2026-11-22",
           "price": 8599.0
+        },
+        {
+          "date": "2026-11-23",
+          "price": 6999.0
         }
       ]
     },
@@ -143,9 +147,9 @@
       "label": "KaBuM!",
       "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=2989153&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F1065989%2Fcelular-samsung-galaxy-z-flip8-256gb-12gb-ram-preto-6-9-cam-dupla-50mp-o-flip-mais-leve-do-mundo",
       "has_affiliate": true,
-      "current_price": 7739.1,
-      "min_price": 7739.1,
-      "min_price_at": "2026-10-24",
+      "current_price": 6749.1,
+      "min_price": 6749.1,
+      "min_price_at": "2026-11-23",
       "monitored_since": "2026-10-24",
       "history": [
         {
@@ -267,6 +271,10 @@
         {
           "date": "2026-11-22",
           "price": 7739.1
+        },
+        {
+          "date": "2026-11-23",
+          "price": 6749.1
         }
       ]
     }

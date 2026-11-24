@@ -3,6 +3,21 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- Vitrine — chave de ativação (assets/showcase-flag.js). Pausada em 24/11/2026.
+     Com PT_SHOWCASE_ENABLED = false a seção/ teaser e os links "Produtos
+     Monitorados" somem desta página. Carregado SEM defer, ainda no <head>, para
+     a classe ser aplicada antes do body renderizar (sem flash). Reativar é só
+     trocar a flag para true e republicar: nada foi removido. -->
+<script src="assets/showcase-flag.js"></script>
+<script>
+(function () {
+  "use strict";
+  if (window.PT_SHOWCASE_ENABLED === false) {
+    document.documentElement.classList.add("showcase-off");
+  }
+})();
+</script>
 <meta name="google-site-verification" content="Y5pyh0xqzwga-Jsi1Jik0nTd_6xmw3yqABaqvuwSf7w" />
 <title>Product Tracker Bot — Monitore preços em 8 lojas pelo Telegram</title>
 <meta name="description" content="Monitore preços no Mercado Livre, Amazon, Shopee, AliExpress, KaBuM!, Pichau, Terabyte e Magalu pelo Telegram e receba alertas quando o preço cair. Economize nas suas compras!">
@@ -570,6 +585,13 @@ footer a:hover { color: var(--accent); }
 .dq-price b { color: var(--text); font-weight: 700; }
 .dq-more { text-align: center; margin-top: 2rem; }
 
+/* ── Vitrine pausada (flag em assets/showcase-flag.js) ──── */
+/* "showcase-off" é aplicado no <head>, antes do body renderizar: a seção e os
+ * links somem já no primeiro paint (sem flash) e o layout não guarda espaços
+ * órfãos (o <li> inteiro é escondido, não só o <a>). Reativar = flag true. */
+html.showcase-off #destaques,
+html.showcase-off [data-showcase-only] { display: none !important; }
+
 /* ── Responsive ─────────────────────────────────────────── */
 @media (max-width: 640px) {
   .dq-grid { grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 0.75rem; }
@@ -605,7 +627,7 @@ footer a:hover { color: var(--accent); }
       <nav aria-label="Navegação principal">
         <ul class="nav-links">
           <li><a class="nav-link active" href="index.html" aria-current="page">Home</a></li>
-          <li><a class="nav-link" href="vitrine.html">Produtos Monitorados</a></li>
+          <li data-showcase-only><a class="nav-link" href="vitrine.html">Produtos Monitorados</a></li>
           <li><a class="nav-link" href="como-usar.html">Como usar</a></li>
           <li><a class="nav-link" href="blog/index.html">Artigos</a></li>
         </ul>
@@ -628,7 +650,7 @@ footer a:hover { color: var(--accent); }
   </div>
   <ul class="drawer-links">
     <li><a class="active" href="index.html" aria-current="page">Home</a></li>
-    <li><a href="vitrine.html">Produtos Monitorados</a></li>
+    <li data-showcase-only><a href="vitrine.html">Produtos Monitorados</a></li>
     <li><a href="como-usar.html">Como usar</a></li>
     <li><a href="blog/index.html">Artigos</a></li>
   </ul>
@@ -894,7 +916,7 @@ footer a:hover { color: var(--accent); }
   <nav class="footer-guides" aria-label="Navegação do site">
     <span class="footer-guides-label">Navegue</span>
     <a href="index.html">Home</a>
-    <a href="vitrine.html">Produtos Monitorados</a>
+    <a href="vitrine.html" data-showcase-only>Produtos Monitorados</a>
     <a href="como-usar.html">Como usar</a>
     <a href="blog/index.html">Artigos</a>
   </nav>
@@ -908,6 +930,9 @@ footer a:hover { color: var(--accent); }
  * permanece oculta (hidden). */
 (function () {
   "use strict";
+  // Vitrine pausada (assets/showcase-flag.js): não busca o snapshot, não monta
+  // cards e não exibe a seção. Reativar = flag true, sem mexer neste bloco.
+  if (window.PT_SHOWCASE_ENABLED === false) return;
   function esc(s) {
     return String(s == null ? "" : s)
       .replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;")

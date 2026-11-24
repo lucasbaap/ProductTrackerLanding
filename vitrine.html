@@ -3,6 +3,26 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- Vitrine PAUSADA (24/11/2026). Com PT_SHOWCASE_ENABLED = false esta página
+     redireciona para a home ANTES de renderizar o catálogo (sem flash) e sai
+     do índice de busca. O HTML/JS completo segue aqui: reativar é só trocar a
+     flag em assets/showcase-flag.js para true e republicar. -->
+<script src="assets/showcase-flag.js"></script>
+<script>
+(function () {
+  "use strict";
+  if (window.PT_SHOWCASE_ENABLED === false) {
+    // noindex injetado só quando desligada (JS redirect + noindex = sinal claro
+    // de "fora do catálogo" para o Google, que executa JS).
+    var meta = document.createElement("meta");
+    meta.name = "robots";
+    meta.content = "noindex";
+    document.head.appendChild(meta);
+    window.location.replace("index.html");
+  }
+})();
+</script>
 <title>Produtos Monitorados — histórico de preços em 8 lojas | Product Tracker Bot</title>
 <meta name="description" content="Produtos monitorados pelo Product Tracker Bot: compare o histórico de preços entre Mercado Livre, Amazon, Shopee, AliExpress, KaBuM!, Pichau, Terabyte e Magalu e comece a monitorar no Telegram.">
 <link rel="canonical" href="https://myproducttracker.com/vitrine.html">

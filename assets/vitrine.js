@@ -9,6 +9,16 @@
 (function () {
   "use strict";
 
+  // Vitrine pausada (assets/showcase-flag.js): não busca showcase/*.json, não
+  // monta links e não registra rotas. vitrine.html já redireciona para a home;
+  // este guard é a segunda barreira (acesso direto ao JS / flag não carregada
+  // cai no fail-open: enabled só é desligado com `=== false`).
+  if (window.PT_SHOWCASE_ENABLED === false) {
+    var appOff = document.getElementById("app");
+    if (appOff) appOff.hidden = true;
+    return;
+  }
+
   var INDEX_URL = "showcase/index.json";
   var MODEL_URL = function (id) { return "showcase/models/" + encodeURIComponent(id) + ".json"; };
   var BOT_FALLBACK = "https://t.me/MyProductTrackerBot?start=vitrine";
